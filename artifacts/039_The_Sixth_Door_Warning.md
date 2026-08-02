@@ -26,7 +26,7 @@ Preserves the line: DO NOT LET HIM OPEN THE SIXTH DOOR. The identity of “him�
 
 ## Intended Form
 
-Amelia’s handwritten recollection layered over rippled photographic evidence.
+[Amelia](../characters/Amelia_Hawthorne.md)’s handwritten recollection layered over rippled photographic evidence.
 
 ## Related Canon
 

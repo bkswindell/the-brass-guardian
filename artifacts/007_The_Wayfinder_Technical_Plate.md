@@ -174,7 +174,7 @@ The technical plate is the authoritative visual record for the *Wayfinder* as cu
 
 The *Wayfinder* is tied to the [Gardens Airship Landing](../locations/The_Gardens_Airship_Landing.md), the [Aerial Mariners’ Union](../organizations/The_Aerial_Mariners_Union.md), [Captain Mara Voss](../characters/Captain_Mara_Voss.md), and [Pip](../characters/Pip.md).
 
-The plate establishes that some systems predate Elias Hawthorne’s work and that Elias refuses to alter the unknown core alignment. The origin and function of the older components remain intentionally unresolved. Amelia’s maintenance notes are visual character evidence but do not replace her eventual full profile.
+The plate establishes that some systems predate [Elias Hawthorne](../characters/Professor_Elias_Hawthorne.md)’s work and that [Elias](../characters/Professor_Elias_Hawthorne.md) refuses to alter the unknown core alignment. The origin and function of the older components remain intentionally unresolved. [Amelia](../characters/Amelia_Hawthorne.md)’s maintenance notes are visual character evidence but do not replace her eventual full profile.
 
 ## Related Canon
 

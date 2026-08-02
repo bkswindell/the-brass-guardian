@@ -23,9 +23,9 @@ temporal_relevance: Medium to high
 
 ## Canonical Summary
 
-Pip is a small brass sparrow and Amelia Hawthorne's regular companion aboard the *Wayfinder*.
+Pip is a small brass sparrow and [Amelia Hawthorne](Amelia_Hawthorne.md)'s regular companion aboard the *Wayfinder*.
 
-He is curious, expressive, and far more independent than an ordinary clockwork bird. Pip assists with small tasks, carries messages, explores spaces too narrow for people, and remains close to Amelia during ordinary life aboard the ship.
+He is curious, expressive, and far more independent than an ordinary clockwork bird. Pip assists with small tasks, carries messages, explores spaces too narrow for people, and remains close to [Amelia](Amelia_Hawthorne.md) during ordinary life aboard the ship.
 
 A brass sparrow closely resembling Pip once delivered a blue-ribbon invitation from the Keeper of Dreams and later remained near the Hawthorne workshop.
 
@@ -33,7 +33,7 @@ Whether that messenger was Pip is unresolved.
 
 Pip may be an ordinary companion who resembles an older Garden messenger.
 
-He may also have known [Juniper Bell](Juniper_Bell.md) and [the Moon Garden](../locations/The_Moon_Garden.md) before Amelia understood who he was.
+He may also have known [Juniper Bell](Juniper_Bell.md) and [the Moon Garden](../locations/The_Moon_Garden.md) before [Amelia](Amelia_Hawthorne.md) understood who he was.
 
 ## Personality
 
@@ -49,15 +49,15 @@ He should feel like a companion rather than a tool.
 
 Pip may be:
 
-- brave when Amelia is threatened,
+- brave when [Amelia](Amelia_Hawthorne.md) is threatened,
 - easily distracted by polished screws,
 - suspicious of unfamiliar mechanisms,
 - pleased with himself after delivering even an unimportant message,
 - and unwilling to explain where he has been.
 
-## Relationship with Amelia
+## Relationship with [Amelia](Amelia_Hawthorne.md)
 
-Pip chooses to remain near Amelia.
+Pip chooses to remain near [Amelia](Amelia_Hawthorne.md).
 
 She treats him as:
 
@@ -72,7 +72,7 @@ He may perch:
 - beside her bed,
 - or in the Wayfinder's observation spaces.
 
-Pip often notices emotional or mechanical disturbances before Amelia does.
+Pip often notices emotional or mechanical disturbances before [Amelia](Amelia_Hawthorne.md) does.
 
 He cannot explain what he senses.
 
@@ -86,7 +86,7 @@ Pip moves freely through:
 - observation windows,
 - and compartments too small for the Hawthornes.
 
-The ship may open small access panels for him without Elias having designed that behavior.
+The ship may open small access panels for him without [Elias](Professor_Elias_Hawthorne.md) having designed that behavior.
 
 Pip sometimes disappears during a voyage and returns carrying:
 
@@ -101,7 +101,7 @@ Pip sometimes disappears during a voyage and returns carrying:
 
 She may:
 
-- greet him by name before Amelia introduces him,
+- greet him by name before [Amelia](Amelia_Hawthorne.md) introduces him,
 - offer a seed he particularly likes,
 - understand one of his tapping patterns,
 - or ask where he has been as though expecting a report.
@@ -117,18 +117,18 @@ The messenger from the Keeper of Dreams:
 - was a tiny brass sparrow,
 - tapped on the Hawthorne workshop window,
 - carried a message tied with blue ribbon,
-- and remained near the workshop after Amelia returned from [the Moon Garden](../locations/The_Moon_Garden.md).
+- and remained near the workshop after [Amelia](Amelia_Hawthorne.md) returned from [the Moon Garden](../locations/The_Moon_Garden.md).
 
 Pip closely resembles that sparrow.
 
 Possible explanations include:
 
-- Pip was the messenger and remained with Amelia afterward.
+- Pip was the messenger and remained with [Amelia](Amelia_Hawthorne.md) afterward.
 - Pip has incomplete or protected memory of the event.
 - [Juniper](Juniper_Bell.md) maintains several sparrows built from one living pattern.
 - The Gardens created a messenger in Pip's form.
 - Pip exists along more than one point in his own chronology.
-- The companion Amelia knows is descended mechanically from the original messenger.
+- The companion [Amelia](Amelia_Hawthorne.md) knows is descended mechanically from the original messenger.
 
 No explanation is selected.
 
@@ -144,7 +144,7 @@ Potential recurring clues include:
 - He recognizes the Dream Engine.
 - Old paintings contain a sparrow with the same damaged feather plate.
 - [Juniper](Juniper_Bell.md) refers to a message Pip has not yet delivered.
-- Wayfinder logs record Pip aboard before Elias remembers bringing him home.
+- Wayfinder logs record Pip aboard before [Elias](Professor_Elias_Hawthorne.md) remembers bringing him home.
 
 ## Limits
 
@@ -154,7 +154,7 @@ He may:
 
 - become lost,
 - refuse to enter a dangerous place,
-- misunderstand what Amelia wants,
+- misunderstand what [Amelia](Amelia_Hawthorne.md) wants,
 - be frightened,
 - or know a route without knowing why it matters.
 
@@ -168,7 +168,7 @@ Pip should consistently appear as:
 - delicately articulated,
 - expressive through posture,
 - practical rather than jewel-encrusted,
-- and sized to perch comfortably on Amelia's shoulder or hand.
+- and sized to perch comfortably on [Amelia](Amelia_Hawthorne.md)'s shoulder or hand.
 
 Possible recurring details include:
 
@@ -182,7 +182,7 @@ Possible recurring details include:
 
 ### Safe for Early Volumes
 
-- Pip is Amelia's brass sparrow companion.
+- Pip is [Amelia](Amelia_Hawthorne.md)'s brass sparrow companion.
 - He lives aboard or regularly travels on the Wayfinder.
 - He helps with messages and small tasks.
 - He behaves like a distinct personality.
@@ -193,7 +193,7 @@ Possible recurring details include:
 - [Juniper](Juniper_Bell.md) already knows him.
 - Pip recognizes hidden Garden routes.
 - His tapping pattern matches the original invitation.
-- Wayfinder and Garden records disagree about when he joined Amelia.
+- Wayfinder and Garden records disagree about when he joined [Amelia](Amelia_Hawthorne.md).
 - The silver flower responds to him.
 
 ### Hold for Later
@@ -212,13 +212,13 @@ Possible recurring details include:
 - His resemblance to the Keeper's messenger is deliberate but unresolved.
 - He should not solve every route or mystery.
 - [Juniper](Juniper_Bell.md)'s familiarity with him should emerge gradually.
-- His connection to [the Moon Garden](../locations/The_Moon_Garden.md) must not undermine his genuine bond with Amelia.
+- His connection to [the Moon Garden](../locations/The_Moon_Garden.md) must not undermine his genuine bond with [Amelia](Amelia_Hawthorne.md).
 - Pip's exact origin should remain open until a later story.
 
 ## Open Canon Questions
 
 1. Is Pip the original blue-ribbon messenger?
-2. When did he first join Amelia?
+2. When did he first join [Amelia](Amelia_Hawthorne.md)?
 3. Who built or awakened him?
 4. Why does [Juniper](Juniper_Bell.md) recognize him?
 5. Does Pip remember [the Moon Garden](../locations/The_Moon_Garden.md)?

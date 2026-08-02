@@ -185,9 +185,9 @@ The plate has no black redactions. Its uncertainty is conveyed through abrasion,
 
 Current canon identifies this as the future-dated ticket associated with [The Passenger of Dock Zero](../characters/The_Passenger_of_Dock_Zero.md), impounded by [Captain Mara Voss](../characters/Captain_Mara_Voss.md), and connected to the *Morningstar*, [The Aerial Docks](../locations/The_Aerial_Docks.md), and the [Gardens Airship Landing](../locations/The_Gardens_Airship_Landing.md).
 
-The visible passenger fragment must **not** be treated as proof that the ticket belongs to Elias Hawthorne. Current canon keeps the passenger name damaged, blurred, and unverified. The apparent `Elias V...` text is recorded here only because it is physically visible in the generated image.
+The visible passenger fragment must **not** be treated as proof that the ticket belongs to [Elias Hawthorne](../characters/Professor_Elias_Hawthorne.md). Current canon keeps the passenger name damaged, blurred, and unverified. The apparent `Elias V...` text is recorded here only because it is physically visible in the generated image.
 
-The plate’s recovery story at the Old Aetherhaven Customs House differs from the current story premise that [Mara](../characters/Captain_Mara_Voss.md) confiscated the ticket from the Passenger. The plate metadata may describe an earlier concept, a prior archival recovery, or an inconsistent record. The active character and location canon controls the story history until this discrepancy is explicitly reconciled.
+The plate’s recovery story at the Old [Aetherhaven](../locations/Aetherhaven.md) Customs House differs from the current story premise that [Mara](../characters/Captain_Mara_Voss.md) confiscated the ticket from the Passenger. The plate metadata may describe an earlier concept, a prior archival recovery, or an inconsistent record. The active character and location canon controls the story history until this discrepancy is explicitly reconciled.
 
 ## Related Canon
 

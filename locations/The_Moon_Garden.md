@@ -32,12 +32,12 @@ temporal_relevance: Critical
 
 ## Public Rumors
 
-The Moon Garden does not appear on any official map of Aetherhaven.
+The Moon Garden does not appear on any official map of [Aetherhaven](Aetherhaven.md).
 
 Most citizens regard it as:
 
 - a children's tale,
-- a poetic name for the Clockwork Gardens after dark,
+- a poetic name for [the Clockwork Gardens](The_Clockwork_Gardens.md) after dark,
 - an abandoned Conservancy greenhouse,
 - or a secret place invented by young couples and wandering explorers.
 
@@ -45,10 +45,10 @@ The rumors agree on almost nothing.
 
 Some say the Moon Garden lies:
 
-- beneath the Reflection Canals,
-- inside the Grand Atrium after midnight,
+- beneath [the Reflection Canals](The_Reflection_Canals.md),
+- inside [the Grand Atrium](The_Grand_Atrium.md) after midnight,
 - on an island floating above the Gardens,
-- beyond a moonlit arch on the Starlight Walkways,
+- beyond a moonlit arch on [the Starlight Walkways](The_Starlight_Walkways.md),
 - inside a shared dream,
 - or behind a gate that appears only to someone carrying a silver flower.
 
@@ -71,11 +71,11 @@ The Conservancy does not confirm these stories.
 
 ## Canonical Summary
 
-The Moon Garden is a rare, hidden, nocturnal layer of the Clockwork Gardens.
+The Moon Garden is a rare, hidden, nocturnal layer of [the Clockwork Gardens](The_Clockwork_Gardens.md).
 
-It is not a separate distant country or an ordinary garden concealed behind one permanent wall. It exists within the larger living structure of the Clockwork Gardens but becomes reachable only when the Gardens alter their pathways, relationships, and internal geography after sunset.
+It is not a separate distant country or an ordinary garden concealed behind one permanent wall. It exists within the larger living structure of [the Clockwork Gardens](The_Clockwork_Gardens.md) but becomes reachable only when the Gardens alter their pathways, relationships, and internal geography after sunset.
 
-A person may walk through an ordinary arch, cross a familiar bridge, or follow a path beside the Reflection Canals—and discover that the Gardens have quietly become somewhere else.
+A person may walk through an ordinary arch, cross a familiar bridge, or follow a path beside [the Reflection Canals](The_Reflection_Canals.md)—and discover that the Gardens have quietly become somewhere else.
 
 Access cannot be reliably mapped or forced.
 
@@ -85,17 +85,17 @@ The Gardens must:
 - permit the route,
 - or accept an invitation offered through one of their trusted caretakers.
 
-[Juniper Bell](../characters/Juniper_Bell.md) pays particular attention to the Moon Garden and to other hidden gardens nested within the Clockwork Gardens. She can ask the Gardens to reveal or conceal their paths, but she does not command them.
+[Juniper Bell](../characters/Juniper_Bell.md) pays particular attention to the Moon Garden and to other hidden gardens nested within [the Clockwork Gardens](The_Clockwork_Gardens.md). She can ask the Gardens to reveal or conceal their paths, but she does not command them.
 
-During Amelia's earliest recorded visit, the Keeper of Dreams invited her to enter and discover the Moon Garden's secrets.
+During [Amelia](../characters/Amelia_Hawthorne.md)'s earliest recorded visit, the Keeper of Dreams invited her to enter and discover the Moon Garden's secrets.
 
-Whether [Juniper](../characters/Juniper_Bell.md) chose Amelia because the Garden needed help—or whether the Garden instructed [Juniper](../characters/Juniper_Bell.md) to summon her—remains unknown.
+Whether [Juniper](../characters/Juniper_Bell.md) chose [Amelia](../characters/Amelia_Hawthorne.md) because the Garden needed help—or whether the Garden instructed [Juniper](../characters/Juniper_Bell.md) to summon her—remains unknown.
 
-What is known is that the Moon Garden accepted Amelia.
+What is known is that the Moon Garden accepted [Amelia](../characters/Amelia_Hawthorne.md).
 
 ## A Garden Within the Gardens
 
-The Clockwork Gardens contain more space, history, and living structure than their visible paths can explain.
+[The Clockwork Gardens](The_Clockwork_Gardens.md) contain more space, history, and living structure than their visible paths can explain.
 
 The Conservancy uses the term **hidden gardens** for protected layers that:
 
@@ -209,28 +209,28 @@ She cannot force a hidden garden to receive someone it rejects.
 
 She also cannot always explain why the Gardens choose a particular visitor.
 
-## Amelia's Invitation
+## [Amelia](../characters/Amelia_Hawthorne.md)'s Invitation
 
-In the bedtime adventure, a brass sparrow carried a blue-ribbon message from the Keeper of Dreams requesting Amelia's help.
+In the bedtime adventure, a brass sparrow carried a blue-ribbon message from the Keeper of Dreams requesting [Amelia](../characters/Amelia_Hawthorne.md)'s help.
 
 The Moon Garden's flowers had stopped blooming, and the Dream Engine would not awaken.
 
-Amelia discovered that the central mechanism was not mechanically broken. A tiny firefly had been trapped beneath one of its gears.
+[Amelia](../characters/Amelia_Hawthorne.md) discovered that the central mechanism was not mechanically broken. A tiny firefly had been trapped beneath one of its gears.
 
-By noticing and freeing the smallest distressed creature, Amelia restored the relationship upon which the Dream Engine depended.
+By noticing and freeing the smallest distressed creature, [Amelia](../characters/Amelia_Hawthorne.md) restored the relationship upon which the Dream Engine depended.
 
 This event establishes that:
 
-- Amelia was invited rather than trespassing,
+- [Amelia](../characters/Amelia_Hawthorne.md) was invited rather than trespassing,
 - the Moon Garden permitted her to discover its inner mechanism,
 - the Aether Heart could begin the awakening but could not complete it alone,
 - and care—not force—restored the Garden.
 
 The reason for the invitation remains unresolved.
 
-[Juniper](../characters/Juniper_Bell.md) may have chosen Amelia because she understood Amelia's character.
+[Juniper](../characters/Juniper_Bell.md) may have chosen [Amelia](../characters/Amelia_Hawthorne.md) because she understood [Amelia](../characters/Amelia_Hawthorne.md)'s character.
 
-The Garden may have asked for Amelia specifically.
+The Garden may have asked for [Amelia](../characters/Amelia_Hawthorne.md) specifically.
 
 Both may be true.
 
@@ -267,7 +267,7 @@ Perfect gears are insufficient when the beings around it are suffering.
 
 ## Secret Gardens
 
-The Moon Garden proves that the visible Clockwork Gardens are only one accessible layer.
+The Moon Garden proves that the visible [Clockwork Gardens](The_Clockwork_Gardens.md) are only one accessible layer.
 
 Other hidden gardens are believed to exist, but their names, purposes, and number remain deliberately undefined.
 
@@ -283,7 +283,7 @@ Possible functions include:
 
 [Juniper](../characters/Juniper_Bell.md)'s title as [Keeper of the Clockwork Gardens](../characters/Juniper_Bell.md) may include responsibility for all such layers.
 
-The First Tender manages the Conservancy.
+[The First Tender](../characters/The_First_Tender.md) manages the Conservancy.
 
 [Juniper](../characters/Juniper_Bell.md) listens for hidden gardens that require attention.
 
@@ -293,7 +293,7 @@ A complete list would make concealment impossible.
 
 ## Relationship with [Pip](../characters/Pip.md)
 
-The brass sparrow that delivered the invitation to the Moon Garden closely resembles [Pip](../characters/Pip.md), Amelia's companion aboard the *Wayfinder*.
+The brass sparrow that delivered the invitation to the Moon Garden closely resembles [Pip](../characters/Pip.md), [Amelia](../characters/Amelia_Hawthorne.md)'s companion aboard the *Wayfinder*.
 
 The resemblance is deliberate canon.
 
@@ -302,11 +302,11 @@ The exact relationship is not yet resolved.
 Possibilities include:
 
 - the messenger and [Pip](../characters/Pip.md) are the same sparrow,
-- [Pip](../characters/Pip.md) remained with Amelia after completing the Keeper's message,
+- [Pip](../characters/Pip.md) remained with [Amelia](../characters/Amelia_Hawthorne.md) after completing the Keeper's message,
 - [Pip](../characters/Pip.md) was built from the same living pattern,
-- the Moon Garden created an echo of [Pip](../characters/Pip.md) before Amelia formally met him,
+- the Moon Garden created an echo of [Pip](../characters/Pip.md) before [Amelia](../characters/Amelia_Hawthorne.md) formally met him,
 - [Pip](../characters/Pip.md) can move between the *Wayfinder* and hidden gardens without revealing every journey,
-- or the Gardens selected a form they knew Amelia would trust.
+- or the Gardens selected a form they knew [Amelia](../characters/Amelia_Hawthorne.md) would trust.
 
 [Pip](../characters/Pip.md) may display small clues:
 
@@ -409,7 +409,7 @@ It does not provide convenient answers on demand.
 
 ## Visual Continuity
 
-The Moon Garden should feel like the Clockwork Gardens transformed rather than an unrelated fantasy realm.
+The Moon Garden should feel like [the Clockwork Gardens](The_Clockwork_Gardens.md) transformed rather than an unrelated fantasy realm.
 
 Recurring elements include:
 
@@ -423,7 +423,7 @@ Recurring elements include:
 - hidden bridges,
 - and the Dream Engine as a great living flower.
 
-The visual palette should remain connected to Aetherhaven:
+The visual palette should remain connected to [Aetherhaven](Aetherhaven.md):
 
 - brass,
 - glass,
@@ -438,7 +438,7 @@ It should feel rare, intimate, and sacred rather than enormous and public.
 
 ### The Garden That Invited Her
 
-Amelia discovers the Keeper did not write the original invitation—the Garden did.
+[Amelia](../characters/Amelia_Hawthorne.md) discovers the Keeper did not write the original invitation—the Garden did.
 
 ### [Pip](../characters/Pip.md)'s Three Taps
 
@@ -446,7 +446,7 @@ Amelia discovers the Keeper did not write the original invitation—the Garden d
 
 ### The False Moon Garden
 
-[The Ninth Guild](../organizations/The_Ninth_Guild.md) creates a convincing imitation designed to attract Amelia.
+[The Ninth Guild](../organizations/The_Ninth_Guild.md) creates a convincing imitation designed to attract [Amelia](../characters/Amelia_Hawthorne.md).
 
 ### The Missing Secret Garden
 
@@ -458,11 +458,11 @@ A trusted public figure receives every sign of being recognized as an intruder.
 
 ### The Unsent Message
 
-Amelia finds the blue-ribbon invitation still unwritten in [Juniper](../characters/Juniper_Bell.md)'s pocket after the adventure has already occurred.
+[Amelia](../characters/Amelia_Hawthorne.md) finds the blue-ribbon invitation still unwritten in [Juniper](../characters/Juniper_Bell.md)'s pocket after the adventure has already occurred.
 
 ### The Dream Engine's Warning
 
-Children across Aetherhaven share a dream of a path beneath the Heart Engine.
+Children across [Aetherhaven](Aetherhaven.md) share a dream of a path beneath [the Heart Engine](The_Aetherium.md).
 
 ## Staged Revelations
 
@@ -473,37 +473,37 @@ Children across Aetherhaven share a dream of a path beneath the Heart Engine.
 - [Juniper](../characters/Juniper_Bell.md) pays unusual attention to certain nocturnal paths.
 - [Pip](../characters/Pip.md) resembles the messenger sparrow.
 - Silver flowers and hidden paths appear after sunset.
-- Amelia possesses a silver flower connected to an early adventure.
+- [Amelia](../characters/Amelia_Hawthorne.md) possesses a silver flower connected to an early adventure.
 
 ### Mid-Series
 
-- The Moon Garden is a hidden nocturnal layer of the Clockwork Gardens.
+- The Moon Garden is a hidden nocturnal layer of [the Clockwork Gardens](The_Clockwork_Gardens.md).
 - Access depends upon invitation or recognition.
 - [Juniper](../characters/Juniper_Bell.md) can ask the Gardens to reveal or conceal it.
 - The Dream Engine is a living mechanism.
-- Amelia was deliberately invited.
+- [Amelia](../characters/Amelia_Hawthorne.md) was deliberately invited.
 - [Pip](../characters/Pip.md) knows more about the route than an ordinary companion should.
 - Other hidden gardens exist.
 
 ### Hold for Later
 
-- Whether [Juniper](../characters/Juniper_Bell.md) or the Garden initiated Amelia's invitation.
+- Whether [Juniper](../characters/Juniper_Bell.md) or the Garden initiated [Amelia](../characters/Amelia_Hawthorne.md)'s invitation.
 - Whether [Pip](../characters/Pip.md) and the messenger are the same sparrow.
 - How many secret gardens exist.
 - Whether the Moon Garden exists in more than one chronology.
 - The full purpose of the Dream Engine.
-- Why the Gardens recognized Amelia before her formal introduction.
+- Why the Gardens recognized [Amelia](../characters/Amelia_Hawthorne.md) before her formal introduction.
 - Whether a hidden garden can permanently disappear.
 - What the Order already removed from Moon Garden history.
 
 ## Continuity Constraints
 
-- The Moon Garden is a hidden nocturnal layer of the Clockwork Gardens.
+- The Moon Garden is a hidden nocturnal layer of [the Clockwork Gardens](The_Clockwork_Gardens.md).
 - It is not generally known to the public.
 - Public rumors must remain varied, contradictory, and partly inaccurate.
 - The location cannot be reliably mapped or accessed by ordinary authority.
 - [Juniper](../characters/Juniper_Bell.md) can work with the Gardens to limit access but does not command them.
-- Amelia entered by invitation.
+- [Amelia](../characters/Amelia_Hawthorne.md) entered by invitation.
 - It remains unresolved whether [Juniper](../characters/Juniper_Bell.md) initiated the invitation or the Garden instructed her.
 - The emotional and physical events of the bedtime adventure remain canon.
 - The Dream Engine is a living mechanism, not a simple dream-manufacturing device.
@@ -514,9 +514,9 @@ Children across Aetherhaven share a dream of a path beneath the Heart Engine.
 
 ## Open Canon Questions
 
-1. Did [Juniper](../characters/Juniper_Bell.md) summon Amelia, or did the Garden ask [Juniper](../characters/Juniper_Bell.md) to do so?
+1. Did [Juniper](../characters/Juniper_Bell.md) summon [Amelia](../characters/Amelia_Hawthorne.md), or did the Garden ask [Juniper](../characters/Juniper_Bell.md) to do so?
 2. Is [Pip](../characters/Pip.md) the same sparrow that carried the blue-ribbon message?
-3. When did the Moon Garden first recognize Amelia?
+3. When did the Moon Garden first recognize [Amelia](../characters/Amelia_Hawthorne.md)?
 4. How many hidden gardens exist?
 5. Does each hidden garden have a distinct Keeper?
 6. What does the Dream Engine truly send into sleeping minds?

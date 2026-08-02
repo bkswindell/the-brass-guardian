@@ -46,7 +46,7 @@ Completed records: `001`, `002`, `003`, `004`, `007`, `009`, `011`, `012`, `015`
 | 7 | [The Wayfinder Technical Plate](007_The_Wayfinder_Technical_Plate.md) | `canonical-working-artifact` | `image-linked` |
 | 8 | [Professor Hawthorne’s Field Journal](008_Professor_Hawthornes_Field_Journal.md) | `planned-artifact-concept` | `image-needed` |
 
-## Amelia and the Aether Gauntlet
+## [Amelia](../characters/Amelia_Hawthorne.md) and the Aether Gauntlet
 
 | No. | Artifact | Canon status | Image status |
 |---:|---|---|---|
@@ -57,7 +57,7 @@ Completed records: `001`, `002`, `003`, `004`, `007`, `009`, `011`, `012`, `015`
 | 13 | [Aether Gauntlet Activation Imprint](013_Aether_Gauntlet_Activation_Imprint.md) | `planned-artifact-concept` | `image-needed` |
 | 14 | [Amelia’s Explorer Journal: First Mechanical Sketches](014_Amelias_Explorer_Journal_First_Mechanical_Sketches.md) | `planned-artifact-concept` | `image-needed` |
 
-## The Clockwork Gardens
+## [The Clockwork Gardens](../locations/The_Clockwork_Gardens.md)
 
 | No. | Artifact | Canon status | Image status |
 |---:|---|---|---|
@@ -68,7 +68,7 @@ Completed records: `001`, `002`, `003`, `004`, `007`, `009`, `011`, `012`, `015`
 | 19 | [Juniper Bell’s Botanical Ledger](019_Juniper_Bells_Botanical_Ledger.md) | `planned-artifact-concept` | `image-needed` |
 | 20 | [The Unfamiliar Sky Panel](020_The_Unfamiliar_Sky_Panel.md) | `planned-artifact-concept` | `image-needed` |
 
-## The Thirteenth Canal
+## [The Thirteenth Canal](../locations/The_Thirteenth_Canal.md)
 
 | No. | Artifact | Canon status | Image status |
 |---:|---|---|---|
@@ -113,7 +113,7 @@ Completed records: `001`, `002`, `003`, `004`, `007`, `009`, `011`, `012`, `015`
 | 39 | [The Sixth Door Warning](039_The_Sixth_Door_Warning.md) | `planned-artifact-concept` | `image-needed` |
 | 40 | [Canal Reflection Star Chart](040_Canal_Reflection_Star_Chart.md) | `planned-artifact-concept` | `image-needed` |
 
-## The Door That Remembered Amelia
+## The Door That Remembered [Amelia](../characters/Amelia_Hawthorne.md)
 
 | No. | Artifact | Canon status | Image status |
 |---:|---|---|---|

@@ -36,7 +36,7 @@ temporal_relevance: Critical
 
 ## Canonical Summary
 
-The Aerial Mariners' Union represents the captains, navigators, dockworkers, riggers, engineers, weather readers, couriers, and routekeepers who keep Aetherhaven connected to the skies.
+The Aerial Mariners' Union represents the captains, navigators, dockworkers, riggers, engineers, weather readers, couriers, and routekeepers who keep [Aetherhaven](../locations/Aetherhaven.md) connected to the skies.
 
 Its members guide ships through mountain winds, aether storms, cloud banks, uncertain borders, and routes that do not always behave the same way twice. The Union maintains rescue crews, certifies experienced mariners, supports injured workers and lost crews' families, and preserves generations of navigational knowledge unavailable in official government charts.
 
@@ -44,13 +44,13 @@ Its most important records are the **Living Charts**: privately maintained route
 
 Some of those currents should not exist.
 
-The Union is politically powerful because nearly all aerial trade depends on its members. When it declares a **Closed Sky**, captains refuse departure, riggers leave the towers, engineers shut down launch systems, and dockworkers stop cargo movement. Aetherhaven's aerial commerce can slow to silence within hours.
+The Union is politically powerful because nearly all aerial trade depends on its members. When it declares a **Closed Sky**, captains refuse departure, riggers leave the towers, engineers shut down launch systems, and dockworkers stop cargo movement. [Aetherhaven](../locations/Aetherhaven.md)'s aerial commerce can slow to silence within hours.
 
 The Union quietly enforces one rule more strictly than any public regulation:
 
 > No member vessel may steer by the Returning Star.
 
-The star appears above the Shattered Lands on certain nights. Ships that follow it sometimes vanish.
+The star appears above [the Shattered Lands](../locations/The_Shattered_Lands.md) on certain nights. Ships that follow it sometimes vanish.
 
 Others return decades before they departed.
 
@@ -146,9 +146,9 @@ Specialists who interpret wind, pressure, cloud formation, aether currents, and 
 
 They often recognize temporal disturbances first because the sky begins behaving incorrectly before clocks do.
 
-## Mariners' Hall
+## [Mariners' Hall](../locations/Mariners_Hall.md)
 
-The Union's headquarters at [the Aerial Docks](../locations/The_Aerial_Docks.md) is known as **Mariners' Hall**.
+The Union's headquarters at [the Aerial Docks](../locations/The_Aerial_Docks.md) is known as **[Mariners' Hall](../locations/Mariners_Hall.md)**.
 
 It is part meeting house, chart archive, memorial, training center, and refuge for stranded crews.
 
@@ -243,13 +243,13 @@ Once approved:
 - cargo workers halt loading,
 - and Union-aligned couriers suspend service.
 
-A full Closed Sky can isolate Aetherhaven from aerial trade.
+A full Closed Sky can isolate [Aetherhaven](../locations/Aetherhaven.md) from aerial trade.
 
 The Union uses this power rarely because shortages begin quickly and public support can collapse if the action appears political rather than protective.
 
 ## The Returning Star
 
-The Union quietly forbids vessels from following a particular star visible above the Shattered Lands.
+The Union quietly forbids vessels from following a particular star visible above [the Shattered Lands](../locations/The_Shattered_Lands.md).
 
 Senior navigators call it:
 
@@ -275,7 +275,7 @@ Reports preserved in the Starless Room suggest that ships following it have:
 - returned with unaged crews,
 - arrived before their departure date,
 - carried cargo from futures that never occurred,
-- or reached Aetherhaven decades before anyone remembered sending them.
+- or reached [Aetherhaven](../locations/Aetherhaven.md) decades before anyone remembered sending them.
 
 The Union does not understand the mechanism.
 
@@ -283,7 +283,7 @@ It only knows the rule saves lives.
 
 ## Relationship with [Captain Mara Voss](../characters/Captain_Mara_Voss.md)
 
-[Mara](../characters/Captain_Mara_Voss.md) [Voss](../characters/Captain_Mara_Voss.md) was a respected Union captain before becoming Harbormaster.
+[Mara Voss](../characters/Captain_Mara_Voss.md) was a respected Union captain before becoming Harbormaster.
 
 The Union remembers her as:
 
@@ -368,31 +368,31 @@ Without an experienced navigator, engineer, mooring crew, and weather reader, th
 
 The Union's political influence is therefore enormous—but not unlimited.
 
-A prolonged Closed Sky can turn public opinion against it as shortages spread through Aetherhaven.
+A prolonged Closed Sky can turn public opinion against it as shortages spread through [Aetherhaven](../locations/Aetherhaven.md).
 
-## Relationship with Elias Hawthorne
+## Relationship with [Elias Hawthorne](../characters/Professor_Elias_Hawthorne.md)
 
-The Union respects Elias as an explorer, engineer, and survivor of routes most people know only from maps.
+The Union respects [Elias](../characters/Professor_Elias_Hawthorne.md) as an explorer, engineer, and survivor of routes most people know only from maps.
 
 It also regards him as dangerously willing to trust experimental systems.
 
 The *Wayfinder* is admired and debated in equal measure.
 
-Union Enginewrights may argue that:
+Union [Enginewrights](The_Guild_of_Enginewrights.md) may argue that:
 
 - its older unexplained components should ground the ship,
 - its experimental systems require special inspection,
 - or its repeated survival demonstrates that ordinary standards do not apply.
 
-Elias supports Union rescue obligations and often shares practical route observations.
+[Elias](../characters/Professor_Elias_Hawthorne.md) supports Union rescue obligations and often shares practical route observations.
 
 He withholds certain discoveries when he believes publication would invite reckless expeditions.
 
 This makes him more like the Union than either side admits.
 
-## Relationship with Amelia Hawthorne
+## Relationship with [Amelia Hawthorne](../characters/Amelia_Hawthorne.md)
 
-Amelia is welcomed by many Union members as a genuine young explorer rather than a ceremonial passenger.
+[Amelia](../characters/Amelia_Hawthorne.md) is welcomed by many Union members as a genuine young explorer rather than a ceremonial passenger.
 
 She may learn:
 
@@ -409,15 +409,15 @@ Senior Chartkeepers are intrigued by the way the Aether Heart responds to:
 - changing route overlays,
 - and certain Starless Room records.
 
-The Union must never treat Amelia as a navigation instrument.
+The Union must never treat [Amelia](../characters/Amelia_Hawthorne.md) as a navigation instrument.
 
 [Mara](../characters/Captain_Mara_Voss.md) and [Thorne](../characters/Chief_Inspector_Beatrice_Thorne.md) would both oppose any attempt to use her that way.
 
 A recurring relationship with an older Chartkeeper could become an important source of mentorship and wider-world lore.
 
-## Relationship with the Society of Explorers
+## Relationship with [the Society of Explorers](The_Society_of_Explorers.md)
 
-The Society of Explorers commissions voyages.
+[The Society of Explorers](The_Society_of_Explorers.md) commissions voyages.
 
 The Union decides whether crews consider those voyages survivable.
 
@@ -489,7 +489,7 @@ Brass tokens identifying a mariner's certified route classes and rescue obligati
 
 ### Closed Sky Pennant
 
-A dark folded pennant displayed at Mariners' Hall and major mooring towers during a Union shutdown.
+A dark folded pennant displayed at [Mariners' Hall](../locations/Mariners_Hall.md) and major mooring towers during a Union shutdown.
 
 ### Memorial Bells
 
@@ -520,7 +520,7 @@ Recurring visual elements:
 - memorial bells,
 - and tools marked by long use.
 
-Mariners' Hall should feel warm, communal, practical, and full of history—not luxurious.
+[Mariners' Hall](../locations/Mariners_Hall.md) should feel warm, communal, practical, and full of history—not luxurious.
 
 The Starless Room should contrast with it through silence, sealed shutters, covered instruments, and maps deliberately missing one star.
 
@@ -532,11 +532,11 @@ The Union halts all departures after navigators detect a route anomaly [the High
 
 ### The Chart That Arrived First
 
-A Living Chart records the *Wayfinder's* route before Elias and Amelia have planned the voyage.
+A Living Chart records the *Wayfinder's* route before [Elias](../characters/Professor_Elias_Hawthorne.md) and [Amelia](../characters/Amelia_Hawthorne.md) have planned the voyage.
 
 ### The Returning Crew
 
-A Union vessel appears decades before its scheduled departure, crewed by people whose younger selves still live in Aetherhaven.
+A Union vessel appears decades before its scheduled departure, crewed by people whose younger selves still live in [Aetherhaven](../locations/Aetherhaven.md).
 
 ### The Starless Rule
 
@@ -548,11 +548,11 @@ A desperate captain follows the Returning Star to save a passenger, forcing the 
 
 ### The Missing Bell
 
-A memorial bell disappears from Mariners' Hall. The corresponding vessel returns the same night.
+A memorial bell disappears from [Mariners' Hall](../locations/Mariners_Hall.md). The corresponding vessel returns the same night.
 
-### Amelia's First Route
+### [Amelia](../characters/Amelia_Hawthorne.md)'s First Route
 
-Amelia studies with the Chartkeepers and notices that one unwritten wind moves in time with her Aether Heart.
+[Amelia](../characters/Amelia_Hawthorne.md) studies with the Chartkeepers and notices that one unwritten wind moves in time with her Aether Heart.
 
 ### The Union Vote
 
@@ -579,7 +579,7 @@ Amelia studies with the Chartkeepers and notices that one unwritten wind moves i
 - How much the Union knows about the *Resolute*.
 - Whether a current Union leader has followed the star.
 - Whether the Morningstar appears in restricted Union charts.
-- Whether the Union has records of an older Amelia or Wayfinder.
+- Whether the Union has records of an older [Amelia](../characters/Amelia_Hawthorne.md) or Wayfinder.
 
 ## Continuity Constraints
 
@@ -589,10 +589,10 @@ Amelia studies with the Chartkeepers and notices that one unwritten wind moves i
 - [Mara](../characters/Captain_Mara_Voss.md) is respected but does not control the Union.
 - The Living Charts must contain practical and temporal knowledge absent from official maps.
 - The Union's secrecy should be understandable but capable of obstructing legitimate investigations.
-- The Returning Star remains visible above the Shattered Lands and dangerous to follow.
+- The Returning Star remains visible above [the Shattered Lands](../locations/The_Shattered_Lands.md) and dangerous to follow.
 - Ships may return decades before departure, but the mechanism remains unexplained early.
 - Distant regions should be introduced through routes, visitors, cargo, and stories rather than direct early-volume exploration.
-- Amelia may learn from Union navigators but must never be treated merely as a route-finding device.
+- [Amelia](../characters/Amelia_Hawthorne.md) may learn from Union navigators but must never be treated merely as a route-finding device.
 - The Union should contain internal disagreement rather than behave as a single voice.
 - Its culture should remain welcoming to competent mariners while wary of political authority.
 
@@ -601,12 +601,12 @@ Amelia studies with the Chartkeepers and notices that one unwritten wind moves i
 1. Who currently serves as Union Speaker?
 2. Who first recorded the Returning Star?
 3. How many vessels have returned before departure?
-4. Is the Starless Rule older than Aetherhaven's current calendar?
+4. Is the Starless Rule older than [Aetherhaven](../locations/Aetherhaven.md)'s current calendar?
 5. Does the Morningstar appear in the Starless Room?
 6. Which memorial bell belongs to a ship that has not departed yet?
 7. What records does the Union retain about [Silas Rook](../characters/Silas_Rook_The_Stillmaker.md)?
 8. Has [Mara](../characters/Captain_Mara_Voss.md) entered the Starless Room since the *Resolute* returned?
-9. Which Chartkeeper will become Amelia's mentor?
+9. Which Chartkeeper will become [Amelia](../characters/Amelia_Hawthorne.md)'s mentor?
 10. What happens if the Union and Harbormaster issue contradictory grounding orders?
-11. Can a Closed Sky protect Aetherhaven from a temporal event—or trap it inside one?
+11. Can a Closed Sky protect [Aetherhaven](../locations/Aetherhaven.md) from a temporal event—or trap it inside one?
 12. Why do unwritten winds sometimes respond to the Aether Heart?

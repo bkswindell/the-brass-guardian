@@ -15,7 +15,7 @@ canonical_images:
 
 # The First Mechanist Handwriting Comparison
 
-> **Artifact Image Slate #44** · The Door That Remembered Amelia · [Artifact standard](../CANON_MARKDOWN_STANDARD.md)
+> **Artifact Image Slate #44** · The Door That Remembered [Amelia](../characters/Amelia_Hawthorne.md) · [Artifact standard](../CANON_MARKDOWN_STANDARD.md)
 
 ## Visual Reference
 
@@ -27,7 +27,7 @@ Confirms that the same hand—or machine—produced all three.
 
 ## Intended Form
 
-Three documents placed side by side: ancient inscription, Amelia’s gauntlet interior, and a recent pneumatic message.
+Three documents placed side by side: ancient inscription, [Amelia](../characters/Amelia_Hawthorne.md)’s gauntlet interior, and a recent pneumatic message.
 
 ## Related Canon
 

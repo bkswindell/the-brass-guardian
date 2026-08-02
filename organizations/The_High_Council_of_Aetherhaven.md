@@ -40,12 +40,12 @@ temporal_relevance: Critical
 
 ## Canonical Summary
 
-The High Council of Aetherhaven is the city's central governing body, responsible for law, trade, infrastructure, taxation, public safety, and relations among Aetherhaven's districts, guilds, and chartered institutions.
+The High Council of [Aetherhaven](../locations/Aetherhaven.md) is the city's central governing body, responsible for law, trade, infrastructure, taxation, public safety, and relations among [Aetherhaven](../locations/Aetherhaven.md)'s districts, guilds, and chartered institutions.
 
 The Council's twelve active seats are divided between:
 
 - one delegate from each of [the Eight Founding Engineering Guilds](The_Eight_Founding_Engineering_Guilds.md),
-- and four civic representatives speaking for Aetherhaven's historic district quarters.
+- and four civic representatives speaking for [Aetherhaven](../locations/Aetherhaven.md)'s historic district quarters.
 
 The Chancellor presides over the Council, administers its decisions, and serves as the public voice of the city.
 
@@ -53,13 +53,13 @@ Council members frequently disagree over commerce, labor, exploration, policing,
 
 They are united by one principle:
 
-> **The Heart Engine must continue operating.**
+> **[The Heart Engine](../locations/The_Aetherium.md) must continue operating.**
 
 This belief is formalized as the **Doctrine of Continuance** and treated as the foundation upon which every other law depends.
 
 Behind the Chancellor's dais stands a sealed thirteenth chair.
 
-It is reserved for the **First Mechanist**, an office older than the modern Council and supposedly empowered to overrule the Chancellor, command the founding guilds, and assume authority during a threat to Aetherhaven's continued existence.
+It is reserved for the **[First Mechanist](../characters/The_First_Mechanist.md)**, an office older than the modern Council and supposedly empowered to overrule the Chancellor, command the founding guilds, and assume authority during a threat to [Aetherhaven](../locations/Aetherhaven.md)'s continued existence.
 
 No living citizen has seen the chair occupied.
 
@@ -95,7 +95,7 @@ It depends upon:
 - [the Mechanists' Guild](The_Mechanists_Guild.md) for certification,
 - the founding guilds for infrastructure,
 - [the Aerial Mariners' Union](The_Aerial_Mariners_Union.md) for air traffic,
-- the Conservancy for the Clockwork Gardens,
+- the Conservancy for [the Clockwork Gardens](../locations/The_Clockwork_Gardens.md),
 - district administrations for local services,
 - and countless workers who can make Council policy either real or impossible.
 
@@ -105,7 +105,7 @@ It is not all-powerful.
 
 ## The Twelve Active Seats
 
-The Council's structure reflects early Aetherhaven rather than the modern city.
+The Council's structure reflects early [Aetherhaven](../locations/Aetherhaven.md) rather than the modern city.
 
 Eight seats belong to the founding engineering guilds.
 
@@ -130,7 +130,7 @@ A Council Delegate is not automatically the guildmaster.
 
 The distinction is intentional:
 
-- the guildmaster leads the professional order and sits in the Conclave of Eight,
+- the guildmaster leads the professional order and sits in [the Conclave of Eight](The_Conclave_of_Eight.md),
 - the Council Delegate represents the guild in civic government.
 
 Some guilds prohibit one person from holding both positions.
@@ -139,7 +139,7 @@ Others allow it during emergencies.
 
 The eight Guild Seats ensure that no major civic law can ignore engineering reality.
 
-They also make the Council deeply resistant to policies that threaten existing infrastructure or the Heart Engine.
+They also make the Council deeply resistant to policies that threaten existing infrastructure or [the Heart Engine](../locations/The_Aetherium.md).
 
 ### The Four Civic Seats
 
@@ -149,9 +149,9 @@ The four Civic Seats represent historic quarters whose boundaries predate many m
 
 Represents the central civic and commercial quarter, including much of:
 
-- the Government District,
-- Merchant District,
-- Grand Atrium,
+- [the Government District](../locations/The_Government_District.md),
+- [Merchant District](../locations/The_Merchant_District.md),
+- [Grand Atrium](../locations/The_Grand_Atrium.md),
 - and surrounding central institutions.
 
 The Crown Seat often focuses on:
@@ -166,11 +166,11 @@ The Crown Seat often focuses on:
 
 Represents the city's heavy-working quarter, including:
 
-- the Industrial District,
-- Workers' Dormitories,
-- Great Workshops,
-- Engine Complex,
-- and areas associated with the Gearbreaker Mines.
+- [the Industrial District](../locations/The_Industrial_District.md),
+- [Workers' Dormitories](../locations/The_Workers_Dormitories.md),
+- [Great Workshops](../locations/The_Great_Workshops.md),
+- [Engine Complex](../locations/The_Engine_Complex.md),
+- and areas associated with [the Gearbreaker Mines](../locations/The_Gearbreaker_Mines.md).
 
 The Forge Seat is expected to represent both industrial owners and laboring residents.
 
@@ -184,9 +184,9 @@ The High Council also claims [the Cauldron](../locations/The_Cauldron.md) falls 
 
 Represents districts shaped by water, trade, and older streets, including:
 
-- Old City,
-- Canal District,
-- Southern Docks,
+- [Old City](../locations/The_Old_City.md),
+- [Canal District](../locations/The_Canal_District.md),
+- [Southern Docks](../locations/The_Southern_Docks.md),
 - and much of [the Entertainment District](../locations/The_Entertainment_District.md).
 
 The Canal Seat often deals with:
@@ -201,11 +201,11 @@ The Canal Seat often deals with:
 
 Represents the elevated, exploratory, and inventive quarter, including:
 
-- Inventors' District,
-- Academy of Invention,
+- [Inventors' District](../locations/The_Inventors_District.md),
+- [Academy of Invention](The_Academy_of_Invention.md),
 - [Aerial Docks](../locations/The_Aerial_Docks.md),
-- Clockwork Gardens,
-- Observatory,
+- [Clockwork Gardens](../locations/The_Clockwork_Gardens.md),
+- [Observatory](../locations/The_Observatory.md),
 - and nearby upper-city institutions.
 
 The Spire Seat is influenced by:
@@ -220,7 +220,7 @@ These groups rarely agree with one another.
 
 ## Representation Problems
 
-Aetherhaven has outgrown the political structure that governs it.
+[Aetherhaven](../locations/Aetherhaven.md) has outgrown the political structure that governs it.
 
 The Four Civic Seats must speak for districts with very different needs, while the eight founding guilds retain individual representation.
 
@@ -235,7 +235,7 @@ This creates recurring criticism:
 
 Supporters argue that the founding structure prevents sudden political decisions from destroying systems the city depends upon.
 
-Critics answer that it makes Aetherhaven a technocracy wearing the appearance of district government.
+Critics answer that it makes [Aetherhaven](../locations/Aetherhaven.md) a technocracy wearing the appearance of district government.
 
 Both descriptions contain truth.
 
@@ -249,7 +249,7 @@ The Chancellor:
 - recognizes speakers,
 - administers enacted law,
 - coordinates civic departments,
-- represents Aetherhaven externally,
+- represents [Aetherhaven](../locations/Aetherhaven.md) externally,
 - issues lawful emergency directives,
 - and breaks tied votes.
 
@@ -263,9 +263,9 @@ The office is therefore strongest through:
 - appointment power,
 - and control of the Council's agenda.
 
-The current Chancellor is **[Octavia](../characters/Chancellor_Octavia_Vale.md) Vale**.
+The current Chancellor is **[Octavia Vale](../characters/Chancellor_Octavia_Vale.md)**.
 
-She is intelligent, disciplined, politically cautious, and sincerely committed to Aetherhaven's survival.
+She is intelligent, disciplined, politically cautious, and sincerely committed to [Aetherhaven](../locations/Aetherhaven.md)'s survival.
 
 She knows [the Order of the Closed Eye](The_Order_of_the_Closed_Eye.md) exists.
 
@@ -286,13 +286,13 @@ The Chancellor serves for a fixed term but may remain through successive electio
 
 Removal requires a supermajority or a finding of incapacity under the founding charter.
 
-The First Mechanist, if recognized and seated, may possess older authority capable of suspending the Chancellor without such a vote.
+[The First Mechanist](../characters/The_First_Mechanist.md), if recognized and seated, may possess older authority capable of suspending the Chancellor without such a vote.
 
 No living jurist knows how that power would function in practice.
 
-## The High Chamber
+## [The High Chamber](../locations/The_High_Chamber.md)
 
-The Council meets in the **High Chamber** within the Government District.
+The Council meets in the **[High Chamber](../locations/The_High_Chamber.md)** within [the Government District](../locations/The_Government_District.md).
 
 The chamber is circular, designed to place the Twelve Seats around a central floor of debate.
 
@@ -323,15 +323,15 @@ Standing there places the speaker beneath the view of all Twelve Seats—and dir
 
 ### The Continuance Dial
 
-A large mechanical indicator showing the officially reported operating condition of the Heart Engine.
+A large mechanical indicator showing the officially reported operating condition of [the Heart Engine](../locations/The_Aetherium.md).
 
 It has never publicly displayed complete failure.
 
-Some Clockwrights believe the dial reports political confidence rather than actual engine condition.
+Some [Clockwrights](The_Guild_of_Clockwrights.md) believe the dial reports political confidence rather than actual engine condition.
 
 ### The Thirteenth Chair
 
-The sealed seat of the First Mechanist.
+The sealed seat of [the First Mechanist](../characters/The_First_Mechanist.md).
 
 ## The Thirteenth Chair
 
@@ -346,24 +346,24 @@ At the center is the **[First Mechanist's Mark](../artifacts/004_The_First_Mecha
 The patterns beneath the chair's public decoration resemble:
 
 - hidden symbols beneath old [Mechanists' Guild](The_Mechanists_Guild.md) medallions,
-- access geometry inside the Heart Engine,
-- and architectural forms predating modern Aetherhaven.
+- access geometry inside [the Heart Engine](../locations/The_Aetherium.md),
+- and architectural forms predating modern [Aetherhaven](../locations/Aetherhaven.md).
 
 The chair has no visible keyhole.
 
 No current official knows how it opens.
 
-The Founding Charter states that the First Mechanist may:
+The Founding Charter states that [the First Mechanist](../characters/The_First_Mechanist.md) may:
 
 - assume presidency of the Council,
 - issue binding instructions to the Eight Founding Guilds,
 - open sealed civic mechanisms,
 - suspend ordinary procedure during a Continuance crisis,
-- and overrule the Chancellor where the survival of Aetherhaven is directly concerned.
+- and overrule the Chancellor where the survival of [Aetherhaven](../locations/Aetherhaven.md) is directly concerned.
 
 The same charter does not clearly explain:
 
-- how the First Mechanist is selected,
+- how [the First Mechanist](../characters/The_First_Mechanist.md) is selected,
 - who confirms the office,
 - whether the title belongs to one person,
 - or whether the chair itself determines who may occupy it.
@@ -372,27 +372,27 @@ No living citizen has seen the chair occupied.
 
 [The Order of the Closed Eye](The_Order_of_the_Closed_Eye.md) has suppressed several historical inquiries into the office.
 
-## The First Mechanist
+## [The First Mechanist](../characters/The_First_Mechanist.md)
 
-Public education describes the First Mechanist as the master engineer who coordinated the founding guilds during Aetherhaven's earliest construction.
+Public education describes [the First Mechanist](../characters/The_First_Mechanist.md) as the master engineer who coordinated the founding guilds during [Aetherhaven](../locations/Aetherhaven.md)'s earliest construction.
 
 Older documents suggest something more.
 
 The title may have represented:
 
 - chief architect of the early city,
-- interpreter of the Heart Engine,
+- interpreter of [the Heart Engine](../locations/The_Aetherium.md),
 - holder of authority over all eight disciplines,
 - guardian of emergency access,
 - or a person recognized directly by ancient systems.
 
-The First Mechanist is not simply the head of [the Mechanists' Guild](The_Mechanists_Guild.md).
+[The First Mechanist](../characters/The_First_Mechanist.md) is not simply the head of [the Mechanists' Guild](The_Mechanists_Guild.md).
 
 The modern Guild did not exist in its current form when the office was created.
 
-The Conclave of Eight has no accepted power to appoint a First Mechanist.
+[The Conclave of Eight](The_Conclave_of_Eight.md) has no accepted power to appoint a [First Mechanist](../characters/The_First_Mechanist.md).
 
-Some guild traditionalists believe the chair will open only when Aetherhaven requires one.
+Some guild traditionalists believe the chair will open only when [Aetherhaven](../locations/Aetherhaven.md) requires one.
 
 Others believe the office was deliberately eliminated because no person should hold such authority.
 
@@ -402,13 +402,13 @@ Every Chancellor and Council Delegate swears to uphold the Doctrine of Continuan
 
 > **Whatever else we dispute, the Heart must continue.**
 
-The doctrine arose from the belief that failure of the Heart Engine would cause:
+The doctrine arose from the belief that failure of [the Heart Engine](../locations/The_Aetherium.md) would cause:
 
 - loss of power,
 - collapse of Golden Vein systems,
 - failure of water and transport,
-- destabilization of the Clockwork Gardens,
-- and possibly the destruction of Aetherhaven itself.
+- destabilization of [the Clockwork Gardens](../locations/The_Clockwork_Gardens.md),
+- and possibly the destruction of [Aetherhaven](../locations/Aetherhaven.md) itself.
 
 The doctrine is rational.
 
@@ -461,10 +461,10 @@ Much of the Council's real work occurs before public votes.
 
 Oversees:
 
-- Heart Engine policy,
+- [Heart Engine](../locations/The_Aetherium.md) policy,
 - Golden Veins,
 - major construction,
-- Engine Complex,
+- [Engine Complex](../locations/The_Engine_Complex.md),
 - emergency infrastructure,
 - and technical continuity.
 
@@ -558,7 +558,7 @@ Temporary blocs form around issues.
 
 ### The Continuance Bloc
 
-Prioritizes uninterrupted operation of the Heart Engine and existing civic systems.
+Prioritizes uninterrupted operation of [the Heart Engine](../locations/The_Aetherium.md) and existing civic systems.
 
 Usually supported by:
 
@@ -652,11 +652,11 @@ The Guild does not own the seats.
 
 Each founding order retains the right to appoint its own delegate.
 
-The Conclave of Eight and High Council may disagree.
+[The Conclave of Eight](The_Conclave_of_Eight.md) and High Council may disagree.
 
 The Council decides what the law requires.
 
-The Conclave decides whether qualified professionals will certify or perform the work.
+[The Conclave](The_Conclave_of_Eight.md) decides whether qualified professionals will certify or perform the work.
 
 The sealed Thirteenth Chair is not controlled by either body.
 
@@ -718,7 +718,7 @@ The Conservancy has no voting seat.
 
 It operates under a special stewardship charter granting authority over:
 
-- the Clockwork Gardens,
+- [the Clockwork Gardens](../locations/The_Clockwork_Gardens.md),
 - living mechanisms under its care,
 - Garden closure,
 - and Living Stay protections.
@@ -731,9 +731,9 @@ It rarely seeks ordinary power.
 
 When threatened systems are involved, it may refuse the Council completely.
 
-## Relationship with the Academy of Invention
+## Relationship with [the Academy of Invention](The_Academy_of_Invention.md)
 
-The Academy has no independent seat.
+[The Academy](The_Academy_of_Invention.md) has no independent seat.
 
 Its interests usually reach the Council through:
 
@@ -743,15 +743,15 @@ Its interests usually reach the Council through:
 - invited experts,
 - and committee testimony.
 
-The Academy resents Guild control over certification.
+[The Academy](The_Academy_of_Invention.md) resents Guild control over certification.
 
 The Council fears innovation it cannot regulate and covets innovation that increases trade or Continuance.
 
-The Order maintains deep influence within the Academy-Council relationship.
+The Order maintains deep influence within [the Academy](The_Academy_of_Invention.md)-Council relationship.
 
-## Relationship with the Society of Explorers
+## Relationship with [the Society of Explorers](The_Society_of_Explorers.md)
 
-The Society of Explorers advises the Council on:
+[The Society of Explorers](The_Society_of_Explorers.md) advises the Council on:
 
 - distant routes,
 - recovered artifacts,
@@ -772,11 +772,11 @@ This makes the Society both partner and victim of Council secrecy.
 
 ## Relationship with [the Cauldron](../locations/The_Cauldron.md)
 
-The High Council claims [the Cauldron](../locations/The_Cauldron.md) is legally part of Aetherhaven and nominally represented through the Forge Seat.
+The High Council claims [the Cauldron](../locations/The_Cauldron.md) is legally part of [Aetherhaven](../locations/Aetherhaven.md) and nominally represented through the Forge Seat.
 
 [The Cauldron](../locations/The_Cauldron.md) rejects both claims.
 
-The Cinder Regent and Furnace Court argue that:
+[The Cinder Regent](../characters/The_Cinder_Regent.md) and [Furnace Court](The_Furnace_Court.md) argue that:
 
 - the Council does not protect the district,
 - the Forge Seat does not speak for it,
@@ -808,7 +808,7 @@ Moderate [Unwound](The_Unwound.md) groups petition for:
 - manual backups,
 - transparent records,
 - district representation,
-- and limits on Heart Engine dependence.
+- and limits on [Heart Engine](../locations/The_Aetherium.md) dependence.
 
 [The Severed Coil](The_Severed_Coil.md) treats the Council as proof the city cannot reform peacefully.
 
@@ -853,7 +853,7 @@ Its hypocrisy helps the Guild survive.
 
 ## Relationship with [the Lamplighters' Fellowship](The_Lamplighters_Fellowship.md)
 
-The Council funds portions of the city's public lighting system and treats [the Fellowship](The_Lamplighters_Fellowship.md) as a dependable civic service.
+The Council funds portions of the city's public lighting system and treats the Fellowship as a dependable civic service.
 
 Lamplighter testimony occasionally appears before Council committees.
 
@@ -867,9 +867,9 @@ Council officials may order entries sealed.
 
 [The Lamplighters](The_Lamplighters_Fellowship.md) generally return to work and continue remembering what they saw.
 
-## Relationship with Elias Hawthorne
+## Relationship with [Elias Hawthorne](../characters/Professor_Elias_Hawthorne.md)
 
-Elias is frequently summoned as:
+[Elias](../characters/Professor_Elias_Hawthorne.md) is frequently summoned as:
 
 - expert witness,
 - investigator,
@@ -887,13 +887,13 @@ He distrusts the Council's tendency to seek:
 - expertise without autonomy,
 - and solutions without accepting responsibility.
 
-Elias may cooperate when lives are at risk.
+[Elias](../characters/Professor_Elias_Hawthorne.md) may cooperate when lives are at risk.
 
-He resists any attempt to classify Amelia, the Aether Heart, or the Wayfinder as civic property.
+He resists any attempt to classify [Amelia](../characters/Amelia_Hawthorne.md), the Aether Heart, or the Wayfinder as civic property.
 
-## Relationship with Amelia Hawthorne
+## Relationship with [Amelia Hawthorne](../characters/Amelia_Hawthorne.md)
 
-The Council cannot agree what Amelia represents.
+The Council cannot agree what [Amelia](../characters/Amelia_Hawthorne.md) represents.
 
 She may be viewed as:
 
@@ -904,13 +904,13 @@ She may be viewed as:
 - a link to ancient machinery,
 - or an individual whose rights are threatened by every institution seeking access.
 
-[Octavia](../characters/Chancellor_Octavia_Vale.md) Vale insists Amelia must be addressed as a person rather than a device.
+[Octavia Vale](../characters/Chancellor_Octavia_Vale.md) insists [Amelia](../characters/Amelia_Hawthorne.md) must be addressed as a person rather than a device.
 
 Not every councillor agrees privately.
 
-The Thirteenth Chair may eventually respond to Amelia's presence.
+The Thirteenth Chair may eventually respond to [Amelia](../characters/Amelia_Hawthorne.md)'s presence.
 
-That possibility remains a staged revelation and must not establish that Amelia is the First Mechanist.
+That possibility remains a staged revelation and must not establish that [Amelia](../characters/Amelia_Hawthorne.md) is [the First Mechanist](../characters/The_First_Mechanist.md).
 
 ## Temporal Significance
 
@@ -924,7 +924,7 @@ The Council controls official:
 
 When time adjusts, the government determines which version becomes administratively real.
 
-This makes it central to Aetherhaven's temporal instability.
+This makes it central to [Aetherhaven](../locations/Aetherhaven.md)'s temporal instability.
 
 Council records may contain:
 
@@ -967,7 +967,7 @@ Every formal session begins:
 
 ### [The First Mechanist's Mark](../artifacts/004_The_First_Mechanists_Mark.md)
 
-Displayed upon the sealed chair and connected to hidden guild and Heart Engine geometry.
+Displayed upon the sealed chair and connected to hidden guild and [Heart Engine](../locations/The_Aetherium.md) geometry.
 
 ## Visual Continuity
 
@@ -1013,15 +1013,15 @@ A conscious automaton petitions the Council for legal personhood while [the Mech
 
 ### [The Cauldron](../locations/The_Cauldron.md) Seat
 
-A representative of the Furnace Court enters the Petition Floor and demands recognition as a thirteenth political voice.
+A representative of [the Furnace Court](The_Furnace_Court.md) enters the Petition Floor and demands recognition as a thirteenth political voice.
 
 ### The Continuance Directive
 
-The Council invokes emergency authority to seize an artifact connected to Amelia.
+The Council invokes emergency authority to seize an artifact connected to [Amelia](../characters/Amelia_Hawthorne.md).
 
 ### The Chair Opens One Shutter
 
-[The First Mechanist's Mark](../artifacts/004_The_First_Mechanists_Mark.md) responds during Amelia's testimony.
+[The First Mechanist's Mark](../artifacts/004_The_First_Mechanists_Mark.md) responds during [Amelia](../characters/Amelia_Hawthorne.md)'s testimony.
 
 ### The Missing Councilor
 
@@ -1035,14 +1035,14 @@ A Council Seat remains occupied in every official record despite no one remember
 
 ### Safe for Early Volumes
 
-- The High Council governs Aetherhaven.
+- The High Council governs [Aetherhaven](../locations/Aetherhaven.md).
 - Twelve active seats represent the founding guilds and civic quarters.
-- [Octavia](../characters/Chancellor_Octavia_Vale.md) Vale is Chancellor.
+- [Octavia Vale](../characters/Chancellor_Octavia_Vale.md) is Chancellor.
 - Council members disagree frequently.
 - All uphold the Doctrine of Continuance.
-- The sealed Thirteenth Chair belongs to the First Mechanist.
+- The sealed Thirteenth Chair belongs to [the First Mechanist](../characters/The_First_Mechanist.md).
 - No living citizen has seen it occupied.
-- The First Mechanist's authority supposedly exceeds the Chancellor's.
+- [The First Mechanist](../characters/The_First_Mechanist.md)'s authority supposedly exceeds the Chancellor's.
 
 ### Mid-Series
 
@@ -1050,7 +1050,7 @@ A Council Seat remains occupied in every official record despite no one remember
 - Several modern districts lack meaningful direct representation.
 - The Order influences multiple Council seats and committees.
 - Closed Bell records have been altered.
-- [The First Mechanist's Mark](../artifacts/004_The_First_Mechanists_Mark.md) matches Heart Engine architecture and old guild medallions.
+- [The First Mechanist's Mark](../artifacts/004_The_First_Mechanists_Mark.md) matches [Heart Engine](../locations/The_Aetherium.md) architecture and old guild medallions.
 - The Council's emergency powers enabled major historical Closures.
 - [Octavia](../characters/Chancellor_Octavia_Vale.md) knows of the Order but underestimated its reach.
 
@@ -1059,12 +1059,12 @@ A Council Seat remains occupied in every official record despite no one remember
 - The identities of all Order-controlled seats.
 - How the Thirteenth Chair opens.
 - Whether the chair chooses its occupant.
-- The last verified First Mechanist.
+- The last verified [First Mechanist](../characters/The_First_Mechanist.md).
 - Why the office disappeared.
-- Whether the First Mechanist's authority is political, mechanical, temporal, or all three.
+- Whether [the First Mechanist](../characters/The_First_Mechanist.md)'s authority is political, mechanical, temporal, or all three.
 - What happens if the Doctrine of Continuance is proven false.
-- Whether the Heart Engine can be stopped safely.
-- Why the chair may respond to Amelia.
+- Whether [the Heart Engine](../locations/The_Aetherium.md) can be stopped safely.
+- Why the chair may respond to [Amelia](../characters/Amelia_Hawthorne.md).
 - Whether the Thirteenth Chair has cast votes while sealed.
 
 ## Continuity Constraints
@@ -1074,16 +1074,16 @@ A Council Seat remains occupied in every official record despite no one remember
 - The Chancellor presides separately from the Twelve.
 - The current Chancellor is [Octavia](../characters/Chancellor_Octavia_Vale.md) Vale.
 - The Doctrine of Continuance unites otherwise divided members.
-- The Heart Engine's continued operation must be treated as both a legitimate survival concern and a source of institutional blindness.
-- The Thirteenth Chair is reserved for the First Mechanist.
+- [The Heart Engine](../locations/The_Aetherium.md)'s continued operation must be treated as both a legitimate survival concern and a source of institutional blindness.
+- The Thirteenth Chair is reserved for [the First Mechanist](../characters/The_First_Mechanist.md).
 - No living citizen has seen the chair occupied.
-- The First Mechanist's authority supposedly exceeds that of the Chancellor.
-- The First Mechanist is not simply the modern head of [the Mechanists' Guild](The_Mechanists_Guild.md).
+- [The First Mechanist](../characters/The_First_Mechanist.md)'s authority supposedly exceeds that of the Chancellor.
+- [The First Mechanist](../characters/The_First_Mechanist.md) is not simply the modern head of [the Mechanists' Guild](The_Mechanists_Guild.md).
 - [The Order of the Closed Eye](The_Order_of_the_Closed_Eye.md) influences multiple seats and the information reaching the Council, but does not control every member or outcome.
-- [The Aerial Mariners' Union](The_Aerial_Mariners_Union.md), Conservancy, Academy, Society of Explorers, and [Brass Watch](The_Brass_Watch.md) do not possess ordinary voting seats.
+- [The Aerial Mariners' Union](The_Aerial_Mariners_Union.md), Conservancy, Academy, [Society of Explorers](The_Society_of_Explorers.md), and [Brass Watch](The_Brass_Watch.md) do not possess ordinary voting seats.
 - [The Cauldron](../locations/The_Cauldron.md) rejects representation through the Forge Seat.
-- Amelia must never become civic property.
-- A response from the Thirteenth Chair must not automatically identify Amelia as the First Mechanist.
+- [Amelia](../characters/Amelia_Hawthorne.md) must never become civic property.
+- A response from the Thirteenth Chair must not automatically identify [Amelia](../characters/Amelia_Hawthorne.md) as [the First Mechanist](../characters/The_First_Mechanist.md).
 - The Council should be capable of courage, compromise, cowardice, and genuine reform.
 - The sealed chair and Continuance structure must remain central long-range mysteries.
 
@@ -1091,7 +1091,7 @@ A Council Seat remains occupied in every official record despite no one remember
 
 1. Who currently occupies each of the Twelve Seats?
 2. How many are Open, Bound, Guided, or Unbound to the Order?
-3. Who was the last verified First Mechanist?
+3. Who was the last verified [First Mechanist](../characters/The_First_Mechanist.md)?
 4. How does the Thirteenth Chair open?
 5. Does the chair authenticate its occupant?
 6. Why did the office disappear?
@@ -1101,6 +1101,6 @@ A Council Seat remains occupied in every official record despite no one remember
 10. Will [the Cauldron](../locations/The_Cauldron.md) ever receive recognized representation?
 11. What does the Continuance Dial truly measure?
 12. Has the Thirteenth Chair cast a vote while sealed?
-13. Why was a letter addressed to Amelia before her birth?
+13. Why was a letter addressed to [Amelia](../characters/Amelia_Hawthorne.md) before her birth?
 14. What truth would cause [Octavia](../characters/Chancellor_Octavia_Vale.md) to reject the Doctrine of Continuance?
-15. What happens when the Council learns Aetherhaven may be feeding the Heart Engine rather than merely receiving power from it?
+15. What happens when the Council learns [Aetherhaven](../locations/Aetherhaven.md) may be feeding [the Heart Engine](../locations/The_Aetherium.md) rather than merely receiving power from it?

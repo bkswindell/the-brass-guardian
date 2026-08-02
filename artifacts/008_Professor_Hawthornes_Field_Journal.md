@@ -22,7 +22,7 @@ canonical_images:
 
 ## Canonical Purpose
 
-Establishes Elias’s research style and provides a reusable source for later clues and interludes.
+Establishes [Elias](../characters/Professor_Elias_Hawthorne.md)’s research style and provides a reusable source for later clues and interludes.
 
 ## Intended Form
 

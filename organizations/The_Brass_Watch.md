@@ -33,7 +33,7 @@ temporal_relevance: Critical
 
 ## Canonical Summary
 
-The Brass Watch is Aetherhaven's constabulary, emergency service, investigative authority, canal patrol, and first-response organization for temporal and other anomalous incidents.
+The Brass Watch is [Aetherhaven](../locations/Aetherhaven.md)'s constabulary, emergency service, investigative authority, canal patrol, and first-response organization for temporal and other anomalous incidents.
 
 Its officers patrol streets, waterways, public buildings, industrial districts, and restricted sites with the assistance of clockwork sentinels. Most Watch officers are honorable people trying to protect a city whose laws were written for ordinary crime but whose deepest dangers rarely behave ordinarily.
 
@@ -41,7 +41,7 @@ The Watch has responded to temporal irregularities for generations. It can secur
 
 They are also superficial.
 
-The Watch knows how to manage the visible consequences of Aetherhaven's shifting chronology, but it does not understand the Heart Engine, the Lost Seconds, chronal anchors, altered records, or the ancient command systems beneath the city. A case marked **resolved** usually means the location is stable and no longer immediately dangerous.
+The Watch knows how to manage the visible consequences of [Aetherhaven](../locations/Aetherhaven.md)'s shifting chronology, but it does not understand [the Heart Engine](../locations/The_Aetherium.md), the Lost Seconds, chronal anchors, altered records, or the ancient command systems beneath the city. A case marked **resolved** usually means the location is stable and no longer immediately dangerous.
 
 It does not mean the mystery was solved.
 
@@ -51,8 +51,8 @@ The organization is waiting for breakthroughs it does not yet know it needs.
 
 Those breakthroughs will increasingly come through the Hawthornes:
 
-- Elias can interpret mechanisms the Watch mistakes for damaged infrastructure.
-- Amelia can perceive and activate evidence inaccessible to Watch instruments.
+- [Elias](../characters/Professor_Elias_Hawthorne.md) can interpret mechanisms the Watch mistakes for damaged infrastructure.
+- [Amelia](../characters/Amelia_Hawthorne.md) can perceive and activate evidence inaccessible to Watch instruments.
 - The Aether Heart can reveal chronal residue, hidden commands, and ancient interfaces.
 - The Watch provides the authority, records, witnesses, containment, and civic protection the Hawthornes lack.
 
@@ -60,7 +60,7 @@ The Watch will not become helpless without them. Its role is to grow from an ins
 
 ## Civic Role
 
-The Brass Watch is responsible for keeping Aetherhaven functional during ordinary and extraordinary crises.
+The Brass Watch is responsible for keeping [Aetherhaven](../locations/Aetherhaven.md) functional during ordinary and extraordinary crises.
 
 Its public responsibilities include:
 
@@ -235,9 +235,9 @@ Some sentinel commands predate the current government.
 
 Certain directives cannot be overridden even by the Chief Inspector.
 
-## The Old City Prohibition
+## [The Old City](../locations/The_Old_City.md) Prohibition
 
-After midnight, clockwork sentinels refuse to enter the Old City.
+After midnight, clockwork sentinels refuse to enter [the Old City](../locations/The_Old_City.md).
 
 Their command systems return the same message:
 
@@ -253,7 +253,7 @@ Attempts to override the restriction produce one of three results:
 - the sentinel walks backward to the district boundary,
 - or its command log records that the order was obeyed even though it never entered.
 
-The Watch compensates by assigning human patrols to the Old City after midnight.
+The Watch compensates by assigning human patrols to [the Old City](../locations/The_Old_City.md) after midnight.
 
 Those officers report:
 
@@ -264,7 +264,7 @@ Those officers report:
 
 Officially, the restriction is classified as an inherited command conflict.
 
-[Thorne](../characters/Chief_Inspector_Beatrice_Thorne.md) believes it is evidence that some authority older than [the High Council](The_High_Council_of_Aetherhaven.md) remains active beneath Aetherhaven.
+[Thorne](../characters/Chief_Inspector_Beatrice_Thorne.md) believes it is evidence that some authority older than [the High Council](The_High_Council_of_Aetherhaven.md) remains active beneath [Aetherhaven](../locations/Aetherhaven.md).
 
 ## Organizational Culture
 
@@ -322,7 +322,7 @@ She has quietly begun changing Watch practice:
 - maintaining anchor-object inventories,
 - and comparing sentinel logs before and after Lost Seconds.
 
-[Thorne](../characters/Chief_Inspector_Beatrice_Thorne.md) has not yet publicly declared that Aetherhaven's chronology is fluid.
+[Thorne](../characters/Chief_Inspector_Beatrice_Thorne.md) has not yet publicly declared that [Aetherhaven](../locations/Aetherhaven.md)'s chronology is fluid.
 
 She lacks proof strong enough to survive Council scrutiny.
 
@@ -330,7 +330,7 @@ She is also not certain how much of the truth the Watch could safely absorb at o
 
 ## Relationship with the Hawthornes
 
-The Brass Watch initially regards Elias and Amelia Hawthorne as highly capable civilians with a consistent disregard for restricted boundaries.
+The Brass Watch initially regards [Elias](../characters/Professor_Elias_Hawthorne.md) and [Amelia Hawthorne](../characters/Amelia_Hawthorne.md) as highly capable civilians with a consistent disregard for restricted boundaries.
 
 Their reputation inside the Watch includes:
 
@@ -342,15 +342,15 @@ Their reputation inside the Watch includes:
 
 Over time, the relationship changes.
 
-### Elias Hawthorne
+### [Elias Hawthorne](../characters/Professor_Elias_Hawthorne.md)
 
-Elias can identify ancient mechanisms, interpret lost engineering, and recognize when an apparent malfunction is intentional behavior.
+[Elias](../characters/Professor_Elias_Hawthorne.md) can identify ancient mechanisms, interpret lost engineering, and recognize when an apparent malfunction is intentional behavior.
 
 The Watch needs his expertise but dislikes his tendency to act before authorization.
 
-### Amelia Hawthorne
+### [Amelia Hawthorne](../characters/Amelia_Hawthorne.md)
 
-Amelia's Aether Gauntlet and visible Aether Heart can interact with ancient systems no Watch instrument can access.
+[Amelia](../characters/Amelia_Hawthorne.md)'s Aether Gauntlet and visible Aether Heart can interact with ancient systems no Watch instrument can access.
 
 Her presence may reveal:
 
@@ -361,7 +361,7 @@ Her presence may reveal:
 
 The Watch is uneasy about relying on a child.
 
-[Thorne](../characters/Chief_Inspector_Beatrice_Thorne.md) is especially determined that Amelia not become a tool used by the Council or the Watch. If Amelia assists, it must be because she understands the risk and chooses to help.
+[Thorne](../characters/Chief_Inspector_Beatrice_Thorne.md) is especially determined that [Amelia](../characters/Amelia_Hawthorne.md) not become a tool used by the Council or the Watch. If [Amelia](../characters/Amelia_Hawthorne.md) assists, it must be because she understands the risk and chooses to help.
 
 ### Future Dependence
 
@@ -413,7 +413,7 @@ The Watch controls criminal investigations and civic authority.
 
 ## Relationship with [the High Council](The_High_Council_of_Aetherhaven.md)
 
-The Brass Watch is legally accountable to [the High Council](The_High_Council_of_Aetherhaven.md), but its duty is to Aetherhaven's citizens.
+The Brass Watch is legally accountable to [the High Council](The_High_Council_of_Aetherhaven.md), but its duty is to [Aetherhaven](../locations/Aetherhaven.md)'s citizens.
 
 Council influence can include:
 
@@ -455,7 +455,7 @@ The Watch's inability to distinguish those groups creates recurring conflict.
 
 [Mara](../characters/Captain_Mara_Voss.md)'s selective cooperation with [the Underclock](The_Underclock.md) intensifies [Thorne](../characters/Chief_Inspector_Beatrice_Thorne.md)'s concern.
 
-Amelia may eventually become the person who helps the Watch recognize that [the Underclock](The_Underclock.md) is not a single unified enemy.
+[Amelia](../characters/Amelia_Hawthorne.md) may eventually become the person who helps the Watch recognize that [the Underclock](The_Underclock.md) is not a single unified enemy.
 
 ## Watch Equipment and Evidence Tools
 
@@ -479,7 +479,7 @@ Physical mechanical records removed from a sentinel after an anomalous incident.
 
 ### Aether Residue Lamps
 
-Portable lamps that reveal recent energy traces, though they cannot interpret the traces as Amelia's gauntlet can.
+Portable lamps that reveal recent energy traces, though they cannot interpret the traces as [Amelia](../characters/Amelia_Hawthorne.md)'s gauntlet can.
 
 ### Memory Chimes
 
@@ -495,11 +495,11 @@ The entire Watch headquarters loses sixty seconds rather than one. Only the sent
 
 ### Occupied by a Higher Authority
 
-A child disappears into the Old City after midnight. The sentinels refuse entry, forcing [Thorne](../characters/Chief_Inspector_Beatrice_Thorne.md), Amelia, and a human patrol to cross the boundary.
+A child disappears into [the Old City](../locations/The_Old_City.md) after midnight. The sentinels refuse entry, forcing [Thorne](../characters/Chief_Inspector_Beatrice_Thorne.md), [Amelia](../characters/Amelia_Hawthorne.md), and a human patrol to cross the boundary.
 
 ### The Resolved Cases
 
-Amelia discovers that several unrelated "resolved" incidents form a pattern leading toward the Heart Engine.
+[Amelia](../characters/Amelia_Hawthorne.md) discovers that several unrelated "resolved" incidents form a pattern leading toward [the Heart Engine](../locations/The_Aetherium.md).
 
 ### The Officer from Tomorrow
 
@@ -515,11 +515,11 @@ A records chamber appears inside Watch headquarters containing cases no current 
 
 ### The Second Watch
 
-A sequence of minor anomalies overwhelms the specialist division. [Thorne](../characters/Chief_Inspector_Beatrice_Thorne.md) reluctantly asks Elias and Amelia to help identify which incidents are symptoms of the same deeper event.
+A sequence of minor anomalies overwhelms the specialist division. [Thorne](../characters/Chief_Inspector_Beatrice_Thorne.md) reluctantly asks [Elias](../characters/Professor_Elias_Hawthorne.md) and [Amelia](../characters/Amelia_Hawthorne.md) to help identify which incidents are symptoms of the same deeper event.
 
 ### The Higher Command
 
-Sentinels throughout the city receive an ancient command that overrides the Brass Watch and begins directing them toward the Aetherium.
+Sentinels throughout the city receive an ancient command that overrides the Brass Watch and begins directing them toward [the Aetherium](../locations/The_Aetherium.md).
 
 ## Staged Revelations
 
@@ -529,7 +529,7 @@ Sentinels throughout the city receive an ancient command that overrides the Bras
 - The Second Watch investigates temporal irregularities.
 - Watch procedures prioritize containment and public safety.
 - Cases may be stable without being understood.
-- Sentinels refuse to enter the Old City after midnight.
+- Sentinels refuse to enter [the Old City](../locations/The_Old_City.md) after midnight.
 - Their systems report: **Occupied by a higher authority.**
 - Most officers are honorable.
 - Council officials sometimes misuse Watch authority.
@@ -544,7 +544,7 @@ Sentinels throughout the city receive an ancient command that overrides the Bras
 - [Thorne](../characters/Chief_Inspector_Beatrice_Thorne.md) has begun preserving evidence outside standard channels.
 - Certain resolved cases form a deliberate pattern.
 - Lost Seconds may be reconciliation events rather than simple failures.
-- Amelia's Aether Heart can read command layers the Watch cannot detect.
+- [Amelia](../characters/Amelia_Hawthorne.md)'s Aether Heart can read command layers the Watch cannot detect.
 - The Watch may have unknowingly enforced ancient containment rules.
 - A future or alternate Brass Watch may already have interacted with current records.
 
@@ -555,13 +555,13 @@ Sentinels throughout the city receive an ancient command that overrides the Bras
 - Their weakness is limited understanding, institutional pressure, and symptom-based resolution.
 - The Watch's anomaly work predates the Hawthornes.
 - The Hawthornes provide breakthroughs, not the first awareness that anomalies exist.
-- The Watch should become increasingly reliant on Elias and Amelia without losing its own agency or importance.
-- Amelia must not be treated merely as equipment or a key.
-- [Thorne](../characters/Chief_Inspector_Beatrice_Thorne.md) should protect Amelia from institutional exploitation.
+- The Watch should become increasingly reliant on [Elias](../characters/Professor_Elias_Hawthorne.md) and [Amelia](../characters/Amelia_Hawthorne.md) without losing its own agency or importance.
+- [Amelia](../characters/Amelia_Hawthorne.md) must not be treated merely as equipment or a key.
+- [Thorne](../characters/Chief_Inspector_Beatrice_Thorne.md) should protect [Amelia](../characters/Amelia_Hawthorne.md) from institutional exploitation.
 - Sentinels must retain ancient command limitations that modern officials cannot simply override.
 - "Resolved" should often mean safe or stable, not explained.
 - Council misuse should be specific and politically motivated, not proof that every Council action is malicious.
-- The Old City refusal and "higher authority" message remain major unresolved canon.
+- [The Old City](../locations/The_Old_City.md) refusal and "higher authority" message remain major unresolved canon.
 - Watch procedures should feel practical, accumulated, and imperfect rather than foolish.
 - Cooperation with the Hawthornes should create mutual growth: the Watch learns to investigate deeper, while the Hawthornes learn evidence discipline and civic responsibility.
 
@@ -574,11 +574,11 @@ Sentinels throughout the city receive an ancient command that overrides the Bras
 5. Has the Watch unknowingly enforced ancient commands?
 6. Which Council officials have deliberately suppressed anomaly cases?
 7. What event will force the Watch to publicly acknowledge temporal fluidity?
-8. Can the Watch create a reliable time standard independent of the Heart Engine?
+8. Can the Watch create a reliable time standard independent of [the Heart Engine](../locations/The_Aetherium.md)?
 9. Why do some anchor objects survive adjustment?
 10. Will the Second Watch become an ally of the Hawthornes or an instrument used against them?
-11. What happened during the earliest recorded Old City refusal?
-12. Is the Brass Watch itself present in older Aetherhaven records under another name?
+11. What happened during the earliest recorded [Old City](../locations/The_Old_City.md) refusal?
+12. Is the Brass Watch itself present in older [Aetherhaven](../locations/Aetherhaven.md) records under another name?
 13. What will happen when every sentinel receives the same ancient command?
 14. How much truth can the Watch reveal without causing panic?
-15. Does a future Brass Watch already know Amelia as the Bearer of the Living Key?
+15. Does a future Brass Watch already know [Amelia](../characters/Amelia_Hawthorne.md) as the Bearer of the Living Key?

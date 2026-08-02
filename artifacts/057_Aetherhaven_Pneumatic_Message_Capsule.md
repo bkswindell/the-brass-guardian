@@ -26,7 +26,7 @@ Makes the city’s communication infrastructure part of the mystery.
 
 ## Intended Form
 
-Object study with a fresh message signed by the First Mechanist.
+Object study with a fresh message signed by [the First Mechanist](../characters/The_First_Mechanist.md).
 
 ## Related Canon
 

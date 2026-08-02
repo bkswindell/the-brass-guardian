@@ -13,9 +13,9 @@ canonical_images:
   - null
 ---
 
-# [Juniper Bell](../characters/Juniper_Bell.md)’s Botanical Ledger
+# Juniper Bell’s Botanical Ledger
 
-> **Artifact Image Slate #19** · The Clockwork Gardens · [Artifact standard](../CANON_MARKDOWN_STANDARD.md)
+> **Artifact Image Slate #19** · [The Clockwork Gardens](../locations/The_Clockwork_Gardens.md) · [Artifact standard](../CANON_MARKDOWN_STANDARD.md)
 
 ## Visual Reference
 

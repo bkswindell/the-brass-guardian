@@ -23,7 +23,7 @@ canonical_images:
 
 ## Canonical Purpose
 
-References the Shattered Lands without leaving Aetherhaven.
+References [the Shattered Lands](../locations/The_Shattered_Lands.md) without leaving [Aetherhaven](../locations/Aetherhaven.md).
 
 ## Intended Form
 

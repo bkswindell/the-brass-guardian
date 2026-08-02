@@ -15,7 +15,7 @@ canonical_images:
 
 # Prototype II and Amelia’s Gauntlet Comparison
 
-> **Artifact Image Slate #43** · The Door That Remembered Amelia · [Artifact standard](../CANON_MARKDOWN_STANDARD.md)
+> **Artifact Image Slate #43** · The Door That Remembered [Amelia](../characters/Amelia_Hawthorne.md) · [Artifact standard](../CANON_MARKDOWN_STANDARD.md)
 
 ## Visual Reference
 
@@ -27,7 +27,7 @@ Shows that they share the same underlying geometry but were made using different
 
 ## Intended Form
 
-Academy comparison plate prepared in secret by Doctor Elara Quill.
+Academy comparison plate prepared in secret by [Doctor Elara Quill](../characters/Doctor_Elara_Quill.md).
 
 ## Related Canon
 

@@ -23,7 +23,7 @@ canonical_images:
 
 ## Canonical Purpose
 
-Suggests that Aetherhaven’s streets remember previous versions of the city.
+Suggests that [Aetherhaven](../locations/Aetherhaven.md)’s streets remember previous versions of the city.
 
 ## Intended Form
 

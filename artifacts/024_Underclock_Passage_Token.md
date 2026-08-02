@@ -13,9 +13,9 @@ canonical_images:
   - null
 ---
 
-# [Underclock](../organizations/The_Underclock.md) Passage Token
+# Underclock Passage Token
 
-> **Artifact Image Slate #24** · The Thirteenth Canal · [Artifact standard](../CANON_MARKDOWN_STANDARD.md)
+> **Artifact Image Slate #24** · [The Thirteenth Canal](../locations/The_Thirteenth_Canal.md) · [Artifact standard](../CANON_MARKDOWN_STANDARD.md)
 
 ## Visual Reference
 

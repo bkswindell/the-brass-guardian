@@ -38,7 +38,7 @@ temporal_relevance: High
 
 ## Canonical Summary
 
-The Lamplighters' Fellowship maintains Aetherhaven's thousands of streetlamps, bridge lights, canal markers, public stair lamps, and aerial beacons.
+The Lamplighters' Fellowship maintains [Aetherhaven](../locations/Aetherhaven.md)'s thousands of streetlamps, bridge lights, canal markers, public stair lamps, and aerial beacons.
 
 Its members are ordinary working people:
 
@@ -50,7 +50,7 @@ Its members are ordinary working people:
 - ladder crews,
 - and night-route mechanics.
 
-They travel through nearly every district at hours when most of Aetherhaven is asleep.
+They travel through nearly every district at hours when most of [Aetherhaven](../locations/Aetherhaven.md) is asleep.
 
 Because of this, Lamplighters notice things few others see:
 
@@ -65,7 +65,7 @@ The Fellowship does not consider itself an intelligence service.
 
 Its members rarely investigate what they witness and often have little interest in explaining it. They record practical details, remember what happened, finish their routes, and continue serving the city.
 
-They hold no formal allegiance to [the High Council](The_High_Council_of_Aetherhaven.md), [Brass Watch](The_Brass_Watch.md), [Underclock](The_Underclock.md), Society of Explorers, or any other faction.
+They hold no formal allegiance to [the High Council](The_High_Council_of_Aetherhaven.md), [Brass Watch](The_Brass_Watch.md), [Underclock](The_Underclock.md), [Society of Explorers](The_Society_of_Explorers.md), or any other faction.
 
 A Lamplighter may share what they saw when approached respectfully, especially if someone is missing, endangered, or trying to find the way home.
 
@@ -73,7 +73,7 @@ Their traditional greeting is:
 
 > **Keep a light for those still coming home.**
 
-A lamp has burned continuously inside Lamplighters' Hall for an explorer who vanished ninety-three years ago.
+A lamp has burned continuously inside [Lamplighters' Hall](../locations/Lamplighters_Hall.md) for an explorer who vanished ninety-three years ago.
 
 Its flame was always gold.
 
@@ -81,7 +81,7 @@ It has recently turned blue.
 
 ## Public Role
 
-The Fellowship is one of Aetherhaven's oldest practical civic services.
+The Fellowship is one of [Aetherhaven](../locations/Aetherhaven.md)'s oldest practical civic services.
 
 Its work includes:
 
@@ -93,7 +93,7 @@ Its work includes:
 - marking emergency evacuation routes,
 - and ensuring essential public lights remain visible during power interruptions.
 
-The Fellowship predates many of Aetherhaven's current agencies.
+The Fellowship predates many of [Aetherhaven](../locations/Aetherhaven.md)'s current agencies.
 
 It has continued through:
 
@@ -232,9 +232,9 @@ The First Lightkeeper represents the Fellowship in civic matters but does not co
 
 The current First Lightkeeper's identity remains unassigned.
 
-## Lamplighters' Hall
+## [Lamplighters' Hall](../locations/Lamplighters_Hall.md)
 
-The Fellowship's headquarters is a practical, well-used building known simply as **Lamplighters' Hall**.
+The Fellowship's headquarters is a practical, well-used building known simply as **[Lamplighters' Hall](../locations/Lamplighters_Hall.md)**.
 
 It contains:
 
@@ -295,7 +295,7 @@ It stands near the main entrance so the missing traveler will see it upon return
 
 The Homecoming Flame began as a single act of loyalty.
 
-An explorer departed Aetherhaven ninety-three years ago and never returned.
+An explorer departed [Aetherhaven](../locations/Aetherhaven.md) ninety-three years ago and never returned.
 
 The Fellowship was asked—or promised—to keep one lamp burning until the explorer came home.
 
@@ -331,7 +331,7 @@ The First Lightkeeper added one instruction to the Route Board:
 
 ## The Night Books
 
-The Night Books make the Fellowship one of Aetherhaven's most valuable accidental archives.
+The Night Books make the Fellowship one of [Aetherhaven](../locations/Aetherhaven.md)'s most valuable accidental archives.
 
 Lamplighters record what affects the route.
 
@@ -606,7 +606,7 @@ She trusts their practical observations and does not demand interpretations.
 
 A Lamplighter who tells [Mara](../characters/Captain_Mara_Voss.md):
 
-> “Dock Zero lit itself three minutes before the storm bell”
+> “[Dock Zero](../locations/Dock_Zero.md) lit itself three minutes before the storm bell”
 
 will be believed.
 
@@ -618,14 +618,14 @@ She may occasionally protect the Fellowship from:
 - aggressive Watch questioning,
 - or merchants demanding unsafe beacon operation.
 
-## Relationship with the Society of Explorers
+## Relationship with [the Society of Explorers](The_Society_of_Explorers.md)
 
 The Fellowship maintains:
 
 - departure lamps,
 - memorial lights,
 - route beacons,
-- and homecoming signals associated with the Society of Explorers.
+- and homecoming signals associated with [the Society of Explorers](The_Society_of_Explorers.md).
 
 Its members have watched generations of expeditions leave and return.
 
@@ -643,7 +643,7 @@ The Society's current records may not agree with the Fellowship's ninety-three-y
 
 ## Relationship with the Hawthornes
 
-Elias understands that Lamplighters often preserve useful facts without theory.
+[Elias](../characters/Professor_Elias_Hawthorne.md) understands that Lamplighters often preserve useful facts without theory.
 
 He may consult:
 
@@ -652,21 +652,21 @@ He may consult:
 - Beacon Keepers,
 - and workers assigned near vanished locations.
 
-Amelia earns the Fellowship's trust easily because she asks direct questions and listens to ordinary answers.
+[Amelia](../characters/Amelia_Hawthorne.md) earns the Fellowship's trust easily because she asks direct questions and listens to ordinary answers.
 
 She may notice significance where a Lamplighter sees only a maintenance problem.
 
 A strong recurring pattern is:
 
 - the Lamplighter provides one precise detail,
-- Amelia recognizes the connection,
+- [Amelia](../characters/Amelia_Hawthorne.md) recognizes the connection,
 - and the Lamplighter is mildly surprised anyone found the observation important.
 
-The Fellowship may become one of Amelia's most reliable sources precisely because it does not attempt to guide her conclusions.
+The Fellowship may become one of [Amelia](../characters/Amelia_Hawthorne.md)'s most reliable sources precisely because it does not attempt to guide her conclusions.
 
 ## Temporal Significance
 
-The Fellowship is highly relevant to Aetherhaven's temporal mysteries without understanding them academically.
+The Fellowship is highly relevant to [Aetherhaven](../locations/Aetherhaven.md)'s temporal mysteries without understanding them academically.
 
 Its records may reveal:
 
@@ -741,7 +741,7 @@ Clothing should show:
 - district patches,
 - and years of use.
 
-Lamplighters' Hall should feel warm, crowded, tired, and dependable.
+[Lamplighters' Hall](../locations/Lamplighters_Hall.md) should feel warm, crowded, tired, and dependable.
 
 The Homecoming Flame should be visually distinct because of its clear blue light.
 
@@ -767,9 +767,9 @@ A retired Lamplighter casually remembers a clandestine meeting that proves two p
 
 The Order removes an entry, but four workers remember different parts of the same route.
 
-### The Lamp That Knows Amelia
+### The Lamp That Knows [Amelia](../characters/Amelia_Hawthorne.md)
 
-A public lamp ignites blue when Amelia passes and returns to gold after she leaves.
+A public lamp ignites blue when [Amelia](../characters/Amelia_Hawthorne.md) passes and returns to gold after she leaves.
 
 ### The Last Route Home
 
@@ -779,7 +779,7 @@ A Lamplighter refuses to abandon a route because someone who vanished years ago 
 
 ### Safe for Early Volumes
 
-- The Fellowship maintains Aetherhaven's public lights and aerial beacons.
+- The Fellowship maintains [Aetherhaven](../locations/Aetherhaven.md)'s public lights and aerial beacons.
 - Its members travel everywhere at unusual hours.
 - They are reliable witnesses with strong practical memory.
 - They are not investigators and rarely interpret what they see.
@@ -793,7 +793,7 @@ A Lamplighter refuses to abandon a route because someone who vanished years ago 
 - Night Books contain evidence contradicting official maps and Watch records.
 - The Order has repeatedly censored Fellowship records.
 - Some erased incidents survive through oral route memory.
-- Lamplighters observed events connected to Prototype I, the Shrouded Vaults, or the original expedition.
+- Lamplighters observed events connected to Prototype I, [the Shrouded Vaults](../locations/The_Shrouded_Vaults.md), or the original expedition.
 - The Homecoming Flame responds to temporal or aetheric conditions.
 
 ### Hold for Later
@@ -802,8 +802,8 @@ A Lamplighter refuses to abandon a route because someone who vanished years ago 
 - The expedition's true destination.
 - Why the flame remained lit for exactly ninety-three years.
 - Whether the explorer is returning.
-- Whether the blue flame responds to Amelia's Aether Heart.
-- Whether Lamplighters once maintained routes now erased from Aetherhaven.
+- Whether the blue flame responds to [Amelia](../characters/Amelia_Hawthorne.md)'s Aether Heart.
+- Whether Lamplighters once maintained routes now erased from [Aetherhaven](../locations/Aetherhaven.md).
 - What the oldest Night Book says about the city before the current calendar.
 
 ## Continuity Constraints
@@ -821,19 +821,19 @@ A Lamplighter refuses to abandon a route because someone who vanished years ago 
 - The Homecoming Flame has burned for ninety-three years and recently changed from gold to blue.
 - The identity and fate of the missing explorer remain unresolved.
 - The Fellowship should be a reliable source of strange, mundane, and clandestine observations.
-- Its warmth and civic service should balance Aetherhaven's darker secret organizations.
+- Its warmth and civic service should balance [Aetherhaven](../locations/Aetherhaven.md)'s darker secret organizations.
 
 ## Open Canon Questions
 
 1. Who is the explorer honored by the Homecoming Flame?
 2. What expedition vanished ninety-three years ago?
 3. Why did the flame turn blue now?
-4. Does the Society of Explorers possess a matching record?
+4. Does [the Society of Explorers](The_Society_of_Explorers.md) possess a matching record?
 5. Which Night Book contains the first impossible street report?
 6. Did a Lamplighter witness the Quiet Transfer of Prototype I?
 7. Which current public figure once worked as a Lamp Hand?
 8. Has the Order ever placed a full member inside the Fellowship?
 9. What route is missing from the official city map but still maintained by tradition?
-10. Why do some lamps respond to Amelia's Aether Heart?
+10. Why do some lamps respond to [Amelia](../characters/Amelia_Hawthorne.md)'s Aether Heart?
 11. Has the Homecoming Flame ever changed color before?
 12. What happens if the flame goes out?

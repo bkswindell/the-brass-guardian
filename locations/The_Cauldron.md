@@ -28,7 +28,7 @@ temporal_relevance: Moderate
 
 ## Canonical Summary
 
-The Cauldron is Aetherhaven's most dangerous, dirty, isolated, and politically inconvenient district.
+The Cauldron is [Aetherhaven](Aetherhaven.md)'s most dangerous, dirty, isolated, and politically inconvenient district.
 
 It lies in a deep industrial basin where heat, smoke, steam, chemical vapor, and furnace exhaust collect beneath steep retaining walls and layers of crowded construction. From the upper city, the district resembles a vast blackened vessel forever simmering below.
 
@@ -38,13 +38,13 @@ It is not a factory that manufactures endless machines.
 
 It is a place where forbidden ideas, stolen components, desperate people, illegal buyers, damaged inventions, and unwanted citizens can disappear.
 
-Ordinary Aetherhaven residents are warned—and in many cases legally prohibited—from entering. [The Brass Watch](../organizations/The_Brass_Watch.md) does not exercise normal patrol authority within the district. [The High Council](../organizations/The_High_Council_of_Aetherhaven.md) publicly describes the Cauldron as a restricted hazard zone.
+Ordinary [Aetherhaven](Aetherhaven.md) residents are warned—and in many cases legally prohibited—from entering. [The Brass Watch](../organizations/The_Brass_Watch.md) does not exercise normal patrol authority within the district. [The High Council](../organizations/The_High_Council_of_Aetherhaven.md) publicly describes the Cauldron as a restricted hazard zone.
 
 In practice, it functions as an operational exile.
 
-Criminals, dissidents, failed inventors, fugitives, undocumented laborers, disgraced scholars, rejected automata, debtors, smugglers, and people whom respectable Aetherhaven would rather not acknowledge often end up there.
+Criminals, dissidents, failed inventors, fugitives, undocumented laborers, disgraced scholars, rejected automata, debtors, smugglers, and people whom respectable [Aetherhaven](Aetherhaven.md) would rather not acknowledge often end up there.
 
-The district is lawless only by Aetherhaven's definition.
+The district is lawless only by [Aetherhaven](Aetherhaven.md)'s definition.
 
 It has rules.
 
@@ -52,7 +52,7 @@ They are simply not the Council's rules.
 
 ## Geography and Isolation
 
-The Cauldron occupies a bowl-shaped depression west of Aetherhaven's more orderly industrial and entertainment districts.
+The Cauldron occupies a bowl-shaped depression west of [Aetherhaven](Aetherhaven.md)'s more orderly industrial and entertainment districts.
 
 Its isolation is reinforced by:
 
@@ -83,9 +83,9 @@ Nothing is symmetrical because everything has been rebuilt around whatever survi
 
 ## The Ash Line
 
-The boundary between Aetherhaven and the Cauldron is known informally as the **Ash Line**.
+The boundary between [Aetherhaven](Aetherhaven.md) and the Cauldron is known informally as the **Ash Line**.
 
-On the Aetherhaven side:
+On the [Aetherhaven](Aetherhaven.md) side:
 
 - Watch authority is clear,
 - civic clocks are synchronized,
@@ -142,7 +142,7 @@ Someone who violates local custom may discover that no one will sell them food, 
 
 ## The Ash Compact
 
-Aetherhaven and the Cauldron appear to operate under an unofficial understanding often called the **Ash Compact**.
+[Aetherhaven](Aetherhaven.md) and the Cauldron appear to operate under an unofficial understanding often called the **Ash Compact**.
 
 No authenticated copy has been found.
 
@@ -151,7 +151,7 @@ The arrangement is believed to include several unwritten terms:
 - [The High Council](../organizations/The_High_Council_of_Aetherhaven.md) does not attempt full occupation.
 - The Cauldron does not openly expand beyond the Ash Line.
 - Dangerous waste and illicit trade remain contained within the basin.
-- Essential salvage and components continue flowing into Aetherhaven.
+- Essential salvage and components continue flowing into [Aetherhaven](Aetherhaven.md).
 - Certain criminals and unwanted persons are allowed to disappear into the district rather than burden official prisons or institutions.
 - Major threats to the entire city may trigger negotiated cooperation.
 
@@ -159,9 +159,9 @@ Council officials deny that such an agreement exists.
 
 Their behavior strongly suggests otherwise.
 
-## Why Aetherhaven Needs the Cauldron
+## Why [Aetherhaven](Aetherhaven.md) Needs the Cauldron
 
-Aetherhaven condemns the Cauldron publicly and depends on it privately.
+[Aetherhaven](Aetherhaven.md) condemns the Cauldron publicly and depends on it privately.
 
 The district provides:
 
@@ -183,7 +183,7 @@ When the Council needs an object disposed of without a record, it often passes t
 
 When the city suffers a shortage, officially prohibited goods begin appearing in legitimate markets through intermediaries.
 
-Aetherhaven's prosperity is partly built on work it refuses to see.
+[Aetherhaven](Aetherhaven.md)'s prosperity is partly built on work it refuses to see.
 
 This hypocrisy is one of the district's greatest sources of anger.
 
@@ -293,7 +293,7 @@ The Cauldron contains people who break laws, people harmed by laws, and people f
 
 She deals with each according to her own moral code.
 
-She will not knowingly assist [Severed Coil](../organizations/The_Severed_Coil.md) attacks, human trafficking, forced labor, or threats to Aetherhaven.
+She will not knowingly assist [Severed Coil](../organizations/The_Severed_Coil.md) attacks, human trafficking, forced labor, or threats to [Aetherhaven](Aetherhaven.md).
 
 She may still buy an unregistered regulator from someone [Thorne](../characters/Chief_Inspector_Beatrice_Thorne.md) wants arrested.
 
@@ -336,7 +336,7 @@ This creates a constant struggle inside the district.
 
 Moderate organizers fear that Coil violence will give [the High Council](../organizations/The_High_Council_of_Aetherhaven.md) an excuse for invasion.
 
-[The Coil](../organizations/The_Severed_Coil.md) views the Cauldron as proof that Aetherhaven has already abandoned part of its own population.
+[The Coil](../organizations/The_Severed_Coil.md) views the Cauldron as proof that [Aetherhaven](Aetherhaven.md) has already abandoned part of its own population.
 
 ## Relationship with the Hawthornes
 
@@ -344,14 +344,14 @@ The Hawthornes should not enter the Cauldron casually.
 
 Their first visits should feel like crossing into a different city with different rules.
 
-Elias may have old contacts there:
+[Elias](../characters/Professor_Elias_Hawthorne.md) may have old contacts there:
 
 - mechanics who helped him when official guilds refused,
 - former scholars,
 - smugglers,
 - or people who remember earlier expeditions differently.
 
-Amelia's gauntlet will attract dangerous attention.
+[Amelia](../characters/Amelia_Hawthorne.md)'s gauntlet will attract dangerous attention.
 
 Some residents may see:
 
@@ -360,7 +360,7 @@ Some residents may see:
 - a living ancient interface,
 - or a child being used by powerful adults.
 
-Amelia may also find people and machines in the Cauldron whom Aetherhaven has dismissed as broken, criminal, or unwanted.
+[Amelia](../characters/Amelia_Hawthorne.md) may also find people and machines in the Cauldron whom [Aetherhaven](Aetherhaven.md) has dismissed as broken, criminal, or unwanted.
 
 That creates meaningful opportunities for empathy without romanticizing the danger.
 
@@ -380,7 +380,7 @@ The Cauldron should have a distinct visual language:
 - blackened brass,
 - improvised lanterns,
 - crowded markets,
-- and distant walls separating it from polished Aetherhaven.
+- and distant walls separating it from polished [Aetherhaven](Aetherhaven.md).
 
 It should feel industrial, lived-in, dangerous, and human.
 
@@ -402,7 +402,7 @@ A hidden laboratory is discovered inside a family workshop whose owners had no i
 
 ### The Exile Market
 
-Amelia encounters conscious automata, displaced people, and forbidden objects sold beside ordinary food and tools.
+[Amelia](../characters/Amelia_Hawthorne.md) encounters conscious automata, displaced people, and forbidden objects sold beside ordinary food and tools.
 
 ### The Compact Breaks
 
@@ -410,7 +410,7 @@ A major incident threatens the Ash Compact and raises the possibility of Council
 
 ### The City That Needs What It Hates
 
-Aetherhaven suffers a critical shortage, forcing officials to admit that the Cauldron has kept essential systems functioning for years.
+[Aetherhaven](Aetherhaven.md) suffers a critical shortage, forcing officials to admit that the Cauldron has kept essential systems functioning for years.
 
 ### The Wrong Criminal
 
@@ -418,7 +418,7 @@ The Watch pursues a dangerous suspect into the district, only to discover local 
 
 ### [Black Lacuna](../organizations/The_Ninth_Guild.md)
 
-A forbidden device appears in the market carrying memories from someone Amelia knows.
+A forbidden device appears in the market carrying memories from someone [Amelia](../characters/Amelia_Hawthorne.md) knows.
 
 ## Staged Revelations
 
@@ -429,7 +429,7 @@ A forbidden device appears in the market carrying memories from someone Amelia k
 - [The Brass Watch](../organizations/The_Brass_Watch.md) does not normally patrol inside.
 - The district is hostile to [the High Council](../organizations/The_High_Council_of_Aetherhaven.md).
 - Criminals and unwanted people often disappear there.
-- Aetherhaven depends on its trade.
+- [Aetherhaven](Aetherhaven.md) depends on its trade.
 - [The Ninth Guild](../organizations/The_Ninth_Guild.md) operates hidden rooms within it.
 - The district is not controlled by one organization.
 
@@ -439,15 +439,15 @@ A forbidden device appears in the market carrying memories from someone Amelia k
 - Which Council officials profit from Cauldron trade.
 - Whether the district was intentionally created as an exile zone.
 - Which old families control its deepest routes.
-- Whether some structures predate Aetherhaven's current city plan.
+- Whether some structures predate [Aetherhaven](Aetherhaven.md)'s current city plan.
 - Whether [the High Council](../organizations/The_High_Council_of_Aetherhaven.md) has secretly used the Cauldron for forbidden disposal and research.
-- Which trusted Aetherhaven figures maintain hidden Cauldron identities or alliances.
+- Which trusted [Aetherhaven](Aetherhaven.md) figures maintain hidden Cauldron identities or alliances.
 
 ## Continuity Constraints
 
 - The Cauldron is a district, not an automated machine foundry.
 - Its name comes from geography, heat, smoke, and industrial atmosphere.
-- It must remain isolated from ordinary Aetherhaven.
+- It must remain isolated from ordinary [Aetherhaven](Aetherhaven.md).
 - [The Brass Watch](../organizations/The_Brass_Watch.md) does not have routine jurisdiction within it.
 - [The High Council](../organizations/The_High_Council_of_Aetherhaven.md) publicly condemns and privately depends on it.
 - The district functions as operational exile but contains many noncriminal residents.
@@ -455,7 +455,7 @@ A forbidden device appears in the market carrying memories from someone Amelia k
 - [The Ninth Guild](../organizations/The_Ninth_Guild.md) uses it but does not own or define it.
 - The district must remain dangerous without becoming culturally or morally uniform.
 - The Hawthornes should enter with caution and consequences.
-- Trade with the Cauldron is essential to Aetherhaven's hidden economy.
+- Trade with the Cauldron is essential to [Aetherhaven](Aetherhaven.md)'s hidden economy.
 - Its visual identity must remain distinct from Horizon-style Cauldrons.
 
 ## Open Canon Questions
@@ -466,9 +466,9 @@ A forbidden device appears in the market carrying memories from someone Amelia k
 4. Which Council officials maintain hidden trade accounts?
 5. Who controls the Cinder Gates from the Cauldron side?
 6. What happens when a Watch officer commits a crime beyond the Ash Line?
-7. Which Elias Hawthorne contact lives there?
+7. Which [Elias Hawthorne](../characters/Professor_Elias_Hawthorne.md) contact lives there?
 8. What was the basin used for before it became an exile district?
 9. How many Ninth Rooms currently operate inside it?
 10. Has the Cauldron preserved records the official Archives lost?
-11. What would happen if the district stopped trading with Aetherhaven?
-12. Does the Heart Engine treat the Cauldron as part of the city?
+11. What would happen if the district stopped trading with [Aetherhaven](Aetherhaven.md)?
+12. Does [the Heart Engine](The_Aetherium.md) treat the Cauldron as part of the city?

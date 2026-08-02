@@ -1,12 +1,18 @@
-name: Link Canon Markdown References
+name: Build Canon Placeholder Profiles and Links
 
 on:
   workflow_dispatch:
   pull_request:
     paths:
+      - scripts/create_placeholder_profiles.py
       - scripts/link_markdown_references.py
+      - scripts/normalize_generated_markdown.py
+      - scripts/run_cached_linker.py
+      - scripts/update_project_index_for_placeholders.py
       - .github/workflows/link-markdown-references.yml
       - Location_Profile_Template.md
+      - Character_Profile_Template.md
+      - Organization_Profile_Template.md
 
 permissions:
   contents: write
@@ -16,7 +22,7 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
-  link-markdown:
+  build-canon-links:
     if: github.actor != 'github-actions[bot]'
     runs-on: ubuntu-latest
     steps:
@@ -31,24 +37,41 @@ jobs:
         with:
           python-version: '3.12'
 
-      - name: Link canonical references
-        run: python scripts/link_markdown_references.py
+      - name: Create missing placeholder profiles
+        run: python scripts/create_placeholder_profiles.py
 
-      - name: Verify idempotence
-        run: python scripts/link_markdown_references.py --check
+      - name: Update project index
+        run: python scripts/update_project_index_for_placeholders.py
+
+      - name: Link canonical references
+        run: python scripts/run_cached_linker.py
+
+      - name: Normalize generated Markdown
+        run: python scripts/normalize_generated_markdown.py
+
+      - name: Verify generation is idempotent
+        shell: bash
+        run: |
+          find . -type f -name '*.md' -not -path './.git/*' -not -path './unused/*' -print0 \
+            | sort -z | xargs -0 sha256sum > /tmp/markdown-before.sha256
+          python scripts/run_cached_linker.py
+          python scripts/normalize_generated_markdown.py
+          find . -type f -name '*.md' -not -path './.git/*' -not -path './unused/*' -print0 \
+            | sort -z | xargs -0 sha256sum > /tmp/markdown-after.sha256
+          diff -u /tmp/markdown-before.sha256 /tmp/markdown-after.sha256
 
       - name: Verify patch
         run: git diff --check
 
-      - name: Commit linked Markdown
+      - name: Commit generated Markdown
         shell: bash
         run: |
           if git diff --quiet; then
-            echo "No Markdown references required changes."
+            echo "No Markdown references or placeholders required changes."
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add -- '*.md' '**/*.md'
-          git commit -m "Link canonical Markdown references"
+          git commit -m "Finalize canon placeholder profiles and cross-links"
           git push origin HEAD:${{ github.event.pull_request.head.ref || github.ref_name }}

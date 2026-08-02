@@ -27,7 +27,7 @@ Ideal final artifact image for Volume One. It answers one question while opening
 
 ## Intended Form
 
-Dark excavation photograph or charcoal reconstruction of one enormous lock opening beneath Aetherhaven.
+Dark excavation photograph or charcoal reconstruction of one enormous lock opening beneath [Aetherhaven](../locations/Aetherhaven.md).
 
 ## Related Canon
 

@@ -37,7 +37,7 @@ temporal_relevance: High
 
 ## Canonical Summary
 
-The Conservancy of Living Mechanisms is a pacifist fellowship of gardeners, botanists, healers, and mechanists responsible for caring for the Clockwork Gardens and the living machines that dwell within them.
+The Conservancy of Living Mechanisms is a pacifist fellowship of gardeners, botanists, healers, and mechanists responsible for caring for [the Clockwork Gardens](../locations/The_Clockwork_Gardens.md) and the living machines that dwell within them.
 
 Its members believe mechanical and living systems are not opposites, but expressions of the same natural order. They cultivate flowers that respond to music, restore clockwork creatures that develop distinct personalities, and care for vines, insects, trees, pumps, roots, gears, and aetheric organisms as members of one interdependent community.
 
@@ -67,7 +67,7 @@ No current member knows what happens if they fail.
 
 ## Public Role
 
-The Conservancy maintains the living and mechanical ecology of the Clockwork Gardens.
+The Conservancy maintains the living and mechanical ecology of [the Clockwork Gardens](../locations/The_Clockwork_Gardens.md).
 
 Its responsibilities include:
 
@@ -156,9 +156,9 @@ A Conservancy teaching states:
 
 > **A gentle hand may still hold a door shut.**
 
-## The Rootglass Cloister
+## [The Rootglass Cloister](../locations/Rootglass_Cloister.md)
 
-The Conservancy's central sanctuary and working home is the **Rootglass Cloister**, located within the Clockwork Gardens.
+The Conservancy's central sanctuary and working home is the **[Rootglass Cloister](../locations/Rootglass_Cloister.md)**, located within [the Clockwork Gardens](../locations/The_Clockwork_Gardens.md).
 
 It is not a monastery in a religious sense, but its quiet routines, communal meals, periods of listening, and disciplined service give it a monastic character.
 
@@ -212,7 +212,7 @@ They are sometimes affectionately called **Seedlings**, though this is not an of
 
 ### Tenders
 
-The majority of [the Fellowship](The_Lamplighters_Fellowship.md).
+The majority of the Fellowship.
 
 Tenders maintain specific:
 
@@ -271,17 +271,17 @@ Most visitors never realize Quiet Wardens exist.
 
 A council of senior Tenders, Listeners, Menders, and Pathkeepers representing different forms of care.
 
-It advises the First Tender and makes decisions concerning sanctuary, dangerous growth, and protection of living mechanisms.
+It advises [the First Tender](../characters/The_First_Tender.md) and makes decisions concerning sanctuary, dangerous growth, and protection of living mechanisms.
 
-### The First Tender
+### [The First Tender](../characters/The_First_Tender.md)
 
 The Conservancy's senior coordinator and public representative.
 
-The First Tender does not command the Gardens.
+[The First Tender](../characters/The_First_Tender.md) does not command the Gardens.
 
 No member claims that authority.
 
-The current First Tender's identity remains unassigned.
+The current [First Tender](../characters/The_First_Tender.md)'s identity remains unassigned.
 
 ## The Rite of Introduction
 
@@ -416,13 +416,13 @@ The Conservancy's maternal character is strongest here.
 
 Its members feed, repair, comfort, teach, protect, and advocate.
 
-A threatened creature may discover that the gentle gardener beside it is the most immovable person in Aetherhaven.
+A threatened creature may discover that the gentle gardener beside it is the most immovable person in [Aetherhaven](../locations/Aetherhaven.md).
 
 ## Relationship with [the Guild of Verdant Mechanists](The_Eight_Founding_Engineering_Guilds.md)
 
 [The Guild of Verdant Mechanists](The_Eight_Founding_Engineering_Guilds.md) and the Conservancy are closely linked but institutionally distinct.
 
-The Verdant Mechanists:
+The [Verdant Mechanists](The_Guild_of_Verdant_Mechanists.md):
 
 - design,
 - engineer,
@@ -439,7 +439,7 @@ The Conservancy:
 
 Many Conservancy Menders hold Verdant Mechanist certification.
 
-Many Verdant Mechanists train in the Gardens.
+Many [Verdant Mechanists](The_Guild_of_Verdant_Mechanists.md) train in the Gardens.
 
 Conflict arises when a designed system develops:
 
@@ -495,7 +495,7 @@ of a system the Conservancy considers alive.
 
 ## Relationship with [the High Council](The_High_Council_of_Aetherhaven.md)
 
-[The High Council](The_High_Council_of_Aetherhaven.md) recognizes the Conservancy as steward of the Clockwork Gardens.
+[The High Council](The_High_Council_of_Aetherhaven.md) recognizes the Conservancy as steward of [the Clockwork Gardens](../locations/The_Clockwork_Gardens.md).
 
 Council officials tend to view the Gardens as:
 
@@ -623,15 +623,15 @@ Moderate [Unwound](The_Unwound.md) circles may help defend Conservancy sanctuary
 
 The Conservancy rejects [the Severed Coil](The_Severed_Coil.md)'s willingness to harm civilians and infrastructure.
 
-## Relationship with Elias Hawthorne
+## Relationship with [Elias Hawthorne](../characters/Professor_Elias_Hawthorne.md)
 
-The Conservancy respects Elias's skill and distrusts his tendency to begin with repair before listening.
+The Conservancy respects [Elias](../characters/Professor_Elias_Hawthorne.md)'s skill and distrusts his tendency to begin with repair before listening.
 
 Its members may remind him:
 
 > **A mechanism can be broken and still object to being fixed.**
 
-Elias learns from the Conservancy that:
+[Elias](../characters/Professor_Elias_Hawthorne.md) learns from the Conservancy that:
 
 - repair can alter identity,
 - successful function is not the same as well-being,
@@ -639,11 +639,11 @@ Elias learns from the Conservancy that:
 
 The Conservancy may possess observations concerning the Aether Gauntlet that no conventional engineer thought to record.
 
-## Relationship with Amelia Hawthorne
+## Relationship with [Amelia Hawthorne](../characters/Amelia_Hawthorne.md)
 
-The Conservancy treats Amelia as a person in relationship with a living mechanism—not as a carrier of equipment.
+The Conservancy treats [Amelia](../characters/Amelia_Hawthorne.md) as a person in relationship with a living mechanism—not as a carrier of equipment.
 
-Its members refuse to speak about the Aether Gauntlet as though Amelia were absent.
+Its members refuse to speak about the Aether Gauntlet as though [Amelia](../characters/Amelia_Hawthorne.md) were absent.
 
 Some flowers turn toward her before she enters a room.
 
@@ -656,13 +656,13 @@ The Aether Heart may respond to:
 - Dream Blossoms,
 - and paths older than the current Gardens.
 
-The Conservancy could become one of Amelia's safest places because its members do not demand that she prove where she ends and the arm begins.
+The Conservancy could become one of [Amelia](../characters/Amelia_Hawthorne.md)'s safest places because its members do not demand that she prove where she ends and the arm begins.
 
 They may also be among the first to warn that the Gardens recognize something in her that they remember from long before her birth.
 
 ## The Hidden Gardens
 
-The visible Clockwork Gardens are not their only accessible layer.
+The visible [Clockwork Gardens](../locations/The_Clockwork_Gardens.md) are not their only accessible layer.
 
 The Conservancy recognizes the existence of protected spaces called **hidden gardens**.
 
@@ -680,7 +680,7 @@ They may serve:
 
 Access depends upon relationship with the Gardens rather than institutional rank.
 
-The First Tender cannot simply order a hidden garden opened.
+[The First Tender](../characters/The_First_Tender.md) cannot simply order a hidden garden opened.
 
 [Juniper Bell](../characters/Juniper_Bell.md) pays particular attention to these spaces and can ask the Gardens to reveal or conceal routes.
 
@@ -694,9 +694,9 @@ For complete location canon, see [The Moon Garden](../locations/The_Moon_Garden.
 
 [Juniper Bell](../characters/Juniper_Bell.md) is the Conservancy's most recognizable public caretaker and its least explainable member.
 
-She holds the title **[Keeper of the Clockwork Gardens](../characters/Juniper_Bell.md)**, which is distinct from the administrative office of First Tender.
+She holds the title **[Keeper of the Clockwork Gardens](../characters/Juniper_Bell.md)**, which is distinct from the administrative office of [First Tender](../characters/The_First_Tender.md).
 
-The First Tender coordinates the Conservancy.
+[The First Tender](../characters/The_First_Tender.md) coordinates the Conservancy.
 
 [Juniper](../characters/Juniper_Bell.md) maintains the relationship between the Conservancy, the public, and the Gardens themselves.
 
@@ -715,13 +715,13 @@ One early register contains her name before the paper on which it was written wa
 
 [Juniper](../characters/Juniper_Bell.md) appears unchanged in the oldest known painting of the Gardens, created more than two centuries ago.
 
-Her possible connection to the **Keeper of Dreams**, [Moon Garden](../locations/The_Moon_Garden.md), and Dream Engine is restricted developing canon and should be revealed gradually through Amelia's silver flower and other physical clues.
+Her possible connection to the **Keeper of Dreams**, [Moon Garden](../locations/The_Moon_Garden.md), and Dream Engine is restricted developing canon and should be revealed gradually through [Amelia](../characters/Amelia_Hawthorne.md)'s silver flower and other physical clues.
 
 For complete character canon, see [Juniper Bell](../characters/Juniper_Bell.md).
 
 ## Temporal Significance
 
-The Clockwork Gardens preserve temporal evidence through living continuity.
+[The Clockwork Gardens](../locations/The_Clockwork_Gardens.md) preserve temporal evidence through living continuity.
 
 Examples include:
 
@@ -750,7 +750,7 @@ A flower does not need to know which calendar is correct to bloom for someone it
 
 The Conservancy's symbol consists of a small gear held gently between two leaves.
 
-Unlike the Verdant Mechanists' leaf growing through a gear, the Conservancy emblem emphasizes care rather than design.
+Unlike the [Verdant Mechanists](The_Guild_of_Verdant_Mechanists.md)' leaf growing through a gear, the Conservancy emblem emphasizes care rather than design.
 
 ### Listening Chimes
 
@@ -799,7 +799,7 @@ Members should look like gardeners, healers, craftspeople, and quiet caretakers�
 
 The more capable Quiet Wardens should remain visually understated.
 
-The Rootglass Cloister should combine:
+[The Rootglass Cloister](../locations/Rootglass_Cloister.md) should combine:
 
 - greenhouse,
 - infirmary,
@@ -821,9 +821,9 @@ A Council project cannot begin because every path to the construction site retur
 
 The Gardens begin showing warning signs around a familiar public figure.
 
-### The Creature Who Chose Amelia
+### The Creature Who Chose [Amelia](../characters/Amelia_Hawthorne.md)
 
-A clockwork animal refuses every caretaker except Amelia and carries a memory from the original expedition.
+A clockwork animal refuses every caretaker except [Amelia](../characters/Amelia_Hawthorne.md) and carries a memory from the original expedition.
 
 ### The Closed Grove
 
@@ -835,7 +835,7 @@ A rescued [Ninth Guild](The_Ninth_Guild.md) organism begins growing a laboratory
 
 ### The First Quiet Warden
 
-Amelia witnesses how the Conservancy stops an armed incursion without striking anyone.
+[Amelia](../characters/Amelia_Hawthorne.md) witnesses how the Conservancy stops an armed incursion without striking anyone.
 
 ### The Name Before the Register
 
@@ -845,14 +845,14 @@ Amelia witnesses how the Conservancy stops an armed incursion without striking a
 
 ### Safe for Early Volumes
 
-- The Conservancy maintains the Clockwork Gardens.
+- The Conservancy maintains [the Clockwork Gardens](../locations/The_Clockwork_Gardens.md).
 - Its members are pacifist, eccentric, caring, and protective.
 - They believe living and mechanical systems belong to one natural order.
 - Flowers respond to music and clockwork creatures develop personalities.
 - The Conservancy can request a Living Stay.
 - Its oldest rule warns against being recognized as an intruder.
 - No current member knows the consequence.
-- The Gardens respond warmly and unusually to Amelia.
+- The Gardens respond warmly and unusually to [Amelia](../characters/Amelia_Hawthorne.md).
 
 ### Mid-Series
 
@@ -868,10 +868,10 @@ Amelia witnesses how the Conservancy stops an armed incursion without striking a
 - What full recognition as an intruder causes.
 - Whether the Gardens possess a unified consciousness.
 - Who wrote the oldest rule.
-- Why the Gardens recognize Amelia.
+- Why the Gardens recognize [Amelia](../characters/Amelia_Hawthorne.md).
 - Whether the Conservancy was founded by people or selected by the Gardens.
 - The full capability of the Quiet Wardens.
-- What the Gardens remember about the Rising and the Heart Engine.
+- What the Gardens remember about the Rising and [the Heart Engine](../locations/The_Aetherium.md).
 
 ## Continuity Constraints
 
@@ -886,22 +886,22 @@ Amelia witnesses how the Conservancy stops an armed incursion without striking a
 - Its loyalty to the Gardens and living systems can override cooperation with [the High Council](The_High_Council_of_Aetherhaven.md) or [Brass Watch](The_Brass_Watch.md).
 - The Conservancy may provide sanctuary to conscious mechanisms.
 - It must oppose [Ninth Guild](The_Ninth_Guild.md) violations of consent.
-- Amelia must be treated as a person, never as a machine or specimen.
+- [Amelia](../characters/Amelia_Hawthorne.md) must be treated as a person, never as a machine or specimen.
 - No current member knows the full consequence of the Gardens recognizing someone as an intruder.
 - The true capability of the Quiet Wardens must remain largely hidden early.
 - The Gardens should never feel like passive landscaping under complete human control.
 
 ## Open Canon Questions
 
-1. Who is the current First Tender?
+1. Who is the current [First Tender](../characters/The_First_Tender.md)?
 2. Who wrote the oldest rule?
 3. What happens when the Gardens recognize an intruder?
 4. Did the Order erase the answer?
-5. Are the Clockwork Gardens one consciousness or many?
-6. Why do they recognize Amelia?
+5. Are [the Clockwork Gardens](../locations/The_Clockwork_Gardens.md) one consciousness or many?
+6. Why do they recognize [Amelia](../characters/Amelia_Hawthorne.md)?
 7. What does [Juniper Bell](../characters/Juniper_Bell.md) know about the Conservancy's founding?
 8. Which living mechanism first received a Living Stay?
 9. Has the Conservancy ever permanently expelled a member?
 10. What threat caused the last full Garden closure?
 11. Can a person regain the Gardens' trust after being recognized as an intruder?
-12. What lies beneath the Rootglass Cloister?
+12. What lies beneath [the Rootglass Cloister](../locations/Rootglass_Cloister.md)?

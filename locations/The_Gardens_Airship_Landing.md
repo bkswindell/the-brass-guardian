@@ -41,9 +41,9 @@ temporal_relevance: High
 
 ## Public Map Reference
 
-The Gardens Airship Landing is a graceful elevated platform reserved for explorers, couriers, official visitors, and vessels in need of urgent assistance. Unlike the bustling commercial [Aerial Docks](The_Aerial_Docks.md), the Landing is quiet, green, and closely integrated with the Clockwork Gardens, with brass walkways, flowering terraces, and luminous guide lamps overlooking the Reflection Canals.
+The Gardens Airship Landing is a graceful elevated platform reserved for explorers, couriers, official visitors, and vessels in need of urgent assistance. Unlike the bustling commercial [Aerial Docks](The_Aerial_Docks.md), the Landing is quiet, green, and closely integrated with [the Clockwork Gardens](The_Clockwork_Gardens.md), with brass walkways, flowering terraces, and luminous guide lamps overlooking [the Reflection Canals](The_Reflection_Canals.md).
 
-The *Wayfinder*, belonging to Elias and Amelia Hawthorne, is frequently moored at the **Wayfinder Berth**, while the **Emergency Repair Cradle** can receive experimental or damaged ships that would be unsafe at a crowded public port.
+The *Wayfinder*, belonging to [Elias](../characters/Professor_Elias_Hawthorne.md) and [Amelia Hawthorne](../characters/Amelia_Hawthorne.md), is frequently moored at the **[Wayfinder Berth](The_Wayfinder_Berth.md)**, while the **Emergency Repair Cradle** can receive experimental or damaged ships that would be unsafe at a crowded public port.
 
 One berth remains permanently unused beneath a polished nameplate reading:
 
@@ -55,13 +55,13 @@ The gardeners polish the plate anyway.
 
 ## Canonical Summary
 
-The Gardens Airship Landing is Aetherhaven's smaller inner-city airship platform, positioned along the elevated edge of the Clockwork Gardens.
+The Gardens Airship Landing is [Aetherhaven](Aetherhaven.md)'s smaller inner-city airship platform, positioned along the elevated edge of [the Clockwork Gardens](The_Clockwork_Gardens.md).
 
 It is not a commercial port.
 
 Its purpose is to receive:
 
-- Society of Explorers vessels,
+- [Society of Explorers](../organizations/The_Society_of_Explorers.md) vessels,
 - official couriers,
 - diplomatic visitors,
 - Academy research craft,
@@ -69,19 +69,19 @@ Its purpose is to receive:
 - emergency medical transports,
 - and damaged vessels requiring immediate stabilization.
 
-The Landing's defining points of interest include the **Landing Terrace**, **Wayfinder Berth**, **Morningstar Berth**, **Emergency Repair Cradle**, **Courier House**, **Windglass Pavilion**, and **Garden Signal Mast**.
+The Landing's defining points of interest include the **Landing Terrace**, **[Wayfinder Berth](The_Wayfinder_Berth.md)**, **[Morningstar Berth](The_Morningstar_Berth.md)**, **Emergency Repair Cradle**, **Courier House**, **Windglass Pavilion**, and **Garden Signal Mast**.
 
-Its scale is modest compared with [the Aerial Docks](The_Aerial_Docks.md), but its location makes it politically and symbolically important. A vessel accepted here enters directly into Aetherhaven's living center rather than through the city's commercial gateway.
+Its scale is modest compared with [the Aerial Docks](The_Aerial_Docks.md), but its location makes it politically and symbolically important. A vessel accepted here enters directly into [Aetherhaven](Aetherhaven.md)'s living center rather than through the city's commercial gateway.
 
 The *Wayfinder* is frequently moored here, making the Landing one of the Hawthornes' most familiar departure and return points.
 
-The unused Morningstar Berth introduces a quiet contradiction.
+The unused [Morningstar Berth](The_Morningstar_Berth.md) introduces a quiet contradiction.
 
 The berth is maintained, illuminated, and included in operational inspections despite the absence of any registered vessel, charter, construction order, or active reservation authority under that name.
 
 Attempts to remove, rename, or reassign it have never lasted.
 
-## Place Within the Clockwork Gardens
+## Place Within [the Clockwork Gardens](The_Clockwork_Gardens.md)
 
 The Landing is designed to feel like part of the Gardens rather than an intrusion upon them.
 
@@ -94,19 +94,19 @@ Its structures combine:
 - luminous path inlays,
 - and curved platforms following the surrounding waterways.
 
-The Reflection Canals pass below and around portions of the platform.
+[The Reflection Canals](The_Reflection_Canals.md) pass below and around portions of the platform.
 
-The Starlight Walkways provide pedestrian access toward the Grand Atrium, Clocktower Spire, and central garden terraces.
+[The Starlight Walkways](The_Starlight_Walkways.md) provide pedestrian access toward [the Grand Atrium](The_Grand_Atrium.md), [Clocktower Spire](The_Clocktower_Spire.md), and central garden terraces.
 
 Mechanical pollinators and garden birds frequently perch on mooring lines and signal arms.
 
-Visitors arriving here see Aetherhaven first as a place of wonder rather than commerce.
+Visitors arriving here see [Aetherhaven](Aetherhaven.md) first as a place of wonder rather than commerce.
 
 ## Governance and Access
 
 The Landing is jointly managed.
 
-### Clockwork Gardens Administration
+### [Clockwork Gardens](The_Clockwork_Gardens.md) Administration
 
 Garden staff maintain the terraces, walkways, waterways, lighting, and living mechanisms surrounding the platform.
 
@@ -139,13 +139,13 @@ Routine patrol is lighter than at [the Aerial Docks](The_Aerial_Docks.md), but a
 
 ### The Landing Terrace
 
-The main arrival platform, bordered by low brass railings, garden beds, guide lamps, and views across the Reflection Canals.
+The main arrival platform, bordered by low brass railings, garden beds, guide lamps, and views across [the Reflection Canals](The_Reflection_Canals.md).
 
-It is used for formal greetings, expedition departures, courier exchanges, and public ceremonies involving the Society of Explorers.
+It is used for formal greetings, expedition departures, courier exchanges, and public ceremonies involving [the Society of Explorers](../organizations/The_Society_of_Explorers.md).
 
-### The Wayfinder Berth
+### [The Wayfinder Berth](The_Wayfinder_Berth.md)
 
-The berth most commonly assigned to Elias and Amelia Hawthorne.
+The berth most commonly assigned to [Elias](../characters/Professor_Elias_Hawthorne.md) and [Amelia Hawthorne](../characters/Amelia_Hawthorne.md).
 
 Its mooring systems have been modified repeatedly to accommodate the *Wayfinder's* unusual systems, experimental components, and changing expedition equipment.
 
@@ -153,10 +153,10 @@ A small storage cabinet contains:
 
 - repair tools,
 - spare line fittings,
-- Amelia's chalk marks,
+- [Amelia](../characters/Amelia_Hawthorne.md)'s chalk marks,
 - and several components no dockworker remembers installing.
 
-### The Morningstar Berth
+### [The Morningstar Berth](The_Morningstar_Berth.md)
 
 A permanently reserved berth marked **MORNINGSTAR**.
 
@@ -216,7 +216,7 @@ Before certain temporal disturbances, they produce notes not included in the pav
 
 ### The Garden Signal Mast
 
-A slender illuminated mast that coordinates landing signals with [the Aerial Docks](The_Aerial_Docks.md) and Clocktower Spire.
+A slender illuminated mast that coordinates landing signals with [the Aerial Docks](The_Aerial_Docks.md) and [Clocktower Spire](The_Clocktower_Spire.md).
 
 Its normal codes are simple and elegant.
 
@@ -233,7 +233,7 @@ This makes it a recurring location for:
 - quiet departures,
 - returning home,
 - courier-delivered mysteries,
-- and conversations between Elias and Amelia before or after adventures.
+- and conversations between [Elias](../characters/Professor_Elias_Hawthorne.md) and [Amelia](../characters/Amelia_Hawthorne.md) before or after adventures.
 
 Because the berth is inside the Gardens, the *Wayfinder* often appears framed by:
 
@@ -241,32 +241,32 @@ Because the berth is inside the Gardens, the *Wayfinder* often appears framed by
 - lantern reflections,
 - waterways,
 - mechanical birds,
-- and distant views of the Aetherium.
+- and distant views of [the Aetherium](The_Aetherium.md).
 
-The Landing should feel emotionally familiar to Amelia.
+The Landing should feel emotionally familiar to [Amelia](../characters/Amelia_Hawthorne.md).
 
 It is a threshold between home and discovery.
 
 ## Relationship with the Morningstar Mystery
 
-The Morningstar Berth is one of the most important physical contradictions in Aetherhaven.
+[The Morningstar Berth](The_Morningstar_Berth.md) is one of the most important physical contradictions in [Aetherhaven](Aetherhaven.md).
 
 The berth's existence supports several unresolved facts:
 
 - the Passenger's belief that the *Morningstar* is expected,
 - the future-coded ticket,
 - the Morningstar Company cargo records,
-- Dock Zero's unknown beacon activity,
+- [Dock Zero](Dock_Zero.md)'s unknown beacon activity,
 - and administrative references that survive despite missing registries.
 
-The exact relationship between the Morningstar Berth and Dock Zero remains uncertain.
+The exact relationship between [the Morningstar Berth](The_Morningstar_Berth.md) and [Dock Zero](Dock_Zero.md) remains uncertain.
 
 Possible interpretations include:
 
 - one serves official visitors while the other handles commercial transfer,
 - the two are separate stages of one docking system,
 - one belongs to the present and one to another chronology,
-- or the Gardens' berth is the true destination while Dock Zero is only the arrival mechanism.
+- or the Gardens' berth is the true destination while [Dock Zero](Dock_Zero.md) is only the arrival mechanism.
 
 None should be confirmed in early volumes.
 
@@ -277,10 +277,10 @@ None should be confirmed in early volumes.
 She permits experimentation and emergency access there, but she enforces strict safety around:
 
 - the Gardens,
-- the Reflection Canals,
-- and the Morningstar Berth.
+- [the Reflection Canals](The_Reflection_Canals.md),
+- and [the Morningstar Berth](The_Morningstar_Berth.md).
 
-She has personally blocked attempts to reassign the Morningstar berth.
+She has personally blocked attempts to reassign [the Morningstar berth](The_Morningstar_Berth.md).
 
 Her public explanation is that unresolved infrastructure should not be altered without understanding its original purpose.
 
@@ -296,7 +296,7 @@ Its anomalies are subtle:
 - mooring lines tightening without a visible ship,
 - courier lockers containing messages with no delivery record,
 - Windglass notes that correspond to no weather,
-- and the Morningstar berth appearing freshly used after remaining under observation.
+- and [the Morningstar berth](The_Morningstar_Berth.md) appearing freshly used after remaining under observation.
 
 These incidents are rare enough to be dismissed individually.
 
@@ -315,7 +315,7 @@ Its visitors include:
 - injured crews,
 - and unusual guests granted special access.
 
-Children sometimes gather along the Starlight Walkways to watch the *Wayfinder* depart.
+Children sometimes gather along [the Starlight Walkways](The_Starlight_Walkways.md) to watch the *Wayfinder* depart.
 
 Garden workers exchange greetings with familiar crews.
 
@@ -333,7 +333,7 @@ The Gardens Airship Landing should consistently feature:
 - slim signal towers,
 - compact mooring structures,
 - the *Wayfinder* as a familiar recurring vessel,
-- and a polished but unused Morningstar berth.
+- and a polished but unused [Morningstar berth](The_Morningstar_Berth.md).
 
 It should feel:
 
@@ -342,7 +342,7 @@ It should feel:
 - adventurous,
 - and slightly uncanny.
 
-The Morningstar Berth should never dominate the entire location visually.
+[The Morningstar Berth](The_Morningstar_Berth.md) should never dominate the entire location visually.
 
 It is most effective as a quiet detail the viewer notices after admiring the Landing's beauty.
 
@@ -350,7 +350,7 @@ It is most effective as a quiet detail the viewer notices after admiring the Lan
 
 ### The Berth That Prepared Itself
 
-The Morningstar Berth activates, extends its boarding bridge, and begins issuing arrival signals while the sky remains empty.
+[The Morningstar Berth](The_Morningstar_Berth.md) activates, extends its boarding bridge, and begins issuing arrival signals while the sky remains empty.
 
 ### Emergency at the Gardens
 
@@ -366,7 +366,7 @@ The *Wayfinder* returns from a short flight with one hour missing from its logs 
 
 ### The Singing Windglass
 
-The pavilion begins repeating a melody Amelia heard in a dream.
+The pavilion begins repeating a melody [Amelia](../characters/Amelia_Hawthorne.md) heard in a dream.
 
 ### Two Mooring Lines
 
@@ -378,16 +378,16 @@ Dockworkers find both the Wayfinder and Morningstar berths under tension, as tho
 
 - The Landing serves explorers, couriers, officials, and emergency vessels.
 - The *Wayfinder* is frequently moored there.
-- The Morningstar Berth is permanently reserved.
+- [The Morningstar Berth](The_Morningstar_Berth.md) is permanently reserved.
 - No registered vessel bears that name.
-- The platform belongs visually and socially to the Clockwork Gardens.
+- The platform belongs visually and socially to [the Clockwork Gardens](The_Clockwork_Gardens.md).
 - [Mara](../characters/Captain_Mara_Voss.md) controls landing safety.
 
 ### Hold for Later
 
 - Why the Morningstar reservation survives every reform.
 - Whether the berth is a chronal anchor.
-- Its exact relationship to Dock Zero.
+- Its exact relationship to [Dock Zero](Dock_Zero.md).
 - Whether the Morningstar has already docked in another chronology.
 - Who continues maintaining the reservation in systems no official controls.
 - Why the Garden Signal Mast sometimes answers unknown codes.
@@ -398,13 +398,13 @@ Dockworkers find both the Wayfinder and Morningstar berths under tension, as tho
 - It must remain distinct from the larger commercial [Aerial Docks](The_Aerial_Docks.md) at location #19.
 - The public summary should remain welcoming, wondrous, and spoiler-light.
 - The Landing is reserved for explorers, couriers, official visitors, experimental vessels, and emergencies.
-- The *Wayfinder* is frequently moored at the Wayfinder Berth.
-- The Morningstar Berth remains unused, maintained, and permanently reserved.
+- The *Wayfinder* is frequently moored at [the Wayfinder Berth](The_Wayfinder_Berth.md).
+- [The Morningstar Berth](The_Morningstar_Berth.md) remains unused, maintained, and permanently reserved.
 - No current official registry confirms the Morningstar.
-- The Landing must visually integrate with the Clockwork Gardens and surrounding waterways.
+- The Landing must visually integrate with [the Clockwork Gardens](The_Clockwork_Gardens.md) and surrounding waterways.
 - The Morningstar mystery should remain a subtle point of intrigue rather than overwhelm the location's welcoming character.
 - Named points of interest must remain visible in future summaries and artwork.
-- The exact relationship between the Gardens berth and Dock Zero remains unresolved in early volumes.
+- The exact relationship between the Gardens berth and [Dock Zero](Dock_Zero.md) remains unresolved in early volumes.
 
 ## Open Canon Questions
 
@@ -412,9 +412,9 @@ Dockworkers find both the Wayfinder and Morningstar berths under tension, as tho
 2. Why has it survived every administrative reform?
 3. Is the berth part of the Gardens' original design?
 4. Does the Gardens itself maintain the berth?
-5. How is it connected to Dock Zero?
+5. How is it connected to [Dock Zero](Dock_Zero.md)?
 6. Why does the Garden Signal Mast answer unknown codes?
 7. Has the Morningstar already docked there in another chronology?
-8. What unexplained components are stored at the Wayfinder Berth?
+8. What unexplained components are stored at [the Wayfinder Berth](The_Wayfinder_Berth.md)?
 9. Who delivers the Courier House messages without landing?
-10. What would happen if another vessel attempted to occupy the Morningstar Berth?
+10. What would happen if another vessel attempted to occupy [the Morningstar Berth](The_Morningstar_Berth.md)?

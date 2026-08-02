@@ -23,7 +23,7 @@ temporal_relevance: High
 
 ## Arc Premise
 
-The early bedtime adventure presents the Keeper of Dreams as a luminous figure who asks Amelia and Elias to restore [the Moon Garden](../locations/The_Moon_Garden.md) and Dream Engine.
+The early bedtime adventure presents the Keeper of Dreams as a luminous figure who asks [Amelia](../characters/Amelia_Hawthorne.md) and [Elias](../characters/Professor_Elias_Hawthorne.md) to restore [the Moon Garden](../locations/The_Moon_Garden.md) and Dream Engine.
 
 The main series later introduces [Juniper Bell](../characters/Juniper_Bell.md) as the eccentric [Keeper of the Clockwork Gardens](../characters/Juniper_Bell.md) without immediately identifying her as the same figure.
 
@@ -37,16 +37,16 @@ The bedtime account includes:
 - [the Moon Garden](../locations/The_Moon_Garden.md) failing to bloom,
 - an ancient flower-shaped Dream Engine,
 - a trapped mechanical firefly,
-- Amelia choosing kindness over urgency,
+- [Amelia](../characters/Amelia_Hawthorne.md) choosing kindness over urgency,
 - silver flowers opening,
 - the Keeper of Dreams appearing in shimmering stardust,
-- and a silver flower given to Amelia.
+- and a silver flower given to [Amelia](../characters/Amelia_Hawthorne.md).
 
 The silver flower remains the strongest physical bridge into main canon.
 
 ## [The Moon Garden](../locations/The_Moon_Garden.md)
 
-[The Moon Garden](../locations/The_Moon_Garden.md) is a hidden nocturnal layer of the Clockwork Gardens rather than an ordinary distant destination.
+[The Moon Garden](../locations/The_Moon_Garden.md) is a hidden nocturnal layer of [the Clockwork Gardens](../locations/The_Clockwork_Gardens.md) rather than an ordinary distant destination.
 
 It is:
 
@@ -63,19 +63,19 @@ She can ask the Gardens to limit access, conceal routes, or admit a guest.
 
 She cannot force [the Moon Garden](../locations/The_Moon_Garden.md) to accept someone.
 
-During the bedtime adventure, Amelia was invited.
+During the bedtime adventure, [Amelia](../characters/Amelia_Hawthorne.md) was invited.
 
 The unresolved question is whether:
 
-- [Juniper](../characters/Juniper_Bell.md) chose Amelia because she believed Amelia could help,
+- [Juniper](../characters/Juniper_Bell.md) chose [Amelia](../characters/Amelia_Hawthorne.md) because she believed [Amelia](../characters/Amelia_Hawthorne.md) could help,
 - the Garden instructed [Juniper](../characters/Juniper_Bell.md) to summon her,
 - or the invitation emerged from their shared relationship.
 
-The event must never be reframed as Amelia accidentally trespassing.
+The event must never be reframed as [Amelia](../characters/Amelia_Hawthorne.md) accidentally trespassing.
 
 ## The Clockwork Princess
 
-[Juniper](../characters/Juniper_Bell.md) is the only person who calls Amelia **the Clockwork Princess**.
+[Juniper](../characters/Juniper_Bell.md) is the only person who calls [Amelia](../characters/Amelia_Hawthorne.md) **the Clockwork Princess**.
 
 The phrase provides one of the clearest emotional links between [Juniper](../characters/Juniper_Bell.md) and the Keeper of Dreams introduced in the early bedtime adventure.
 
@@ -86,11 +86,11 @@ It may be:
 - an affectionate nickname,
 - a [Moon Garden](../locations/The_Moon_Garden.md) title,
 - a name preserved from another chronology,
-- or recognition of Amelia's unusual relationship with living mechanisms.
+- or recognition of [Amelia](../characters/Amelia_Hawthorne.md)'s unusual relationship with living mechanisms.
 
-The title does not imply literal royalty and must not become a claim over Amelia's identity.
+The title does not imply literal royalty and must not become a claim over [Amelia](../characters/Amelia_Hawthorne.md)'s identity.
 
-Other characters may hear or repeat it, but only [Juniper](../characters/Juniper_Bell.md) uses it as though it belongs naturally to Amelia.
+Other characters may hear or repeat it, but only [Juniper](../characters/Juniper_Bell.md) uses it as though it belongs naturally to [Amelia](../characters/Amelia_Hawthorne.md).
 
 ## Reveal Progression
 
@@ -102,7 +102,7 @@ No one connects her to the bedtime figure.
 
 ### Stage Two — Familiar Details
 
-Amelia notices:
+[Amelia](../characters/Amelia_Hawthorne.md) notices:
 
 - the same blue ribbon,
 - a familiar brass sparrow,
@@ -123,19 +123,19 @@ The path does not correspond to ordinary geography.
 
 ### Stage Five — Shared Dream Evidence
 
-Elias remembers the adventure differently from Amelia.
+[Elias](../characters/Professor_Elias_Hawthorne.md) remembers the adventure differently from [Amelia](../characters/Amelia_Hawthorne.md).
 
 A physical object proves something occurred beyond an ordinary dream.
 
 ### Stage Six — The Keeper Revealed
 
-[Juniper](../characters/Juniper_Bell.md) appears in the same luminous form as the Keeper of Dreams—or the Keeper addresses Amelia through [Juniper](../characters/Juniper_Bell.md).
+[Juniper](../characters/Juniper_Bell.md) appears in the same luminous form as the Keeper of Dreams—or the Keeper addresses [Amelia](../characters/Amelia_Hawthorne.md) through [Juniper](../characters/Juniper_Bell.md).
 
 The reveal confirms a deep connection without necessarily resolving whether they are one ordinary individual.
 
 ## [Pip](../characters/Pip.md) and the Messenger Sparrow
 
-The brass sparrow carrying the blue-ribbon invitation closely resembles [Pip](../characters/Pip.md), Amelia's later companion aboard the Wayfinder.
+The brass sparrow carrying the blue-ribbon invitation closely resembles [Pip](../characters/Pip.md), [Amelia](../characters/Amelia_Hawthorne.md)'s later companion aboard the Wayfinder.
 
 The resemblance is intentional.
 
@@ -143,10 +143,10 @@ The exact explanation remains hidden.
 
 Possible reveal paths include:
 
-- [Pip](../characters/Pip.md) was the messenger and chose to remain with Amelia.
+- [Pip](../characters/Pip.md) was the messenger and chose to remain with [Amelia](../characters/Amelia_Hawthorne.md).
 - [Pip](../characters/Pip.md) does not remember the event because the Garden protected or reordered the memory.
 - [Juniper](../characters/Juniper_Bell.md)'s messenger and [Pip](../characters/Pip.md) share one living mechanical pattern.
-- [The Moon Garden](../locations/The_Moon_Garden.md) borrowed [Pip](../characters/Pip.md)'s form before Amelia formally met him.
+- [The Moon Garden](../locations/The_Moon_Garden.md) borrowed [Pip](../characters/Pip.md)'s form before [Amelia](../characters/Amelia_Hawthorne.md) formally met him.
 - [Pip](../characters/Pip.md) moves along Garden routes outside ordinary chronology.
 
 Clues should remain small and affectionate:
@@ -157,7 +157,7 @@ Clues should remain small and affectionate:
 - comfort beside the silver flower,
 - or impossible familiarity with [the Moon Garden](../locations/The_Moon_Garden.md) route.
 
-The mystery must not undermine [Pip](../characters/Pip.md)'s genuine companionship with Amelia.
+The mystery must not undermine [Pip](../characters/Pip.md)'s genuine companionship with [Amelia](../characters/Amelia_Hawthorne.md).
 
 ## Thematic Purpose
 
@@ -167,21 +167,21 @@ Its theme is:
 
 > An event does not become less true because it was experienced through wonder, dream, or memory.
 
-Amelia learns that emotional truth and physical evidence can coexist.
+[Amelia](../characters/Amelia_Hawthorne.md) learns that emotional truth and physical evidence can coexist.
 
-Elias learns not every mechanism can be understood by removing it from the experience that gives it meaning.
+[Elias](../characters/Professor_Elias_Hawthorne.md) learns not every mechanism can be understood by removing it from the experience that gives it meaning.
 
 ## Continuity Constraints
 
-- [Juniper](../characters/Juniper_Bell.md) alone calls Amelia “the Clockwork Princess.”
+- [Juniper](../characters/Juniper_Bell.md) alone calls [Amelia](../characters/Amelia_Hawthorne.md) “the Clockwork Princess.”
 - The phrase is a delayed-reveal clue and not a literal royal title.
 
 - The bedtime adventure's emotional events remain valid.
 - [Juniper](../characters/Juniper_Bell.md)'s main-series introduction must stand independently before the reveal.
 - The silver flower remains a physical anchor.
 - The Keeper of Dreams connection should be strongly implied before it is confirmed.
-- [The Moon Garden](../locations/The_Moon_Garden.md) is a hidden nocturnal layer of the Clockwork Gardens and remains difficult to map.
-- Amelia entered through invitation or recognition rather than trespass.
+- [The Moon Garden](../locations/The_Moon_Garden.md) is a hidden nocturnal layer of [the Clockwork Gardens](../locations/The_Clockwork_Gardens.md) and remains difficult to map.
+- [Amelia](../characters/Amelia_Hawthorne.md) entered through invitation or recognition rather than trespass.
 - It remains unresolved whether [Juniper](../characters/Juniper_Bell.md) or the Garden initiated the invitation.
 - [Pip](../characters/Pip.md)'s resemblance to the messenger sparrow is deliberate but unresolved.
 - The Dream Engine must be a living mechanism, not a simple dream factory.

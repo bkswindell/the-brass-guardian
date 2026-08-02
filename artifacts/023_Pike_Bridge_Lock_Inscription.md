@@ -15,7 +15,7 @@ canonical_images:
 
 # Pike Bridge Lock Inscription
 
-> **Artifact Image Slate #23** · The Thirteenth Canal · [Artifact standard](../CANON_MARKDOWN_STANDARD.md)
+> **Artifact Image Slate #23** · [The Thirteenth Canal](../locations/The_Thirteenth_Canal.md) · [Artifact standard](../CANON_MARKDOWN_STANDARD.md)
 
 ## Visual Reference
 
@@ -23,7 +23,7 @@ canonical_images:
 
 ## Canonical Purpose
 
-Contains Amelia’s name or title in a script created centuries before her birth.
+Contains [Amelia](../characters/Amelia_Hawthorne.md)’s name or title in a script created centuries before her birth.
 
 ## Intended Form
 

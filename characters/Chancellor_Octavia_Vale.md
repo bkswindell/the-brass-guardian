@@ -36,9 +36,9 @@ Her power depends upon:
 - public legitimacy,
 - and her ability to persuade twelve deeply divided Council Delegates to act before disagreement becomes disaster.
 
-Octavia sincerely believes the Heart Engine must continue operating.
+Octavia sincerely believes [the Heart Engine](../locations/The_Aetherium.md) must continue operating.
 
-She also suspects that Aetherhaven's dependence upon it has been used to justify too much secrecy, too many emergency powers, and too little preparation for alternatives.
+She also suspects that [Aetherhaven](../locations/Aetherhaven.md)'s dependence upon it has been used to justify too much secrecy, too many emergency powers, and too little preparation for alternatives.
 
 She knows [the Order of the Closed Eye](../organizations/The_Order_of_the_Closed_Eye.md) exists.
 
@@ -56,7 +56,7 @@ Octavia is known for:
 - intolerance for theatrical panic,
 - and the ability to force bitter rivals into temporary cooperation.
 
-Supporters regard her as the person keeping Aetherhaven functional.
+Supporters regard her as the person keeping [Aetherhaven](../locations/Aetherhaven.md) functional.
 
 Critics call her:
 
@@ -162,37 +162,37 @@ Octavia may eventually rely upon [Thorne](Chief_Inspector_Beatrice_Thorne.md) to
 
 That request would place both women in grave political danger.
 
-## Relationship with Elias Hawthorne
+## Relationship with [Elias Hawthorne](Professor_Elias_Hawthorne.md)
 
-Octavia respects Elias's expertise and finds his independence infuriating.
+Octavia respects [Elias](Professor_Elias_Hawthorne.md)'s expertise and finds his independence infuriating.
 
 She knows he will:
 
 - answer a technical question honestly,
 - reject a politically convenient conclusion,
-- and leave the chamber if Amelia is treated as equipment.
+- and leave the chamber if [Amelia](Amelia_Hawthorne.md) is treated as equipment.
 
-Elias believes Octavia sometimes confuses controlled information with responsible leadership.
+[Elias](Professor_Elias_Hawthorne.md) believes Octavia sometimes confuses controlled information with responsible leadership.
 
-Octavia believes Elias sometimes underestimates the consequences of releasing a truth before the city can survive it.
+Octavia believes [Elias](Professor_Elias_Hawthorne.md) sometimes underestimates the consequences of releasing a truth before the city can survive it.
 
 They can become effective allies because neither is comfortable with the compromises required.
 
-## Relationship with Amelia Hawthorne
+## Relationship with [Amelia Hawthorne](Amelia_Hawthorne.md)
 
-Octavia insists Amelia be addressed as a person.
+Octavia insists [Amelia](Amelia_Hawthorne.md) be addressed as a person.
 
-She may protect Amelia from:
+She may protect [Amelia](Amelia_Hawthorne.md) from:
 
 - compulsory examination,
 - civic seizure,
 - and Council attempts to classify the Aether Heart as public infrastructure.
 
-She is also deeply concerned about what Amelia may activate.
+She is also deeply concerned about what [Amelia](Amelia_Hawthorne.md) may activate.
 
-Octavia's most difficult decisions arise when protecting Amelia appears to conflict with protecting Aetherhaven.
+Octavia's most difficult decisions arise when protecting [Amelia](Amelia_Hawthorne.md) appears to conflict with protecting [Aetherhaven](../locations/Aetherhaven.md).
 
-A sealed letter exists addressed to Amelia decades before Amelia's birth.
+A sealed letter exists addressed to [Amelia](Amelia_Hawthorne.md) decades before [Amelia](Amelia_Hawthorne.md)'s birth.
 
 The letter may bear Octavia's office, family seal, or predecessor's authority.
 
@@ -228,10 +228,10 @@ Privately, she has studied:
 
 - the Founding Charter,
 - older seating plans,
-- First Mechanist references,
+- [First Mechanist](The_First_Mechanist.md) references,
 - and reports of movement inside the seal.
 
-She understands that if the chair opens, Aetherhaven may gain the authority it believes it needs.
+She understands that if the chair opens, [Aetherhaven](../locations/Aetherhaven.md) may gain the authority it believes it needs.
 
 It may also lose representative government at the moment it is most frightened.
 
@@ -281,9 +281,9 @@ Her authority comes from discipline and attention rather than spectacle.
 
 Octavia discovers that all twelve Council briefing packets omit the same witness.
 
-### The Letter to Amelia
+### The Letter to [Amelia](Amelia_Hawthorne.md)
 
-A sealed document bearing Chancellor authority was written decades before Amelia's birth.
+A sealed document bearing Chancellor authority was written decades before [Amelia](Amelia_Hawthorne.md)'s birth.
 
 ### The Investigation of the Council
 
@@ -307,8 +307,8 @@ Octavia learns a fact that may destabilize the city if released and strengthen t
 
 - Octavia is Chancellor.
 - She is intelligent, cautious, and committed to public safety.
-- She believes the Heart Engine must continue.
-- She respects [Thorne](Chief_Inspector_Beatrice_Thorne.md), Elias, Amelia, and [Mara](Captain_Mara_Voss.md) while frequently disagreeing with them.
+- She believes [the Heart Engine](../locations/The_Aetherium.md) must continue.
+- She respects [Thorne](Chief_Inspector_Beatrice_Thorne.md), [Elias](Professor_Elias_Hawthorne.md), [Amelia](Amelia_Hawthorne.md), and [Mara](Captain_Mara_Voss.md) while frequently disagreeing with them.
 - She knows some ancient emergency authority exists.
 
 ### Mid-Series
@@ -317,8 +317,8 @@ Octavia learns a fact that may destabilize the city if released and strengthen t
 - She has underestimated its reach.
 - Her office receives contradictory records.
 - She privately doubts aspects of the Doctrine of Continuance.
-- She protects Amelia from some Council members.
-- The sealed letter addressed to Amelia is connected to Chancellor authority.
+- She protects [Amelia](Amelia_Hawthorne.md) from some Council members.
+- The sealed letter addressed to [Amelia](Amelia_Hawthorne.md) is connected to Chancellor authority.
 
 ### Hold for Later
 
@@ -333,9 +333,9 @@ Octavia learns a fact that may destabilize the city if released and strengthen t
 
 - Octavia must not be reduced to an Order puppet.
 - She must remain a capable leader making difficult choices with incomplete information.
-- She sincerely values Aetherhaven's survival.
+- She sincerely values [Aetherhaven](../locations/Aetherhaven.md)'s survival.
 - She should sometimes oppose the Hawthornes for understandable reasons.
-- She must recognize Amelia's personhood.
+- She must recognize [Amelia](Amelia_Hawthorne.md)'s personhood.
 - Her caution can cause harm without making her cowardly or malicious.
 - Her office is politically powerful but structurally constrained by the Twelve.
 - She knows the Order exists but not its full control.
@@ -349,8 +349,8 @@ Octavia learns a fact that may destabilize the city if released and strengthen t
 2. Which Council seats does she trust most?
 3. Is anyone in her personal staff an Order member?
 4. Has she undergone Veiling?
-5. Who authored the letter addressed to Amelia?
+5. Who authored the letter addressed to [Amelia](Amelia_Hawthorne.md)?
 6. What does her private ledger preserve?
 7. Would she invoke Continuance against the Hawthornes?
 8. What truth would she release even if it ended her career?
-9. Will she remain Chancellor if the First Mechanist returns?
+9. Will she remain Chancellor if [the First Mechanist](The_First_Mechanist.md) returns?

@@ -18,7 +18,7 @@ supporting_factions:
 temporal_relevance: High
 ---
 
-# [The Severed Coil](../organizations/The_Severed_Coil.md) Conflict
+# The Severed Coil Conflict
 
 ## Arc Premise
 
@@ -26,7 +26,7 @@ The Hawthornes begin disrupting [Severed Coil](../organizations/The_Severed_Coil
 
 At first, [the Coil](../organizations/The_Severed_Coil.md) does not recognize them as enemies.
 
-Over time, repeated failures reveal a pattern. The faction begins investigating Elias and Amelia, eventually concluding that their knowledge, relationships, and access to ancient systems threaten its plan to forcibly unwind Aetherhaven.
+Over time, repeated failures reveal a pattern. The faction begins investigating [Elias](../characters/Professor_Elias_Hawthorne.md) and [Amelia](../characters/Amelia_Hawthorne.md), eventually concluding that their knowledge, relationships, and access to ancient systems threaten its plan to forcibly unwind [Aetherhaven](../locations/Aetherhaven.md).
 
 The conflict develops slowly across standalone adventures before becoming an explicit later-volume struggle.
 
@@ -50,8 +50,8 @@ The faction identifies a recurring connection to the Hawthornes and begins study
 
 [The Coil](../organizations/The_Severed_Coil.md) gathers information about:
 
-- Elias's research,
-- Amelia's Aether Heart,
+- [Elias](../characters/Professor_Elias_Hawthorne.md)'s research,
+- [Amelia](../characters/Amelia_Hawthorne.md)'s Aether Heart,
 - the Wayfinder,
 - their allies,
 - and their access to restricted sites.
@@ -62,7 +62,7 @@ The faction identifies a recurring connection to the Hawthornes and begins study
 
 ### 6. Target Identification
 
-Amelia disrupts an operation in a way only the Bearer of the Living Key could have accomplished.
+[Amelia](../characters/Amelia_Hawthorne.md) disrupts an operation in a way only the Bearer of the Living Key could have accomplished.
 
 [The Coil](../organizations/The_Severed_Coil.md) recognizes her as a direct threat.
 
@@ -76,7 +76,7 @@ Confirmed operatives finally confront them face to face.
 
 ### 9. Civic Crisis
 
-[The Severed Coil](../organizations/The_Severed_Coil.md) attempts to forcibly unwind Aetherhaven through Golden Vein severance, temporal fragmentation, or misuse of ancient shutdown systems.
+[The Severed Coil](../organizations/The_Severed_Coil.md) attempts to forcibly unwind [Aetherhaven](../locations/Aetherhaven.md) through Golden Vein severance, temporal fragmentation, or misuse of ancient shutdown systems.
 
 ### 10. Resolution
 
@@ -101,8 +101,8 @@ These clues should remain secondary to the main story.
 
 [The Coil](../organizations/The_Severed_Coil.md) may:
 
-- plant evidence against Elias,
-- portray Amelia as a dangerous living component,
+- plant evidence against [Elias](../characters/Professor_Elias_Hawthorne.md),
+- portray [Amelia](../characters/Amelia_Hawthorne.md) as a dangerous living component,
 - compromise the Wayfinder,
 - threaten [Tamsin Pike](../characters/Tamsin_Pike.md) or another young ally,
 - manipulate [the Brass Watch](../organizations/The_Brass_Watch.md) into restricting the Hawthornes,
@@ -120,14 +120,14 @@ It should require the heroes to address:
 - [the Coil](../organizations/The_Severed_Coil.md)'s violent plan,
 - and the legitimate grievances of peaceful reformers.
 
-Amelia's role should center on choice, understanding, and agency—not merely functioning as a key.
+[Amelia](../characters/Amelia_Hawthorne.md)'s role should center on choice, understanding, and agency—not merely functioning as a key.
 
 ## Resolution Requirements
 
 - [The Coil](../organizations/The_Severed_Coil.md)'s immediate violent campaign is stopped.
 - The broader [Unwound](../organizations/The_Unwound.md) is not destroyed or discredited beyond repair.
 - [The Brass Watch](../organizations/The_Brass_Watch.md) changes how it investigates political and temporal threats.
-- Elias accepts that discovery requires stronger public safeguards.
-- Amelia rejects attempts by every faction to define her solely by the Aether Heart.
-- Aetherhaven begins confronting its dependence rather than returning unchanged to the status quo.
+- [Elias](../characters/Professor_Elias_Hawthorne.md) accepts that discovery requires stronger public safeguards.
+- [Amelia](../characters/Amelia_Hawthorne.md) rejects attempts by every faction to define her solely by the Aether Heart.
+- [Aetherhaven](../locations/Aetherhaven.md) begins confronting its dependence rather than returning unchanged to the status quo.
 - At least one Coil mystery remains unresolved for future volumes.

@@ -162,7 +162,7 @@ The evidence is arranged on stained, folded parchment with paper clips, tags, a 
 
 ## Non-Visual Canon References and Story Context
 
-The plate attributes the mark to the First Mechanist, but the identity, office, and historical chronology of the First Mechanist remain unresolved in [The Thirteenth Chair](../story_arcs/The_Thirteenth_Chair.md) and the [High Council of Aetherhaven](../organizations/The_High_Council_of_Aetherhaven.md).
+The plate attributes the mark to [the First Mechanist](../characters/The_First_Mechanist.md), but the identity, office, and historical chronology of [the First Mechanist](../characters/The_First_Mechanist.md) remain unresolved in [The Thirteenth Chair](../story_arcs/The_Thirteenth_Chair.md) and the [High Council of Aetherhaven](../organizations/The_High_Council_of_Aetherhaven.md).
 
 The plate’s related-file label “Prototype II Comparative Study” conflicts with the active use of catalog number `AH-1-014` for [The Missing Prototype I Catalog Card](012_The_Missing_Prototype_I_Catalog_Card.md). The inconsistency is preserved as plate evidence and must not be silently corrected.
 

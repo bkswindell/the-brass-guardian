@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
-"""Cross-link canonical names throughout the repository's Markdown files.
+"""Cross-link canonical entity names throughout the Markdown library.
 
 The linker discovers documented characters, organizations, locations, and artifacts
-from YAML front matter. It adds relative Markdown links to unlinked references while
-preserving YAML, existing links and images, code, URLs, and exact artifact visual-
-evidence transcriptions.
+from YAML front matter. It adds relative Markdown links while preserving YAML,
+existing links and images, code, URLs, HTML, and exact artifact transcription
+sections. It also repairs a small class of malformed links created by older passes.
 """
 
 from __future__ import annotations
@@ -39,39 +39,63 @@ PROTECTED_RE = re.compile(
     r"https?://[^\s<>)\]]+|"             # URLs
     r"<[^>\n]+>)"                          # HTML tags
 )
+INLINE_LINK_RE = re.compile(r"(?<!!)\[([^\]\n]+)\]\(([^)\n]+\.md(?:#[^)\n]+)?)\)")
 
-# These conversational phrases are too context-dependent to auto-link safely.
 AMBIGUOUS_SHORTHAND = {
-    "the architect",
+    "architect",
+    "archives",
     "the archives",
+    "conservancy",
     "the conservancy",
+    "council",
     "the council",
+    "eight",
     "the eight",
+    "fellowship",
+    "the fellowship",
+    "gardens",
     "the gardens",
+    "guild",
     "the guild",
+    "keeper",
     "the keeper",
+    "order",
     "the order",
+    "passenger",
     "the passenger",
+    "twelve",
     "the twelve",
+    "union",
     "the union",
+    "watch",
     "the watch",
 }
 
-# Single-word names whose leading article may be safely omitted in prose.
-DISTINCTIVE_ARTICLE_FREE = {
-    "cauldron",
-    "stillmaker",
-    "underclock",
-    "unwound",
-}
-
-# Personal surnames that are also common setting words or place terms. Full names
-# remain linkable, but these surnames are not derived as standalone aliases.
-AMBIGUOUS_SURNAMES = {"Bell", "Pike", "Rook", "Vale"}
 HONORIFIC_RE = re.compile(
     r"^(Captain|Chancellor|Chief Inspector|Inspector|Professor|Doctor|Dr\.|Master|Madame|Harbormaster)\s+",
     flags=re.IGNORECASE,
 )
+
+# Safe short forms used repeatedly in canon. They are deliberately curated rather
+# than derived from every first name, which avoids false links such as Beatrice Pike
+# being linked to Beatrice Thorne.
+CURATED_SHORT_ALIASES: dict[str, tuple[str, ...]] = {
+    "Captain_Mara_Voss.md": ("Mara",),
+    "Chancellor_Octavia_Vale.md": ("Octavia",),
+    "Chief_Inspector_Beatrice_Thorne.md": ("Thorne",),
+    "Juniper_Bell.md": ("Juniper",),
+    "Pip.md": ("Pip",),
+    "Silas_Rook_The_Stillmaker.md": ("Silas", "Rook"),
+    "Tamsin_Pike.md": ("Tamsin",),
+    "Professor_Elias_Hawthorne.md": ("Elias",),
+    "Amelia_Hawthorne.md": ("Amelia",),
+    "Doctor_Elara_Quill.md": ("Elara",),
+    "Master_Gideon_Brasswell.md": ("Gideon",),
+    "Orin_Flint.md": ("Orin",),
+    "Lucian_Wren.md": ("Lucian",),
+    "Barnaby_Wren.md": ("Barnaby",),
+    "Madame_Celestine_Mirrow.md": ("Celestine",),
+}
 
 
 @dataclass(frozen=True)
@@ -115,7 +139,6 @@ def split_front_matter(text: str) -> tuple[str, str]:
 
 
 def parse_simple_yaml(front_matter: str) -> dict[str, object]:
-    """Parse the small YAML subset used by the canon records."""
     data: dict[str, object] = {}
     current_list: str | None = None
     for raw in front_matter.splitlines():
@@ -154,16 +177,8 @@ def filename_alias(path: Path) -> str:
     return stem.replace("_", " ").strip()
 
 
-def article_free_alias(text: str) -> str | None:
-    if not text.casefold().startswith("the "):
-        return None
-    remainder = text[4:].strip()
-    words = re.findall(r"[A-Za-zÀ-ÖØ-öø-ÿ0-9'’.-]+", remainder)
-    if len(words) >= 2:
-        return remainder
-    if len(words) == 1 and words[0].casefold() in DISTINCTIVE_ARTICLE_FREE:
-        return remainder
-    return None
+def default_case_sensitive(text: str) -> bool:
+    return len(text.split()) == 1
 
 
 def build_aliases(
@@ -177,62 +192,53 @@ def build_aliases(
     display = name or (title if kind == "character" and title else None) or heading or filename_alias(path)
     aliases: list[Alias] = []
 
-    def add(text: str | None, *, case_sensitive: bool = False) -> None:
+    def add(text: str | None, *, case_sensitive: bool | None = None) -> None:
         if not text:
             return
         text = text.strip()
         if not text or text.casefold() in AMBIGUOUS_SHORTHAND:
             return
+        if case_sensitive is None:
+            case_sensitive = default_case_sensitive(text)
         key = (text.casefold(), case_sensitive)
         if any((item.text.casefold(), item.case_sensitive) == key for item in aliases):
             return
         aliases.append(Alias(text=text, case_sensitive=case_sensitive))
 
-    add(display, case_sensitive=kind == "character" and len(display.split()) == 1)
+    add(display)
     if name and name.casefold() != display.casefold():
-        add(name, case_sensitive=kind == "character" and len(name.split()) == 1)
+        add(name)
 
-    # Explicit aliases are curated canon, except ambiguous generic shorthand.
     declared = metadata.get("aliases")
     if isinstance(declared, list):
         for item in declared:
             if isinstance(item, str):
-                add(item, case_sensitive=kind == "character" and len(item.split()) == 1)
+                add(item)
 
-    # Full character titles and formal titles are linkable when documented.
-    if kind == "character":
-        add(title)
-        formal_title = metadata.get("formal_title")
-        if isinstance(formal_title, str):
-            add(formal_title)
-        elif isinstance(formal_title, list):
-            for item in formal_title:
-                if isinstance(item, str):
-                    add(item)
+    # Link article-free variants only when they remain distinctive. Multiword
+    # official names are safe; single-word proper nouns remain case-sensitive.
+    for alias in list(aliases):
+        if alias.text.casefold().startswith("the "):
+            remainder = alias.text[4:].strip()
+            if len(remainder.split()) >= 2 or remainder in {"Cauldron", "Stillmaker", "Underclock", "Unwound"}:
+                add(remainder, case_sensitive=default_case_sensitive(remainder))
 
-    # The eight founding guild names share the umbrella organization's profile.
+    if kind == "character" and name:
+        plain = HONORIFIC_RE.sub("", re.sub(r"\([^)]*\)", "", name)).strip()
+        if plain and not plain.casefold().startswith("the "):
+            add(plain)
+        for short in CURATED_SHORT_ALIASES.get(path.name, ()):
+            add(short, case_sensitive=True)
+
+    # The umbrella founding-guild profile historically listed member_guilds. When
+    # dedicated guild files exist, duplicate alias filtering below gives ownership
+    # to the dedicated profile rather than the umbrella record.
     if kind == "organization":
         member_guilds = metadata.get("member_guilds")
         if isinstance(member_guilds, list):
             for item in member_guilds:
                 if isinstance(item, str):
                     add(item)
-
-    # Add safe article-free variants of complete names only.
-    for alias in list(aliases):
-        add(article_free_alias(alias.text), case_sensitive=alias.case_sensitive)
-
-    # Derive normal personal references from the primary character name. These
-    # short aliases are case-sensitive to avoid lowercase ordinary-word matches.
-    if kind == "character" and name:
-        plain = HONORIFIC_RE.sub("", re.sub(r"\([^)]*\)", "", name)).strip()
-        if not plain.casefold().startswith("the "):
-            words = re.findall(r"[A-Za-zÀ-ÖØ-öø-ÿ][A-Za-zÀ-ÖØ-öø-ÿ'’.-]*", plain)
-            if 2 <= len(words) <= 3:
-                add(words[0], case_sensitive=True)
-                surname = words[-1]
-                if surname not in AMBIGUOUS_SURNAMES:
-                    add(surname, case_sensitive=True)
 
     return display, aliases
 
@@ -251,7 +257,6 @@ def discover_entities() -> list[Entity]:
             display, aliases = build_aliases(kind, metadata, first_h1(body), path)
             provisional.append((kind, path, display, aliases))
 
-    # Remove aliases that resolve to multiple files. Exact display names remain.
     owners: dict[str, set[Path]] = {}
     for _, path, _, aliases in provisional:
         for alias in aliases:
@@ -289,9 +294,65 @@ def alias_pattern(alias: Alias) -> re.Pattern[str]:
     return re.compile(rf"(?<![\w]){escaped}(?![\w])", flags)
 
 
+def entity_for_target(source: Path, target: str, by_path: dict[Path, Entity]) -> Entity | None:
+    clean = target.split("#", 1)[0]
+    try:
+        resolved = (source.parent / clean).resolve()
+    except OSError:
+        return None
+    return by_path.get(resolved)
+
+
+def alias_owner(text: str, entities: list[Entity]) -> Entity | None:
+    matches: list[Entity] = []
+    for entity in entities:
+        if any(alias.text.casefold() == text.casefold() for alias in entity.aliases):
+            matches.append(entity)
+    unique = {entity.path: entity for entity in matches}
+    return next(iter(unique.values())) if len(unique) == 1 else None
+
+
+def repair_existing_links(line: str, source: Path, entities: list[Entity]) -> str:
+    by_path = {entity.path.resolve(): entity for entity in entities}
+
+    # Combine adjacent links to the same target, such as [Mara](...) [Voss](...).
+    adjacent = re.compile(r"\[([^\]]+)\]\(([^)]+\.md)\)\s+\[([^\]]+)\]\(\2\)")
+    while True:
+        updated = adjacent.sub(lambda m: f"[{m.group(1)} {m.group(3)}]({m.group(2)})", line)
+        if updated == line:
+            break
+        line = updated
+
+    # Repair a linked first name followed by an unlinked surname. The combined
+    # name may belong to the same entity or a different one, as with Beatrice Pike.
+    partial = re.compile(r"\[([A-Z][A-Za-zÀ-ÖØ-öø-ÿ'’.-]+)\]\(([^)]+\.md)\)\s+([A-Z][A-Za-zÀ-ÖØ-öø-ÿ'’.-]+)")
+
+    def repair_partial(match: re.Match[str]) -> str:
+        combined = f"{match.group(1)} {match.group(3)}"
+        owner = alias_owner(combined, entities)
+        if not owner:
+            return match.group(0)
+        return f"[{combined}]({relative_target(source, owner.path)})"
+
+    line = partial.sub(repair_partial, line)
+
+    # Remove clearly ambiguous or lowercase auto-links created by older passes.
+    def clean_link(match: re.Match[str]) -> str:
+        anchor, target = match.groups()
+        entity = entity_for_target(source, target, by_path)
+        if not entity:
+            return match.group(0)
+        stripped = re.sub(r"[*_`]", "", anchor).strip()
+        if stripped.casefold() in AMBIGUOUS_SHORTHAND:
+            return anchor
+        if stripped and stripped == stripped.casefold() and entity.kind in {"character", "organization", "location"}:
+            return anchor
+        return match.group(0)
+
+    return INLINE_LINK_RE.sub(clean_link, line)
+
+
 def link_plain_segment(segment: str, source: Path, entities: list[Entity]) -> str:
-    # Find candidates against the original segment and render once, preventing
-    # substitutions from matching text or paths inside newly inserted links.
     candidates: list[tuple[int, int, Entity, str]] = []
     for entity in entities:
         if entity.path == source:
@@ -327,6 +388,7 @@ def link_line(line: str, source: Path, entities: list[Entity]) -> str:
     if re.match(r"^\s*\[[^\]]+\]:\s", line) or re.match(r"^\s*<!--", line):
         return line
 
+    line = repair_existing_links(line, source, entities)
     pieces: list[str] = []
     cursor = 0
     for match in PROTECTED_RE.finditer(line):

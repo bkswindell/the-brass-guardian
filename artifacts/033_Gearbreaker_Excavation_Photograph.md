@@ -23,7 +23,7 @@ canonical_images:
 
 ## Canonical Purpose
 
-Establishes the wall’s enormous scale and six empty sockets. Amelia should not yet appear in the image.
+Establishes the wall’s enormous scale and six empty sockets. [Amelia](../characters/Amelia_Hawthorne.md) should not yet appear in the image.
 
 ## Intended Form
 

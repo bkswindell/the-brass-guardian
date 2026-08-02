@@ -143,7 +143,7 @@ The plate visually presents the crest as both a Hawthorne family emblem and an e
 
 The crest’s key motif visually resembles the key imagery associated with [The Six-Key Sigil](003_The_Six_Key_Sigil.md), but the exact relationship remains unresolved unless established in linked story canon.
 
-The plate names the *Wayfinder* and Professor Elias Hawthorne, but full profiles for Elias and Amelia remain intentionally deferred. Broader history belongs in their eventual character profiles and in files related to the [Wayfinder technical plate](007_The_Wayfinder_Technical_Plate.md).
+The plate names the *Wayfinder* and [Professor Elias Hawthorne](../characters/Professor_Elias_Hawthorne.md), but full profiles for [Elias](../characters/Professor_Elias_Hawthorne.md) and [Amelia](../characters/Amelia_Hawthorne.md) remain intentionally deferred. Broader history belongs in their eventual character profiles and in files related to the [Wayfinder technical plate](007_The_Wayfinder_Technical_Plate.md).
 
 ## Related Canon
 

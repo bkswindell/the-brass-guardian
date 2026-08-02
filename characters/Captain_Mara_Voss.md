@@ -30,17 +30,17 @@ temporal_relevance: High
 
 ## Canonical Summary
 
-Captain Mara Voss once commanded the celebrated exploration vessel *Resolute*. She now governs Aetherhaven's [Aerial Docks](../locations/The_Aerial_Docks.md) and oversees the smaller emergency landing platform near the Clockwork Gardens. She knows every reputable captain, unreliable smuggler, customs officer, dock mechanic, and airship worth knowing—and several vessels that officially do not exist.
+Captain Mara Voss once commanded the celebrated exploration vessel *Resolute*. She now governs [Aetherhaven](../locations/Aetherhaven.md)'s [Aerial Docks](../locations/The_Aerial_Docks.md) and oversees the smaller emergency landing platform near [the Clockwork Gardens](../locations/The_Clockwork_Gardens.md). She knows every reputable captain, unreliable smuggler, customs officer, dock mechanic, and airship worth knowing—and several vessels that officially do not exist.
 
-Blunt, fearless, and fiercely loyal, Mara treats Amelia Hawthorne as a genuine explorer rather than a child accompanying adults. She trusts Amelia with real responsibility, though she occasionally conspires with Elias to keep particularly dangerous information from her. Amelia has learned that Mara's silences usually conceal concern rather than distrust.
+Blunt, fearless, and fiercely loyal, Mara treats [Amelia Hawthorne](Amelia_Hawthorne.md) as a genuine explorer rather than a child accompanying adults. She trusts [Amelia](Amelia_Hawthorne.md) with real responsibility, though she occasionally conspires with [Elias](Professor_Elias_Hawthorne.md) to keep particularly dangerous information from her. [Amelia](Amelia_Hawthorne.md) has learned that Mara's silences usually conceal concern rather than distrust.
 
-Mara and Elias share a long history of expeditions aboard the *Resolute*. Their friendship survived storms, mechanical failures, Council inquiries, and the expedition that changed Amelia's life. Mara is one of the few people who can challenge Elias when his fear for his daughter begins outweighing his faith in her.
+Mara and [Elias](Professor_Elias_Hawthorne.md) share a long history of expeditions aboard the *Resolute*. Their friendship survived storms, mechanical failures, Council inquiries, and the expedition that changed [Amelia](Amelia_Hawthorne.md)'s life. Mara is one of the few people who can challenge [Elias](Professor_Elias_Hawthorne.md) when his fear for his daughter begins outweighing his faith in her.
 
 The *Resolute* disappeared during its final voyage and returned seven months later with every clock aboard running backward. Mara insists only nineteen days passed for the crew. The official record identifies her as the vessel's only remaining passenger, though she was its captain. Its crew manifests now contradict one another, and several names Mara remembers no longer appear in any public record.
 
 Mara refuses to describe everything that happened during the voyage. She does, however, maintain a private black ledger of ships, passengers, and arrivals that official records forget, alter, or reject.
 
-She confiscated [the Passenger of Dock Zero](The_Passenger_of_Dock_Zero.md)'s future-coded ticket after repeated attempts to enter the reserved Morningstar berth. The damaged name field cannot confirm that the ticket belongs to him, but symbols within its transit code match markings Mara saw during the *Resolute's* final voyage.
+She confiscated [the Passenger of Dock Zero](The_Passenger_of_Dock_Zero.md)'s future-coded ticket after repeated attempts to enter the reserved [Morningstar berth](../locations/The_Morningstar_Berth.md). The damaged name field cannot confirm that the ticket belongs to him, but symbols within its transit code match markings Mara saw during the *Resolute's* final voyage.
 
 She has not told the Passenger that the Morningstar may not arrive for forty-seven years.
 
@@ -50,7 +50,7 @@ Each night, before leaving her office, Mara looks toward the empty reserved bert
 
 ## Public Role
 
-Mara has practical authority over Aetherhaven's incoming and outgoing air traffic. [The High Council](../organizations/The_High_Council_of_Aetherhaven.md) may issue regulations, but Mara determines whether a damaged vessel may land, whether suspicious cargo is isolated, and whether a traveler without proper records is treated as a threat, a fraud, or someone who needs help.
+Mara has practical authority over [Aetherhaven](../locations/Aetherhaven.md)'s incoming and outgoing air traffic. [The High Council](../organizations/The_High_Council_of_Aetherhaven.md) may issue regulations, but Mara determines whether a damaged vessel may land, whether suspicious cargo is isolated, and whether a traveler without proper records is treated as a threat, a fraud, or someone who needs help.
 
 Her jurisdiction includes:
 
@@ -58,20 +58,20 @@ Her jurisdiction includes:
 - Emergency and experimental landing platforms.
 - Customs inspection and quarantine decisions.
 - Restricted docking incidents.
-- The permanently reserved Morningstar berth near the Clockwork Gardens.
+- The permanently reserved [Morningstar berth](../locations/The_Morningstar_Berth.md) near [the Clockwork Gardens](../locations/The_Clockwork_Gardens.md).
 - Coordination with [the Brass Watch](../organizations/The_Brass_Watch.md) during dockside investigations.
 
 Mara's authority is strengthened by the loyalty of [the Aerial Mariners' Union](../organizations/The_Aerial_Mariners_Union.md). She refuses its formal leadership, but the Union is likely to support her over [the High Council](../organizations/The_High_Council_of_Aetherhaven.md) in disputes involving dock autonomy or flight safety.
 
 ## Character Function
 
-Mara is one of Aetherhaven's gatekeepers. She stands between the city and everything arriving from beyond it: ships, passengers, rumors, foreign cargo, temporal anomalies, and dangers without valid paperwork.
+Mara is one of [Aetherhaven](../locations/Aetherhaven.md)'s gatekeepers. She stands between the city and everything arriving from beyond it: ships, passengers, rumors, foreign cargo, temporal anomalies, and dangers without valid paperwork.
 
 Narratively, she provides:
 
 - A grounded adult perspective on impossible events.
-- A mentor who respects Amelia's capability.
-- A counterweight to Elias's protectiveness.
+- A mentor who respects [Amelia](Amelia_Hawthorne.md)'s capability.
+- A counterweight to [Elias](Professor_Elias_Hawthorne.md)'s protectiveness.
 - Access to airships, docks, smugglers, manifests, and foreign visitors.
 - A living connection to the series' temporal mystery.
 - A source of incomplete but reliable evidence.
@@ -88,7 +88,7 @@ She distinguishes between:
 - secrecy and guilt,
 - reckless courage and competent risk.
 
-She is compassionate without being sentimental. She may help smugglers or fugitives when she believes the law is being used unjustly, but she will not knowingly help anyone harm Aetherhaven.
+She is compassionate without being sentimental. She may help smugglers or fugitives when she believes the law is being used unjustly, but she will not knowingly help anyone harm [Aetherhaven](../locations/Aetherhaven.md).
 
 Her guiding rule is:
 
@@ -111,25 +111,25 @@ Her guiding rule is:
 - Can become controlling when temporal warning signs appear.
 - Fears forgetting her crew more than she fears death.
 
-## Relationship with Elias Hawthorne
+## Relationship with [Elias Hawthorne](Professor_Elias_Hawthorne.md)
 
-Mara and Elias knew each other before Amelia became an explorer. The *Resolute* carried Elias on several early expeditions beyond established air routes. Mara trusted Elias when maps and instruments failed; Elias trusted Mara to bring the vessel home.
+Mara and [Elias](Professor_Elias_Hawthorne.md) knew each other before [Amelia](Amelia_Hawthorne.md) became an explorer. The *Resolute* carried [Elias](Professor_Elias_Hawthorne.md) on several early expeditions beyond established air routes. Mara trusted [Elias](Professor_Elias_Hawthorne.md) when maps and instruments failed; [Elias](Professor_Elias_Hawthorne.md) trusted Mara to bring the vessel home.
 
 Their friendship is built on mutual respect, frequent arguments, and shared history.
 
-Mara believes Elias is one of the finest mechanists alive. She also believes his curiosity becomes dangerous when he thinks an ancient machine may contain an answer.
+Mara believes [Elias](Professor_Elias_Hawthorne.md) is one of the finest mechanists alive. She also believes his curiosity becomes dangerous when he thinks an ancient machine may contain an answer.
 
-Elias considers Mara one of the finest captains ever to command an airship. He also knows she assumes responsibility for disasters no captain could have prevented.
+[Elias](Professor_Elias_Hawthorne.md) considers Mara one of the finest captains ever to command an airship. He also knows she assumes responsibility for disasters no captain could have prevented.
 
 Mara is willing to confront him directly:
 
 > Protecting her does not mean deciding who she is allowed to become.
 
-## Relationship with Amelia Hawthorne
+## Relationship with [Amelia Hawthorne](Amelia_Hawthorne.md)
 
-Mara treats Amelia as a real explorer and expects preparation, judgment, and accountability.
+Mara treats [Amelia](Amelia_Hawthorne.md) as a real explorer and expects preparation, judgment, and accountability.
 
-She may assign Amelia to:
+She may assign [Amelia](Amelia_Hawthorne.md) to:
 
 - Check mooring tension.
 - Read wind and aether vanes.
@@ -138,9 +138,9 @@ She may assign Amelia to:
 - Compare transit markings.
 - Identify unusual Aether Heart responses.
 
-Mara does not praise Amelia merely for bravery. She praises observation, preparation, restraint, and knowing when to ask for help.
+Mara does not praise [Amelia](Amelia_Hawthorne.md) merely for bravery. She praises observation, preparation, restraint, and knowing when to ask for help.
 
-Mara may become one of the first adults to realize Amelia notices temporal discrepancies that other people unconsciously disregard.
+Mara may become one of the first adults to realize [Amelia](Amelia_Hawthorne.md) notices temporal discrepancies that other people unconsciously disregard.
 
 ## Relationship with [Chancellor Octavia Vale](Chancellor_Octavia_Vale.md)
 
@@ -162,7 +162,7 @@ Despite the conflict, they trust one another in genuine emergencies. Both value 
 
 ## Relationship with [the Passenger of Dock Zero](The_Passenger_of_Dock_Zero.md)
 
-Mara confiscated the Passenger's ticket after repeated attempts to access the reserved Morningstar berth.
+Mara confiscated the Passenger's ticket after repeated attempts to access the reserved [Morningstar berth](../locations/The_Morningstar_Berth.md).
 
 The ticket was found in his possession. Its damaged passenger field contains traces of a name, but not enough to verify that it was issued to him. It may have been his, inherited, entrusted to him, or carried from another chronology.
 
@@ -218,7 +218,7 @@ The other Mara was not alone.
 
 ## Temporal Significance
 
-Mara is one of the strongest living witnesses to Aetherhaven's temporal fluidity.
+Mara is one of the strongest living witnesses to [Aetherhaven](../locations/Aetherhaven.md)'s temporal fluidity.
 
 Her evidence supports the following canon:
 
@@ -229,9 +229,9 @@ Her evidence supports the following canon:
 - Some individuals remember histories no longer reflected in public records.
 - Temporal anomalies can involve vessels, crews, and routes—not only clocks.
 
-## The Morningstar Berth
+## [The Morningstar Berth](../locations/The_Morningstar_Berth.md)
 
-The Morningstar berth is permanently reserved despite the absence of a vessel registry.
+[The Morningstar berth](../locations/The_Morningstar_Berth.md) is permanently reserved despite the absence of a vessel registry.
 
 Attempts to remove or reassign the berth have failed:
 
@@ -243,7 +243,7 @@ Attempts to remove or reassign the berth have failed:
 
 Mara no longer permits changes to the berth.
 
-She suspects it is a chronal anchor: a physical point preserved so the Morningstar can eventually find Aetherhaven.
+She suspects it is a chronal anchor: a physical point preserved so the Morningstar can eventually find [Aetherhaven](../locations/Aetherhaven.md).
 
 ## The Harbormaster's Black Ledger
 
@@ -275,7 +275,7 @@ Mara does not remember writing it.
 
 A heavy brass clock recovered from the *Resolute*. Its hands move backward, but it does not measure ordinary time. Its face sometimes displays dates, coordinates, or unfamiliar constellations.
 
-It accelerates when the Passenger approaches Dock Zero.
+It accelerates when the Passenger approaches [Dock Zero](../locations/Dock_Zero.md).
 
 It has begun counting toward the same interpreted window as the Morningstar ticket.
 
@@ -319,7 +319,7 @@ Persistent visual elements:
 
 ### The Harbormaster's Black Ledger
 
-Pages disappear from Mara's private ledger. The missing entries correspond to vessels currently approaching Aetherhaven.
+Pages disappear from Mara's private ledger. The missing entries correspond to vessels currently approaching [Aetherhaven](../locations/Aetherhaven.md).
 
 ### The Twelfth Crew Member
 
@@ -335,7 +335,7 @@ Dockworkers report seeing the *Resolute* moored at an abandoned platform while t
 
 ### The Names the City Forgot
 
-Mara awakens unable to remember one crew member. Amelia uses the Aether Gauntlet, Reflection Canals, and anchored dock records to restore the identity.
+Mara awakens unable to remember one crew member. [Amelia](Amelia_Hawthorne.md) uses the Aether Gauntlet, [Reflection Canals](../locations/The_Reflection_Canals.md), and anchored dock records to restore the identity.
 
 ### The Final Signal of the Resolute
 
@@ -368,15 +368,15 @@ A distress signal arrives through obsolete dock equipment. The transmission is i
 ## Continuity Constraints
 
 - Mara must not be reduced to a generic stern authority figure.
-- She is protective of Amelia but respects her agency and competence.
+- She is protective of [Amelia](Amelia_Hawthorne.md) but respects her agency and competence.
 - She has no evidence sufficient to imprison the Passenger and would oppose unjust detention.
 - She takes strange evidence seriously while demanding practical verification.
 - The *Resolute* mystery must remain unresolved across early volumes.
 - Her missing crew remain emotionally important, not merely a plot device.
 - Temporal contradictions surrounding Mara should leave physical or documentary residue.
-- Her loyalty to Elias does not prevent her from challenging him.
+- Her loyalty to [Elias](Professor_Elias_Hawthorne.md) does not prevent her from challenging him.
 - Her connection to smugglers and [the Underclock](../organizations/The_Underclock.md) is pragmatic, not criminal allegiance.
-- The Morningstar berth remains reserved and physically persistent.
+- [The Morningstar berth](../locations/The_Morningstar_Berth.md) remains reserved and physically persistent.
 
 ## Open Canon Questions
 
@@ -386,7 +386,7 @@ These are intentionally unresolved:
 2. What happened to its crew?
 3. Why do records increasingly describe Mara as a passenger?
 4. Who wrote the first entry in the black ledger?
-5. Is the Morningstar berth preserving the future—or causing it?
+5. Is [the Morningstar berth](../locations/The_Morningstar_Berth.md) preserving the future—or causing it?
 6. Why does the backward chronometer respond to the Passenger?
 7. Is the older Mara still alive in another chronology?
 8. Why must a future version of Mara not board the Morningstar?

@@ -18,7 +18,7 @@ visual_transcription_status: complete
 
 # The Changing Paths of the Gardens
 
-> **Artifact Image Slate #18** · The Clockwork Gardens · [Artifact standard](../CANON_MARKDOWN_STANDARD.md)
+> **Artifact Image Slate #18** · [The Clockwork Gardens](../locations/The_Clockwork_Gardens.md) · [Artifact standard](../CANON_MARKDOWN_STANDARD.md)
 
 ## Visual Reference
 
@@ -35,15 +35,15 @@ visual_transcription_status: complete
 
 Two active plates document the changing paths. They contain overlapping but contradictory dates, catalog numbers, place names, and survey histories. Each plate is transcribed independently.
 
-## Variant A — Three Surveys of Aetherhaven’s Clockwork Gardens
+## Variant A — Three Surveys of [Aetherhaven](../locations/Aetherhaven.md)’s [Clockwork Gardens](../locations/The_Clockwork_Gardens.md)
 
 ### Archive heading and identification
 
-- **AETHERHAVEN ARCHIVES**
+- **[AETHERHAVEN ARCHIVES](../organizations/The_Aetherhaven_Archives.md)**
 - **ARTIFACT FILE**
 - **CATALOG No.** `AH-1-008`
 - **The Changing Paths of the Gardens**
-- **THREE SURVEYS OF AETHERHAVEN’S CLOCKWORK GARDENS**
+- **THREE SURVEYS OF AETHERHAVEN’S [CLOCKWORK GARDENS](../locations/The_Clockwork_Gardens.md)**
 
 ### Introductory statement
 
@@ -55,7 +55,7 @@ Two active plates document the changing paths. They contain overlapping but cont
 - **Pre-Rising**
 - `12th of Emberfall, 447 AE`
 
-> Before the waters came. The Gardens rested upon ancient ground. Streams and irrigation channels fed the Aetherium at the center.
+> Before the waters came. The Gardens rested upon ancient ground. Streams and irrigation channels fed [the Aetherium](../locations/The_Aetherium.md) at the center.
 
 **KEY NOTES**
 
@@ -98,17 +98,17 @@ Caption: **EAST PAVILION (Under Construction)**
 - Districts established along the canals
 - Major structures near completion
 
-Caption: **GRAND ATRIUM (Early Construction)**
+Caption: **[GRAND ATRIUM](../locations/The_Grand_Atrium.md) (Early Construction)**
 
-### Society of Explorers note
+### [Society of Explorers](../organizations/The_Society_of_Explorers.md) note
 
-- **NOTES FROM THE SOCIETY OF EXPLORERS**
+- **NOTES FROM [THE SOCIETY OF EXPLORERS](../organizations/The_Society_of_Explorers.md)**
 
 > The Gardens did not remain unchanged after the Rising. Engineers recorded accelerated growth of waterways and the expansion of districts in the decades that followed. These are the earliest known maps after the waters came.
 
 ### Legend
 
-- **Aetherium (Heart Engine)**
+- **[Aetherium](../locations/The_Aetherium.md) ([Heart Engine](../locations/The_Aetherium.md))**
 - **Primary Gates**
 - **Bridges & Causeways**
 - **Districts / Buildings**
@@ -148,7 +148,7 @@ Caption: **GRAND ATRIUM (Early Construction)**
 
 ### Archive heading and identification
 
-- **AETHERHAVEN ARCHIVES**
+- **[AETHERHAVEN ARCHIVES](../organizations/The_Aetherhaven_Archives.md)**
 - **ARTIFACT FILE**
 - **CATALOG No.** `AH-1-007`
 - **The Changing Paths of the Gardens**
@@ -211,7 +211,7 @@ A compass is marked `N`, `E`, `S`, and `W`.
 
 ### Survey notes
 
-> All surveys conducted from the Academy spire using aether-lens elevation.  
+> All surveys conducted from [the Academy](../organizations/The_Academy_of_Invention.md) spire using aether-lens elevation.
 > No evidence of recent construction or disruption between observations.  
 > Garden self-reconfigures.
 
@@ -254,7 +254,7 @@ No redactions, signatures, or confidentiality stamps are visible on either plate
 
 ## Non-Visual Canon References and Story Context
 
-Current canon treats the Clockwork Gardens as living, self-reconfiguring, and capable of hidden layers, including [The Moon Garden](../locations/The_Moon_Garden.md). [Juniper Bell](../characters/Juniper_Bell.md) can work with the Gardens to reveal or limit access but does not command them.
+Current canon treats [the Clockwork Gardens](../locations/The_Clockwork_Gardens.md) as living, self-reconfiguring, and capable of hidden layers, including [The Moon Garden](../locations/The_Moon_Garden.md). [Juniper Bell](../characters/Juniper_Bell.md) can work with the Gardens to reveal or limit access but does not command them.
 
 The two active plates are preserved as variant records rather than reconciled history. Their date systems, use of “Elderglen Garden,” and descriptions of the Rising may represent different surveys, competing archives, earlier art iterations, or chronology changes. No single explanation is selected here.
 

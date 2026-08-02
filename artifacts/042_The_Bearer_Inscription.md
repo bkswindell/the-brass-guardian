@@ -15,7 +15,7 @@ canonical_images:
 
 # The Bearer Inscription
 
-> **Artifact Image Slate #42** · The Door That Remembered Amelia · [Artifact standard](../CANON_MARKDOWN_STANDARD.md)
+> **Artifact Image Slate #42** · The Door That Remembered [Amelia](../characters/Amelia_Hawthorne.md) · [Artifact standard](../CANON_MARKDOWN_STANDARD.md)
 
 ## Visual Reference
 
@@ -23,7 +23,7 @@ canonical_images:
 
 ## Canonical Purpose
 
-Introduces Amelia’s ancient title: Bearer of the Living Key. Leave part of the translation deliberately incomplete.
+Introduces [Amelia](../characters/Amelia_Hawthorne.md)’s ancient title: Bearer of the Living Key. Leave part of the translation deliberately incomplete.
 
 ## Intended Form
 

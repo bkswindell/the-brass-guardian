@@ -23,7 +23,7 @@ canonical_images:
 
 ## Canonical Purpose
 
-Visually establishes that Amelia’s arm becomes stronger where every other machine fails.
+Visually establishes that [Amelia](../characters/Amelia_Hawthorne.md)’s arm becomes stronger where every other machine fails.
 
 ## Intended Form
 

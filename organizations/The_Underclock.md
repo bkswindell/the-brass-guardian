@@ -32,7 +32,7 @@ temporal_relevance: High
 
 ## Canonical Summary
 
-The Underclock is a loose alliance of smugglers, canal runners, tunnel guides, couriers, sanctuary keepers, mechanics, and information brokers operating beneath and between Aetherhaven's recognized districts.
+The Underclock is a loose alliance of smugglers, canal runners, tunnel guides, couriers, sanctuary keepers, mechanics, and information brokers operating beneath and between [Aetherhaven](../locations/Aetherhaven.md)'s recognized districts.
 
 It is not primarily malicious.
 
@@ -162,8 +162,8 @@ remains unresolved.
 
 The Underclock connects [the Cauldron](../locations/The_Cauldron.md) to:
 
-- the Canal District,
-- Old City,
+- [the Canal District](../locations/The_Canal_District.md),
+- [Old City](../locations/The_Old_City.md),
 - [Entertainment District](../locations/The_Entertainment_District.md),
 - industrial service corridors,
 - and forgotten maintenance routes.
@@ -172,7 +172,7 @@ The Underclock connects [the Cauldron](../locations/The_Cauldron.md) to:
 
 The Underclock relies on [Cauldron](../locations/The_Cauldron.md) markets, safe houses, and tunnel access.
 
-The Cinder Regent tolerates the network because it provides routes beyond official control.
+[The Cinder Regent](../characters/The_Cinder_Regent.md) tolerates the network because it provides routes beyond official control.
 
 ## Relationship with [the Unwound](The_Unwound.md)
 
@@ -330,7 +330,7 @@ An Order Warden seals a route the Underclock has used for generations, claiming 
 
 ### The Unfinished Handoff
 
-Amelia reconstructs the last known route of Prototype I through fragments preserved by three different couriers.
+[Amelia](../characters/Amelia_Hawthorne.md) reconstructs the last known route of Prototype I through fragments preserved by three different couriers.
 
 ## Staged Revelations
 

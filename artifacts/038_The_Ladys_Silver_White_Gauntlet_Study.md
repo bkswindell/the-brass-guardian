@@ -22,11 +22,11 @@ canonical_images:
 
 ## Canonical Purpose
 
-Similar to Amelia’s arm but more advanced, elegant, and nearly seamless.
+Similar to [Amelia](../characters/Amelia_Hawthorne.md)’s arm but more advanced, elegant, and nearly seamless.
 
 ## Intended Form
 
-Sketch reconstructed from Amelia’s memory.
+Sketch reconstructed from [Amelia](../characters/Amelia_Hawthorne.md)’s memory.
 
 ## Related Canon
 

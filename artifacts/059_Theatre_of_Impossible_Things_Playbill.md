@@ -22,7 +22,7 @@ canonical_images:
 
 ## Canonical Purpose
 
-Introduces Madame Celestine Mirrow and the theatre’s predictive performances.
+Introduces [Madame Celestine Mirrow](../characters/Madame_Celestine_Mirrow.md) and the theatre’s predictive performances.
 
 ## Intended Form
 

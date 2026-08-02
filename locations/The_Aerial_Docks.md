@@ -42,25 +42,25 @@ temporal_relevance: Critical
 
 ## Public Map Reference
 
-The Aerial Docks are Aetherhaven's great gateway to the skies, where elevated mooring towers, cargo cranes, customs platforms, and immense dirigible hangars rise above a constant bustle of crews, merchants, couriers, and travelers.
+The Aerial Docks are [Aetherhaven](Aetherhaven.md)'s great gateway to the skies, where elevated mooring towers, cargo cranes, customs platforms, and immense dirigible hangars rise above a constant bustle of crews, merchants, couriers, and travelers.
 
-From the **Mooring Crown**, vessels depart for the Skyward Isles, Cloudspire, and settlements throughout the known world. Visitors can watch cargo move through the **Customs Concourse**, explore the busy **Cargo Exchange**, or admire the route maps and ship models displayed in the **Navigator's Gallery**.
+From the **Mooring Crown**, vessels depart for [the Skyward Isles](The_Skyward_Isles.md), [Cloudspire](Cloudspire.md), and settlements throughout the known world. Visitors can watch cargo move through the **Customs Concourse**, explore the busy **Cargo Exchange**, or admire the route maps and ship models displayed in the **Navigator's Gallery**.
 
 The port is governed by [Captain Mara Voss](../characters/Captain_Mara_Voss.md) from the **Harbormaster's Tower**, where every arrival and departure is recorded—at least in theory.
 
-At the far end of Hangar Row stands a locked structure marked **Dock Zero**. It predates the rest of the port and appears on no reliable construction record.
+At the far end of Hangar Row stands a locked structure marked **[Dock Zero](Dock_Zero.md)**. It predates the rest of the port and appears on no reliable construction record.
 
 On stormy nights, its mooring lights sometimes awaken by themselves, shining into empty clouds as though guiding a vessel that has not yet become visible.
 
 ## Canonical Summary
 
-The Aerial Docks are Aetherhaven's primary commercial airship port and its most important connection to the wider world.
+The Aerial Docks are [Aetherhaven](Aetherhaven.md)'s primary commercial airship port and its most important connection to the wider world.
 
 The district consists of elevated mooring towers, articulated cargo cranes, customs platforms, repair gantries, passenger concourses, warehouses, navigation halls, and massive dirigible hangars capable of sheltering vessels from severe aether storms.
 
-Its defining points of interest include the **Mooring Crown**, **Harbormaster's Tower**, **Customs Concourse**, **Cargo Exchange**, **Navigator's Gallery**, **Storm Lantern Array**, **Hangar Row**, the sealed **Quiet Hangar**, and the ancient structure known as **Dock Zero**.
+Its defining points of interest include the **Mooring Crown**, **Harbormaster's Tower**, **Customs Concourse**, **Cargo Exchange**, **Navigator's Gallery**, **Storm Lantern Array**, **Hangar Row**, the sealed **[Quiet Hangar](The_Quiet_Hangar.md)**, and the ancient structure known as **[Dock Zero](Dock_Zero.md)**.
 
-Ships depart for the Skyward Isles, Cloudspire, the Southern Seas, and other settlements across the known world. Early volumes may reference those regions through passengers, cargo, stories, and visiting vessels while keeping the main action within Aetherhaven.
+Ships depart for [the Skyward Isles](The_Skyward_Isles.md), [Cloudspire](Cloudspire.md), [the Southern Seas](The_Southern_Seas.md), and other settlements across the known world. Early volumes may reference those regions through passengers, cargo, stories, and visiting vessels while keeping the main action within [Aetherhaven](Aetherhaven.md).
 
 The port is orderly by necessity but never entirely predictable.
 
@@ -68,7 +68,7 @@ Weather changes quickly at altitude. Cargo arrives with incomplete records. Pass
 
 [Captain Mara Voss](../characters/Captain_Mara_Voss.md) governs the port through practical authority, long experience, and relationships that extend far beyond official registries.
 
-[The Brass Watch](../organizations/The_Brass_Watch.md) enforces criminal law and customs authority, but [Mara](../characters/Captain_Mara_Voss.md) controls whether a vessel may land, depart, remain quarantined, or be denied access to Aetherhaven's airspace.
+[The Brass Watch](../organizations/The_Brass_Watch.md) enforces criminal law and customs authority, but [Mara](../characters/Captain_Mara_Voss.md) controls whether a vessel may land, depart, remain quarantined, or be denied access to [Aetherhaven](Aetherhaven.md)'s airspace.
 
 Their jurisdictions overlap constantly.
 
@@ -101,7 +101,7 @@ The port supports thousands of workers:
 - merchants,
 - and innkeepers.
 
-Aetherhaven's markets depend heavily on the docks.
+[Aetherhaven](Aetherhaven.md)'s markets depend heavily on the docks.
 
 Delays caused by storms, strikes, sabotage, or temporal anomalies can create shortages throughout the city.
 
@@ -129,7 +129,7 @@ Her authority is strongest when an airship is:
 - threats to public safety,
 - and criminal investigations involving passengers or cargo.
 
-[Chief Inspector Beatrice Thorne](../characters/Chief_Inspector_Beatrice_Thorne.md) considers the docks one of Aetherhaven's most important intelligence points.
+[Chief Inspector Beatrice Thorne](../characters/Chief_Inspector_Beatrice_Thorne.md) considers the docks one of [Aetherhaven](Aetherhaven.md)'s most important intelligence points.
 
 [Mara](../characters/Captain_Mara_Voss.md) considers some Watch methods unnecessarily disruptive to safe port operations.
 
@@ -152,7 +152,7 @@ Experienced smugglers know that these overlapping authorities create gaps.
 
 ### The Mooring Crown
 
-The tallest cluster of airship towers in Aetherhaven.
+The tallest cluster of airship towers in [Aetherhaven](Aetherhaven.md).
 
 Its rotating platforms, articulated bridges, signal arms, and anchoring mechanisms can receive several large vessels at once. The upper observation decks offer extraordinary views of the city and surrounding skies.
 
@@ -171,13 +171,13 @@ It contains:
 - official ledgers,
 - and the private black ledger [Mara](../characters/Captain_Mara_Voss.md) keeps outside normal recordkeeping.
 
-The tower's highest windows face Dock Zero.
+The tower's highest windows face [Dock Zero](Dock_Zero.md).
 
 ### The Customs Concourse
 
 A broad complex of inspection platforms, passenger halls, declaration desks, baggage mechanisms, and guarded storage rooms.
 
-Travelers pass through language clerks, document examiners, health inspectors, and mechanical scanners before entering Aetherhaven.
+Travelers pass through language clerks, document examiners, health inspectors, and mechanical scanners before entering [Aetherhaven](Aetherhaven.md).
 
 The Concourse is one of [the Brass Watch](../organizations/The_Brass_Watch.md)'s busiest intelligence environments.
 
@@ -197,9 +197,9 @@ Some are brightly active around the clock.
 
 Others remain sealed for years.
 
-The numbered hangars become progressively older toward Dock Zero, though official plans claim they were built at the same time.
+The numbered hangars become progressively older toward [Dock Zero](Dock_Zero.md), though official plans claim they were built at the same time.
 
-### Dock Zero
+### [Dock Zero](Dock_Zero.md)
 
 A locked hangar and mooring complex that predates every other structure at the port.
 
@@ -242,11 +242,11 @@ Children visit to watch mechanical globes display trade routes.
 
 Experienced navigators sometimes notice routes appearing that no living captain has flown.
 
-### The Quiet Hangar
+### [The Quiet Hangar](The_Quiet_Hangar.md)
 
 An officially restricted quarantine and evidence hangar set apart from active traffic.
 
-Dockworkers avoid using its formal designation and call it the Quiet Hangar.
+Dockworkers avoid using its formal designation and call it [the Quiet Hangar](The_Quiet_Hangar.md).
 
 The *Resolute* is believed to remain sealed there under Harbormaster and Council authority.
 
@@ -262,13 +262,13 @@ He is secretive, impatient, confused, and persistent, but not violent.
 
 [Captain Mara Voss](../characters/Captain_Mara_Voss.md) found a future-coded Morningstar ticket in his possession. The ticket is currently held by the Archives under official verification.
 
-The Passenger's presence transforms Dock Zero from an architectural curiosity into an active unresolved case.
+The Passenger's presence transforms [Dock Zero](Dock_Zero.md) from an architectural curiosity into an active unresolved case.
 
 For full character canon, see [The Passenger of Dock Zero](../characters/The_Passenger_of_Dock_Zero.md).
 
 ## The Morningstar Connection
 
-Dock Zero and the reserved Morningstar berth near the Clockwork Gardens appear in different official systems.
+[Dock Zero](Dock_Zero.md) and the reserved [Morningstar berth](The_Morningstar_Berth.md) near [the Clockwork Gardens](The_Clockwork_Gardens.md) appear in different official systems.
 
 Nevertheless, several restricted records suggest they share:
 
@@ -279,7 +279,7 @@ Nevertheless, several restricted records suggest they share:
 
 The exact relationship remains unresolved.
 
-A working theory is that Dock Zero may be:
+A working theory is that [Dock Zero](Dock_Zero.md) may be:
 
 - the Morningstar's commercial arrival point,
 - a customs or transfer hangar,
@@ -301,9 +301,9 @@ Contradictory crew manifests, altered incident reports, and sealed evidence rema
 - Harbormaster records,
 - [Brass Watch](../organizations/The_Brass_Watch.md) files,
 - Council archives,
-- and the Quiet Hangar.
+- and [the Quiet Hangar](The_Quiet_Hangar.md).
 
-The port contains more physical evidence of the *Resolute* anomaly than any other public location in Aetherhaven.
+The port contains more physical evidence of the *Resolute* anomaly than any other public location in [Aetherhaven](Aetherhaven.md).
 
 ## Temporal Anomalies
 
@@ -326,7 +326,7 @@ The Second Watch maintains a regular presence at the docks.
 
 ## Relationship with the Wider World
 
-The docks allow distant regions to influence Aetherhaven without requiring the series to leave the city.
+The docks allow distant regions to influence [Aetherhaven](Aetherhaven.md) without requiring the series to leave the city.
 
 Stories may introduce the wider world through:
 
@@ -336,9 +336,9 @@ Stories may introduce the wider world through:
 - unusual cargo,
 - damaged vessels,
 - travelers with conflicting histories,
-- and stories told by Elias or [Mara](../characters/Captain_Mara_Voss.md).
+- and stories told by [Elias](../characters/Professor_Elias_Hawthorne.md) or [Mara](../characters/Captain_Mara_Voss.md).
 
-The Skyward Isles, Cloudspire, Verdant Wilds, Southern Seas, and Shattered Lands should remain evocative destinations during early volumes rather than primary settings.
+[The Skyward Isles](The_Skyward_Isles.md), [Cloudspire](Cloudspire.md), [Verdant Wilds](The_Verdant_Wilds.md), [Southern Seas](The_Southern_Seas.md), and [Shattered Lands](The_Shattered_Lands.md) should remain evocative destinations during early volumes rather than primary settings.
 
 ## Social Character
 
@@ -378,7 +378,7 @@ The Aerial Docks should consistently feature:
 
 The district should feel expansive, adventurous, busy, and slightly dangerous.
 
-Dock Zero should appear older, darker, and less ornamented than the rest of the port.
+[Dock Zero](Dock_Zero.md) should appear older, darker, and less ornamented than the rest of the port.
 
 Its lights should feel warm and inviting despite the fact that no visible ship approaches them.
 
@@ -386,13 +386,13 @@ Its lights should feel warm and inviting despite the fact that no visible ship a
 
 ### The Invisible Arrival
 
-Dock Zero's lanterns activate during a storm, and the mooring cables draw taut around something no one can see.
+[Dock Zero](Dock_Zero.md)'s lanterns activate during a storm, and the mooring cables draw taut around something no one can see.
 
 ### Cargo from Tomorrow
 
-A sealed crate arrives with customs papers dated after the current year and a delivery receipt signed by Elias Hawthorne.
+A sealed crate arrives with customs papers dated after the current year and a delivery receipt signed by [Elias Hawthorne](../characters/Professor_Elias_Hawthorne.md).
 
-### The Quiet Hangar
+### [The Quiet Hangar](The_Quiet_Hangar.md)
 
 A sound begins repeating inside the sealed *Resolute*, though no mechanism aboard should still be operating.
 
@@ -404,7 +404,7 @@ Everyone aboard agrees the count is correct.
 
 ### The Storm Lantern Code
 
-Amelia recognizes an approach sequence in the Storm Lantern Array that matches symbols inside the Aether Gauntlet.
+[Amelia](../characters/Amelia_Hawthorne.md) recognizes an approach sequence in the Storm Lantern Array that matches symbols inside the Aether Gauntlet.
 
 ### The Ship Without a Port
 
@@ -414,29 +414,29 @@ A damaged vessel requests emergency landing from a city absent from every map.
 
 A traveler is detained because two people claim ownership of the same childhood memories.
 
-### The Dock Zero Hearing
+### The [Dock Zero](Dock_Zero.md) Hearing
 
-[The High Council](../organizations/The_High_Council_of_Aetherhaven.md) attempts to unseal or reassign Dock Zero against [Mara](../characters/Captain_Mara_Voss.md)'s objections.
+[The High Council](../organizations/The_High_Council_of_Aetherhaven.md) attempts to unseal or reassign [Dock Zero](Dock_Zero.md) against [Mara](../characters/Captain_Mara_Voss.md)'s objections.
 
 ## Staged Revelations
 
 ### Safe for Early Volumes
 
-- The docks are Aetherhaven's main commercial airship port.
+- The docks are [Aetherhaven](Aetherhaven.md)'s main commercial airship port.
 - Vessels depart for distant regions.
-- [Mara](../characters/Captain_Mara_Voss.md) [Voss](../characters/Captain_Mara_Voss.md) is Harbormaster.
-- Dock Zero predates the port.
+- [Mara Voss](../characters/Captain_Mara_Voss.md) is Harbormaster.
+- [Dock Zero](Dock_Zero.md) predates the port.
 - Its lights activate on stormy nights.
 - The Passenger waits there.
-- The Quiet Hangar is restricted.
+- [The Quiet Hangar](The_Quiet_Hangar.md) is restricted.
 - Temporal discrepancies occur in transit records.
 
 ### Hold for Later
 
-- The exact relationship between Dock Zero and the Gardens' Morningstar berth.
-- What is sealed inside the Quiet Hangar.
+- The exact relationship between [Dock Zero](Dock_Zero.md) and the Gardens' [Morningstar berth](The_Morningstar_Berth.md).
+- What is sealed inside [the Quiet Hangar](The_Quiet_Hangar.md).
 - Which *Resolute* records are authentic.
-- Whether Dock Zero is a chronal anchor.
+- Whether [Dock Zero](Dock_Zero.md) is a chronal anchor.
 - Why unknown beacon codes appear.
 - Whether the Morningstar has already used the port in another chronology.
 - Which current port official has seen the invisible vessel.
@@ -445,27 +445,27 @@ A traveler is detained because two people claim ownership of the same childhood 
 
 - The Aerial Docks are location #19 on the canonical map.
 - The public map reference must remain welcoming, adventurous, and spoiler-light.
-- The district is Aetherhaven's primary commercial airship port.
+- The district is [Aetherhaven](Aetherhaven.md)'s primary commercial airship port.
 - [Captain Mara Voss](../characters/Captain_Mara_Voss.md) governs port operations.
 - [The Brass Watch](../organizations/The_Brass_Watch.md) has criminal and customs authority but does not replace [Mara](../characters/Captain_Mara_Voss.md)'s flight-safety authority.
-- Dock Zero predates the rest of the port.
-- Dock Zero's mooring lights activate on stormy nights without a visible vessel.
-- The Passenger remains associated with Dock Zero and the Morningstar mystery.
-- The Morningstar berth near the Gardens and Dock Zero may be linked, but the connection remains unconfirmed early.
+- [Dock Zero](Dock_Zero.md) predates the rest of the port.
+- [Dock Zero](Dock_Zero.md)'s mooring lights activate on stormy nights without a visible vessel.
+- The Passenger remains associated with [Dock Zero](Dock_Zero.md) and the Morningstar mystery.
+- [The Morningstar berth](The_Morningstar_Berth.md) near the Gardens and [Dock Zero](Dock_Zero.md) may be linked, but the connection remains unconfirmed early.
 - The *Resolute* remains sealed in a restricted hangar unless later canon explicitly changes this.
-- References to distant lands should enrich Aetherhaven without moving early-volume action outside the city.
+- References to distant lands should enrich [Aetherhaven](Aetherhaven.md) without moving early-volume action outside the city.
 - The docks must feel lively and wondrous, not merely ominous.
 - Named points of interest must remain visible in future summaries and artwork.
 
 ## Open Canon Questions
 
-1. Who built Dock Zero?
+1. Who built [Dock Zero](Dock_Zero.md)?
 2. Why does it predate the recognized port?
 3. What vessel are its lights guiding?
-4. How is it connected to the Morningstar berth?
+4. How is it connected to [the Morningstar berth](The_Morningstar_Berth.md)?
 5. What remains aboard the *Resolute*?
 6. Why do some arrival boards list unknown ships?
-7. Which ancient authority controls Dock Zero's systems?
+7. Which ancient authority controls [Dock Zero](Dock_Zero.md)'s systems?
 8. Has the Morningstar already arrived in another chronology?
 9. What does [Mara](../characters/Captain_Mara_Voss.md) know that she has not entered in any ledger?
-10. Which distant port first recorded Aetherhaven before the city recorded it?
+10. Which distant port first recorded [Aetherhaven](Aetherhaven.md) before the city recorded it?

@@ -16,7 +16,7 @@ canonical_images:
 
 # The Sealed Atrium Door
 
-> **Artifact Image Slate #41** · The Door That Remembered Amelia · [Artifact standard](../CANON_MARKDOWN_STANDARD.md)
+> **Artifact Image Slate #41** · The Door That Remembered [Amelia](../characters/Amelia_Hawthorne.md) · [Artifact standard](../CANON_MARKDOWN_STANDARD.md)
 
 ## Visual Reference
 
@@ -24,7 +24,7 @@ canonical_images:
 
 ## Canonical Purpose
 
-The door appears blank until Amelia approaches, when [the Living Key Emblem](005_The_Living_Key_Emblem.md) becomes visible.
+The door appears blank until [Amelia](../characters/Amelia_Hawthorne.md) approaches, when [the Living Key Emblem](005_The_Living_Key_Emblem.md) becomes visible.
 
 ## Intended Form
 

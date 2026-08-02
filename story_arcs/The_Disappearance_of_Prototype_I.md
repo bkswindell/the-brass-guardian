@@ -38,7 +38,7 @@ Different factions believe:
 
 - The Order destroyed Prototype I.
 - [The Ninth Guild](../organizations/The_Ninth_Guild.md) stole it.
-- The Academy never built it.
+- [The Academy](../organizations/The_Academy_of_Invention.md) never built it.
 - [The Underclock](../organizations/The_Underclock.md) sold it.
 - Prototype I was only a failed designation.
 - Prototype II was mislabeled.
@@ -71,13 +71,13 @@ None of those explanations is fully accurate.
 
 ## Emotional Stakes
 
-For Amelia, Prototype I raises the question:
+For [Amelia](../characters/Amelia_Hawthorne.md), Prototype I raises the question:
 
 > Was her gauntlet the second attempt to build something for her—or the second attempt to control something that already chose?
 
-For Elias, the mystery may reveal that institutions he trusted altered the history of his own work and family.
+For [Elias](../characters/Professor_Elias_Hawthorne.md), the mystery may reveal that institutions he trusted altered the history of his own work and family.
 
-For Elara, it may expose what she knew, what she hid, and whom she was trying to protect.
+For [Elara](../characters/Doctor_Elara_Quill.md), it may expose what she knew, what she hid, and whom she was trying to protect.
 
 ## Continuity Constraints
 

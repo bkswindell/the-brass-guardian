@@ -14,7 +14,7 @@ canonical_images:
   - null
 ---
 
-# [High Council](../organizations/The_High_Council_of_Aetherhaven.md) Thirteenth Seat Record
+# High Council Thirteenth Seat Record
 
 > **Artifact Image Slate #56** · Organizations and Secret Societies · [Artifact standard](../CANON_MARKDOWN_STANDARD.md)
 
@@ -24,7 +24,7 @@ canonical_images:
 
 ## Canonical Purpose
 
-The thirteenth position is reserved for the First Mechanist.
+The thirteenth position is reserved for [the First Mechanist](../characters/The_First_Mechanist.md).
 
 ## Intended Form
 

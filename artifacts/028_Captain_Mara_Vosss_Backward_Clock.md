@@ -14,7 +14,7 @@ canonical_images:
   - null
 ---
 
-# [Captain Mara Voss](../characters/Captain_Mara_Voss.md)’s Backward Clock
+# Captain Mara Voss’s Backward Clock
 
 > **Artifact Image Slate #28** · [The Passenger of Dock Zero](../characters/The_Passenger_of_Dock_Zero.md) · [Artifact standard](../CANON_MARKDOWN_STANDARD.md)
 

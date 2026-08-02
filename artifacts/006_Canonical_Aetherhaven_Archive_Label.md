@@ -33,7 +33,7 @@ visual_transcription_status: not-applicable-working-placeholder
 
 ## Non-Visual Canon References and Story Context
 
-This artifact concept provides the recurring graphic framework for Aetherhaven archival pages: accession number, source, recovery location, condition, classification, stamps, and handling status. The final visual standard has not yet been approved.
+This artifact concept provides the recurring graphic framework for [Aetherhaven](../locations/Aetherhaven.md) archival pages: accession number, source, recovery location, condition, classification, stamps, and handling status. The final visual standard has not yet been approved.
 
 ## Related Canon
 

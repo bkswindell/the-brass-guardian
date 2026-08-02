@@ -22,11 +22,11 @@ canonical_images:
 
 ## Canonical Purpose
 
-In the physical scene Amelia stands alone; the second figure exists only in the water.
+In the physical scene [Amelia](../characters/Amelia_Hawthorne.md) stands alone; the second figure exists only in the water.
 
 ## Intended Form
 
-Early long-exposure photograph showing Amelia beside an older reflected figure.
+Early long-exposure photograph showing [Amelia](../characters/Amelia_Hawthorne.md) beside an older reflected figure.
 
 ## Related Canon
 
