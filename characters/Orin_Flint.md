@@ -1,58 +1,69 @@
 ---
 character_id: AH-CHAR-PLACEHOLDER-005
 name: Orin Flint
-title: Leader of the Miners' Guild
+title: Foreman of the Gearbreaker Mines
 aliases:
   - Orin
 series: The Brass Guardian / The Aetherhaven Chronicles
 canon_status: Source-grounded placeholder
 canonical_scope: Aetherhaven volumes
 last_updated: 2026-08-02
-primary_locations: []
-affiliations: []
+primary_locations:
+  - Gearbreaker Mines
+affiliations:
+  - Miners' Guild, provisional
 key_connections: []
 temporal_relevance: Unresolved
 source_basis:
+  - Aetherhaven.pdf
   - Aetherhaven v3.pdf
 ---
 
 # Orin Flint
 
-> **Placeholder profile.** This file exists so references can resolve to one authoritative record. It records only what the cited source currently supports and does not supersede more developed canon elsewhere in the repository.
+> **Placeholder profile.** This file preserves two supplied descriptions of Orin Flint without silently deciding which details supersede the other.
 
 ## Canonical Summary
 
-Leader of [the Miners' Guild](../organizations/The_Miners_Guild.md) and a veteran of [the Gearbreaker Mines](../locations/The_Gearbreaker_Mines.md). He believes the tunnels are alive and carries a compass that points toward nearby metal rather than north.
+The newest compiled source identifies Orin Flint as the respected foreman of the Gearbreaker Mines. He places worker safety above profit or politics, can identify underground chambers by the echo of a hammer strike, halted excavation after the discovery of a smooth metal wall with six empty sockets, and refuses repeated private orders to resume digging. Machinery can now be heard moving beyond the wall.
+
+Earlier supplied material describes Orin as the leader of the Miners' Guild, a veteran of the Gearbreaker Mines who believes the tunnels are alive and carries a compass that points toward nearby metal rather than north.
+
+Both descriptions remain provisional until the character receives a full canon review.
 
 ## Source Notes
 
-- Expand from later canon review.
+- **Aetherhaven v3.pdf:** Foreman; worker-safety advocate; halted excavation; hears machinery beyond the six-socket wall.
+- **Aetherhaven.pdf:** Miners' Guild leader; believes the tunnels are alive; carries a metal-seeking compass.
 
 ## Public Role
 
-Pending expansion. Preserve the source description without adding unsupported biography, motives, affiliations, or chronology.
+Orin is publicly associated with mining safety and operations in the Gearbreaker Mines. Whether he also formally leads the Miners' Guild remains unresolved.
 
 ## Relationships
 
-Relationships explicitly named in the source may be linked here during later expansion. No unassigned relationship should be treated as established merely because this placeholder exists.
+No personal relationship beyond his workers, the mines, and the Council pressure described in the sources is yet established.
 
 ## Hidden History
 
-Unassigned. Do not infer a hidden identity, allegiance, or temporal origin from the placeholder.
+Unassigned. The identity of the person or office ordering excavation to resume remains unknown.
 
 ## Visual Continuity
 
-Use only source-supported details until a dedicated visual profile is approved.
+Use a practical veteran mining foreman as the current baseline. The metal-seeking compass remains a provisional recurring object.
 
 ## Continuity Constraints
 
 - This is a placeholder, not a completed character profile.
-- Source contradictions remain visible and unresolved.
-- Unknown identity, age, allegiance, chronology, and motive must not be invented.
-- Replace or expand this file rather than creating a duplicate profile later.
+- Orin prioritizes worker safety.
+- Do not identify the source of the private excavation orders without a later canon decision.
+- Preserve the six-socket wall and machinery beyond it.
+- Treat Miners' Guild leadership and the unusual compass as provisional rather than discarded.
 
 ## Open Canon Questions
 
-1. Which source details remain authoritative after full canon review?
-2. What relationships, visual elements, and staged revelations require confirmation?
-3. Does this character need a full long-form profile or a deliberately limited mystery record?
+1. Does Orin formally lead the Miners' Guild or only the Gearbreaker crews?
+2. Who is ordering excavation to resume?
+3. What lies behind the six-socket wall?
+4. Is the metal-seeking compass still canonical?
+5. What does Orin mean when he says the tunnels are alive?
