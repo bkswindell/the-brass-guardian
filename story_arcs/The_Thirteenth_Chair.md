@@ -25,7 +25,7 @@ temporal_relevance: Critical
 
 ## Arc Premise
 
-Aetherhaven's government is built around twelve active Council seats and one sealed authority no living citizen has seen occupied.
+Aetherhaven's government is built around [twelve](../organizations/The_High_Council_of_Aetherhaven.md) active Council seats and one sealed authority no living citizen has seen occupied.
 
 As temporal contradictions, Heart Engine instability, and institutional conspiracies intensify, the Thirteenth Chair begins to show signs of activity.
 
@@ -35,12 +35,12 @@ It is whether any person should be allowed to exercise the authority it contains
 
 ## Early Signals
 
-- The First Mechanist's Mark matches hidden guild-medallion symbols.
+- [The First Mechanist's Mark](../artifacts/004_The_First_Mechanists_Mark.md) matches hidden guild-medallion symbols.
 - Council minutes contain unexplained thirteenth tallies.
 - One shutter is warm after a Lost Second.
 - The Continuance Dial changes when Amelia enters the chamber.
 - Order Redactors remove references to prior chair activity.
-- Octavia finds seating plans in which the chair is not sealed.
+- [Octavia](../characters/Chancellor_Octavia_Vale.md) finds seating plans in which the chair is not sealed.
 
 ## Political Escalation
 
@@ -48,11 +48,11 @@ It is whether any person should be allowed to exercise the authority it contains
 
 Districts challenge the eight-guild/four-civic structure.
 
-The Cauldron demands meaningful recognition.
+[The Cauldron](../locations/The_Cauldron.md) demands meaningful recognition.
 
 The Union uses Closed Sky pressure.
 
-The Unwound seeks transparent alternatives to Heart Engine dependence.
+[The Unwound](../organizations/The_Unwound.md) seeks transparent alternatives to Heart Engine dependence.
 
 ### Continuance Crisis
 
@@ -62,7 +62,7 @@ The Order uses the crisis to expand Closure.
 
 ### Investigation
 
-Octavia and Thorne quietly investigate:
+[Octavia](../characters/Chancellor_Octavia_Vale.md) and [Thorne](../characters/Chief_Inspector_Beatrice_Thorne.md) quietly investigate:
 
 - controlled seats,
 - altered briefing materials,
@@ -123,7 +123,7 @@ Must uphold law while investigating the institution that defines it.
 - The chair's authority must be real.
 - Opening it must carry political and mechanical consequences.
 - Amelia must not be automatically declared the First Mechanist.
-- Octavia must retain agency.
+- [Octavia](../characters/Chancellor_Octavia_Vale.md) must retain agency.
 - The Order's influence must be exposed at significant cost.
 - The Council must face meaningful reform rather than returning unchanged.
 - The Heart Engine's survival doctrine must be questioned without casually risking the city.

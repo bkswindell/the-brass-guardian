@@ -28,7 +28,7 @@ The numeral nine should be formed from a broken gear and curling pipe.
 
 ## Intended Form
 
-Soot-black maker’s mark found on an illegal machine from the Cauldron.
+Soot-black maker’s mark found on an illegal machine from [the Cauldron](../locations/The_Cauldron.md).
 
 ## Related Canon
 

@@ -31,9 +31,9 @@ The Hawthornes first encounter singular forbidden devices without knowing they b
 
 Each early story resolves a local human or mechanical problem while revealing that someone has been preserving, revising, and cataloguing discoveries Aetherhaven attempted to erase.
 
-The Ninth Guild becomes aware of Elias and Amelia gradually.
+[The Ninth Guild](../organizations/The_Ninth_Guild.md) becomes aware of Elias and Amelia gradually.
 
-Unlike the Severed Coil, it does not begin by trying to destroy them.
+Unlike [the Severed Coil](../organizations/The_Severed_Coil.md), it does not begin by trying to destroy them.
 
 It wants access.
 
@@ -58,11 +58,11 @@ The recurring mark establishes a connection among otherwise unrelated incidents.
 
 A hidden laboratory is found inside a respectable institution.
 
-The discovery proves the Guild is embedded within Aetherhaven rather than operating only from the Cauldron.
+The discovery proves the Guild is embedded within Aetherhaven rather than operating only from [the Cauldron](../locations/The_Cauldron.md).
 
 ### Stage Four — Revision Crimes
 
-Thorne and the Brass Watch recognize a pattern of altered memories, identities, and mechanical evidence.
+[Thorne](../characters/Chief_Inspector_Beatrice_Thorne.md) and [the Brass Watch](../organizations/The_Brass_Watch.md) recognize a pattern of altered memories, identities, and mechanical evidence.
 
 The Hawthornes begin working with the Watch on cases ordinary procedure cannot resolve.
 
@@ -109,7 +109,7 @@ Amelia answers that preservation without consent is another form of destruction.
 
 The Curator may be defeated, exposed, or displaced.
 
-The Ninth Guild survives through:
+[The Ninth Guild](../organizations/The_Ninth_Guild.md) survives through:
 
 - Ninth Rooms,
 - Carriers,
@@ -151,8 +151,8 @@ She learns that:
 - Prototype I retains agency.
 - The Black Catalogue survives in fragmented form.
 - At least one Preservationist or Continuist becomes an uneasy ally.
-- The Brass Watch develops better Revision Crime procedures.
-- The Mechanists' Guild confronts its role in creating exiles and forbidden researchers.
+- [The Brass Watch](../organizations/The_Brass_Watch.md) develops better Revision Crime procedures.
+- [The Mechanists' Guild](../organizations/The_Mechanists_Guild.md) confronts its role in creating exiles and forbidden researchers.
 - The Academy confronts research it hid rather than responsibly resolved.
 - The Curator's doctrine is challenged without pretending all preserved knowledge should be destroyed.
-- The Ninth Guild remains available for future stories.
+- [The Ninth Guild](../organizations/The_Ninth_Guild.md) remains available for future stories.

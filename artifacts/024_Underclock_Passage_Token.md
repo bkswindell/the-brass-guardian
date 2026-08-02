@@ -23,7 +23,7 @@ canonical_images:
 
 ## Canonical Purpose
 
-Introduces the Underclock without fully explaining the organization.
+Introduces [the Underclock](../organizations/The_Underclock.md) without fully explaining the organization.
 
 ## Intended Form
 

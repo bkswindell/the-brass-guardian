@@ -41,7 +41,7 @@ temporal_relevance: High
 
 ## Public Map Reference
 
-The Gardens Airship Landing is a graceful elevated platform reserved for explorers, couriers, official visitors, and vessels in need of urgent assistance. Unlike the bustling commercial Aerial Docks, the Landing is quiet, green, and closely integrated with the Clockwork Gardens, with brass walkways, flowering terraces, and luminous guide lamps overlooking the Reflection Canals.
+The Gardens Airship Landing is a graceful elevated platform reserved for explorers, couriers, official visitors, and vessels in need of urgent assistance. Unlike the bustling commercial [Aerial Docks](The_Aerial_Docks.md), the Landing is quiet, green, and closely integrated with the Clockwork Gardens, with brass walkways, flowering terraces, and luminous guide lamps overlooking the Reflection Canals.
 
 The *Wayfinder*, belonging to Elias and Amelia Hawthorne, is frequently moored at the **Wayfinder Berth**, while the **Emergency Repair Cradle** can receive experimental or damaged ships that would be unsafe at a crowded public port.
 
@@ -71,7 +71,7 @@ Its purpose is to receive:
 
 The Landing's defining points of interest include the **Landing Terrace**, **Wayfinder Berth**, **Morningstar Berth**, **Emergency Repair Cradle**, **Courier House**, **Windglass Pavilion**, and **Garden Signal Mast**.
 
-Its scale is modest compared with the Aerial Docks, but its location makes it politically and symbolically important. A vessel accepted here enters directly into Aetherhaven's living center rather than through the city's commercial gateway.
+Its scale is modest compared with [the Aerial Docks](The_Aerial_Docks.md), but its location makes it politically and symbolically important. A vessel accepted here enters directly into Aetherhaven's living center rather than through the city's commercial gateway.
 
 The *Wayfinder* is frequently moored here, making the Landing one of the Hawthornes' most familiar departure and return points.
 
@@ -110,11 +110,11 @@ The Landing is jointly managed.
 
 Garden staff maintain the terraces, walkways, waterways, lighting, and living mechanisms surrounding the platform.
 
-Juniper Bell and the Conservancy of Living Mechanisms may intervene when an arriving vessel disturbs the Gardens in unusual ways.
+[Juniper Bell](../characters/Juniper_Bell.md) and [the Conservancy of Living Mechanisms](../organizations/The_Conservancy_of_Living_Mechanisms.md) may intervene when an arriving vessel disturbs the Gardens in unusual ways.
 
 ### Harbormaster's Office
 
-Captain Mara Voss controls:
+[Captain Mara Voss](../characters/Captain_Mara_Voss.md) controls:
 
 - berth assignments,
 - landing clearance,
@@ -122,18 +122,18 @@ Captain Mara Voss controls:
 - emergency access,
 - and vessel quarantine.
 
-Although her principal office is at the Aerial Docks, Mara retains direct authority over this smaller platform.
+Although her principal office is at [the Aerial Docks](The_Aerial_Docks.md), [Mara](../characters/Captain_Mara_Voss.md) retains direct authority over this smaller platform.
 
 ### Brass Watch
 
-The Brass Watch provides security for:
+[The Brass Watch](../organizations/The_Brass_Watch.md) provides security for:
 
 - official visitors,
 - diplomatic arrivals,
 - suspicious couriers,
 - and incidents involving restricted cargo or unidentified passengers.
 
-Routine patrol is lighter than at the Aerial Docks, but a high-profile arrival can produce a substantial temporary Watch presence.
+Routine patrol is lighter than at [the Aerial Docks](The_Aerial_Docks.md), but a high-profile arrival can produce a substantial temporary Watch presence.
 
 ## Points of Interest
 
@@ -171,9 +171,9 @@ The berth remains:
 
 Its reservation survives administrative reform, platform renovation, and attempted reassignment.
 
-The Passenger of Dock Zero regards its existence as evidence that his ship is expected.
+[The Passenger of Dock Zero](../characters/The_Passenger_of_Dock_Zero.md) regards its existence as evidence that his ship is expected.
 
-Mara suspects the berth may be a chronal anchor.
+[Mara](../characters/Captain_Mara_Voss.md) suspects the berth may be a chronal anchor.
 
 That theory is not public canon.
 
@@ -216,7 +216,7 @@ Before certain temporal disturbances, they produce notes not included in the pav
 
 ### The Garden Signal Mast
 
-A slender illuminated mast that coordinates landing signals with the Aerial Docks and Clocktower Spire.
+A slender illuminated mast that coordinates landing signals with [the Aerial Docks](The_Aerial_Docks.md) and Clocktower Spire.
 
 Its normal codes are simple and elegant.
 
@@ -272,7 +272,7 @@ None should be confirmed in early volumes.
 
 ## Relationship with Captain Mara Voss
 
-Mara treats the Landing with unusual seriousness.
+[Mara](../characters/Captain_Mara_Voss.md) treats the Landing with unusual seriousness.
 
 She permits experimentation and emergency access there, but she enforces strict safety around:
 
@@ -304,7 +304,7 @@ Together, they form a pattern.
 
 ## Social Character
 
-The Landing is quieter and more ceremonial than the Aerial Docks.
+The Landing is quieter and more ceremonial than [the Aerial Docks](The_Aerial_Docks.md).
 
 Its visitors include:
 
@@ -381,7 +381,7 @@ Dockworkers find both the Wayfinder and Morningstar berths under tension, as tho
 - The Morningstar Berth is permanently reserved.
 - No registered vessel bears that name.
 - The platform belongs visually and socially to the Clockwork Gardens.
-- Mara controls landing safety.
+- [Mara](../characters/Captain_Mara_Voss.md) controls landing safety.
 
 ### Hold for Later
 
@@ -395,7 +395,7 @@ Dockworkers find both the Wayfinder and Morningstar berths under tension, as tho
 ## Continuity Constraints
 
 - The Gardens Airship Landing is location #8 on the canonical map.
-- It must remain distinct from the larger commercial Aerial Docks at location #19.
+- It must remain distinct from the larger commercial [Aerial Docks](The_Aerial_Docks.md) at location #19.
 - The public summary should remain welcoming, wondrous, and spoiler-light.
 - The Landing is reserved for explorers, couriers, official visitors, experimental vessels, and emergencies.
 - The *Wayfinder* is frequently moored at the Wayfinder Berth.

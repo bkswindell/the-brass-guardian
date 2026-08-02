@@ -32,17 +32,17 @@ temporal_relevance: Critical
 
 ## Canonical Summary
 
-The Passenger of Dock Zero is a solitary, unidentified traveler who repeatedly waits near the sealed hangar at the Aerial Docks and the permanently reserved Morningstar berth at the Gardens' Airship Landing.
+The Passenger of Dock Zero is a solitary, unidentified traveler who repeatedly waits near the sealed hangar at [the Aerial Docks](../locations/The_Aerial_Docks.md) and the permanently reserved Morningstar berth at the Gardens' Airship Landing.
 
-He wears the weathered uniform of an airship line that does not appear in any surviving registry. The cut, fastenings, and insignia are internally consistent enough to suggest a real organization, but no Harbormaster, archivist, commercial captain, or Aerial Mariners' Union official has identified it.
+He wears the weathered uniform of an airship line that does not appear in any surviving registry. The cut, fastenings, and insignia are internally consistent enough to suggest a real organization, but no Harbormaster, archivist, commercial captain, or [Aerial Mariners' Union](../organizations/The_Aerial_Mariners_Union.md) official has identified it.
 
-Captain Mara Voss found an ornate Morningstar passage ticket in his possession after he made repeated attempts to enter the reserved berth. The ticket's passenger field had been blurred, abraded, or otherwise damaged. Several remaining strokes appear compatible with the Passenger's claim that the ticket belongs to him, but not enough survives to verify his name or identity.
+[Captain Mara Voss](Captain_Mara_Voss.md) found an ornate Morningstar passage ticket in his possession after he made repeated attempts to enter the reserved berth. The ticket's passenger field had been blurred, abraded, or otherwise damaged. Several remaining strokes appear compatible with the Passenger's claim that the ticket belongs to him, but not enough survives to verify his name or identity.
 
-The ticket was impounded for verification and transferred to the Aetherhaven Archives under restricted transit review. Its encoded departure notation belongs to an obsolete Upper Strata transit concordance. Mara and the city's chronologers interpret it as a departure window approximately forty-seven years beyond the current civic year, though the exact conversion varies as Aetherhaven's timekeeping systems drift.
+The ticket was impounded for verification and transferred to the Aetherhaven Archives under restricted transit review. Its encoded departure notation belongs to an obsolete Upper Strata transit concordance. [Mara](Captain_Mara_Voss.md) and the city's chronologers interpret it as a departure window approximately forty-seven years beyond the current civic year, though the exact conversion varies as Aetherhaven's timekeeping systems drift.
 
 The Passenger does not appear to understand the ticket as being dated decades in the future.
 
-He is impatient, urgent, secretive, and exceptionally persistent, but he is not violent or belligerent. He has committed no crime serious enough to justify imprisonment. The Brass Watch has questioned him repeatedly, yet his answers remain incomplete, contradictory, or strangely detached from the questions being asked.
+He is impatient, urgent, secretive, and exceptionally persistent, but he is not violent or belligerent. He has committed no crime serious enough to justify imprisonment. [The Brass Watch](../organizations/The_Brass_Watch.md) has questioned him repeatedly, yet his answers remain incomplete, contradictory, or strangely detached from the questions being asked.
 
 At times he seems deliberately evasive.
 
@@ -68,7 +68,7 @@ No verified civic record establishes the Passenger's:
 - Date of arrival.
 - Intended destination.
 
-The High Council officially classifies him as an unidentified transient associated with an unresolved transit-document anomaly.
+[The High Council](../organizations/The_High_Council_of_Aetherhaven.md) officially classifies him as an unidentified transient associated with an unresolved transit-document anomaly.
 
 Dockworkers generally call him the Passenger.
 
@@ -158,15 +158,15 @@ It remains unclear whether such answers are evasions, damaged memories, statemen
 
 ## Relationship with Captain Mara Voss
 
-Mara is the primary authority managing the Passenger's case.
+[Mara](Captain_Mara_Voss.md) is the primary authority managing the Passenger's case.
 
-She found the future-coded ticket in his possession and impounded it after repeated attempts to enter the reserved Morningstar berth. Although the ticket cannot conclusively establish his identity, Mara believes his claim is plausible enough to deserve investigation.
+She found the future-coded ticket in his possession and impounded it after repeated attempts to enter the reserved Morningstar berth. Although the ticket cannot conclusively establish his identity, [Mara](Captain_Mara_Voss.md) believes his claim is plausible enough to deserve investigation.
 
 She does not trust him completely.
 
 She also refuses to treat him as a criminal merely because his evidence is impossible.
 
-Mara has observed that:
+[Mara](Captain_Mara_Voss.md) has observed that:
 
 - He understands old docking procedures no longer taught.
 - He recognizes transit symbols linked to the *Resolute's* final voyage.
@@ -174,13 +174,13 @@ Mara has observed that:
 - He appears relieved, not disappointed, when told the Morningstar has not arrived.
 - He becomes more agitated when officials suggest removing the reserved berth than when they refuse to return his ticket.
 
-Mara suspects the Passenger is not waiting merely because he wants transportation.
+[Mara](Captain_Mara_Voss.md) suspects the Passenger is not waiting merely because he wants transportation.
 
 He may believe his presence at the berth prevents something worse.
 
-The Passenger respects Mara's authority more than that of the High Council or Brass Watch. He becomes frustrated with her but rarely hostile. He appears to believe she will eventually understand the ticket.
+The Passenger respects [Mara](Captain_Mara_Voss.md)'s authority more than that of [the High Council](../organizations/The_High_Council_of_Aetherhaven.md) or [Brass Watch](../organizations/The_Brass_Watch.md). He becomes frustrated with her but rarely hostile. He appears to believe she will eventually understand the ticket.
 
-He may recognize something about Mara that she has not yet experienced.
+He may recognize something about [Mara](Captain_Mara_Voss.md) that she has not yet experienced.
 
 ## Relationship with Amelia Hawthorne
 
@@ -218,9 +218,9 @@ Their relationship should grow slowly. Amelia may become the person he trusts no
 
 ## Relationship with Chief Inspector Beatrice Thorne and the Brass Watch
 
-The Brass Watch has questioned the Passenger but has insufficient cause to detain him permanently.
+[The Brass Watch](../organizations/The_Brass_Watch.md) has questioned the Passenger but has insufficient cause to detain him permanently.
 
-Inspector Thorne considers him an unresolved public-safety concern rather than a criminal.
+[Inspector Thorne](Chief_Inspector_Beatrice_Thorne.md) considers him an unresolved public-safety concern rather than a criminal.
 
 The Watch has documented:
 
@@ -233,11 +233,11 @@ The Watch has documented:
 - No verified identity.
 - No evidence that he arrived through a registered gate or dock.
 
-Some officers believe he is deliberately testing security. Others think he is mentally unwell. Thorne remains unconvinced by either explanation.
+Some officers believe he is deliberately testing security. Others think he is mentally unwell. [Thorne](Chief_Inspector_Beatrice_Thorne.md) remains unconvinced by either explanation.
 
 Her mechanical eye may detect aether residue on his uniform, ticket, or person that does not match the current docks. Whether this indicates temporal displacement, unusual travel, or contact with foreign machinery remains unknown.
 
-The Passenger cooperates with Thorne only to the minimum extent required. He seems especially unwilling to discuss:
+The Passenger cooperates with [Thorne](Chief_Inspector_Beatrice_Thorne.md) only to the minimum extent required. He seems especially unwilling to discuss:
 
 - His uniform.
 - The last vessel he traveled aboard.
@@ -247,7 +247,7 @@ The Passenger cooperates with Thorne only to the minimum extent required. He see
 
 ## Relationship with the High Council
 
-The High Council knows the Passenger exists but has not publicly acknowledged the significance of his ticket.
+[The High Council](../organizations/The_High_Council_of_Aetherhaven.md) knows the Passenger exists but has not publicly acknowledged the significance of his ticket.
 
 Council positions vary:
 
@@ -257,7 +257,7 @@ Council positions vary:
 - Some believe he should be monitored as a chronal anomaly.
 - At least one official appears to know more about the Morningstar than the current registry admits.
 
-The Passenger distrusts the Council and provides even less information under formal questioning than he gives Mara.
+The Passenger distrusts the Council and provides even less information under formal questioning than he gives [Mara](Captain_Mara_Voss.md).
 
 He may have encountered another version of the Council, or a future Council, whose decisions differ from those of the present government.
 
@@ -288,7 +288,7 @@ The ticket may have been:
 - Taken from someone who no longer exists in the current chronology.
 - Issued to another version of him.
 - Altered by archive or timeline adjustment.
-- Given to him by Amelia, Mara, Elias, or another figure in their future.
+- Given to him by Amelia, [Mara](Captain_Mara_Voss.md), Elias, or another figure in their future.
 - Intended not as permission to board, but as an instruction to be present.
 
 The damaged name must remain suggestive but inconclusive.
@@ -360,7 +360,7 @@ Evidence that could support this later:
 - He remembers dock structures that no longer exist.
 - He addresses workers by names they have never used.
 - He waits on days when clocks lose a second.
-- Archive descriptions of his coat or appearance change while Mara's handwritten notes do not.
+- Archive descriptions of his coat or appearance change while [Mara](Captain_Mara_Voss.md)'s handwritten notes do not.
 - He recognizes the Morningstar berth after renovations alter the surrounding platform.
 - He remembers a crew or airship line absent from all current records.
 - He is occasionally missing from photographs even when witnesses remember him being present.
@@ -427,7 +427,7 @@ Amelia must determine whether boarding the Morningstar will save him, erase him,
 
 ### The Passenger Who Was Never There
 
-After a Lost Second, dockworkers insist no Passenger has ever waited at Dock Zero. Mara's black ledger and Amelia's memory are the only evidence he existed.
+After a Lost Second, dockworkers insist no Passenger has ever waited at Dock Zero. [Mara](Captain_Mara_Voss.md)'s black ledger and Amelia's memory are the only evidence he existed.
 
 ### The Inherited Ticket
 
@@ -449,7 +449,7 @@ An elderly visitor recognizes the Passenger's insignia as belonging to an airshi
 
 ### The Forgotten Passenger
 
-The ticket's name becomes briefly legible during a chronal disturbance. Mara recognizes it as one of the missing names from the *Resolute's* manifest.
+The ticket's name becomes briefly legible during a chronal disturbance. [Mara](Captain_Mara_Voss.md) recognizes it as one of the missing names from the *Resolute's* manifest.
 
 This is a possible late revelation, not established canon.
 
@@ -468,7 +468,7 @@ The vessel finally appears exactly on schedule according to its own concordance.
 - The name field is damaged and cannot verify him.
 - He is urgent, secretive, impatient, and persistent.
 - He is not violent and has not committed a serious crime.
-- Mara impounded the ticket for verification.
+- [Mara](Captain_Mara_Voss.md) impounded the ticket for verification.
 - He asks whether the Morningstar has arrived.
 - He appears relieved when told it has not.
 - The ticket's coded date is interpreted as decades in the future.
@@ -481,7 +481,7 @@ The vessel finally appears exactly on schedule according to its own concordance.
 - Why he must leave.
 - Who gave him the ticket.
 - Whether he is temporally displaced.
-- Whether he has met Amelia, Elias, or Mara in another chronology.
+- Whether he has met Amelia, Elias, or [Mara](Captain_Mara_Voss.md) in another chronology.
 - Whether his missing memory was accidental or deliberate.
 - Whether the Morningstar is a vessel, a chronal system, or both.
 - Whether he is waiting to board or to prevent someone else from boarding.
@@ -500,7 +500,7 @@ The vessel finally appears exactly on schedule according to its own concordance.
 - His memory problem should preserve purpose while obscuring biography.
 - He must continue asking about the Morningstar until a meaningful story event changes the question.
 - His relief when the ship has not arrived is important and should not be treated as a casual quirk.
-- Mara should take his claim seriously without fully trusting him.
+- [Mara](Captain_Mara_Voss.md) should take his claim seriously without fully trusting him.
 - Amelia should approach him through empathy and observation rather than authority.
 - The Morningstar berth remains a physical anchor supporting his belief.
 - Temporal evidence surrounding him must leave residue in artifacts, ledgers, photographs, or memory.

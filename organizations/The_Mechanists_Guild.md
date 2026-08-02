@@ -38,7 +38,7 @@ temporal_relevance: High
 
 The Mechanists' Guild is Aetherhaven's professional order governing engineers, repair workers, automata builders, engine operators, structural specialists, canal engineers, aether technicians, clockmakers, artificers, and other certified practitioners responsible for the city's machinery and infrastructure.
 
-It is not one of the Eight Founding Engineering Guilds.
+It is not one of [the Eight Founding Engineering Guilds](The_Eight_Founding_Engineering_Guilds.md).
 
 It is the modern federation that unites them.
 
@@ -72,22 +72,22 @@ Its authority covers:
 - hazardous-system access,
 - and disciplinary action against negligent practitioners.
 
-A High Council permit may authorize a project.
+A [High Council](The_High_Council_of_Aetherhaven.md) permit may authorize a project.
 
 A Mechanists' Guild seal certifies that someone is willing to be professionally responsible for it.
 
 ## The Eight Founding Orders
 
-The Guild is composed of the Eight Founding Engineering Guilds:
+The Guild is composed of [the Eight Founding Engineering Guilds](The_Eight_Founding_Engineering_Guilds.md):
 
-1. The Guild of Framewrights
-2. The Guild of Enginewrights
-3. The Guild of Aetherwrights
-4. The Guild of Canalwrights
-5. The Guild of Skywrights
-6. The Guild of Clockwrights
-7. The Guild of Artificers
-8. The Guild of Verdant Mechanists
+1. [The Guild of Framewrights](The_Eight_Founding_Engineering_Guilds.md)
+2. [The Guild of Enginewrights](The_Eight_Founding_Engineering_Guilds.md)
+3. [The Guild of Aetherwrights](The_Eight_Founding_Engineering_Guilds.md)
+4. [The Guild of Canalwrights](The_Eight_Founding_Engineering_Guilds.md)
+5. [The Guild of Skywrights](The_Eight_Founding_Engineering_Guilds.md)
+6. [The Guild of Clockwrights](The_Eight_Founding_Engineering_Guilds.md)
+7. [The Guild of Artificers](The_Eight_Founding_Engineering_Guilds.md)
+8. [The Guild of Verdant Mechanists](The_Eight_Founding_Engineering_Guilds.md)
 
 Each retains its own traditions, symbol, archives, and technical authority.
 
@@ -131,7 +131,7 @@ It decides:
 - access to restricted infrastructure,
 - and whether new classes of machinery may be certified.
 
-The Conclave advises the High Council but is not formally subordinate to it in technical judgment.
+The Conclave advises [the High Council](The_High_Council_of_Aetherhaven.md) but is not formally subordinate to it in technical judgment.
 
 This independence creates recurring political conflict.
 
@@ -234,7 +234,7 @@ This is one reason the Guild distrusts uncontrolled excavation and unauthorized 
 
 ## Investigation of Failures
 
-When a major machine fails, the Guild may conduct its own technical inquiry alongside the Brass Watch.
+When a major machine fails, the Guild may conduct its own technical inquiry alongside [the Brass Watch](The_Brass_Watch.md).
 
 The Watch asks:
 
@@ -257,7 +257,7 @@ It can also become a way to protect powerful members from criminal accountabilit
 
 ## Relationship with the High Council
 
-The High Council depends on the Guild for technical legitimacy.
+[The High Council](The_High_Council_of_Aetherhaven.md) depends on the Guild for technical legitimacy.
 
 The Guild depends on the Council for legal enforcement, public contracts, and access to civic infrastructure.
 
@@ -289,11 +289,11 @@ Academy scholars often consider the Guild cautious and old-fashioned.
 
 Guild masters often consider the Academy brilliant and insufficiently accountable.
 
-Many Ninth Guild researchers began as people caught between those two cultures.
+Many [Ninth Guild](The_Ninth_Guild.md) researchers began as people caught between those two cultures.
 
 ## Relationship with the Brass Watch
 
-The Guild certifies and repairs many Brass Watch systems, including:
+The Guild certifies and repairs many [Brass Watch](The_Brass_Watch.md) systems, including:
 
 - clockwork sentinels,
 - forensic instruments,
@@ -303,7 +303,7 @@ The Guild certifies and repairs many Brass Watch systems, including:
 
 The Watch depends on Guild expertise during industrial accidents and anomalous-machine investigations.
 
-Chief Inspector Thorne distrusts any inquiry in which the Guild investigates its own members without independent oversight.
+[Chief Inspector Thorne](../characters/Chief_Inspector_Beatrice_Thorne.md) distrusts any inquiry in which the Guild investigates its own members without independent oversight.
 
 The Guild distrusts Watch officers who seize machinery before its condition can be properly documented.
 
@@ -311,13 +311,13 @@ The Guild distrusts Watch officers who seize machinery before its condition can 
 
 The Guild's Skywrights and Enginewrights certify airships and major port machinery.
 
-The Aerial Mariners' Union operates those systems in real conditions.
+[The Aerial Mariners' Union](The_Aerial_Mariners_Union.md) operates those systems in real conditions.
 
 This produces an enduring disagreement:
 
 - the Guild trusts design tolerances,
 - the Union trusts lived experience,
-- and Captain Mara Voss listens to whichever one believes the storm is about to prove right.
+- and [Captain Mara Voss](../characters/Captain_Mara_Voss.md) listens to whichever one believes the storm is about to prove right.
 
 The Union can refuse to operate a certified vessel.
 
@@ -325,9 +325,9 @@ The Guild can refuse to certify one the Union wants to fly.
 
 ## Relationship with the Ninth Guild
 
-The Ninth Guild represents the Mechanists' Guild's most troubling shadow.
+[The Ninth Guild](The_Ninth_Guild.md) represents the Mechanists' Guild's most troubling shadow.
 
-Some Ninth Guild members are:
+Some [Ninth Guild](The_Ninth_Guild.md) members are:
 
 - expelled masters,
 - censured researchers,
@@ -342,9 +342,9 @@ The Mechanists' Guild officially condemns:
 - identity revision,
 - and unsafe synthesis of living and mechanical systems.
 
-The Ninth Guild argues that the official Guild's safety rules have become tools for suppressing discovery.
+[The Ninth Guild](The_Ninth_Guild.md) argues that the official Guild's safety rules have become tools for suppressing discovery.
 
-The Black Lacuna deliberately mocks the recognized eight-guild structure.
+[The Black Lacuna](The_Ninth_Guild.md) deliberately mocks the recognized eight-guild structure.
 
 ## Relationship with Elias Hawthorne
 
@@ -439,7 +439,7 @@ The guildmasters summon Amelia to explain the Aether Heart and discover it respo
 ### Safe for Early Volumes
 
 - The Guild governs professional engineering and repair practice.
-- It unites the Eight Founding Engineering Guilds.
+- It unites [the Eight Founding Engineering Guilds](The_Eight_Founding_Engineering_Guilds.md).
 - It sets safety standards and certifies major machinery.
 - Members carry brass rank medallions.
 - Older medallions sometimes conceal a second symbol.
@@ -458,7 +458,7 @@ The guildmasters summon Amelia to explain the Aether Heart and discover it respo
 
 ## Continuity Constraints
 
-- The Mechanists' Guild is the modern federation of the Eight Founding Engineering Guilds.
+- The Mechanists' Guild is the modern federation of [the Eight Founding Engineering Guilds](The_Eight_Founding_Engineering_Guilds.md).
 - It is not itself a ninth founding guild.
 - It must remain both a safety institution and a political power.
 - Most members are honorable professionals, though corruption and institutional self-protection can exist.
@@ -467,7 +467,7 @@ The guildmasters summon Amelia to explain the Aether Heart and discover it respo
 - The meaning of the hidden symbols remains unresolved early.
 - The Guild must not claim ownership or certification authority over Amelia as a person.
 - The Conclave of Eight meets in the Octagonal Hall.
-- The Ninth Guild remains a forbidden shadow, not an acknowledged member.
+- [The Ninth Guild](The_Ninth_Guild.md) remains a forbidden shadow, not an acknowledged member.
 - The Guild should generate meaningful ethical and professional conflicts rather than simple bureaucracy.
 
 ## Open Canon Questions
@@ -478,7 +478,7 @@ The guildmasters summon Amelia to explain the Aether Heart and discover it respo
 4. Is the Octagonal Hall built over an older structure?
 5. Which guildmaster first noticed the medallion connection?
 6. Was a ninth discipline erased from the founding order?
-7. How many current masters secretly belong to the Ninth Guild?
+7. How many current masters secretly belong to [the Ninth Guild](The_Ninth_Guild.md)?
 8. Will the Conclave recognize conscious automata as persons?
 9. Can the Guild create a safety standard for temporal machinery?
 10. What happens if Amelia's gauntlet is recognized as a guild artifact rather than Elias's invention?

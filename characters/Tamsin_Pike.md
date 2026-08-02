@@ -28,9 +28,9 @@ Tamsin Pike is a clever, practical young canal guide with an unusual knowledge o
 
 She carries an old brass key whose design predates several of Aetherhaven's current canal systems.
 
-Tamsin may already belong to the Underclock.
+Tamsin may already belong to [the Underclock](../organizations/The_Underclock.md).
 
-Or the Underclock may believe she belongs to it because of a promise, route, debt, or protection inherited from the Pike family.
+Or [the Underclock](../organizations/The_Underclock.md) may believe she belongs to it because of a promise, route, debt, or protection inherited from the Pike family.
 
 She is comfortable around smugglers and guides without romanticizing them. She understands that hidden routes can rescue people, enrich criminals, conceal abuse, and preserve truths official institutions would rather erase.
 
@@ -61,7 +61,7 @@ Adults may underestimate her because her knowledge is practical rather than acad
 Tamsin's key may represent:
 
 - access to an old canal route,
-- an inherited Underclock obligation,
+- an inherited [Underclock](../organizations/The_Underclock.md) obligation,
 - proof of sanctuary,
 - a family Compact,
 - or a mechanism involved in the Prototype I extraction.
@@ -72,7 +72,7 @@ Its importance comes from the specific histories and promises attached to it.
 
 ## Relationship with the Underclock
 
-Some Underclock members recognize Tamsin immediately.
+Some [Underclock](../organizations/The_Underclock.md) members recognize Tamsin immediately.
 
 Others know only the key.
 
@@ -138,7 +138,7 @@ Her clothing may include inherited repairs or old canal-family markings.
 
 - Tamsin knows hidden canal routes.
 - She carries an unusual brass key.
-- Underclock people recognize her or the key.
+- [Underclock](../organizations/The_Underclock.md) people recognize her or the key.
 - She avoids giving a direct answer about membership.
 
 ### Middle
@@ -158,17 +158,17 @@ Her clothing may include inherited repairs or old canal-family markings.
 ## Continuity Constraints
 
 - Tamsin must remain more than a route guide.
-- Her Underclock connection should be substantial but initially ambiguous.
+- Her [Underclock](../organizations/The_Underclock.md) connection should be substantial but initially ambiguous.
 - She must not be treated as automatically criminal.
 - Her practical intelligence should remain distinct from Amelia's pattern recognition and Elias's engineering knowledge.
 - The brass key must have limited, specific significance rather than functioning as a universal key.
-- Tamsin's choices must determine her eventual place in the Underclock.
+- Tamsin's choices must determine her eventual place in [the Underclock](../organizations/The_Underclock.md).
 
 ## Open Canon Questions
 
 1. Who gave Tamsin the brass key?
 2. What door or mechanism was it made for?
-3. Is she formally under Underclock protection?
+3. Is she formally under [Underclock](../organizations/The_Underclock.md) protection?
 4. Did a Pike relative participate in the Prototype I extraction?
 5. What debt or promise did she inherit?
 6. Which route recognizes her?

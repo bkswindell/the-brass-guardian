@@ -31,9 +31,9 @@ temporal_relevance: High
 
 ## Canonical Summary
 
-Official records recognize only eight founding engineering guilds.
+Official records recognize only [eight founding engineering guilds](The_Eight_Founding_Engineering_Guilds.md).
 
-The Ninth Guild appears on no charter, membership roll, or accepted civic history. Nevertheless, singular devices bearing the **Black Lacuna** continue to surface throughout Aetherhaven—particularly in the hidden workshops, salvage markets, and illicit laboratories of the Cauldron.
+The Ninth Guild appears on no charter, membership roll, or accepted civic history. Nevertheless, singular devices bearing the **Black Lacuna** continue to surface throughout Aetherhaven—particularly in the hidden workshops, salvage markets, and illicit laboratories of [the Cauldron](../locations/The_Cauldron.md).
 
 The Guild does not manufacture machines in vast factories.
 
@@ -47,7 +47,7 @@ Every one is an experiment.
 
 Every one has a history.
 
-Some members are criminals seeking profit, leverage, or power. Others are expelled scholars, physicians, mechanists, archivists, and former Academy researchers who believe the High Council has suppressed discoveries essential to humanity's survival.
+Some members are criminals seeking profit, leverage, or power. Others are expelled scholars, physicians, mechanists, archivists, and former Academy researchers who believe [the High Council](The_High_Council_of_Aetherhaven.md) has suppressed discoveries essential to humanity's survival.
 
 What unites them is not one political doctrine.
 
@@ -85,7 +85,7 @@ The mark may appear as:
 
 Not every Black Lacuna is authentic.
 
-The Brass Watch has documented imitations, traps, and devices deliberately framed as Guild work.
+[The Brass Watch](The_Brass_Watch.md) has documented imitations, traps, and devices deliberately framed as Guild work.
 
 ## Ninth Rooms
 
@@ -96,9 +96,9 @@ It operates through temporary laboratories called **Ninth Rooms**.
 A Ninth Room may exist:
 
 - behind an Academy wall,
-- beneath a legal Mechanists' Guild workshop,
+- beneath a legal [Mechanists' Guild](The_Mechanists_Guild.md) workshop,
 - inside a sealed railway carriage,
-- above a Cauldron tenement,
+- above a [Cauldron](../locations/The_Cauldron.md) tenement,
 - within a theater's stage machinery,
 - or inside a building whose owner does not know the room is there.
 
@@ -160,7 +160,7 @@ Their horror lies in transformation, not mass production.
 
 The Guild's leader is known only as **the Curator**.
 
-The Curator is entirely separate from the Severed Coil's Hidden Architect.
+The Curator is entirely separate from [the Severed Coil](The_Severed_Coil.md)'s [Hidden Architect](../characters/The_Hidden_Architect_Unassigned.md).
 
 No reliable description exists.
 
@@ -217,7 +217,7 @@ Because the Guild refuses to discard contradictory evidence, its illegal archive
 
 ## Relationship with the Cauldron
 
-The Cauldron is the Guild's most fertile ecosystem but not its headquarters.
+[The Cauldron](../locations/The_Cauldron.md) is the Guild's most fertile ecosystem but not its headquarters.
 
 The district provides:
 
@@ -228,15 +228,15 @@ The district provides:
 - undocumented labor,
 - chemical access,
 - hidden spaces,
-- and hostility to the High Council.
+- and hostility to [the High Council](The_High_Council_of_Aetherhaven.md).
 
-Forbidden devices bearing the Black Lacuna often surface in Cauldron markets.
+Forbidden devices bearing the Black Lacuna often surface in [Cauldron](../locations/The_Cauldron.md) markets.
 
 Investigators have never found a central factory because there is none.
 
 The Guild operates through temporary rooms and distributed specialists.
 
-Most Cauldron residents are not Guild members.
+Most [Cauldron](../locations/The_Cauldron.md) residents are not Guild members.
 
 Many fear the Ninth Guild because failed experiments attract Watch raids, toxic accidents, predatory collectors, and dangerous buyers.
 
@@ -244,7 +244,7 @@ Others depend on Guild money or protection.
 
 ## Relationship with the Brass Watch
 
-The Brass Watch treats the Ninth Guild as:
+[The Brass Watch](The_Brass_Watch.md) treats the Ninth Guild as:
 
 - organized crime,
 - illicit research,
@@ -260,7 +260,7 @@ A suspect may genuinely possess another person's memory.
 
 A conscious machine may be both perpetrator and victim.
 
-Chief Inspector Thorne's lens can sometimes detect memory alteration or hidden residue, but even she cannot always determine which version was original.
+[Chief Inspector Thorne](../characters/Chief_Inspector_Beatrice_Thorne.md)'s lens can sometimes detect memory alteration or hidden residue, but even she cannot always determine which version was original.
 
 The Watch's inability to find a headquarters frustrates Council officials who prefer a visible enemy.
 
@@ -285,7 +285,7 @@ Doctor Elara Quill may know of at least one.
 
 ## Relationship with the Mechanists' Guild
 
-The recognized Mechanists' Guild certifies safe, lawful engineering.
+The recognized [Mechanists' Guild](The_Mechanists_Guild.md) certifies safe, lawful engineering.
 
 The Ninth Guild treats certification as political permission rather than proof of truth.
 
@@ -300,11 +300,11 @@ Others actively help the Watch hunt Guild experiments.
 
 ## Relationship with the Severed Coil
 
-The Ninth Guild and Severed Coil may cooperate without sharing leadership.
+The Ninth Guild and [Severed Coil](The_Severed_Coil.md) may cooperate without sharing leadership.
 
-The Curator is not the Hidden Architect.
+The Curator is not [the Hidden Architect](../characters/The_Hidden_Architect_Unassigned.md).
 
-The Guild may supply Coil cells with:
+The Guild may supply [Coil](The_Severed_Coil.md) cells with:
 
 - altered sentinels,
 - unstable regulators,
@@ -312,15 +312,15 @@ The Guild may supply Coil cells with:
 - emotional engines,
 - and mechanisms capable of interacting with Golden Veins.
 
-The Coil believes it is acquiring tools for revolution.
+[The Coil](The_Severed_Coil.md) believes it is acquiring tools for revolution.
 
-The Ninth Guild may consider Coil attacks field experiments conducted under real conditions.
+The Ninth Guild may consider [Coil](The_Severed_Coil.md) attacks field experiments conducted under real conditions.
 
 The relationship is mutually exploitative.
 
 The Guild wants data and access.
 
-The Coil wants disruption.
+[The Coil](The_Severed_Coil.md) wants disruption.
 
 Neither should fully control the other.
 
@@ -412,7 +412,7 @@ A citizen remembers Amelia's childhood despite never having met her.
 
 ### The Conscious Evidence
 
-A machine begs the Brass Watch not to be dismantled because it is the only surviving witness.
+A machine begs [the Brass Watch](The_Brass_Watch.md) not to be dismantled because it is the only surviving witness.
 
 ### Prototype I
 
@@ -434,13 +434,13 @@ The Black Catalogue contains an experiment scheduled years in the future.
 
 ### Safe for Early Volumes
 
-- Official history recognizes only eight guilds.
+- Official history recognizes only [eight guilds](The_Eight_Founding_Engineering_Guilds.md).
 - Singular forbidden devices bear the Black Lacuna.
 - The Guild uses hidden Ninth Rooms.
 - It revises existing machines rather than mass-producing them.
 - Its research involves memory, consciousness, identity, and emotion.
 - The Curator leads or preserves the Guild.
-- The Guild operates heavily in the Cauldron but does not control it.
+- The Guild operates heavily in [the Cauldron](../locations/The_Cauldron.md) but does not control it.
 
 ### Hold for Later
 
@@ -450,13 +450,13 @@ The Black Catalogue contains an experiment scheduled years in the future.
 - How many Ninth Rooms exist inside official institutions.
 - Whether conscious Catalogue entries can rewrite themselves.
 - Whether the Guild has preserved memories from erased chronologies.
-- The extent of its dealings with the Severed Coil.
+- The extent of its dealings with [the Severed Coil](The_Severed_Coil.md).
 
 ## Continuity Constraints
 
-- The Curator is not the Severed Coil's Hidden Architect.
+- The Curator is not [the Severed Coil](The_Severed_Coil.md)'s [Hidden Architect](../characters/The_Hidden_Architect_Unassigned.md).
 - The Ninth Guild does not operate a Horizon-style automated machine factory.
-- The Cauldron is a district and ecosystem, not a manufacturing cauldron.
+- [The Cauldron](../locations/The_Cauldron.md) is a district and ecosystem, not a manufacturing [cauldron](../locations/The_Cauldron.md).
 - Ninth Guild devices are singular revisions and experiments.
 - The Guild's central horror is unethical transformation and lack of consent.
 - Not all members are simple criminals.
@@ -478,5 +478,5 @@ The Black Catalogue contains an experiment scheduled years in the future.
 8. Which trusted Academy figure has entered a Ninth Room?
 9. How many people unknowingly carry Catalogue entries?
 10. What does the Guild believe Amelia should become?
-11. Which Coil devices originated in Ninth Rooms?
+11. Which [Coil](The_Severed_Coil.md) devices originated in Ninth Rooms?
 12. What discovery would even the Curator refuse to preserve?

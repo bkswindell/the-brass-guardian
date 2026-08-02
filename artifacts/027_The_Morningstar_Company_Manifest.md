@@ -16,7 +16,7 @@ canonical_images:
 
 # The Morningstar Company Manifest
 
-> **Artifact Image Slate #27** · The Passenger of Dock Zero · [Artifact standard](../CANON_MARKDOWN_STANDARD.md)
+> **Artifact Image Slate #27** · [The Passenger of Dock Zero](../characters/The_Passenger_of_Dock_Zero.md) · [Artifact standard](../CANON_MARKDOWN_STANDARD.md)
 
 ## Visual Reference
 

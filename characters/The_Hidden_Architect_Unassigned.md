@@ -37,18 +37,18 @@ No present profile should be treated as secretly assigning this role.
 
 ## Canonical Function
 
-The Hidden Architect is the true leader and original strategic intelligence behind the Severed Coil.
+The Hidden Architect is the true leader and original strategic intelligence behind [the Severed Coil](../organizations/The_Severed_Coil.md).
 
-Silas Rook is the Stillmaker, operational commander, apparent mastermind, and second-in-command.
+[Silas Rook](Silas_Rook_The_Stillmaker.md) is [the Stillmaker](Silas_Rook_The_Stillmaker.md), operational commander, apparent mastermind, and second-in-command.
 
-Only Silas knows that someone stands above him.
+Only [Silas](Silas_Rook_The_Stillmaker.md) knows that someone stands above him.
 
-The Coil's intentionally decentralized structure protects the Hidden Architect by ensuring:
+[The Coil](../organizations/The_Severed_Coil.md)'s intentionally decentralized structure protects the Hidden Architect by ensuring:
 
 - most cells do not know a central hierarchy exists,
 - handlers know only fragments,
-- senior operatives may believe Silas is the highest authority,
-- others believe the Inner Coil is a council,
+- senior operatives may believe [Silas](Silas_Rook_The_Stillmaker.md) is the highest authority,
+- others believe the Inner [Coil](../organizations/The_Severed_Coil.md) is a council,
 - and some believe the movement has no leader at all.
 
 The Hidden Architect does not need to issue frequent tactical commands.
@@ -56,7 +56,7 @@ The Hidden Architect does not need to issue frequent tactical commands.
 Their power comes from:
 
 - setting long-range objectives,
-- selecting which truths Silas receives,
+- selecting which truths [Silas](Silas_Rook_The_Stillmaker.md) receives,
 - shaping doctrine,
 - controlling critical information,
 - and directing the few operations that alter the entire course of the movement.
@@ -108,11 +108,11 @@ Her eventual strength comes not from refusing to trust again, but from learning 
 
 ## Relationship with Silas Rook
 
-Silas Rook is the only confirmed person who knows the Hidden Architect's identity.
+[Silas Rook](Silas_Rook_The_Stillmaker.md) is the only confirmed person who knows the Hidden Architect's identity.
 
 He has always been destined—or conditioned—to serve as second-in-command.
 
-Silas may believe the Hidden Architect:
+[Silas](Silas_Rook_The_Stillmaker.md) may believe the Hidden Architect:
 
 - saved him from the *Resolute* anomaly,
 - understood the future before he did,
@@ -128,11 +128,11 @@ His loyalty may combine:
 - dependence,
 - and personal affection.
 
-Silas accepts being perceived as the Coil's true leader because that protects the Architect.
+[Silas](Silas_Rook_The_Stillmaker.md) accepts being perceived as [the Coil](../organizations/The_Severed_Coil.md)'s true leader because that protects the Architect.
 
 He may even believe his purpose is to absorb blame, attention, and eventual punishment so the true design survives him.
 
-A late reveal that Silas is not the apex should reframe him from ultimate mastermind into:
+A late reveal that [Silas](Silas_Rook_The_Stillmaker.md) is not the apex should reframe him from ultimate mastermind into:
 
 - architect's instrument,
 - operational genius,
@@ -145,7 +145,7 @@ It deepens the tragedy.
 
 ## Relationship with the Severed Coil
 
-The Hidden Architect designed or perfected the Coil's decentralized hierarchy.
+The Hidden Architect designed or perfected [the Coil](../organizations/The_Severed_Coil.md)'s decentralized hierarchy.
 
 The structure serves several purposes:
 
@@ -160,12 +160,12 @@ The movement's hierarchy is known only in fragments.
 A useful concealed structure is:
 
 1. **The Hidden Architect** — ultimate strategy and long-range design.
-2. **The Stillmaker / Silas Rook** — operational command, temporal planning, and apparent leadership.
-3. **Relay figures or false Inner Coil authorities** — compartmentalized intermediaries.
+2. **[The Stillmaker](Silas_Rook_The_Stillmaker.md) / [Silas Rook](Silas_Rook_The_Stillmaker.md)** — operational command, temporal planning, and apparent leadership.
+3. **Relay figures or false Inner [Coil](../organizations/The_Severed_Coil.md) authorities** — compartmentalized intermediaries.
 4. **Cell handlers** — local coordination.
 5. **Independent cells** — action without full context.
 
-Many cells may receive authentic instructions that do not appear to come from Silas.
+Many cells may receive authentic instructions that do not appear to come from [Silas](Silas_Rook_The_Stillmaker.md).
 
 This allows the Hidden Architect to:
 
@@ -181,8 +181,8 @@ The identity should be selected later from an emotionally established character.
 A viable candidate must satisfy most of the following:
 
 - Has genuine access to Amelia and the Hawthornes.
-- Can plausibly acquire information about Coil operations or ancient systems.
-- Has enough history or influence to guide Silas.
+- Can plausibly acquire information about [Coil](../organizations/The_Severed_Coil.md) operations or ancient systems.
+- Has enough history or influence to guide [Silas](Silas_Rook_The_Stillmaker.md).
 - Possesses a motive that can be understood without excusing violence.
 - Has lied or omitted truths in ways that can later be reinterpreted.
 - Has performed genuine acts of care.
@@ -202,11 +202,11 @@ Before the identity is selected, clues should remain modular and compatible with
 Useful neutral clues include:
 
 - the Architect knows details shared only with trusted allies,
-- Coil operations avoid harming one recurring character,
+- [Coil](../organizations/The_Severed_Coil.md) operations avoid harming one recurring character,
 - a warning uses a phrase Amelia first heard from someone she trusts,
-- information reaches the Coil unusually quickly,
+- information reaches [the Coil](../organizations/The_Severed_Coil.md) unusually quickly,
 - a trusted figure is absent during key incidents for plausible reasons,
-- Silas refers to the Architect with personal rather than formal language,
+- [Silas](Silas_Rook_The_Stillmaker.md) refers to the Architect with personal rather than formal language,
 - and certain plans appear designed by someone who understands Amelia emotionally.
 
 Once the identity is selected, earlier clues can become more specific.
@@ -217,7 +217,7 @@ The twist should be concealed through interpretation, not cheating.
 
 ## Relationship with Amelia
 
-The Hidden Architect should understand Amelia better than Silas does.
+The Hidden Architect should understand Amelia better than [Silas](Silas_Rook_The_Stillmaker.md) does.
 
 They know:
 
@@ -251,29 +251,29 @@ She can love someone and still stop them.
 
 ### Stage One — Trusted Presence
 
-The future Architect appears as a dependable recurring character with no overt Coil connection.
+The future Architect appears as a dependable recurring character with no overt [Coil](../organizations/The_Severed_Coil.md) connection.
 
 ### Stage Two — Invisible Advantage
 
-The Coil repeatedly knows things it should not know.
+[The Coil](../organizations/The_Severed_Coil.md) repeatedly knows things it should not know.
 
 No single character is implicated.
 
 ### Stage Three — Silas Revealed
 
-Silas Rook is uncovered and appears to be the ultimate mastermind.
+[Silas Rook](Silas_Rook_The_Stillmaker.md) is uncovered and appears to be the ultimate mastermind.
 
 This should feel like a complete, satisfying major revelation.
 
 ### Stage Four — Hierarchical Contradiction
 
-Evidence shows some Coil orders bypassed Silas or predated his decisions.
+Evidence shows some [Coil](../organizations/The_Severed_Coil.md) orders bypassed [Silas](Silas_Rook_The_Stillmaker.md) or predated his decisions.
 
 ### Stage Five — The Second Chair
 
-Amelia discovers that Silas has always described himself—directly or symbolically—as second.
+Amelia discovers that [Silas](Silas_Rook_The_Stillmaker.md) has always described himself—directly or symbolically—as second.
 
-The meaning was overlooked because everyone assumed he referred to Mara, time, or the Inner Coil.
+The meaning was overlooked because everyone assumed he referred to [Mara](Captain_Mara_Voss.md), time, or the Inner [Coil](../organizations/The_Severed_Coil.md).
 
 ### Stage Six — Personal Clue
 
@@ -303,9 +303,9 @@ Amelia confronts the Architect as someone she knows intimately, not as an abstra
 - No current character profile should secretly lock the role to that character.
 - The future Architect must be a known, trusted, emotionally significant recurring character.
 - The character must have genuine affection or attachment to Amelia; the relationship cannot be entirely fabricated.
-- Silas Rook remains second-in-command and the only person who knows the true identity.
-- Most Coil members must believe Silas is the leader, the Inner Coil is collective, or no apex exists.
-- The Silas reveal must occur before the true-Architect reveal and must feel substantial.
+- [Silas Rook](Silas_Rook_The_Stillmaker.md) remains second-in-command and the only person who knows the true identity.
+- Most [Coil](../organizations/The_Severed_Coil.md) members must believe [Silas](Silas_Rook_The_Stillmaker.md) is the leader, the Inner [Coil](../organizations/The_Severed_Coil.md) is collective, or no apex exists.
+- The [Silas](Silas_Rook_The_Stillmaker.md) reveal must occur before the true-Architect reveal and must feel substantial.
 - Clues before identity selection must be modular and fair.
 - The eventual choice must improve earlier stories on rereading.
 - Amelia's emotional injury must be serious and sustained, but not destroy her permanently.
@@ -318,17 +318,17 @@ Amelia confronts the Architect as someone she knows intimately, not as an abstra
 ## Open Canon Questions
 
 1. Which trusted character will ultimately be selected?
-2. When did that person first begin directing Silas?
-3. Did they rescue Silas from the anomaly or exploit him afterward?
+2. When did that person first begin directing [Silas](Silas_Rook_The_Stillmaker.md)?
+3. Did they rescue [Silas](Silas_Rook_The_Stillmaker.md) from the anomaly or exploit him afterward?
 4. What do they genuinely feel for Amelia?
 5. Which earlier story contains the first fair clue?
-6. Did they help create the Coil or take control of it?
-7. Do they share Silas's remembered future?
+6. Did they help create [the Coil](../organizations/The_Severed_Coil.md) or take control of it?
+7. Do they share [Silas](Silas_Rook_The_Stillmaker.md)'s remembered future?
 8. Are they trying to save Amelia, use her, or both?
 9. Which operations did they personally authorize?
-10. Have they ever secretly protected the Hawthornes from the Coil?
+10. Have they ever secretly protected the Hawthornes from [the Coil](../organizations/The_Severed_Coil.md)?
 11. What truth would make Amelia hesitate to expose them?
-12. Does Silas know the full extent of their deception?
-13. Will Silas remain loyal after realizing he was also manipulated?
+12. Does [Silas](Silas_Rook_The_Stillmaker.md) know the full extent of their deception?
+13. Will [Silas](Silas_Rook_The_Stillmaker.md) remain loyal after realizing he was also manipulated?
 14. Can the Architect be redeemed, or only understood?
 15. What must Amelia believe about herself to confront them?

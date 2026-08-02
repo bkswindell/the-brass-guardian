@@ -46,7 +46,7 @@ The Aerial Docks are Aetherhaven's great gateway to the skies, where elevated mo
 
 From the **Mooring Crown**, vessels depart for the Skyward Isles, Cloudspire, and settlements throughout the known world. Visitors can watch cargo move through the **Customs Concourse**, explore the busy **Cargo Exchange**, or admire the route maps and ship models displayed in the **Navigator's Gallery**.
 
-The port is governed by Captain Mara Voss from the **Harbormaster's Tower**, where every arrival and departure is recorded—at least in theory.
+The port is governed by [Captain Mara Voss](../characters/Captain_Mara_Voss.md) from the **Harbormaster's Tower**, where every arrival and departure is recorded—at least in theory.
 
 At the far end of Hangar Row stands a locked structure marked **Dock Zero**. It predates the rest of the port and appears on no reliable construction record.
 
@@ -66,9 +66,9 @@ The port is orderly by necessity but never entirely predictable.
 
 Weather changes quickly at altitude. Cargo arrives with incomplete records. Passengers carry unfamiliar calendars. Airships occasionally report routes that do not match any chart.
 
-Captain Mara Voss governs the port through practical authority, long experience, and relationships that extend far beyond official registries.
+[Captain Mara Voss](../characters/Captain_Mara_Voss.md) governs the port through practical authority, long experience, and relationships that extend far beyond official registries.
 
-The Brass Watch enforces criminal law and customs authority, but Mara controls whether a vessel may land, depart, remain quarantined, or be denied access to Aetherhaven's airspace.
+[The Brass Watch](../organizations/The_Brass_Watch.md) enforces criminal law and customs authority, but [Mara](../characters/Captain_Mara_Voss.md) controls whether a vessel may land, depart, remain quarantined, or be denied access to Aetherhaven's airspace.
 
 Their jurisdictions overlap constantly.
 
@@ -109,7 +109,7 @@ Delays caused by storms, strikes, sabotage, or temporal anomalies can create sho
 
 ### The Harbormaster's Office
 
-Captain Mara Voss governs vessel movement, berth assignment, flight safety, cargo quarantine, and emergency docking.
+[Captain Mara Voss](../characters/Captain_Mara_Voss.md) governs vessel movement, berth assignment, flight safety, cargo quarantine, and emergency docking.
 
 Her authority is strongest when an airship is:
 
@@ -121,7 +121,7 @@ Her authority is strongest when an airship is:
 
 ### The Brass Watch
 
-The Brass Watch handles:
+[The Brass Watch](../organizations/The_Brass_Watch.md) handles:
 
 - crimes,
 - fugitives,
@@ -129,24 +129,24 @@ The Brass Watch handles:
 - threats to public safety,
 - and criminal investigations involving passengers or cargo.
 
-Chief Inspector Beatrice Thorne considers the docks one of Aetherhaven's most important intelligence points.
+[Chief Inspector Beatrice Thorne](../characters/Chief_Inspector_Beatrice_Thorne.md) considers the docks one of Aetherhaven's most important intelligence points.
 
-Mara considers some Watch methods unnecessarily disruptive to safe port operations.
+[Mara](../characters/Captain_Mara_Voss.md) considers some Watch methods unnecessarily disruptive to safe port operations.
 
 Their disputes often concern:
 
 - whether a passenger should be detained,
 - whether cargo should remain sealed,
 - whether a smuggler is an informant or a suspect,
-- and whether the Watch may enter a vessel before Mara declares it safe.
+- and whether the Watch may enter a vessel before [Mara](../characters/Captain_Mara_Voss.md) declares it safe.
 
 ### Customs Authority
 
-Customs clerks operate under High Council trade law but depend on Mara's crews and Watch enforcement.
+Customs clerks operate under [High Council](../organizations/The_High_Council_of_Aetherhaven.md) trade law but depend on [Mara](../characters/Captain_Mara_Voss.md)'s crews and Watch enforcement.
 
 Experienced smugglers know that these overlapping authorities create gaps.
 
-Mara and Thorne know this too.
+[Mara](../characters/Captain_Mara_Voss.md) and [Thorne](../characters/Chief_Inspector_Beatrice_Thorne.md) know this too.
 
 ## Points of Interest
 
@@ -164,12 +164,12 @@ The administrative and operational center of the port.
 
 It contains:
 
-- Mara's office,
+- [Mara](../characters/Captain_Mara_Voss.md)'s office,
 - berth-control mechanisms,
 - weather instruments,
 - emergency signaling systems,
 - official ledgers,
-- and the private black ledger Mara keeps outside normal recordkeeping.
+- and the private black ledger [Mara](../characters/Captain_Mara_Voss.md) keeps outside normal recordkeeping.
 
 The tower's highest windows face Dock Zero.
 
@@ -179,7 +179,7 @@ A broad complex of inspection platforms, passenger halls, declaration desks, bag
 
 Travelers pass through language clerks, document examiners, health inspectors, and mechanical scanners before entering Aetherhaven.
 
-The Concourse is one of the Brass Watch's busiest intelligence environments.
+The Concourse is one of [the Brass Watch](../organizations/The_Brass_Watch.md)'s busiest intelligence environments.
 
 ### The Cargo Exchange
 
@@ -213,7 +213,7 @@ Its doors remain sealed.
 
 On stormy nights, its mooring lights sometimes activate without a visible vessel.
 
-The Passenger of Dock Zero waits nearby and repeatedly asks whether the *Morningstar* has arrived.
+[The Passenger of Dock Zero](../characters/The_Passenger_of_Dock_Zero.md) waits nearby and repeatedly asks whether the *Morningstar* has arrived.
 
 Publicly, no registered vessel bears that name.
 
@@ -225,7 +225,7 @@ The Array can project coded approach patterns visible from great distances.
 
 Several lanterns occasionally illuminate in sequences not recognized by current navigators.
 
-Mara records those sequences in her black ledger.
+[Mara](../characters/Captain_Mara_Voss.md) records those sequences in her black ledger.
 
 ### The Navigator's Gallery
 
@@ -260,7 +260,7 @@ The Passenger is a recurring unidentified figure associated with the sealed hang
 
 He is secretive, impatient, confused, and persistent, but not violent.
 
-Captain Mara Voss found a future-coded Morningstar ticket in his possession. The ticket is currently held by the Archives under official verification.
+[Captain Mara Voss](../characters/Captain_Mara_Voss.md) found a future-coded Morningstar ticket in his possession. The ticket is currently held by the Archives under official verification.
 
 The Passenger's presence transforms Dock Zero from an architectural curiosity into an active unresolved case.
 
@@ -294,12 +294,12 @@ The Aerial Docks are inseparable from the final voyage of the *Resolute*.
 
 The vessel returned after seven civic months with every clock aboard running backward.
 
-Captain Mara Voss insists only nineteen days passed.
+[Captain Mara Voss](../characters/Captain_Mara_Voss.md) insists only nineteen days passed.
 
 Contradictory crew manifests, altered incident reports, and sealed evidence remain distributed among:
 
 - Harbormaster records,
-- Brass Watch files,
+- [Brass Watch](../organizations/The_Brass_Watch.md) files,
 - Council archives,
 - and the Quiet Hangar.
 
@@ -322,7 +322,7 @@ Known irregularities include:
 
 The Second Watch maintains a regular presence at the docks.
 
-Mara maintains records it does not receive.
+[Mara](../characters/Captain_Mara_Voss.md) maintains records it does not receive.
 
 ## Relationship with the Wider World
 
@@ -336,7 +336,7 @@ Stories may introduce the wider world through:
 - unusual cargo,
 - damaged vessels,
 - travelers with conflicting histories,
-- and stories told by Elias or Mara.
+- and stories told by Elias or [Mara](../characters/Captain_Mara_Voss.md).
 
 The Skyward Isles, Cloudspire, Verdant Wilds, Southern Seas, and Shattered Lands should remain evocative destinations during early volumes rather than primary settings.
 
@@ -357,7 +357,7 @@ Dockworkers trade rumors as actively as cargo.
 
 A new vessel can become the subject of a hundred stories before its passengers disembark.
 
-Mara's authority is respected because everyone at the docks understands that a poor decision can destroy an airship, a tower, and everyone nearby.
+[Mara](../characters/Captain_Mara_Voss.md)'s authority is respected because everyone at the docks understands that a poor decision can destroy an airship, a tower, and everyone nearby.
 
 ## Visual Continuity
 
@@ -416,7 +416,7 @@ A traveler is detained because two people claim ownership of the same childhood 
 
 ### The Dock Zero Hearing
 
-The High Council attempts to unseal or reassign Dock Zero against Mara's objections.
+[The High Council](../organizations/The_High_Council_of_Aetherhaven.md) attempts to unseal or reassign Dock Zero against [Mara](../characters/Captain_Mara_Voss.md)'s objections.
 
 ## Staged Revelations
 
@@ -424,7 +424,7 @@ The High Council attempts to unseal or reassign Dock Zero against Mara's objecti
 
 - The docks are Aetherhaven's main commercial airship port.
 - Vessels depart for distant regions.
-- Mara Voss is Harbormaster.
+- [Mara](../characters/Captain_Mara_Voss.md) [Voss](../characters/Captain_Mara_Voss.md) is Harbormaster.
 - Dock Zero predates the port.
 - Its lights activate on stormy nights.
 - The Passenger waits there.
@@ -446,8 +446,8 @@ The High Council attempts to unseal or reassign Dock Zero against Mara's objecti
 - The Aerial Docks are location #19 on the canonical map.
 - The public map reference must remain welcoming, adventurous, and spoiler-light.
 - The district is Aetherhaven's primary commercial airship port.
-- Captain Mara Voss governs port operations.
-- The Brass Watch has criminal and customs authority but does not replace Mara's flight-safety authority.
+- [Captain Mara Voss](../characters/Captain_Mara_Voss.md) governs port operations.
+- [The Brass Watch](../organizations/The_Brass_Watch.md) has criminal and customs authority but does not replace [Mara](../characters/Captain_Mara_Voss.md)'s flight-safety authority.
 - Dock Zero predates the rest of the port.
 - Dock Zero's mooring lights activate on stormy nights without a visible vessel.
 - The Passenger remains associated with Dock Zero and the Morningstar mystery.
@@ -467,5 +467,5 @@ The High Council attempts to unseal or reassign Dock Zero against Mara's objecti
 6. Why do some arrival boards list unknown ships?
 7. Which ancient authority controls Dock Zero's systems?
 8. Has the Morningstar already arrived in another chronology?
-9. What does Mara know that she has not entered in any ledger?
+9. What does [Mara](../characters/Captain_Mara_Voss.md) know that she has not entered in any ledger?
 10. Which distant port first recorded Aetherhaven before the city recorded it?
