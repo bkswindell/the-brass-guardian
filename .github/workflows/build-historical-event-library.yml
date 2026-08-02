@@ -33,9 +33,6 @@ jobs:
       - name: Build historical event library
         run: python scripts/build_historical_event_library.py
 
-      - name: Run canonical reference linker
-        run: python scripts/run_cached_linker.py
-
       - name: Refresh development TODO
         run: |
           python scripts/build_canon_development_todo.py
@@ -47,7 +44,6 @@ jobs:
           find . -type f -name '*.md' -not -path './.git/*' -not -path './unused/*' -print0 \
             | sort -z | xargs -0 sha256sum > /tmp/history-before.sha256
           python scripts/build_historical_event_library.py
-          python scripts/run_cached_linker.py
           python scripts/build_canon_development_todo.py
           python scripts/link_canon_development_todo.py
           find . -type f -name '*.md' -not -path './.git/*' -not -path './unused/*' -print0 \
