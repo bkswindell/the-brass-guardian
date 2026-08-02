@@ -6,6 +6,7 @@ on:
     paths:
       - scripts/create_placeholder_profiles.py
       - scripts/link_markdown_references.py
+      - scripts/run_cached_linker.py
       - .github/workflows/link-markdown-references.yml
       - Location_Profile_Template.md
       - Character_Profile_Template.md
@@ -38,7 +39,7 @@ jobs:
         run: python scripts/create_placeholder_profiles.py
 
       - name: Link canonical references
-        run: python scripts/link_markdown_references.py
+        run: python scripts/run_cached_linker.py
 
       - name: Verify placeholder generation is stable
         run: |
@@ -46,7 +47,7 @@ jobs:
           git diff --check
 
       - name: Verify link pass is idempotent
-        run: python scripts/link_markdown_references.py --check
+        run: python scripts/run_cached_linker.py --check
 
       - name: Verify patch
         run: git diff --check
