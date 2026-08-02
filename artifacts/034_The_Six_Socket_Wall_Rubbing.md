@@ -23,7 +23,7 @@ canonical_images:
 
 ## Canonical Purpose
 
-The arrangement should match the Six-Key Sigil exactly, though this may not be stated in the caption.
+The arrangement should match [the Six-Key Sigil](003_The_Six_Key_Sigil.md) exactly, though this may not be stated in the caption.
 
 ## Intended Form
 

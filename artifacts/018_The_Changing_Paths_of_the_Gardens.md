@@ -47,7 +47,7 @@ Two active plates document the changing paths. They contain overlapping but cont
 
 ### Introductory statement
 
-> The layout of the paths is not static but follows unknown laws. When aligned to true north, the arrangement of the third survey forms the Six-Key Sigil.
+> The layout of the paths is not static but follows unknown laws. When aligned to true north, the arrangement of the third survey forms [the Six-Key Sigil](003_The_Six_Key_Sigil.md).
 
 ### Survey I
 
@@ -89,11 +89,11 @@ Caption: **EAST PAVILION (Under Construction)**
 - **Post-Rising**
 - `28th of Gloamreach, 468 AE`
 
-> The waterways expand and meander through the Gardens. Districts grow along the canals. Paths align to form the Six-Key Sigil when oriented to true north.
+> The waterways expand and meander through the Gardens. Districts grow along the canals. Paths align to form [the Six-Key Sigil](003_The_Six_Key_Sigil.md) when oriented to true north.
 
 **KEY NOTES**
 
-- Paths form the Six-Key Sigil
+- Paths form [the Six-Key Sigil](003_The_Six_Key_Sigil.md)
 - Waterways now meander throughout
 - Districts established along the canals
 - Major structures near completion
@@ -127,7 +127,7 @@ Caption: **GRAND ATRIUM (Early Construction)**
 
 - **PATH ALIGNMENT KEY (Survey III)**
 
-> When oriented to True North, the primary paths form the Six-Key Sigil.
+> When oriented to True North, the primary paths form [the Six-Key Sigil](003_The_Six_Key_Sigil.md).
 
 ### Elevation scale
 
@@ -155,7 +155,7 @@ Caption: **GRAND ATRIUM (Early Construction)**
 
 ### Introductory statement
 
-> Three surveys of the Elderglen Garden, recorded across different cycles. The layout of the paths is not consistent between observations. When aligned to true north, the arrangement of the third survey forms the Six-Key Sigil.
+> Three surveys of the Elderglen Garden, recorded across different cycles. The layout of the paths is not consistent between observations. When aligned to true north, the arrangement of the third survey forms [the Six-Key Sigil](003_The_Six_Key_Sigil.md).
 
 ### Observation I
 
@@ -203,7 +203,7 @@ Right-side note:
 - **Observation III**
 - `28th of Gloamreach, 448 AE`
 
-> Paths form the Six-Key Sigil when aligned to true north.
+> Paths form [the Six-Key Sigil](003_The_Six_Key_Sigil.md) when aligned to true north.
 
 > Intentional pattern suspected.
 

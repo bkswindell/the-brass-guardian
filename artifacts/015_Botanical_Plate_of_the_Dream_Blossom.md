@@ -118,7 +118,7 @@ The botanical color palette is blue, violet, green, brass, and dark steel. The m
 
 The plate visually establishes that Dream Blossom anatomy resembles Heart Engine machinery. The exact biological, aetheric, or historical explanation belongs to [Juniper Bell](../characters/Juniper_Bell.md), [The Moon Garden](../locations/The_Moon_Garden.md), and [The Keeper of Dreams](../story_arcs/The_Keeper_of_Dreams.md).
 
-The plate identifies the specimen’s origin as “Elderglen Garden.” Current canon describes the Moon Garden as a hidden nocturnal layer of the Clockwork Gardens. The relationship between Elderglen Garden, the Moon Garden, and the visible Clockwork Gardens is not resolved by this image.
+The plate identifies the specimen’s origin as “Elderglen Garden.” Current canon describes [the Moon Garden](../locations/The_Moon_Garden.md) as a hidden nocturnal layer of the Clockwork Gardens. The relationship between Elderglen Garden, [the Moon Garden](../locations/The_Moon_Garden.md), and the visible Clockwork Gardens is not resolved by this image.
 
 The term “memory spores” is visible plate terminology. Their precise capabilities should not be expanded beyond linked canon.
 

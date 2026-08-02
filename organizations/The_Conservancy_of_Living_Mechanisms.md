@@ -212,7 +212,7 @@ They are sometimes affectionately called **Seedlings**, though this is not an of
 
 ### Tenders
 
-The majority of the Fellowship.
+The majority of [the Fellowship](The_Lamplighters_Fellowship.md).
 
 Tenders maintain specific:
 
@@ -239,7 +239,7 @@ A Listener may spend weeks determining whether a repeated mechanical movement is
 
 Botanists, healers, and mechanists who repair living systems without separating biological and mechanical needs.
 
-Many hold limited or full Mechanists' Guild certification.
+Many hold limited or full [Mechanists' Guild](The_Mechanists_Guild.md) certification.
 
 ### Pathkeepers
 
@@ -386,7 +386,7 @@ The Conservancy is far more effective inside the Gardens than beyond them.
 
 Its members' full capability remains deliberately understated.
 
-Some senior Brass Watch officers know that an armed patrol can enter the Gardens by force.
+Some senior [Brass Watch](The_Brass_Watch.md) officers know that an armed patrol can enter the Gardens by force.
 
 They also know it may never reach the place it intended to search.
 
@@ -418,9 +418,9 @@ Its members feed, repair, comfort, teach, protect, and advocate.
 
 A threatened creature may discover that the gentle gardener beside it is the most immovable person in Aetherhaven.
 
-## Relationship with the Guild of Verdant Mechanists
+## Relationship with [the Guild of Verdant Mechanists](The_Eight_Founding_Engineering_Guilds.md)
 
-The Guild of Verdant Mechanists and the Conservancy are closely linked but institutionally distinct.
+[The Guild of Verdant Mechanists](The_Eight_Founding_Engineering_Guilds.md) and the Conservancy are closely linked but institutionally distinct.
 
 The Verdant Mechanists:
 
@@ -463,13 +463,13 @@ The Guild does not always appreciate this authority.
 
 It usually respects it.
 
-## Relationship with the Mechanists' Guild
+## Relationship with [the Mechanists' Guild](The_Mechanists_Guild.md)
 
-The Conservancy is not a ninth founding guild and is not subordinate to the Mechanists' Guild.
+The Conservancy is not a ninth founding guild and is not subordinate to [the Mechanists' Guild](The_Mechanists_Guild.md).
 
 It holds a special stewardship charter recognizing that ordinary machine certification cannot resolve every question involving living mechanisms.
 
-The Mechanists' Guild determines whether a machine was:
+[The Mechanists' Guild](The_Mechanists_Guild.md) determines whether a machine was:
 
 - built safely,
 - maintained correctly,
@@ -493,9 +493,9 @@ They clash when safety procedures call for:
 
 of a system the Conservancy considers alive.
 
-## Relationship with the High Council
+## Relationship with [the High Council](The_High_Council_of_Aetherhaven.md)
 
-The High Council recognizes the Conservancy as steward of the Clockwork Gardens.
+[The High Council](The_High_Council_of_Aetherhaven.md) recognizes the Conservancy as steward of the Clockwork Gardens.
 
 Council officials tend to view the Gardens as:
 
@@ -519,11 +519,11 @@ The Conservancy rarely enters ordinary politics.
 
 It can still close sections of the Gardens, refuse cooperation, and make a Council project practically impossible.
 
-The High Council tolerates this independence partly because the Gardens do not respond well to replacement caretakers.
+[The High Council](The_High_Council_of_Aetherhaven.md) tolerates this independence partly because the Gardens do not respond well to replacement caretakers.
 
-## Relationship with the Brass Watch
+## Relationship with [the Brass Watch](The_Brass_Watch.md)
 
-The Conservancy and Brass Watch cooperate during:
+The Conservancy and [Brass Watch](The_Brass_Watch.md) cooperate during:
 
 - missing-person searches,
 - public emergencies,
@@ -537,13 +537,13 @@ Watch officers are expected to follow Garden Entry Protocol:
 - do not pursue blindly through changing paths,
 - and do not order a living mechanism dismantled without assessment.
 
-Chief Inspector Thorne respects the Conservancy's observations and recognizes that its members are not naïve.
+[Chief Inspector Thorne](../characters/Chief_Inspector_Beatrice_Thorne.md) respects the Conservancy's observations and recognizes that its members are not naïve.
 
 She also knows they may hide a conscious being from lawful seizure if they believe the law would treat it as property.
 
 In a true threat, the Conservancy may close the Gardens to everyone—including the Watch.
 
-## Relationship with the Order of the Closed Eye
+## Relationship with [the Order of the Closed Eye](The_Order_of_the_Closed_Eye.md)
 
 The Order and Conservancy sometimes agree that ancient systems should remain undisturbed.
 
@@ -572,9 +572,9 @@ This remains unconfirmed.
 
 The Gardens themselves may remember.
 
-## Relationship with the Ninth Guild
+## Relationship with [the Ninth Guild](The_Ninth_Guild.md)
 
-The Conservancy strongly opposes Ninth Guild experimentation on living systems without consent.
+The Conservancy strongly opposes [Ninth Guild](The_Ninth_Guild.md) experimentation on living systems without consent.
 
 It regards:
 
@@ -585,7 +585,7 @@ It regards:
 
 as forms of violation.
 
-The Ninth Guild covets Conservancy knowledge concerning:
+[The Ninth Guild](The_Ninth_Guild.md) covets Conservancy knowledge concerning:
 
 - personality development,
 - memory-bearing organisms,
@@ -597,15 +597,15 @@ The Conservancy may shelter:
 - escaped Echo Automata,
 - altered clockwork creatures,
 - abandoned experiments,
-- and Ninth Guild subjects whose personhood is disputed.
+- and [Ninth Guild](The_Ninth_Guild.md) subjects whose personhood is disputed.
 
-Some Ninth Guild Preservationists may seek Conservancy sanctuary.
+Some [Ninth Guild](The_Ninth_Guild.md) Preservationists may seek Conservancy sanctuary.
 
 Acquisitionists and Revisionists are considered direct threats.
 
-## Relationship with the Unwound
+## Relationship with [the Unwound](The_Unwound.md)
 
-The Conservancy and moderate Unwound share several principles:
+The Conservancy and moderate [Unwound](The_Unwound.md) share several principles:
 
 - no person should become a component,
 - essential systems require accountability,
@@ -613,15 +613,15 @@ The Conservancy and moderate Unwound share several principles:
 
 They differ over the nature of machinery.
 
-Some Unwound members see living mechanisms as another form of engineered dependence.
+Some [Unwound](The_Unwound.md) members see living mechanisms as another form of engineered dependence.
 
 The Conservancy believes the problem is not that machinery can live.
 
 The problem is refusing to recognize when it does.
 
-Moderate Unwound circles may help defend Conservancy sanctuary when the Council or Guild attempts to seize a conscious mechanism.
+Moderate [Unwound](The_Unwound.md) circles may help defend Conservancy sanctuary when the Council or Guild attempts to seize a conscious mechanism.
 
-The Conservancy rejects the Severed Coil's willingness to harm civilians and infrastructure.
+The Conservancy rejects [the Severed Coil](The_Severed_Coil.md)'s willingness to harm civilians and infrastructure.
 
 ## Relationship with Elias Hawthorne
 
@@ -676,13 +676,13 @@ They may serve:
 - seasonal transition,
 - or living systems that cannot safely endure public access.
 
-The Moon Garden is the most widely rumored, but no complete public or internal list exists.
+[The Moon Garden](../locations/The_Moon_Garden.md) is the most widely rumored, but no complete public or internal list exists.
 
 Access depends upon relationship with the Gardens rather than institutional rank.
 
 The First Tender cannot simply order a hidden garden opened.
 
-Juniper Bell pays particular attention to these spaces and can ask the Gardens to reveal or conceal routes.
+[Juniper Bell](../characters/Juniper_Bell.md) pays particular attention to these spaces and can ask the Gardens to reveal or conceal routes.
 
 This secrecy is not merely organizational.
 
@@ -690,15 +690,15 @@ The Gardens themselves participate in limiting access.
 
 For complete location canon, see [The Moon Garden](../locations/The_Moon_Garden.md).
 
-## Juniper Bell
+## [Juniper Bell](../characters/Juniper_Bell.md)
 
-Juniper Bell is the Conservancy's most recognizable public caretaker and its least explainable member.
+[Juniper Bell](../characters/Juniper_Bell.md) is the Conservancy's most recognizable public caretaker and its least explainable member.
 
-She holds the title **Keeper of the Clockwork Gardens**, which is distinct from the administrative office of First Tender.
+She holds the title **[Keeper of the Clockwork Gardens](../characters/Juniper_Bell.md)**, which is distinct from the administrative office of First Tender.
 
 The First Tender coordinates the Conservancy.
 
-Juniper maintains the relationship between the Conservancy, the public, and the Gardens themselves.
+[Juniper](../characters/Juniper_Bell.md) maintains the relationship between the Conservancy, the public, and the Gardens themselves.
 
 Members variously treat her as:
 
@@ -713,9 +713,9 @@ No surviving record documents her admission.
 
 One early register contains her name before the paper on which it was written was manufactured.
 
-Juniper appears unchanged in the oldest known painting of the Gardens, created more than two centuries ago.
+[Juniper](../characters/Juniper_Bell.md) appears unchanged in the oldest known painting of the Gardens, created more than two centuries ago.
 
-Her possible connection to the **Keeper of Dreams**, Moon Garden, and Dream Engine is restricted developing canon and should be revealed gradually through Amelia's silver flower and other physical clues.
+Her possible connection to the **Keeper of Dreams**, [Moon Garden](../locations/The_Moon_Garden.md), and Dream Engine is restricted developing canon and should be revealed gradually through Amelia's silver flower and other physical clues.
 
 For complete character canon, see [Juniper Bell](../characters/Juniper_Bell.md).
 
@@ -815,7 +815,7 @@ A Council project cannot begin because every path to the construction site retur
 
 ### The Living Stay
 
-The Mechanists' Guild orders a developing automaton reset after it displays fear. The Conservancy intervenes.
+[The Mechanists' Guild](The_Mechanists_Guild.md) orders a developing automaton reset after it displays fear. The Conservancy intervenes.
 
 ### The Intruder
 
@@ -831,7 +831,7 @@ The Order demands permanent Closure of a grove that appears to remember an erase
 
 ### The Ninth Room Seed
 
-A rescued Ninth Guild organism begins growing a laboratory from its memories.
+A rescued [Ninth Guild](The_Ninth_Guild.md) organism begins growing a laboratory from its memories.
 
 ### The First Quiet Warden
 
@@ -839,7 +839,7 @@ Amelia witnesses how the Conservancy stops an armed incursion without striking a
 
 ### The Name Before the Register
 
-Juniper Bell's name appears in Conservancy records written generations before her known arrival.
+[Juniper Bell](../characters/Juniper_Bell.md)'s name appears in Conservancy records written generations before her known arrival.
 
 ## Staged Revelations
 
@@ -859,9 +859,9 @@ Juniper Bell's name appears in Conservancy records written generations before he
 - The Conservancy can direct powerful nonviolent Garden defenses.
 - Some living mechanisms remember erased people and earlier chronologies.
 - The Order may have removed records related to the intruder rule.
-- The Conservancy shelters conscious beings sought by the Ninth Guild.
+- The Conservancy shelters conscious beings sought by [the Ninth Guild](The_Ninth_Guild.md).
 - The Gardens recognize threats that appear harmless to human observers.
-- Juniper Bell's relationship with the Conservancy predates accepted records.
+- [Juniper Bell](../characters/Juniper_Bell.md)'s relationship with the Conservancy predates accepted records.
 
 ### Hold for Later
 
@@ -878,14 +878,14 @@ Juniper Bell's name appears in Conservancy records written generations before he
 - The Conservancy must remain pacifist.
 - Pacifism must not be portrayed as passivity or helplessness.
 - Its members protect through restraint, concealment, disorientation, sleep, immobilization, separation, and removal whenever possible.
-- The Conservancy is distinct from the Guild of Verdant Mechanists.
+- The Conservancy is distinct from [the Guild of Verdant Mechanists](The_Eight_Founding_Engineering_Guilds.md).
 - The Guild designs and certifies; the Conservancy tends, listens, heals, advocates, and protects.
 - The Conservancy is not a ninth founding guild.
 - Its members must remain eccentric, nurturing, practical, and deeply devoted to living mechanisms.
 - It must hold no desire for ordinary political power.
-- Its loyalty to the Gardens and living systems can override cooperation with the High Council or Brass Watch.
+- Its loyalty to the Gardens and living systems can override cooperation with [the High Council](The_High_Council_of_Aetherhaven.md) or [Brass Watch](The_Brass_Watch.md).
 - The Conservancy may provide sanctuary to conscious mechanisms.
-- It must oppose Ninth Guild violations of consent.
+- It must oppose [Ninth Guild](The_Ninth_Guild.md) violations of consent.
 - Amelia must be treated as a person, never as a machine or specimen.
 - No current member knows the full consequence of the Gardens recognizing someone as an intruder.
 - The true capability of the Quiet Wardens must remain largely hidden early.
@@ -899,7 +899,7 @@ Juniper Bell's name appears in Conservancy records written generations before he
 4. Did the Order erase the answer?
 5. Are the Clockwork Gardens one consciousness or many?
 6. Why do they recognize Amelia?
-7. What does Juniper Bell know about the Conservancy's founding?
+7. What does [Juniper Bell](../characters/Juniper_Bell.md) know about the Conservancy's founding?
 8. Which living mechanism first received a Living Stay?
 9. Has the Conservancy ever permanently expelled a member?
 10. What threat caused the last full Garden closure?

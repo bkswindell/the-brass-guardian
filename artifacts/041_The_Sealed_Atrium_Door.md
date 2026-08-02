@@ -24,7 +24,7 @@ canonical_images:
 
 ## Canonical Purpose
 
-The door appears blank until Amelia approaches, when the Living Key Emblem becomes visible.
+The door appears blank until Amelia approaches, when [the Living Key Emblem](005_The_Living_Key_Emblem.md) becomes visible.
 
 ## Intended Form
 

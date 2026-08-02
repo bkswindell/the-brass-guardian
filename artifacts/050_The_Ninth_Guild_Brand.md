@@ -14,7 +14,7 @@ canonical_images:
   - null
 ---
 
-# The Ninth Guild Brand
+# [The Ninth Guild](../organizations/The_Ninth_Guild.md) Brand
 
 > **Artifact Image Slate #50** · Organizations and Secret Societies · [Artifact standard](../CANON_MARKDOWN_STANDARD.md)
 
@@ -28,7 +28,7 @@ The numeral nine should be formed from a broken gear and curling pipe.
 
 ## Intended Form
 
-Soot-black maker’s mark found on an illegal machine from the Cauldron.
+Soot-black maker’s mark found on an illegal machine from [the Cauldron](../locations/The_Cauldron.md).
 
 ## Related Canon
 

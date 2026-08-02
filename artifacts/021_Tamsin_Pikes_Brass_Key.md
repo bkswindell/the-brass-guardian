@@ -15,7 +15,7 @@ canonical_images:
 visual_transcription_status: complete
 ---
 
-# Tamsin Pike’s Brass Key
+# [Tamsin Pike](../characters/Tamsin_Pike.md)’s Brass Key
 
 > **Artifact Image Slate #21** · The Thirteenth Canal · [Artifact standard](../CANON_MARKDOWN_STANDARD.md)
 
@@ -143,9 +143,9 @@ A faint botanical branch sketch appears behind the family lineage. The parchment
 
 The key’s relationship to [Tamsin Pike](../characters/Tamsin_Pike.md), the [Underclock](../organizations/The_Underclock.md), and [The Disappearance of Prototype I](../story_arcs/The_Disappearance_of_Prototype_I.md) remains broader story canon rather than directly visible proof.
 
-The plate states that Tamsin is seventeen and identifies Euphemia and Beatrice Pike. Those names and ages are plate evidence and should be treated as current working details unless deliberately revised.
+The plate states that [Tamsin](../characters/Tamsin_Pike.md) is seventeen and identifies Euphemia and [Beatrice](../characters/Chief_Inspector_Beatrice_Thorne.md) Pike. Those names and ages are plate evidence and should be treated as current working details unless deliberately revised.
 
-The key is not a universal Underclock emblem or master key. Its exact door, inherited obligation, and possible role in a sanctuary route remain unresolved.
+The key is not a universal [Underclock](../organizations/The_Underclock.md) emblem or master key. Its exact door, inherited obligation, and possible role in a sanctuary route remain unresolved.
 
 ## Related Canon
 

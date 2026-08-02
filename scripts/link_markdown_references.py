@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
-"""Add relative links between canonical Markdown records.
+"""Cross-link canonical names throughout the repository's Markdown files.
 
-The script discovers documented characters, organizations, locations, and artifacts,
-then links unlinked name references across Markdown files. It intentionally avoids
-YAML front matter, headings, fenced code, existing links/images, inline code,
-reference definitions, and exact visual-transcription sections.
+The linker discovers documented characters, organizations, locations, and artifacts
+from YAML front matter. It adds relative Markdown links to unlinked references while
+preserving YAML, existing links and images, code, URLs, and exact artifact visual-
+evidence transcriptions.
 """
 
 from __future__ import annotations
@@ -25,9 +25,6 @@ ENTITY_DIRS = {
     "artifact": ROOT / "artifacts",
 }
 EXCLUDED_DIR_NAMES = {".git", ".github", "unused", "node_modules", "vendor"}
-EXCLUDED_FILES = {
-    ROOT / "README2.md",  # legacy duplicate, intentionally not maintained as canon
-}
 VISUAL_EVIDENCE_HEADINGS = {
     "plate text transcription — visual evidence only",
     "plate text transcription - visual evidence only",
@@ -36,12 +33,51 @@ VISUAL_EVIDENCE_HEADINGS = {
 }
 
 PROTECTED_RE = re.compile(
-    r"(!?\[[^\]\n]*\]\([^\)\n]+\)|"
-    r"!?\[[^\]\n]*\]\[[^\]\n]*\]|"
-    r"`[^`\n]+`|"
-    r"https?://[^\s<>)\]]+|"
-    r"<[^>\n]+>)"
+    r"(!?\[[^\]\n]*\]\([^\)\n]+\)|"  # inline links and images
+    r"!?\[[^\]\n]*\]\[[^\]\n]*\]|"  # reference links and images
+    r"`[^`\n]+`|"                         # inline code
+    r"https?://[^\s<>)\]]+|"             # URLs
+    r"<[^>\n]+>)"                          # HTML tags
 )
+
+# These conversational phrases are too context-dependent to auto-link safely.
+AMBIGUOUS_SHORTHAND = {
+    "the architect",
+    "the archives",
+    "the conservancy",
+    "the council",
+    "the eight",
+    "the gardens",
+    "the guild",
+    "the keeper",
+    "the order",
+    "the passenger",
+    "the twelve",
+    "the union",
+    "the watch",
+}
+
+# Single-word names whose leading article may be safely omitted in prose.
+DISTINCTIVE_ARTICLE_FREE = {
+    "cauldron",
+    "stillmaker",
+    "underclock",
+    "unwound",
+}
+
+# Personal surnames that are also common setting words or place terms. Full names
+# remain linkable, but these surnames are not derived as standalone aliases.
+AMBIGUOUS_SURNAMES = {"Bell", "Pike", "Rook", "Vale"}
+HONORIFIC_RE = re.compile(
+    r"^(Captain|Chancellor|Chief Inspector|Inspector|Professor|Doctor|Dr\.|Master|Madame|Harbormaster)\s+",
+    flags=re.IGNORECASE,
+)
+
+
+@dataclass(frozen=True)
+class Alias:
+    text: str
+    case_sensitive: bool = False
 
 
 @dataclass(frozen=True)
@@ -49,7 +85,7 @@ class Entity:
     kind: str
     path: Path
     display_name: str
-    aliases: tuple[str, ...]
+    aliases: tuple[Alias, ...]
 
 
 def clean_scalar(value: str) -> str:
@@ -57,6 +93,15 @@ def clean_scalar(value: str) -> str:
     if len(value) >= 2 and value[0] == value[-1] and value[0] in {'"', "'"}:
         value = value[1:-1]
     return value.strip()
+
+
+def valid_value(value: object) -> str | None:
+    if not isinstance(value, str):
+        return None
+    value = value.strip()
+    if not value or value.casefold() in {"unassigned", "none", "null"}:
+        return None
+    return value
 
 
 def split_front_matter(text: str) -> tuple[str, str]:
@@ -70,6 +115,7 @@ def split_front_matter(text: str) -> tuple[str, str]:
 
 
 def parse_simple_yaml(front_matter: str) -> dict[str, object]:
+    """Parse the small YAML subset used by the canon records."""
     data: dict[str, object] = {}
     current_list: str | None = None
     for raw in front_matter.splitlines():
@@ -77,10 +123,10 @@ def parse_simple_yaml(front_matter: str) -> dict[str, object]:
             continue
         if re.match(r"^\s+-\s+", raw) and current_list:
             item = clean_scalar(re.sub(r"^\s+-\s+", "", raw))
-            if item and item.lower() != "null":
-                cast = data.setdefault(current_list, [])
-                if isinstance(cast, list):
-                    cast.append(item)
+            if item and item.casefold() != "null":
+                values = data.setdefault(current_list, [])
+                if isinstance(values, list):
+                    values.append(item)
             continue
         match = re.match(r"^([A-Za-z0-9_-]+):\s*(.*)$", raw)
         if not match:
@@ -99,8 +145,7 @@ def first_h1(body: str) -> str | None:
     for line in body.splitlines():
         match = re.match(r"^#\s+(.+?)\s*$", line)
         if match:
-            heading = re.sub(r"\[([^\]]+)\]\([^\)]+\)", r"\1", match.group(1))
-            return heading.strip()
+            return re.sub(r"\[([^\]]+)\]\([^\)]+\)", r"\1", match.group(1)).strip()
     return None
 
 
@@ -109,111 +154,124 @@ def filename_alias(path: Path) -> str:
     return stem.replace("_", " ").strip()
 
 
-def normalized_aliases(kind: str, path: Path, metadata: dict[str, object], heading: str | None) -> list[str]:
-    aliases: list[str] = []
+def article_free_alias(text: str) -> str | None:
+    if not text.casefold().startswith("the "):
+        return None
+    remainder = text[4:].strip()
+    words = re.findall(r"[A-Za-zÀ-ÖØ-öø-ÿ0-9'’.-]+", remainder)
+    if len(words) >= 2:
+        return remainder
+    if len(words) == 1 and words[0].casefold() in DISTINCTIVE_ARTICLE_FREE:
+        return remainder
+    return None
 
-    def add(value: str | None) -> None:
-        if not value:
+
+def build_aliases(
+    kind: str,
+    metadata: dict[str, object],
+    heading: str | None,
+    path: Path,
+) -> tuple[str, list[Alias]]:
+    name = valid_value(metadata.get("name"))
+    title = valid_value(metadata.get("title"))
+    display = name or (title if kind == "character" and title else None) or heading or filename_alias(path)
+    aliases: list[Alias] = []
+
+    def add(text: str | None, *, case_sensitive: bool = False) -> None:
+        if not text:
             return
-        value = value.strip()
-        if not value or value.lower() in {"unassigned", "none", "null"}:
+        text = text.strip()
+        if not text or text.casefold() in AMBIGUOUS_SHORTHAND:
             return
-        if value not in aliases:
-            aliases.append(value)
+        key = (text.casefold(), case_sensitive)
+        if any((item.text.casefold(), item.case_sensitive) == key for item in aliases):
+            return
+        aliases.append(Alias(text=text, case_sensitive=case_sensitive))
 
-    name = metadata.get("name")
-    if isinstance(name, str):
-        add(name)
-    title = metadata.get("title")
-    if isinstance(title, str):
-        add(title)
-    elif isinstance(title, list):
-        for item in title:
-            if isinstance(item, str):
-                add(item)
-    formal_title = metadata.get("formal_title")
-    if isinstance(formal_title, str):
-        add(formal_title)
-    elif isinstance(formal_title, list):
-        for item in formal_title:
-            if isinstance(item, str):
-                add(item)
-    declared_aliases = metadata.get("aliases")
-    if isinstance(declared_aliases, list):
-        for item in declared_aliases:
-            if isinstance(item, str):
-                add(item)
-    add(heading)
-    add(filename_alias(path))
+    add(display, case_sensitive=kind == "character" and len(display.split()) == 1)
+    if name and name.casefold() != display.casefold():
+        add(name, case_sensitive=kind == "character" and len(name.split()) == 1)
 
-    for alias in list(aliases):
-        if alias.lower().startswith("the ") and len(alias) > 4:
-            add(alias[4:])
+    # Explicit aliases are curated canon, except ambiguous generic shorthand.
+    declared = metadata.get("aliases")
+    if isinstance(declared, list):
+        for item in declared:
+            if isinstance(item, str):
+                add(item, case_sensitive=kind == "character" and len(item.split()) == 1)
 
+    # Full character titles and formal titles are linkable when documented.
     if kind == "character":
-        for alias in list(aliases):
-            plain = re.sub(r"\([^)]*\)", "", alias)
-            plain = re.sub(
-                r"^(Captain|Chancellor|Chief Inspector|Inspector|Professor|Doctor|Dr\.|Master|Madame|Harbormaster)\s+",
-                "",
-                plain,
-                flags=re.IGNORECASE,
-            ).strip()
-            words = re.findall(r"[A-Za-zÀ-ÖØ-öø-ÿ][A-Za-zÀ-ÖØ-öø-ÿ'’.-]*", plain)
-            if 1 < len(words) <= 4:
-                for word in words:
-                    if len(word) >= 4 or word == "Pip":
-                        add(word)
+        add(title)
+        formal_title = metadata.get("formal_title")
+        if isinstance(formal_title, str):
+            add(formal_title)
+        elif isinstance(formal_title, list):
+            for item in formal_title:
+                if isinstance(item, str):
+                    add(item)
 
-    generic = {
-        "guild", "council", "order", "watch", "union", "gardens", "garden",
-        "district", "passenger", "keeper", "prototype", "archive", "archives",
-        "society", "conservancy", "underclock", "unwound", "artifact", "seal",
-        "mark", "key", "ticket", "crest", "wayfinder", "morningstar",
-    }
-    aliases = [a for a in aliases if a.casefold() not in generic]
-    return aliases
+    # The eight founding guild names share the umbrella organization's profile.
+    if kind == "organization":
+        member_guilds = metadata.get("member_guilds")
+        if isinstance(member_guilds, list):
+            for item in member_guilds:
+                if isinstance(item, str):
+                    add(item)
+
+    # Add safe article-free variants of complete names only.
+    for alias in list(aliases):
+        add(article_free_alias(alias.text), case_sensitive=alias.case_sensitive)
+
+    # Derive normal personal references from the primary character name. These
+    # short aliases are case-sensitive to avoid lowercase ordinary-word matches.
+    if kind == "character" and name:
+        plain = HONORIFIC_RE.sub("", re.sub(r"\([^)]*\)", "", name)).strip()
+        if not plain.casefold().startswith("the "):
+            words = re.findall(r"[A-Za-zÀ-ÖØ-öø-ÿ][A-Za-zÀ-ÖØ-öø-ÿ'’.-]*", plain)
+            if 2 <= len(words) <= 3:
+                add(words[0], case_sensitive=True)
+                surname = words[-1]
+                if surname not in AMBIGUOUS_SURNAMES:
+                    add(surname, case_sensitive=True)
+
+    return display, aliases
 
 
 def discover_entities() -> list[Entity]:
-    provisional: list[tuple[str, Path, str, list[str]]] = []
+    provisional: list[tuple[str, Path, str, list[Alias]]] = []
     for kind, directory in ENTITY_DIRS.items():
         if not directory.exists():
             continue
         for path in sorted(directory.glob("*.md")):
-            if path.name.lower() == "readme.md":
+            if path.name.casefold() == "readme.md":
                 continue
             text = path.read_text(encoding="utf-8")
             front, body = split_front_matter(text)
             metadata = parse_simple_yaml(front)
-            heading = first_h1(body)
-            display = metadata.get("name") if isinstance(metadata.get("name"), str) else heading
-            if not display:
-                display = filename_alias(path)
-            aliases = normalized_aliases(kind, path, metadata, heading)
-            provisional.append((kind, path, str(display), aliases))
+            display, aliases = build_aliases(kind, metadata, first_h1(body), path)
+            provisional.append((kind, path, display, aliases))
 
-    alias_owners: dict[str, set[Path]] = {}
+    # Remove aliases that resolve to multiple files. Exact display names remain.
+    owners: dict[str, set[Path]] = {}
     for _, path, _, aliases in provisional:
         for alias in aliases:
-            alias_owners.setdefault(alias.casefold(), set()).add(path)
+            owners.setdefault(alias.text.casefold(), set()).add(path)
 
     entities: list[Entity] = []
     for kind, path, display, aliases in provisional:
-        filtered: list[str] = []
-        for alias in aliases:
-            owners = alias_owners.get(alias.casefold(), set())
-            if len(owners) == 1 or alias.casefold() == display.casefold():
-                filtered.append(alias)
-        filtered = sorted(set(filtered), key=lambda a: (-len(a), a.casefold()))
+        filtered = [
+            alias
+            for alias in aliases
+            if len(owners.get(alias.text.casefold(), set())) == 1
+            or alias.text.casefold() == display.casefold()
+        ]
+        filtered.sort(key=lambda item: (-len(item.text), item.text.casefold()))
         entities.append(Entity(kind, path, display, tuple(filtered)))
     return entities
 
 
 def markdown_files() -> Iterable[Path]:
     for path in ROOT.rglob("*.md"):
-        if path in EXCLUDED_FILES:
-            continue
         if any(part in EXCLUDED_DIR_NAMES for part in path.relative_to(ROOT).parts):
             continue
         yield path
@@ -223,30 +281,50 @@ def relative_target(source: Path, target: Path) -> str:
     return os.path.relpath(target, source.parent).replace(os.sep, "/")
 
 
-def alias_pattern(alias: str) -> re.Pattern[str]:
-    escaped = re.escape(alias)
+def alias_pattern(alias: Alias) -> re.Pattern[str]:
+    escaped = re.escape(alias.text)
     escaped = escaped.replace(r"\ ", r"\s+")
     escaped = escaped.replace("’", "['’]").replace(r"\'", "['’]")
-    return re.compile(rf"(?<![\w]){escaped}(?![\w])", re.IGNORECASE)
+    flags = 0 if alias.case_sensitive else re.IGNORECASE
+    return re.compile(rf"(?<![\w]){escaped}(?![\w])", flags)
 
 
 def link_plain_segment(segment: str, source: Path, entities: list[Entity]) -> str:
+    # Find candidates against the original segment and render once, preventing
+    # substitutions from matching text or paths inside newly inserted links.
+    candidates: list[tuple[int, int, Entity, str]] = []
     for entity in entities:
         if entity.path == source:
             continue
-        target = relative_target(source, entity.path)
         for alias in entity.aliases:
-            pattern = alias_pattern(alias)
-            segment = pattern.sub(lambda m: f"[{m.group(0)}]({target})", segment)
-    return segment
+            for match in alias_pattern(alias).finditer(segment):
+                candidates.append((match.start(), match.end(), entity, match.group(0)))
+
+    if not candidates:
+        return segment
+
+    candidates.sort(key=lambda item: (item[0], -(item[1] - item[0]), item[2].display_name.casefold()))
+    selected: list[tuple[int, int, Entity, str]] = []
+    occupied_until = -1
+    for candidate in candidates:
+        start, end, _, _ = candidate
+        if start < occupied_until:
+            continue
+        selected.append(candidate)
+        occupied_until = end
+
+    rendered: list[str] = []
+    cursor = 0
+    for start, end, entity, matched_text in selected:
+        rendered.append(segment[cursor:start])
+        rendered.append(f"[{matched_text}]({relative_target(source, entity.path)})")
+        cursor = end
+    rendered.append(segment[cursor:])
+    return "".join(rendered)
 
 
 def link_line(line: str, source: Path, entities: list[Entity]) -> str:
-    if re.match(r"^\s{0,3}#{1,6}\s", line):
-        return line
-    if re.match(r"^\s*\[[^\]]+\]:\s", line):
-        return line
-    if re.match(r"^\s*<!--", line):
+    if re.match(r"^\s*\[[^\]]+\]:\s", line) or re.match(r"^\s*<!--", line):
         return line
 
     pieces: list[str] = []
@@ -267,7 +345,7 @@ def process_file(path: Path, entities: list[Entity]) -> tuple[str, int]:
     lines = body.splitlines(keepends=True)
     changed = 0
     in_fence = False
-    fence_token = ""
+    fence_character = ""
     skip_visual_section = False
     output: list[str] = []
 
@@ -278,17 +356,16 @@ def process_file(path: Path, entities: list[Entity]) -> tuple[str, int]:
             token = fence.group(1)
             if not in_fence:
                 in_fence = True
-                fence_token = token[0]
-            elif token.startswith(fence_token):
+                fence_character = token[0]
+            elif token.startswith(fence_character):
                 in_fence = False
-                fence_token = ""
+                fence_character = ""
             output.append(line)
             continue
 
         h2 = re.match(r"^##\s+(.+?)\s*$", stripped)
         if h2:
-            heading = h2.group(1).strip().casefold()
-            skip_visual_section = heading in VISUAL_EVIDENCE_HEADINGS
+            skip_visual_section = h2.group(1).strip().casefold() in VISUAL_EVIDENCE_HEADINGS
 
         if in_fence or skip_visual_section:
             output.append(line)
@@ -296,6 +373,9 @@ def process_file(path: Path, entities: list[Entity]) -> tuple[str, int]:
 
         linked = link_line(line, path, entities)
         if linked != line:
+            newline = "\r\n" if linked.endswith("\r\n") else "\n" if linked.endswith("\n") else ""
+            core = linked[:-len(newline)] if newline else linked
+            linked = core.rstrip(" \t") + newline
             changed += 1
         output.append(linked)
 
@@ -311,8 +391,7 @@ def validate_links(paths: Iterable[Path]) -> list[str]:
             clean = target.split("#", 1)[0]
             if re.match(r"^[a-z]+://", clean, re.IGNORECASE):
                 continue
-            destination = (path.parent / clean).resolve()
-            if not destination.exists():
+            if not (path.parent / clean).resolve().exists():
                 errors.append(f"{path.relative_to(ROOT)} -> {target}")
     return errors
 
