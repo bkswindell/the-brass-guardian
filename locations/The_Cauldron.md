@@ -21,6 +21,8 @@ primary_connections:
   - The Underclock
   - The Brass Watch
   - The High Council
+  - The Institute of Vital Mechanics
+  - The Cauldron Recovery House
 temporal_relevance: Moderate
 ---
 
@@ -472,3 +474,11 @@ A forbidden device appears in the market carrying memories from someone [Amelia]
 10. Has the Cauldron preserved records the official Archives lost?
 11. What would happen if the district stopped trading with [Aetherhaven](Aetherhaven.md)?
 12. Does [the Heart Engine](The_Aetherium.md) treat the Cauldron as part of the city?
+
+## The Cauldron Recovery House
+
+[The Cauldron Recovery House](The_Cauldron_Recovery_House.md) provides rehabilitation, adaptive-device care, industrial-injury treatment, and community medicine inside the district.
+
+The facility is affiliated with [the Institute of Vital Mechanics](../organizations/The_Institute_of_Vital_Mechanics.md) but depends on local trust and partial autonomy. It cannot operate as a disguised Watch post, Council registry, or route for identifying undocumented residents.
+
+Its staff may include Institute practitioners, Cauldron healers, workshop medics, prosthetists, therapists, and caregivers whose skill is recognized locally even when the upper city does not recognize their credentials.

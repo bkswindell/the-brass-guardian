@@ -26,6 +26,7 @@ key_relationships:
   - Professor Elias Hawthorne
   - Amelia Hawthorne
   - The Underclock
+  - The Institute of Vital Mechanics
 temporal_relevance: Critical
 ---
 
@@ -559,6 +560,16 @@ No formal regulation says never force Orin Flint into the mountain.
 No formal regulation is needed.
 
 The future story [The Watchman's Regret](../story_arcs/The_Watchmans_Regret.md) follows the constable who caused the defining moment and later became a respected veteran shaped by what he learned.
+
+## Medical Response and Field Medics
+
+The Brass Watch coordinates with [the Institute of Vital Mechanics](The_Institute_of_Vital_Mechanics.md) during fires, collapses, explosions, industrial disasters, aetheric exposure, temporal disorientation, and mass-casualty incidents.
+
+Medical support may come from Institute field medics, Watch officers with medical certification, or mixed emergency teams.
+
+Field medics remain responsible first to patient care. Watch authority does not automatically convert medical treatment into evidence collection, nor does it permit officers to inspect or seize an implant integrated into a person's body without lawful and ethical justification.
+
+The exact structure of the Watch medical liaison remains unresolved.
 
 ## Continuity Constraints
 

@@ -13,8 +13,11 @@ access_status: []
 map_reference_category: numbered
 map_number: 20
 parent_location: 
-primary_connections: []
-points_of_interest: []
+primary_connections:
+  - The Institute of Vital Mechanics
+  - The Mechanists' Guild
+points_of_interest:
+  - Institute prosthetics and implant annex, final name unresolved
 temporal_relevance: Unresolved
 source_basis:
   - Aetherhaven v3.pdf
@@ -47,6 +50,12 @@ Pending expansion. Do not add hidden history, governing organizations, or access
 ## Relationships
 
 Link parent districts, organizations, recurring characters, and artifacts only when established.
+
+## Medical, Prosthetics, and Implant Work
+
+The Great Workshops include an Institute-supported prosthetics and implant annex where surgeons, prosthetists, therapists, and certified mechanists collaborate on adaptive devices, replacement limbs, braces, and medically integrated machinery.
+
+The exact location, name, governance, and relationship to Elias's private workspace remain unresolved.
 
 ## Visual Continuity
 

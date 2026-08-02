@@ -11,7 +11,9 @@ canonical_scope: Aetherhaven volumes
 last_updated: 2026-08-02
 headquarters: []
 known_leadership: []
-primary_connections: []
+primary_connections:
+  - The Institute of Vital Mechanics
+  - Professor Elias Hawthorne
 temporal_relevance: Unresolved
 source_basis:
   - Aetherhaven v3.pdf
@@ -40,6 +42,14 @@ Unresolved unless explicitly stated in the source. Do not invent leadership, ran
 ## Relationships
 
 Add only relationships already established in the source or current canonical Markdown.
+
+## Expedition Medical Support
+
+Dangerous expeditions may require Institute-certified medical planning, field kits, evacuation procedures, or a medical practitioner capable of treating trauma far from Aetherhaven.
+
+Whether [the Institute of Vital Mechanics](The_Institute_of_Vital_Mechanics.md) supplied or certified a medic for the Clockwork Jungle expedition remains unresolved.
+
+The Society and Institute may disagree over when medical caution becomes an unreasonable barrier to exploration and when an explorer's confidence becomes preventable risk.
 
 ## Continuity Constraints
 

@@ -9,9 +9,13 @@ series: The Brass Guardian / The Aetherhaven Chronicles
 canon_status: Source-grounded placeholder
 canonical_scope: Aetherhaven volumes
 last_updated: 2026-08-02
-headquarters: []
-known_leadership: []
-primary_connections: []
+headquarters:
+  - The Academy of Invention Campus
+known_leadership:
+  - Doctor Elara Quill
+primary_connections:
+  - The Institute of Vital Mechanics
+  - Doctor Elara Quill
 temporal_relevance: Unresolved
 source_basis:
   - Aetherhaven v3.pdf
@@ -40,6 +44,14 @@ Unresolved unless explicitly stated in the source. Do not invent leadership, ran
 ## Relationships
 
 Add only relationships already established in the source or current canonical Markdown.
+
+## Medical and Mechanobiology Collaboration
+
+The Academy hosts or works beside an Institute clinical and research annex supporting anatomy, physiology, mechanobiology, implants, adaptive devices, and ethical review of inventions that directly affect living bodies.
+
+The Academy provides laboratories and theoretical research. [The Institute of Vital Mechanics](The_Institute_of_Vital_Mechanics.md) provides clinical care, patient consent standards, rehabilitation knowledge, and medical responsibility.
+
+The final boundaries between Academy research and Institute authority remain unresolved.
 
 ## Continuity Constraints
 

@@ -4,6 +4,8 @@
 
 A placeholder does not resolve contradictions, assign unknown identities, or supersede a completed canonical profile.
 
+Some entries are owner-directed canonical placeholders created from explicit canon decisions rather than compiled-source extraction.
+
 ## Character Placeholders
 
 | Entity | File |
@@ -50,6 +52,7 @@ A placeholder does not resolve contradictions, assign unknown identities, or sup
 | [The Guild of Clockwrights](organizations/The_Guild_of_Clockwrights.md) | [The_Guild_of_Clockwrights.md](organizations/The_Guild_of_Clockwrights.md) |
 | [The Guild of Artificers](organizations/The_Guild_of_Artificers.md) | [The_Guild_of_Artificers.md](organizations/The_Guild_of_Artificers.md) |
 | [The Guild of Verdant Mechanists](organizations/The_Guild_of_Verdant_Mechanists.md) | [The_Guild_of_Verdant_Mechanists.md](organizations/The_Guild_of_Verdant_Mechanists.md) |
+| [The Institute of Vital Mechanics](organizations/The_Institute_of_Vital_Mechanics.md) | [The_Institute_of_Vital_Mechanics.md](organizations/The_Institute_of_Vital_Mechanics.md) |
 
 ## Location Placeholders
 
@@ -104,3 +107,5 @@ A placeholder does not resolve contradictions, assign unknown identities, or sup
 | [Lamplighters' Hall](locations/Lamplighters_Hall.md) | [Lamplighters_Hall.md](locations/Lamplighters_Hall.md) |
 | [Mariners' Hall](locations/Mariners_Hall.md) | [Mariners_Hall.md](locations/Mariners_Hall.md) |
 | [Rootglass Cloister](locations/Rootglass_Cloister.md) | [Rootglass_Cloister.md](locations/Rootglass_Cloister.md) |
+| [The Hall of Vital Mechanics](locations/The_Hall_of_Vital_Mechanics.md) | [The_Hall_of_Vital_Mechanics.md](locations/The_Hall_of_Vital_Mechanics.md) |
+| [The Cauldron Recovery House](locations/The_Cauldron_Recovery_House.md) | [The_Cauldron_Recovery_House.md](locations/The_Cauldron_Recovery_House.md) |
