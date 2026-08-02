@@ -46,6 +46,11 @@ Every canonical Markdown file should contain:
 
 - Embed every active image associated with the artifact.
 - Preserve image variants only when their distinct purpose is documented.
+- Include a **Plate Text Transcription — Visual Evidence Only** section that records every readable heading, label, date, signature, seal, stamp, handwritten note, redaction, name, place, measurement, catalog number, and identifying mark.
+- Mark uncertain text as illegible, partially illegible, abraded, struck through, or redacted. Never reconstruct text merely because later canon suggests what it might say.
+- Include a **Complete Plate Description — Visual Evidence Only** section describing the entire visible composition without importing unseen story facts.
+- Include a separate **Non-Visual Canon References and Story Context** section for broader history, interpretation, and links.
+- Preserve visible plate text even when it conflicts with newer canon; document the conflict and let active linked Markdown control the broader story.
 - Keep recovery details, form, canonical purpose, production status, and unresolved questions in the artifact file.
 
 ### Story Arcs
@@ -76,6 +81,7 @@ Summarize and link; do not copy full sections between files. A local file may co
 - [x] Create an artifact profile template.
 - [x] Create one Markdown record for every entry in the original Artifact Image Slate.
 - [x] Link existing active artifact art where confidently matched.
+- [x] Transcribe and fully describe every completed active artifact plate currently available.
 - [ ] Add visual-reference sections to every existing character profile.
 - [ ] Add map and location-art sections to every existing location profile.
 - [ ] Add crest, seal, or representative-art sections to every existing organization profile.
