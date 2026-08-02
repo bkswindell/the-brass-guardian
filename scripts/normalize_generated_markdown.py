@@ -48,7 +48,7 @@ def normalize(path: Path, text: str) -> str:
 
         # Source filenames are evidence labels, not references to the city.
         line = re.sub(
-            r"\[Aetherhaven\]\([^)]+/Aetherhaven\.md\)(?=\s+v\d+(?:\.\d+)?\.pdf)",
+            r"\[Aetherhaven\]\([^)]+/Aetherhaven\.md\)(?=(?:\s+v\d+(?:\.\d+)?)?\.pdf)",
             "Aetherhaven",
             line,
         )
