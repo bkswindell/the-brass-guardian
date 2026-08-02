@@ -1,5 +1,6 @@
 name: Link Canon Markdown References
 
+# This workflow performs the repository-wide canonical cross-link pass.
 on:
   workflow_dispatch:
   pull_request:
