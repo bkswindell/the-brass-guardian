@@ -1,58 +1,76 @@
 ---
 character_id: AH-CHAR-PLACEHOLDER-006
 name: Lucian Wren
-title: Inventor and professional rival
+title: Aetherhaven's Celebrated Inventor
 aliases:
   - Lucian
 series: The Brass Guardian / The Aetherhaven Chronicles
 canon_status: Source-grounded placeholder
 canonical_scope: Aetherhaven volumes
 last_updated: 2026-08-02
-primary_locations: []
+primary_locations:
+  - Inventors' District
 affiliations: []
-key_connections: []
+key_connections:
+  - Professor Elias Hawthorne
+  - Amelia Hawthorne
 temporal_relevance: Unresolved
 source_basis:
+  - Aetherhaven.pdf
   - Aetherhaven v3.pdf
 ---
 
 # Lucian Wren
 
-> **Placeholder profile.** This file exists so references can resolve to one authoritative record. It records only what the cited source currently supports and does not supersede more developed canon elsewhere in the repository.
+> **Placeholder profile.** This file preserves the supplied descriptions of Lucian Wren without resolving differences that require later canon review.
 
 ## Canonical Summary
 
-A brilliant, elegant, and ambitious inventor who serves as [Elias Hawthorne](Professor_Elias_Hawthorne.md)'s professional rival. He seeks public acclaim, repeatedly fails to copy [Elias](Professor_Elias_Hawthorne.md)'s work, and unknowingly possesses a machine created by [the First Mechanist](The_First_Mechanist.md).
+The newest compiled source presents Lucian as a handsome, theatrical, and extremely talented inventor whose demonstrations attract crowds, investors, and occasional fire brigades. He regards Elias as an outdated adventurer and Amelia as both a fascinating mystery and an inconvenient rival. He is competitive rather than cruel and usually does the right thing when genuine danger appears. His recent breakthroughs came from anonymous blueprints, each containing one component he cannot understand; together, those components may form a larger machine.
+
+Earlier supplied material also describes Lucian as brilliant, elegant, ambitious, hungry for public acclaim, repeatedly frustrated when attempting to reproduce Elias's work, and unknowingly in possession of a machine connected to the First Mechanist.
+
+These may describe the same developing mystery, but that connection is not yet confirmed.
 
 ## Source Notes
 
-- Expand from later canon review.
+- **Aetherhaven v3.pdf:** Celebrated theatrical inventor; rival to Elias and Amelia; anonymous blueprints containing unexplained components.
+- **Aetherhaven.pdf:** Ambitious professional rival; attempts to copy Elias's inventions; possesses a machine attributed to the First Mechanist.
 
 ## Public Role
 
-Pending expansion. Preserve the source description without adding unsupported biography, motives, affiliations, or chronology.
+Lucian is a prominent public inventor and recurring professional rival whose exhibitions and personality draw attention throughout Aetherhaven.
 
 ## Relationships
 
-Relationships explicitly named in the source may be linked here during later expansion. No unassigned relationship should be treated as established merely because this placeholder exists.
+### Professor Elias Hawthorne
+
+Lucian considers Elias outdated and competes with him professionally. The rivalry should not make Lucian casually malicious.
+
+### Amelia Hawthorne
+
+Lucian sees Amelia as both an engineering mystery and a rival. He must continue to recognize her as a person rather than merely a source of technology.
 
 ## Hidden History
 
-Unassigned. Do not infer a hidden identity, allegiance, or temporal origin from the placeholder.
+The origin and purpose of the anonymous blueprints remain unresolved. Their possible connection to the First Mechanist is provisional.
 
 ## Visual Continuity
 
-Use only source-supported details until a dedicated visual profile is approved.
+Elegant, theatrical, fashionable, and visibly concerned when danger damages his clothing. His inventions should be impressive, public-facing, and occasionally overdramatic.
 
 ## Continuity Constraints
 
 - This is a placeholder, not a completed character profile.
-- Source contradictions remain visible and unresolved.
-- Unknown identity, age, allegiance, chronology, and motive must not be invented.
-- Replace or expand this file rather than creating a duplicate profile later.
+- Lucian is competitive and vain, but not inherently cruel.
+- He should be capable of doing the right thing during genuine danger.
+- Do not confirm who sent the blueprints.
+- Do not confirm that their components form a First Mechanist device until canon explicitly connects those descriptions.
 
 ## Open Canon Questions
 
-1. Which source details remain authoritative after full canon review?
-2. What relationships, visual elements, and staged revelations require confirmation?
-3. Does this character need a full long-form profile or a deliberately limited mystery record?
+1. Who sent the anonymous blueprints?
+2. What do the unexplained components form when combined?
+3. Is the older First Mechanist machine the same developing mechanism?
+4. What would make Lucian place truth or safety above public acclaim?
+5. How does his rivalry with Amelia evolve into respect, hostility, or alliance?
