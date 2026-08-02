@@ -35,7 +35,7 @@ Both descriptions are retained pending a fuller character profile.
 ## Source Notes
 
 - **Aetherhaven v3.pdf:** Proprietor of [the Last Lantern](../locations/The_Last_Lantern.md); trades in promises; possesses impossible objects; remembers a prior promise involving [Elias](Professor_Elias_Hawthorne.md).
-- **[Aetherhaven](../locations/Aetherhaven.md).pdf:** Retired explorer and storyteller; vanished for two years while remembering only weeks.
+- **Aetherhaven.pdf:** Retired explorer and storyteller; vanished for two years while remembering only weeks.
 
 ## Public Role
 

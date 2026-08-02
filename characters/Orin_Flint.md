@@ -34,7 +34,7 @@ Both descriptions remain provisional until the character receives a full canon r
 ## Source Notes
 
 - **Aetherhaven v3.pdf:** Foreman; worker-safety advocate; halted excavation; hears machinery beyond the six-socket wall.
-- **[Aetherhaven](../locations/Aetherhaven.md).pdf:** [Miners' Guild](../organizations/The_Miners_Guild.md) leader; believes the tunnels are alive; carries a metal-seeking compass.
+- **Aetherhaven.pdf:** [Miners' Guild](../organizations/The_Miners_Guild.md) leader; believes the tunnels are alive; carries a metal-seeking compass.
 
 ## Public Role
 

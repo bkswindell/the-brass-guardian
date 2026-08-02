@@ -35,7 +35,7 @@ Both descriptions are retained here pending reconciliation.
 ## Source Notes
 
 - **Aetherhaven v3.pdf:** Keeper of [the Engine Complex](../locations/The_Engine_Complex.md); chief engineer; soot-covered and practical; aware of the breathing behind [the Pulse Chamber](../locations/The_Pulse_Chamber.md) walls and the changing power supply.
-- **[Aetherhaven](../locations/Aetherhaven.md).pdf:** Master engineer; two mechanical hands; former mentor to [Elias](Professor_Elias_Hawthorne.md); associated with an unexplained guild medallion.
+- **Aetherhaven.pdf:** Master engineer; two mechanical hands; former mentor to [Elias](Professor_Elias_Hawthorne.md); associated with an unexplained guild medallion.
 
 ## Public Role
 

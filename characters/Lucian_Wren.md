@@ -35,7 +35,7 @@ These may describe the same developing mystery, but that connection is not yet c
 ## Source Notes
 
 - **Aetherhaven v3.pdf:** Celebrated theatrical inventor; rival to [Elias](Professor_Elias_Hawthorne.md) and [Amelia](Amelia_Hawthorne.md); anonymous blueprints containing unexplained components.
-- **[Aetherhaven](../locations/Aetherhaven.md).pdf:** Ambitious professional rival; attempts to copy [Elias](Professor_Elias_Hawthorne.md)'s inventions; possesses a machine attributed to [the First Mechanist](The_First_Mechanist.md).
+- **Aetherhaven.pdf:** Ambitious professional rival; attempts to copy [Elias](Professor_Elias_Hawthorne.md)'s inventions; possesses a machine attributed to [the First Mechanist](The_First_Mechanist.md).
 
 ## Public Role
 
