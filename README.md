@@ -27,15 +27,7 @@ Time does not always behave properly in Aetherhaven. Clocks lose seconds. Record
 
 The series is written to be approachable for readers around age eight and older while remaining engaging for families, preteens, teenagers, and adults reading together.
 
-Each story is designed to stand on its own while contributing to a larger world and continuing mysteries. The adventures emphasize:
-
-- curiosity,
-- empathy,
-- courage,
-- accountability,
-- family,
-- responsible invention,
-- and the belief that understanding something does not grant ownership over it.
+Each story is designed to stand on its own while contributing to a larger world and continuing mysteries. The adventures emphasize curiosity, empathy, courage, accountability, family, responsible invention, and the belief that understanding something does not grant ownership over it.
 
 ## Repository Contents
 
@@ -43,14 +35,15 @@ This repository contains the active working materials for the series:
 
 - the current illustrated manuscript in [PDF](The_Brass_Guardian.pdf) and [Word](The_Brass_Guardian.docx) formats,
 - canonical character, organization, location, and story-arc profiles,
-- maps, artifact plates, character references, and story artwork,
+- an interconnected [artifact image slate](artifacts/README.md) documenting recovered objects, maps, diagrams, seals, and archival plates,
+- maps, character references, and story artwork,
 - and development standards used to preserve continuity across future stories and illustrations.
 
 The Markdown canon files are the primary development source. The compiled manuscript is maintained separately and may not always include the latest world-building changes.
 
-The internal canon profiles contain major spoilers and future-story material. Readers seeking only the stories should begin with the compiled manuscript.
+The internal canon and artifact profiles contain major spoilers and future-story material. Readers seeking only the stories should begin with the compiled manuscript.
 
-Project development and canon indexing are maintained in [PROJECT_INDEX.md](PROJECT_INDEX.md).
+Project development and canon indexing are maintained in [PROJECT_INDEX.md](PROJECT_INDEX.md). Repository authoring and cross-linking rules are documented in [CANON_MARKDOWN_STANDARD.md](CANON_MARKDOWN_STANDARD.md).
 
 ## Project Status
 

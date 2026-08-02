@@ -10,48 +10,54 @@ last_updated:
 jurisdiction: []
 access_status: []
 map_reference_category: numbered | restricted | unlisted
+map_number:
 primary_connections: []
 points_of_interest: []
+related_markdown: []
+canonical_images:
+  - ../art/Map_of_Aetherhaven.png
+  - null
 temporal_relevance: None
 ---
 
 # Location Name
 
+## Map Reference
+
+![Map of Aetherhaven](../art/Map_of_Aetherhaven.png)
+
+State the map number or restricted-area letter and link to the full map image.
+
+## Visual Reference
+
+> **Location image pending:** Add at least one canonical image from `art/` when available. Never substitute material from `unused/`.
+
 ## Public Map Reference
 
-Write the official spoiler-light map description here.
-
-- For numbered locations 1–24: welcoming, upbeat, wondrous, and intriguing.
-- For restricted locations A–F: cautionary or restrictive, but irresistibly mysterious.
-- Include important named points of interest.
-- Do not reveal hidden canon or future plot resolutions.
+Use the voice defined in [Map Location Reference Style Guide](../Map_Location_Reference_Style_Guide.md).
 
 ## Canonical Summary
 
-Summarize the location's atmosphere, civic or narrative role, and its most important established points of interest. Preserve named POIs already introduced elsewhere in canon.
+## Civic, Social, or Narrative Role
 
 ## Points of Interest
 
-List and briefly describe the major named venues, landmarks, institutions, restricted sites, markets, transit points, and recurring story locations found here.
+## Relationships
 
-## Geography and Access
-
-## Governance and Social Order
-
-## Economy and Daily Life
-
-## Key Relationships
+Use relative Markdown hyperlinks to existing character, organization, location, artifact, and story-arc files.
 
 ## Visual Continuity
 
-## Story Opportunities
+## Continuity Notes
 
-## Staged Revelations
+## Development Checklist
 
-### Safe for Early Volumes
-
-### Hold for Later
-
-## Continuity Constraints
+- [ ] Map position and label confirmed.
+- [x] Aetherhaven map linked.
+- [ ] Canonical location image linked.
+- [ ] Points of interest complete.
+- [ ] Governing organizations and recurring characters cross-linked.
+- [ ] Relevant artifacts and story arcs cross-linked.
+- [ ] Backlinks added from directly related profiles.
 
 ## Open Canon Questions

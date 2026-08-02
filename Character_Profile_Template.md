@@ -10,67 +10,45 @@ last_updated:
 primary_locations: []
 affiliations: []
 key_connections: []
+related_markdown: []
+canonical_images:
+  - null
 temporal_relevance: None
 ---
 
 # Character Name
 
+## Visual Reference
+
+> **Image pending:** Add a canonical portrait, photograph, silhouette, or clearly identified temporary reference from `art/`. Never use `unused/`.
+
 ## Canonical Summary
 
 A concise, authoritative summary of the character as currently established.
 
-## Public Role
-
-What citizens, institutions, and other characters publicly believe about this person.
+## Public Identity
 
 ## Character Function
 
-The narrative jobs this character performs in the series.
-
 ## Personality and Methods
-
-### Strengths
-
-### Vulnerabilities
 
 ## Relationships
 
-### Amelia Hawthorne
-
-### Professor Elias Hawthorne
-
-### Other Major Connections
-
-## Hidden History
-
-Facts known only to the story guide or intended for later revelation.
-
-## Temporal Significance
-
-How the character interacts with Lost Seconds, record changes, alternate calendars, memory inconsistencies, or chronal anchors.
-
-## Personal Artifacts
-
-Objects consistently associated with the character.
+Use relative Markdown hyperlinks to existing character, organization, location, artifact, and story-arc files.
 
 ## Visual Continuity
 
-Persistent appearance, clothing, tools, symbols, colors, and physical details.
+## Continuity Notes
 
-## Story Opportunities
+Define which facts this file owns and link to other files for detailed artifact, location, organization, or arc history.
 
-Potential standalone mysteries, episodic plots, and arc-level developments.
+## Development Checklist
 
-## Staged Revelations
-
-### Safe for Early Volumes
-
-### Hold for Later
-
-## Continuity Constraints
-
-Details that future stories and illustrations should not contradict.
+- [ ] Canonical summary approved.
+- [ ] Active portrait or silhouette linked.
+- [ ] Primary relationships cross-linked.
+- [ ] Related artifacts linked.
+- [ ] Visual continuity reviewed against active art.
+- [ ] Backlinks added from directly related profiles.
 
 ## Open Canon Questions
-
-Intentionally unresolved questions that may generate future plots.

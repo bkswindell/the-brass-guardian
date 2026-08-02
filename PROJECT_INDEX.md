@@ -13,10 +13,11 @@ The repository currently contains:
 - **12** canonical organization profiles
 - **5** canonical location profiles
 - **5** long-range or hidden story-arc profiles
-- **4** profile templates and development standards
+- **64** artifact image-slate records
+- **5** profile templates and development standards
 - **2** compiled manuscript exports (`DOCX` and `PDF`)
-- **27** active artwork files
-- **26** unused, alternate, or superseded artwork files
+- an active artwork library in `art/`
+
 
 ## Canon Authority
 
@@ -42,6 +43,9 @@ A file marked **Canonical working profile** is authoritative for future story an
 | [Organization_Profile_Template.md](Organization_Profile_Template.md) | Standard structure for new organization profiles |
 | [Location_Profile_Template.md](Location_Profile_Template.md) | Standard structure for new location profiles |
 | [Map_Location_Reference_Style_Guide.md](Map_Location_Reference_Style_Guide.md) | Public-facing tone and continuity rules for numbered and restricted map locations |
+| [CANON_MARKDOWN_STANDARD.md](CANON_MARKDOWN_STANDARD.md) | Required visual, hyperlinking, TODO, and AI-ingestion standards for Markdown files |
+| [Artifact_Profile_Template.md](Artifact_Profile_Template.md) | Standard structure for artifact records |
+| [Story_Arc_Profile_Template.md](Story_Arc_Profile_Template.md) | Standard structure for story-arc records |
 
 ## Canonical Character Profiles
 
@@ -94,6 +98,20 @@ A file marked **Canonical working profile** is authoritative for future story an
 | The Severed Coil Conflict | Long-range escalation from unnoticed interference to direct civic conflict | Canonical long-range arc | [The_Severed_Coil_Conflict.md](story_arcs/The_Severed_Coil_Conflict.md) |
 | The Thirteenth Chair | High Council, First Mechanist, Continuance, and constitutional authority | Canonical long-range arc | [The_Thirteenth_Chair.md](story_arcs/The_Thirteenth_Chair.md) |
 
+## Artifact Image Slate
+
+The [Aetherhaven Artifact Image Slate](artifacts/README.md) contains one Markdown record for each of the 64 planned or completed artifact images from the original development slate.
+
+Artifact files:
+
+- embed active art from `art/` when confidently matched,
+- distinguish completed working artifacts from planned concepts,
+- flag older concepts that require canon review,
+- link to authoritative character, organization, location, and story-arc files,
+- and include production and backlink TODOs.
+
+The artifact Markdown file owns the artifact concept. Broader history remains in the linked canon profiles.
+
 ## Map-Reference Standards
 
 Official map descriptions use two distinct public voices:
@@ -109,7 +127,10 @@ See [Map Location Reference Style Guide](Map_Location_Reference_Style_Guide.md).
 
 The `art/` directory contains the active artwork library. Written canon remains authoritative where an older image conflicts with a later profile.
 
-The `unused/` directory is private development storage for rejected, superseded, experimental, or unselected material. It is **never a canon source** and must not be consulted or reused unless the project owner explicitly identifies a specific item for reconsideration.
+Every future Markdown profile should compile relevant active artwork directly into a **Visual Reference** section and link to the authoritative artifact record where applicable.
+
+The `unused/` directory is private owner storage. It is outside the project canon and must never be consulted, indexed, reused, summarized, or treated as a source unless the project owner explicitly restores a named item.
+
 
 ## Development Backlog
 
@@ -150,6 +171,20 @@ The August 2, 2026 audit identified the following housekeeping and continuity it
 7. The canonical Markdown files are the primary project source. The compiled DOCX and PDF are owner-managed publication snapshots that may intentionally lag behind current canon; consult them only where the active Markdown library has a genuine gap.
 8. Amelia and Elias Hawthorne are intentionally deferred until the surrounding canon is substantially complete.
 9. The `unused/` directory is excluded from all canon, story, art, and continuity work unless the project owner explicitly restores a named item.
+
+## Markdown Integration Migration
+
+The required repository structure is defined in [CANON_MARKDOWN_STANDARD.md](CANON_MARKDOWN_STANDARD.md).
+
+- [x] Create one Markdown record for every Artifact Image Slate entry.
+- [x] Link confidently matched active artifact art.
+- [x] Add visual and cross-link requirements to all profile templates.
+- [ ] Add map callouts and location images to every existing location profile.
+- [ ] Add portraits, photographs, or silhouettes to every existing character profile.
+- [ ] Add crests, seals, artifacts, or representative imagery to every existing organization profile.
+- [ ] Add representative art and complete entity links to every existing story-arc profile.
+- [ ] Add backlinks from existing profiles to directly related artifact files.
+- [ ] Review all Markdown for broken links, unclear canon status, and unnecessary duplication.
 
 ## Working Rule
 

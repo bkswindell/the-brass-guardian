@@ -11,35 +11,41 @@ headquarters: []
 primary_jurisdiction: []
 leadership: []
 key_relationships: []
+related_markdown: []
+canonical_images:
+  - null
 temporal_relevance: None
 ---
 
 # Organization Name
 
+## Visual Reference
+
+> **Image pending:** Add an active crest, seal, badge, artifact, uniform element, headquarters image, or other representative asset from `art/`. Link the corresponding artifact file.
+
 ## Canonical Summary
 
 ## Public Role
 
-## Internal Structure
+## Structure and Methods
 
-## Methods and Procedures
+## Relationships
 
-## Institutional Strengths
+Use relative Markdown hyperlinks to existing character, organization, location, artifact, and story-arc files.
 
-## Institutional Limitations
+## Symbols and Artifacts
 
-## Key Relationships
+Summarize here and link to authoritative files in `artifacts/`.
 
-## Equipment, Symbols, and Artifacts
+## Continuity Notes
 
-## Story Opportunities
+## Development Checklist
 
-## Staged Revelations
-
-### Safe for Early Volumes
-
-### Hold for Later
-
-## Continuity Constraints
+- [ ] Canonical summary approved.
+- [ ] Representative active art linked.
+- [ ] Crest, seal, or artifact file linked where applicable.
+- [ ] Headquarters and primary locations cross-linked.
+- [ ] Related characters, factions, and arcs cross-linked.
+- [ ] Backlinks added from directly related profiles.
 
 ## Open Canon Questions
