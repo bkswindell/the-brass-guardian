@@ -15,9 +15,23 @@
 ## Status Summary
 
 - 64 artifact concepts documented.
-- 14 entries currently link active art assets.
+- 13 completed artifact records currently contain full visual transcription and plate descriptions covering 15 active images.
+- 1 archive-label entry remains a working placeholder rather than a completed artifact plate.
 - 3 entries require explicit canon review before their implied organizations or histories are treated as established.
 - Every artifact file includes production and cross-linking TODOs.
+
+
+## Visual Transcription Status
+
+The following completed active artifact records now contain separate sections for:
+
+- exact plate-text transcription,
+- complete visual-only description,
+- and non-visual canon/story context.
+
+Completed records: `001`, `002`, `003`, `004`, `007`, `009`, `011`, `012`, `015`, `017`, `018`, `021`, and `025`.
+
+`006_Canonical_Aetherhaven_Archive_Label.md` remains a working placeholder. It is not treated as a completed artifact plate and requires a final selected image before authoritative transcription.
 
 ## Foundational Canon Images
 
@@ -144,6 +158,8 @@
 | 64 | [Null Zone Instrument Test](064_Null_Zone_Instrument_Test.md) | `planned-artifact-concept` | `image-needed` |
 
 ## Collection TODO
+
+- [x] Transcribe and describe all currently completed active artifact plates.
 
 - [ ] Resolve final archive catalog numbering after the visual slate stabilizes.
 - [ ] Identify which planned concepts should be retired, merged, or rewritten to match current canon.
