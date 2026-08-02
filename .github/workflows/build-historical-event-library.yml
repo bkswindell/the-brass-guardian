@@ -5,6 +5,7 @@ on:
   pull_request:
     paths:
       - scripts/build_historical_event_library.py
+      - scripts/normalize_historical_event_output.py
       - .github/workflows/build-historical-event-library.yml
 
 permissions:
@@ -31,7 +32,9 @@ jobs:
           python-version: '3.12'
 
       - name: Build historical event library
-        run: python scripts/build_historical_event_library.py
+        run: |
+          python scripts/build_historical_event_library.py
+          python scripts/normalize_historical_event_output.py
 
       - name: Refresh development TODO
         run: |
@@ -44,6 +47,7 @@ jobs:
           find . -type f -name '*.md' -not -path './.git/*' -not -path './unused/*' -print0 \
             | sort -z | xargs -0 sha256sum > /tmp/history-before.sha256
           python scripts/build_historical_event_library.py
+          python scripts/normalize_historical_event_output.py
           python scripts/build_canon_development_todo.py
           python scripts/link_canon_development_todo.py
           find . -type f -name '*.md' -not -path './.git/*' -not -path './unused/*' -print0 \
