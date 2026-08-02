@@ -23,7 +23,7 @@ canonical_images:
 
 ## Canonical Purpose
 
-Similar to the Six-Key Sigil, but with one position represented by a living hand or branching mechanical vine. Its meaning should remain uncertain.
+Similar to [the Six-Key Sigil](003_The_Six_Key_Sigil.md), but with one position represented by a living hand or branching mechanical vine. Its meaning should remain uncertain.
 
 ## Intended Form
 

@@ -14,7 +14,7 @@ canonical_images:
   - null
 ---
 
-# Brass Watch Restricted Incident File
+# [Brass Watch](../organizations/The_Brass_Watch.md) Restricted Incident File
 
 > **Artifact Image Slate #55** · Organizations and Secret Societies · [Artifact standard](../CANON_MARKDOWN_STANDARD.md)
 
@@ -24,7 +24,7 @@ canonical_images:
 
 ## Canonical Purpose
 
-Could concern Inspector Thorne’s nonexistent expedition into the Shrouded Vaults.
+Could concern [Inspector Thorne](../characters/Chief_Inspector_Beatrice_Thorne.md)’s nonexistent expedition into the Shrouded Vaults.
 
 ## Intended Form
 

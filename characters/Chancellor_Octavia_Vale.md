@@ -24,7 +24,7 @@ temporal_relevance: Critical
 
 ## Canonical Summary
 
-Chancellor Octavia Vale is the disciplined, politically cautious, and highly capable presiding officer of the High Council of Aetherhaven.
+Chancellor Octavia Vale is the disciplined, politically cautious, and highly capable presiding officer of [the High Council of Aetherhaven](../organizations/The_High_Council_of_Aetherhaven.md).
 
 She is neither a ceremonial leader nor an unquestioned ruler.
 
@@ -40,7 +40,7 @@ Octavia sincerely believes the Heart Engine must continue operating.
 
 She also suspects that Aetherhaven's dependence upon it has been used to justify too much secrecy, too many emergency powers, and too little preparation for alternatives.
 
-She knows the Order of the Closed Eye exists.
+She knows [the Order of the Closed Eye](../organizations/The_Order_of_the_Closed_Eye.md) exists.
 
 She believes it is a narrowly constrained emergency institution.
 
@@ -84,7 +84,7 @@ This places her in tension with both:
 - officials who use Continuance to justify permanent secrecy,
 - and radicals willing to risk civilian collapse to expose the truth.
 
-## Relationship with the High Council
+## Relationship with [the High Council](../organizations/The_High_Council_of_Aetherhaven.md)
 
 Octavia presides over the Twelve without occupying one of their seats.
 
@@ -109,7 +109,7 @@ Her gradual recognition of this fact is central to her political arc.
 
 For complete organization canon, see [The High Council of Aetherhaven](../organizations/The_High_Council_of_Aetherhaven.md).
 
-## Relationship with the Order of the Closed Eye
+## Relationship with [the Order of the Closed Eye](../organizations/The_Order_of_the_Closed_Eye.md)
 
 Octavia knows the Order exists.
 
@@ -140,9 +140,9 @@ Her eventual discovery must threaten:
 - her legitimacy,
 - and her belief that careful governance can function without complete truth.
 
-## Relationship with Chief Inspector Beatrice Thorne
+## Relationship with [Chief Inspector Beatrice Thorne](Chief_Inspector_Beatrice_Thorne.md)
 
-Octavia and Thorne share mutual respect.
+Octavia and [Thorne](Chief_Inspector_Beatrice_Thorne.md) share mutual respect.
 
 Both value:
 
@@ -150,15 +150,15 @@ Both value:
 - procedure,
 - and responsibility.
 
-Their conflict arises when Octavia asks Thorne to preserve public stability while facts remain incomplete.
+Their conflict arises when Octavia asks [Thorne](Chief_Inspector_Beatrice_Thorne.md) to preserve public stability while facts remain incomplete.
 
-Thorne refuses to call uncertainty a resolution.
+[Thorne](Chief_Inspector_Beatrice_Thorne.md) refuses to call uncertainty a resolution.
 
 Octavia refuses to release information she believes could cause uncontrolled harm.
 
 The Order has exploited that difference.
 
-Octavia may eventually rely upon Thorne to investigate the Council itself.
+Octavia may eventually rely upon [Thorne](Chief_Inspector_Beatrice_Thorne.md) to investigate the Council itself.
 
 That request would place both women in grave political danger.
 
@@ -198,11 +198,11 @@ The letter may bear Octavia's office, family seal, or predecessor's authority.
 
 Its exact origin remains unresolved.
 
-## Relationship with Captain Mara Voss
+## Relationship with [Captain Mara Voss](Captain_Mara_Voss.md)
 
-Octavia relies on Mara for honest assessments of aerial danger.
+Octavia relies on [Mara](Captain_Mara_Voss.md) for honest assessments of aerial danger.
 
-Mara does not soften reports for political convenience.
+[Mara](Captain_Mara_Voss.md) does not soften reports for political convenience.
 
 Octavia values this and dislikes it in equal measure.
 
@@ -214,7 +214,7 @@ Their disputes often concern:
 - Closed Sky negotiations,
 - and vessels carrying information the Council would prefer contained.
 
-Mara will obey lawful authority.
+[Mara](Captain_Mara_Voss.md) will obey lawful authority.
 
 She will not sacrifice a crew to preserve Octavia's timetable.
 
@@ -287,7 +287,7 @@ A sealed document bearing Chancellor authority was written decades before Amelia
 
 ### The Investigation of the Council
 
-Octavia privately asks Thorne to identify which seats are controlled by the Order.
+Octavia privately asks [Thorne](Chief_Inspector_Beatrice_Thorne.md) to identify which seats are controlled by the Order.
 
 ### The Continuance Vote
 
@@ -308,12 +308,12 @@ Octavia learns a fact that may destabilize the city if released and strengthen t
 - Octavia is Chancellor.
 - She is intelligent, cautious, and committed to public safety.
 - She believes the Heart Engine must continue.
-- She respects Thorne, Elias, Amelia, and Mara while frequently disagreeing with them.
+- She respects [Thorne](Chief_Inspector_Beatrice_Thorne.md), Elias, Amelia, and [Mara](Captain_Mara_Voss.md) while frequently disagreeing with them.
 - She knows some ancient emergency authority exists.
 
 ### Mid-Series
 
-- Octavia knows the Order of the Closed Eye exists.
+- Octavia knows [the Order of the Closed Eye](../organizations/The_Order_of_the_Closed_Eye.md) exists.
 - She has underestimated its reach.
 - Her office receives contradictory records.
 - She privately doubts aspects of the Doctrine of Continuance.

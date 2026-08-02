@@ -18,7 +18,7 @@ visual_transcription_status: complete
 
 # The Passenger’s Future-Dated Ticket
 
-> **Artifact Image Slate #25** · The Passenger of Dock Zero · [Artifact standard](../CANON_MARKDOWN_STANDARD.md)
+> **Artifact Image Slate #25** · [The Passenger of Dock Zero](../characters/The_Passenger_of_Dock_Zero.md) · [Artifact standard](../CANON_MARKDOWN_STANDARD.md)
 
 ## Visual Reference
 
@@ -187,7 +187,7 @@ Current canon identifies this as the future-dated ticket associated with [The Pa
 
 The visible passenger fragment must **not** be treated as proof that the ticket belongs to Elias Hawthorne. Current canon keeps the passenger name damaged, blurred, and unverified. The apparent `Elias V...` text is recorded here only because it is physically visible in the generated image.
 
-The plate’s recovery story at the Old Aetherhaven Customs House differs from the current story premise that Mara confiscated the ticket from the Passenger. The plate metadata may describe an earlier concept, a prior archival recovery, or an inconsistent record. The active character and location canon controls the story history until this discrepancy is explicitly reconciled.
+The plate’s recovery story at the Old Aetherhaven Customs House differs from the current story premise that [Mara](../characters/Captain_Mara_Voss.md) confiscated the ticket from the Passenger. The plate metadata may describe an earlier concept, a prior archival recovery, or an inconsistent record. The active character and location canon controls the story history until this discrepancy is explicitly reconciled.
 
 ## Related Canon
 

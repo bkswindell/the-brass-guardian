@@ -29,13 +29,13 @@ temporal_relevance: High
 
 ## Canonical Summary
 
-Chief Inspector Beatrice Thorne commands the Brass Watch, Aetherhaven's constables, investigators, canal patrol, emergency responders, and clockwork sentinel forces. Stern, methodical, and nearly impossible to deceive, she is responsible for determining when a strange occurrence is a civic inconvenience, a criminal act, or the beginning of something far more dangerous.
+Chief Inspector Beatrice Thorne commands [the Brass Watch](../organizations/The_Brass_Watch.md), Aetherhaven's constables, investigators, canal patrol, emergency responders, and clockwork sentinel forces. Stern, methodical, and nearly impossible to deceive, she is responsible for determining when a strange occurrence is a civic inconvenience, a criminal act, or the beginning of something far more dangerous.
 
 At first, Thorne views Professor Elias Hawthorne and Amelia Hawthorne as troublesome adventurers who leave behind damaged rooftops, disrupted canals, violated procedures, and incident reports no reasonable investigator should ever have to file. Over time, however, she comes to recognize that the Hawthornes are not causing Aetherhaven's deepest problems. They are often the first to discover them.
 
 Her respect is earned slowly. Once given, it is durable.
 
-Thorne's left eye is an intricate mechanical lens capable of detecting heat, aether residue, hidden writing, pressure disturbance, mechanical stress, and forensic traces invisible to ordinary sight. She claims it was damaged in the line of duty, which is true but incomplete. In reality, she lost the eye during a classified expedition into the Shrouded Vaults—an operation the High Council later erased from the record and publicly denied ever occurred.
+Thorne's left eye is an intricate mechanical lens capable of detecting heat, aether residue, hidden writing, pressure disturbance, mechanical stress, and forensic traces invisible to ordinary sight. She claims it was damaged in the line of duty, which is true but incomplete. In reality, she lost the eye during a classified expedition into the Shrouded Vaults—an operation [the High Council](../organizations/The_High_Council_of_Aetherhaven.md) later erased from the record and publicly denied ever occurred.
 
 The mission changed more than her vision. It convinced Thorne that official truth in Aetherhaven is not always the same as actual truth.
 
@@ -45,15 +45,15 @@ Thorne serves the city before she serves the Council.
 
 Behind her formal bearing, she keeps private files on cases that shift after filing, witnesses who disappear from official records, and evidence the city seems intent on forgetting. Her mechanical lens has begun revealing traces of erased writing, altered reports, and structures that should no longer exist.
 
-She has not told the High Council that her eye sometimes sees things their records do not.
+She has not told [the High Council](../organizations/The_High_Council_of_Aetherhaven.md) that her eye sometimes sees things their records do not.
 
-She has not told the Brass Watch that one sealed fragment from the Shrouded Vaults reacts to Amelia's gauntlet.
+She has not told [the Brass Watch](../organizations/The_Brass_Watch.md) that one sealed fragment from the Shrouded Vaults reacts to Amelia's gauntlet.
 
 And she has not yet decided whether the truth buried beneath Aetherhaven is something the law can contain—or something the law was designed to keep hidden.
 
 ## Public Role
 
-The Brass Watch is Aetherhaven's principal civic law-enforcement and emergency-response organization.
+[The Brass Watch](../organizations/The_Brass_Watch.md) is Aetherhaven's principal civic law-enforcement and emergency-response organization.
 
 Thorne oversees:
 
@@ -65,7 +65,7 @@ Thorne oversees:
 - Disaster response.
 - Missing-person investigations.
 - Industrial sabotage cases.
-- Coordination with the Harbormaster, Engine Complex, and High Council.
+- Coordination with the Harbormaster, Engine Complex, and [High Council](../organizations/The_High_Council_of_Aetherhaven.md).
 - Unclassified incidents involving anomalous machinery or aether residue.
 
 Her public reputation is formidable. Citizens may not find her warm, but most believe she is difficult to bribe, pressure, or deceive.
@@ -82,11 +82,11 @@ She provides:
 
 - Evidence-based scrutiny in a world of impossible claims.
 - Consequences for reckless exploration.
-- A lawful perspective that is not automatically aligned with the High Council.
+- A lawful perspective that is not automatically aligned with [the High Council](../organizations/The_High_Council_of_Aetherhaven.md).
 - A mentor who teaches Amelia observation, interviews, evidence handling, and restraint.
 - A foil for Elias's instinct to act before authorization.
-- A moral and jurisdictional rival for Captain Mara Voss.
-- Direct access to denied incidents, sealed investigations, and Brass Watch records.
+- A moral and jurisdictional rival for [Captain Mara Voss](Captain_Mara_Voss.md).
+- Direct access to denied incidents, sealed investigations, and [Brass Watch](../organizations/The_Brass_Watch.md) records.
 - A character capable of identifying when official history has been altered.
 
 Her central thematic question is:
@@ -179,38 +179,38 @@ They should argue frequently.
 
 When they agree, the danger should feel serious.
 
-## Relationship with Captain Mara Voss
+## Relationship with [Captain Mara Voss](Captain_Mara_Voss.md)
 
-Thorne and Captain Mara Voss are natural allies complicated by incompatible methods.
+Thorne and [Captain Mara Voss](Captain_Mara_Voss.md) are natural allies complicated by incompatible methods.
 
 Both are:
 
 - highly competent,
 - difficult to intimidate,
-- suspicious of the High Council,
+- suspicious of [the High Council](../organizations/The_High_Council_of_Aetherhaven.md),
 - responsible for protecting Aetherhaven from threats official records may deny,
 - and willing to risk their careers for civilians.
 
-Their conflict arises because Thorne suspects Mara of working with smugglers, Underclock runners, fugitives, unregistered captains, and other people the Brass Watch considers criminal or dangerous.
+Their conflict arises because Thorne suspects [Mara](Captain_Mara_Voss.md) of working with smugglers, [Underclock](../organizations/The_Underclock.md) runners, fugitives, unregistered captains, and other people [the Brass Watch](../organizations/The_Brass_Watch.md) considers criminal or dangerous.
 
 Her suspicion is evidence-based.
 
-Mara does maintain relationships with individuals who operate outside the law. She may use forbidden routes, conceal a refugee, protect an informant, or cooperate with a smuggler when she believes official channels would expose innocent people or allow a greater threat through the docks.
+[Mara](Captain_Mara_Voss.md) does maintain relationships with individuals who operate outside the law. She may use forbidden routes, conceal a refugee, protect an informant, or cooperate with a smuggler when she believes official channels would expose innocent people or allow a greater threat through the docks.
 
-Thorne's objection is not merely that Mara breaks rules.
+Thorne's objection is not merely that [Mara](Captain_Mara_Voss.md) breaks rules.
 
-It is that Mara places herself above the rules and decides which laws deserve obedience.
+It is that [Mara](Captain_Mara_Voss.md) places herself above the rules and decides which laws deserve obedience.
 
 From Thorne's perspective, that creates several dangers:
 
-- Mara's personal judgment may be wrong.
+- [Mara](Captain_Mara_Voss.md)'s personal judgment may be wrong.
 - A trusted smuggler may exploit her protection.
 - Evidence can disappear through informal channels.
 - Unequal exceptions undermine public confidence.
 - A Harbormaster with private loyalties can become more powerful than accountable institutions.
-- Mara's connection to the Hawthornes may influence decisions involving restricted access or unauthorized departures.
+- [Mara](Captain_Mara_Voss.md)'s connection to the Hawthornes may influence decisions involving restricted access or unauthorized departures.
 
-Mara argues that Thorne's procedural model is equally vulnerable:
+[Mara](Captain_Mara_Voss.md) argues that Thorne's procedural model is equally vulnerable:
 
 - Council orders may be dishonest.
 - Records may adjust.
@@ -218,16 +218,16 @@ Mara argues that Thorne's procedural model is equally vulnerable:
 - official channels may expose vulnerable travelers.
 - rigid enforcement may protect the institution causing the danger.
 
-Thorne is particularly troubled by Mara's loyalty to Elias and Amelia.
+Thorne is particularly troubled by [Mara](Captain_Mara_Voss.md)'s loyalty to Elias and Amelia.
 
-She believes Mara:
+She believes [Mara](Captain_Mara_Voss.md):
 
 - grants the Hawthornes unusual access,
 - tolerates their unauthorized movements,
 - protects them from ordinary consequences,
 - and sometimes withholds dock evidence when she believes the Council would misuse it.
 
-Mara insists she is not granting favoritism. She believes the Hawthornes repeatedly uncover threats before the city is prepared to acknowledge them and deserve enough freedom to act.
+[Mara](Captain_Mara_Voss.md) insists she is not granting favoritism. She believes the Hawthornes repeatedly uncover threats before the city is prepared to acknowledge them and deserve enough freedom to act.
 
 Their disagreements commonly involve:
 
@@ -235,42 +235,42 @@ Their disagreements commonly involve:
 - The Morningstar berth.
 - The Passenger's legal status.
 - Use of smugglers as informants or guides.
-- Underclock routes.
+- [Underclock](../organizations/The_Underclock.md) routes.
 - Unregistered vessels.
 - Evidence held by the Harbormaster rather than surrendered to the Watch.
 - Whether Amelia may participate in an active investigation.
 - Whether Elias may depart before formal clearance.
 - Whether the city's immediate safety justifies concealment.
 
-Thorne keeps files on several of Mara's associates.
+Thorne keeps files on several of [Mara](Captain_Mara_Voss.md)'s associates.
 
-Mara refuses to identify people she believes would be unjustly harmed.
+[Mara](Captain_Mara_Voss.md) refuses to identify people she believes would be unjustly harmed.
 
 Thorne interprets this as obstruction.
 
-Mara interprets Thorne's pressure as proof that official systems cannot always be trusted.
+[Mara](Captain_Mara_Voss.md) interprets Thorne's pressure as proof that official systems cannot always be trusted.
 
 Despite this conflict, neither woman believes the other is corrupt.
 
-Thorne trusts Mara's judgment in a true aerial emergency. Mara trusts Thorne to protect civilians and preserve evidence when a case becomes politically dangerous.
+Thorne trusts [Mara](Captain_Mara_Voss.md)'s judgment in a true aerial emergency. [Mara](Captain_Mara_Voss.md) trusts Thorne to protect civilians and preserve evidence when a case becomes politically dangerous.
 
 Their relationship should evolve through hard-earned respect, not easy friendship. Even after becoming dependable allies, they should continue disagreeing about where lawful authority ends and personal conscience begins.
 
-## Relationship with Chancellor Octavia Vale
+## Relationship with [Chancellor Octavia Vale](Chancellor_Octavia_Vale.md)
 
-Thorne formally serves within the civic structure led by Chancellor Octavia Vale.
+Thorne formally serves within the civic structure led by [Chancellor Octavia Vale](Chancellor_Octavia_Vale.md).
 
-She respects Octavia's intelligence and genuine concern for Aetherhaven, but increasingly distrusts the Council's use of sealed files, altered summaries, and selective disclosure.
+She respects [Octavia](Chancellor_Octavia_Vale.md)'s intelligence and genuine concern for Aetherhaven, but increasingly distrusts the Council's use of sealed files, altered summaries, and selective disclosure.
 
-Octavia values Thorne because she cannot be easily pressured.
+[Octavia](Chancellor_Octavia_Vale.md) values Thorne because she cannot be easily pressured.
 
 She also finds Thorne dangerous because she keeps copies.
 
-Their relationship should remain respectful but tense. Octavia may believe certain truths must remain controlled. Thorne may accept temporary secrecy, but not the destruction of evidence or falsification of public records.
+Their relationship should remain respectful but tense. [Octavia](Chancellor_Octavia_Vale.md) may believe certain truths must remain controlled. Thorne may accept temporary secrecy, but not the destruction of evidence or falsification of public records.
 
 ## The Mechanical Lens
 
-Thorne's left eye is a precision mechanical lens built from a combination of modern Brass Watch engineering and material recovered from the Shrouded Vaults.
+Thorne's left eye is a precision mechanical lens built from a combination of modern [Brass Watch](../organizations/The_Brass_Watch.md) engineering and material recovered from the Shrouded Vaults.
 
 ### Publicly Acknowledged Functions
 
@@ -305,7 +305,7 @@ She does not yet trust its explanation.
 
 Years before becoming Chief Inspector, Thorne joined a classified retrieval mission into the Shrouded Vaults.
 
-The High Council later denied that the expedition occurred.
+[The High Council](../organizations/The_High_Council_of_Aetherhaven.md) later denied that the expedition occurred.
 
 ### Established Hidden Canon
 
@@ -328,9 +328,9 @@ The High Council later denied that the expedition occurred.
 
 These possibilities remain unconfirmed.
 
-## Relationship with the High Council and the Law
+## Relationship with [the High Council](../organizations/The_High_Council_of_Aetherhaven.md) and the Law
 
-Thorne serves Aetherhaven before she serves the High Council.
+Thorne serves Aetherhaven before she serves [the High Council](../organizations/The_High_Council_of_Aetherhaven.md).
 
 She obeys lawful authority but does not equate authority with truth.
 
@@ -358,7 +358,7 @@ A brass and steel case containing cleaning tools, crystal filters, replacement a
 
 Thorne treats the lens as both medical necessity and investigative instrument.
 
-### The Brass Watch Command Baton
+### [The Brass Watch](../organizations/The_Brass_Watch.md) Command Baton
 
 A formal symbol of office containing sentinel-control authority, emergency access codes, and Watch authentication marks.
 
@@ -380,7 +380,7 @@ Persistent visual elements:
 
 - Commanding posture.
 - Dark structured inspector's coat.
-- Brass Watch insignia.
+- [Brass Watch](../organizations/The_Brass_Watch.md) insignia.
 - Practical, severe silhouette.
 - Neatly controlled hair.
 - Refined mechanical left lens.
@@ -420,11 +420,11 @@ A sealed chamber responds to Thorne's lens as though it were a key.
 
 ### The Smuggler's Mercy
 
-Thorne pursues one of Mara's most trusted Underclock contacts, only to discover that the smuggler is moving endangered people away from a Council operation. Thorne must decide whether enforcing the law would produce an injustice.
+Thorne pursues one of [Mara](Captain_Mara_Voss.md)'s most trusted [Underclock](../organizations/The_Underclock.md) contacts, only to discover that the smuggler is moving endangered people away from a Council operation. Thorne must decide whether enforcing the law would produce an injustice.
 
 ### Jurisdiction at Dock Zero
 
-Thorne orders evidence seized from Mara's office. Mara refuses, believing the Council will alter or destroy it. Their conflict places the Passenger, Amelia, and the Morningstar ticket between them.
+Thorne orders evidence seized from [Mara](Captain_Mara_Voss.md)'s office. [Mara](Captain_Mara_Voss.md) refuses, believing the Council will alter or destroy it. Their conflict places the Passenger, Amelia, and the Morningstar ticket between them.
 
 ### The Hawthorne Exception
 
@@ -434,14 +434,14 @@ A Watch officer accuses Thorne of giving Amelia special treatment after Thorne a
 
 ### Safe for Early Volumes
 
-- Thorne commands the Brass Watch.
+- Thorne commands [the Brass Watch](../organizations/The_Brass_Watch.md).
 - She is stern, methodical, and difficult to deceive.
 - She initially considers the Hawthornes disruptive.
 - Her mechanical lens detects heat, aether residue, and hidden writing.
 - She lost the eye in the line of duty.
-- She distrusts Mara's dealings with smugglers and informal networks.
-- She believes Mara protects the Hawthornes from ordinary consequences.
-- She and Mara clash over jurisdiction and evidence.
+- She distrusts [Mara](Captain_Mara_Voss.md)'s dealings with smugglers and informal networks.
+- She believes [Mara](Captain_Mara_Voss.md) protects the Hawthornes from ordinary consequences.
+- She and [Mara](Captain_Mara_Voss.md) clash over jurisdiction and evidence.
 - Thorne serves the city more strongly than she serves political convenience.
 
 ### Hold for Later
@@ -460,18 +460,18 @@ A Watch officer accuses Thorne of giving Amelia special treatment after Thorne a
 ## Continuity Constraints
 
 - Thorne must remain principled rather than authoritarian.
-- Her suspicion of Mara must be reasonable and grounded in Mara's actual associations.
-- Mara must not be portrayed as secretly corrupt merely to vindicate Thorne.
+- Her suspicion of [Mara](Captain_Mara_Voss.md) must be reasonable and grounded in [Mara](Captain_Mara_Voss.md)'s actual associations.
+- [Mara](Captain_Mara_Voss.md) must not be portrayed as secretly corrupt merely to vindicate Thorne.
 - Their conflict must arise from differing definitions of lawful protection, acceptable risk, and civic duty.
-- Thorne's concern about Mara's loyalty to the Hawthornes should remain legitimate without becoming jealousy.
+- Thorne's concern about [Mara](Captain_Mara_Voss.md)'s loyalty to the Hawthornes should remain legitimate without becoming jealousy.
 - Thorne may enforce consequences but should not dismiss impossible evidence when it is genuine.
 - Her alliance with the Hawthornes must be earned gradually.
 - Her relationship with Amelia should involve respect, rigor, and mentorship rather than immediate warmth.
 - The lens is an investigative tool, wound, and temporal mystery—not merely decorative technology.
 - The Shrouded Vaults expedition must remain denied in early public canon.
-- Thorne serves Aetherhaven before the High Council.
+- Thorne serves Aetherhaven before [the High Council](../organizations/The_High_Council_of_Aetherhaven.md).
 - She must preserve evidence even when official records shift.
-- Her disagreements with Mara should continue after mutual respect develops.
+- Her disagreements with [Mara](Captain_Mara_Voss.md) should continue after mutual respect develops.
 - Neither woman should be made entirely right in every conflict.
 
 ## Open Canon Questions
@@ -487,7 +487,7 @@ A Watch officer accuses Thorne of giving Amelia special treatment after Thorne a
 9. What is the Vault fragment?
 10. Why does it react to Amelia?
 11. How far will Thorne bend the law when the law produces injustice?
-12. Which of Mara's associates will become Thorne's most persistent adversary?
-13. Will Thorne ever accept Mara's moral code as legitimate?
-14. Will Mara ever surrender evidence she believes the Watch cannot safely protect?
+12. Which of [Mara](Captain_Mara_Voss.md)'s associates will become Thorne's most persistent adversary?
+13. Will Thorne ever accept [Mara](Captain_Mara_Voss.md)'s moral code as legitimate?
+14. Will [Mara](Captain_Mara_Voss.md) ever surrender evidence she believes the Watch cannot safely protect?
 15. What happens when Thorne discovers the full truth of the *Resolute* and Morningstar?

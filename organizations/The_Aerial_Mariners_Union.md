@@ -40,7 +40,7 @@ The Aerial Mariners' Union represents the captains, navigators, dockworkers, rig
 
 Its members guide ships through mountain winds, aether storms, cloud banks, uncertain borders, and routes that do not always behave the same way twice. The Union maintains rescue crews, certifies experienced mariners, supports injured workers and lost crews' families, and preserves generations of navigational knowledge unavailable in official government charts.
 
-Its most important records are the **Living Charts**: privately maintained route maps corrected by hand after every unusual voyage. They show wind currents, pressure lanes, safe altitudes, and recurring aerial paths that do not appear on High Council maps.
+Its most important records are the **Living Charts**: privately maintained route maps corrected by hand after every unusual voyage. They show wind currents, pressure lanes, safe altitudes, and recurring aerial paths that do not appear on [High Council](The_High_Council_of_Aetherhaven.md) maps.
 
 Some of those currents should not exist.
 
@@ -70,7 +70,7 @@ The Union presents itself as a practical institution devoted to:
 - support for injured mariners,
 - and protection for the families of crews lost in flight.
 
-It is not part of the High Council, Harbormaster's Office, or Brass Watch.
+It is not part of [the High Council](The_High_Council_of_Aetherhaven.md), Harbormaster's Office, or [Brass Watch](The_Brass_Watch.md).
 
 It is an independent organization whose authority comes from collective knowledge and the simple fact that airships do not fly without trained people.
 
@@ -88,7 +88,7 @@ The Union is organized by function and route experience rather than social class
 
 ### The Union Speaker
 
-An elected public representative who negotiates with the High Council, Harbormaster, merchant houses, and distant trade delegations.
+An elected public representative who negotiates with [the High Council](The_High_Council_of_Aetherhaven.md), Harbormaster, merchant houses, and distant trade delegations.
 
 The Speaker can call emergency assemblies but cannot unilaterally declare a Closed Sky.
 
@@ -138,7 +138,7 @@ An airship cannot depart if no one releases the tower clamps.
 
 Airship engineers and mechanics who establish safety standards, investigate failures, and determine whether damaged or experimental craft are fit to fly.
 
-They maintain an uneasy professional relationship with the Mechanists' Guild.
+They maintain an uneasy professional relationship with [the Mechanists' Guild](The_Mechanists_Guild.md).
 
 ### The Weather Readers
 
@@ -148,7 +148,7 @@ They often recognize temporal disturbances first because the sky begins behaving
 
 ## Mariners' Hall
 
-The Union's headquarters at the Aerial Docks is known as **Mariners' Hall**.
+The Union's headquarters at [the Aerial Docks](../locations/The_Aerial_Docks.md) is known as **Mariners' Hall**.
 
 It is part meeting house, chart archive, memorial, training center, and refuge for stranded crews.
 
@@ -166,7 +166,7 @@ An upper chamber filled with wind vanes, pressure instruments, storm glasses, cl
 
 A protected archive containing generations of hand-corrected navigational charts.
 
-The High Council has repeatedly requested copies.
+[The High Council](The_High_Council_of_Aetherhaven.md) has repeatedly requested copies.
 
 The Union repeatedly provides incomplete public versions.
 
@@ -186,7 +186,7 @@ It contains records associated with the Returning Star, ships displaced in time,
 
 Only the Union Speaker, selected Route Council members, and senior Chartkeepers may enter.
 
-Captain Mara Voss may still possess access by custom, though not necessarily by current rule.
+[Captain Mara Voss](../characters/Captain_Mara_Voss.md) may still possess access by custom, though not necessarily by current rule.
 
 ## The Living Charts
 
@@ -229,7 +229,7 @@ A **Closed Sky declaration** is the Union's most powerful collective action.
 It may be called when:
 
 - routes are unsafe,
-- the High Council attempts to force departures,
+- [the High Council](The_High_Council_of_Aetherhaven.md) attempts to force departures,
 - worker protections are violated,
 - a dangerous vessel is ordered released,
 - rescue obligations are ignored,
@@ -281,9 +281,9 @@ The Union does not understand the mechanism.
 
 It only knows the rule saves lives.
 
-## Relationship with Captain Mara Voss
+## Relationship with [Captain Mara Voss](../characters/Captain_Mara_Voss.md)
 
-Mara Voss was a respected Union captain before becoming Harbormaster.
+[Mara](../characters/Captain_Mara_Voss.md) [Voss](../characters/Captain_Mara_Voss.md) was a respected Union captain before becoming Harbormaster.
 
 The Union remembers her as:
 
@@ -294,7 +294,7 @@ The Union remembers her as:
 
 Her appointment as Harbormaster changed the relationship.
 
-Mara now enforces:
+[Mara](../characters/Captain_Mara_Voss.md) now enforces:
 
 - berth rules,
 - inspections,
@@ -310,17 +310,17 @@ The Union respects her but does not automatically obey her.
 
 Some members remain fiercely loyal.
 
-Others believe she has become too close to the High Council and Brass Watch.
+Others believe she has become too close to [the High Council](The_High_Council_of_Aetherhaven.md) and [Brass Watch](The_Brass_Watch.md).
 
 The unresolved fate of the *Resolute's* crew complicates everything.
 
 The Union maintains memorial bells for the missing crew, including names not found in the current official manifest.
 
-Mara visits when no assembly is scheduled.
+[Mara](../characters/Captain_Mara_Voss.md) visits when no assembly is scheduled.
 
-## Relationship with the Brass Watch
+## Relationship with [the Brass Watch](The_Brass_Watch.md)
 
-The Union and Brass Watch cooperate on:
+The Union and [Brass Watch](The_Brass_Watch.md) cooperate on:
 
 - rescue operations,
 - contraband investigations,
@@ -338,19 +338,19 @@ They also clash over:
 - detained captains,
 - and Watch demands for private route records.
 
-Chief Inspector Beatrice Thorne believes the Living Charts contain evidence essential to unresolved Second Watch cases.
+[Chief Inspector Beatrice Thorne](../characters/Chief_Inspector_Beatrice_Thorne.md) believes the Living Charts contain evidence essential to unresolved Second Watch cases.
 
 The Union believes surrendering the full archive would place mariners and distant communities at risk.
 
-Thorne respects the Union's safety culture but considers its secrecy capable of shielding smugglers, fugitives, negligent captains, or temporal threats.
+[Thorne](../characters/Chief_Inspector_Beatrice_Thorne.md) respects the Union's safety culture but considers its secrecy capable of shielding smugglers, fugitives, negligent captains, or temporal threats.
 
 The Union considers the Watch too willing to classify strange voyages as criminal matters.
 
-Their cooperation usually requires Mara or another trusted intermediary.
+Their cooperation usually requires [Mara](../characters/Captain_Mara_Voss.md) or another trusted intermediary.
 
-## Relationship with the High Council
+## Relationship with [the High Council](The_High_Council_of_Aetherhaven.md)
 
-The High Council depends on the Union and resents that dependence.
+[The High Council](The_High_Council_of_Aetherhaven.md) depends on the Union and resents that dependence.
 
 Council officials have attempted to:
 
@@ -411,7 +411,7 @@ Senior Chartkeepers are intrigued by the way the Aether Heart responds to:
 
 The Union must never treat Amelia as a navigation instrument.
 
-Mara and Thorne would both oppose any attempt to use her that way.
+[Mara](../characters/Captain_Mara_Voss.md) and [Thorne](../characters/Chief_Inspector_Beatrice_Thorne.md) would both oppose any attempt to use her that way.
 
 A recurring relationship with an older Chartkeeper could become an important source of mentorship and wider-world lore.
 
@@ -528,7 +528,7 @@ The Starless Room should contrast with it through silence, sealed shutters, cove
 
 ### The Closed Sky
 
-The Union halts all departures after navigators detect a route anomaly the High Council refuses to acknowledge.
+The Union halts all departures after navigators detect a route anomaly [the High Council](The_High_Council_of_Aetherhaven.md) refuses to acknowledge.
 
 ### The Chart That Arrived First
 
@@ -544,7 +544,7 @@ A desperate captain follows the Returning Star to save a passenger, forcing the 
 
 ### The Seized Chart Vault
 
-The High Council orders the Brass Watch to confiscate restricted charts after a temporal incident.
+[The High Council](The_High_Council_of_Aetherhaven.md) orders [the Brass Watch](The_Brass_Watch.md) to confiscate restricted charts after a temporal incident.
 
 ### The Missing Bell
 
@@ -556,7 +556,7 @@ Amelia studies with the Chartkeepers and notices that one unwritten wind moves i
 
 ### The Union Vote
 
-Mara must argue against a Closed Sky called by people she respects, even though she privately agrees the routes are unsafe.
+[Mara](../characters/Captain_Mara_Voss.md) must argue against a Closed Sky called by people she respects, even though she privately agrees the routes are unsafe.
 
 ## Staged Revelations
 
@@ -564,11 +564,11 @@ Mara must argue against a Closed Sky called by people she respects, even though 
 
 - The Union represents captains, navigators, dockworkers, engineers, and routekeepers.
 - It can halt aerial trade through a Closed Sky.
-- Mara is a respected former Union captain.
+- [Mara](../characters/Captain_Mara_Voss.md) is a respected former Union captain.
 - The Union protects private charts showing unwritten winds.
 - It forbids vessels from following the Returning Star.
 - The Union values rescue, safety, and crew loyalty.
-- It sometimes clashes with the Brass Watch and High Council.
+- It sometimes clashes with [the Brass Watch](The_Brass_Watch.md) and [High Council](The_High_Council_of_Aetherhaven.md).
 
 ### Hold for Later
 
@@ -583,10 +583,10 @@ Mara must argue against a Closed Sky called by people she respects, even though 
 
 ## Continuity Constraints
 
-- The Union must remain independent from the Harbormaster, Brass Watch, and High Council.
+- The Union must remain independent from the Harbormaster, [Brass Watch](The_Brass_Watch.md), and [High Council](The_High_Council_of_Aetherhaven.md).
 - Its power comes from labor, expertise, route knowledge, and solidarity.
 - A Closed Sky can halt nearly all aerial trade but must carry serious consequences.
-- Mara is respected but does not control the Union.
+- [Mara](../characters/Captain_Mara_Voss.md) is respected but does not control the Union.
 - The Living Charts must contain practical and temporal knowledge absent from official maps.
 - The Union's secrecy should be understandable but capable of obstructing legitimate investigations.
 - The Returning Star remains visible above the Shattered Lands and dangerous to follow.
@@ -604,8 +604,8 @@ Mara must argue against a Closed Sky called by people she respects, even though 
 4. Is the Starless Rule older than Aetherhaven's current calendar?
 5. Does the Morningstar appear in the Starless Room?
 6. Which memorial bell belongs to a ship that has not departed yet?
-7. What records does the Union retain about Silas Rook?
-8. Has Mara entered the Starless Room since the *Resolute* returned?
+7. What records does the Union retain about [Silas Rook](../characters/Silas_Rook_The_Stillmaker.md)?
+8. Has [Mara](../characters/Captain_Mara_Voss.md) entered the Starless Room since the *Resolute* returned?
 9. Which Chartkeeper will become Amelia's mentor?
 10. What happens if the Union and Harbormaster issue contradictory grounding orders?
 11. Can a Closed Sky protect Aetherhaven from a temporal event—or trap it inside one?

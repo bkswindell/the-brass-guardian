@@ -52,7 +52,7 @@ Most Unwound members are artisans, workers, engineers, gardeners, canal keepers,
 
 They teach handcraft, maintain manual pumps, build spring-driven backup systems, preserve unsynchronized clocks, and organize neighborhoods capable of surviving temporary failures of the city's aether network.
 
-A radical splinter faction, known as **the Severed Coil**, has begun sabotaging Golden Veins and other critical systems. The High Council frequently uses those attacks to portray the entire movement as dangerous.
+A radical splinter faction, known as **[the Severed Coil](The_Severed_Coil.md)**, has begun sabotaging Golden Veins and other critical systems. [The High Council](The_High_Council_of_Aetherhaven.md) frequently uses those attacks to portray the entire movement as dangerous.
 
 That portrayal is politically convenient and factually incomplete.
 
@@ -95,7 +95,7 @@ They operate repair halls, kitchens, hand-pump stations, local workshops, and em
 
 ### Political Advocates
 
-They petition the High Council for:
+They petition [the High Council](The_High_Council_of_Aetherhaven.md) for:
 
 - distributed power,
 - independent safety systems,
@@ -110,7 +110,7 @@ They favor human craftsmanship, natural power, and mechanisms whose purpose rema
 
 ### Radicals
 
-The Severed Coil believes reform is impossible while Aetherhaven remains connected to the Heart Engine. Its members sabotage conduits, disable regulators, and attempt to force the city to confront its dependence.
+[The Severed Coil](The_Severed_Coil.md) believes reform is impossible while Aetherhaven remains connected to the Heart Engine. Its members sabotage conduits, disable regulators, and attempt to force the city to confront its dependence.
 
 The movement's decentralized structure makes it difficult to determine where lawful reform ends and conspiracy begins.
 
@@ -166,7 +166,7 @@ They are widely respected in the Workers' Dormitories and Old City.
 
 The movement's public political wing.
 
-It writes petitions, publishes broadsides, organizes debates, and demands transparency from the High Council and Engine Complex.
+It writes petitions, publishes broadsides, organizes debates, and demands transparency from [the High Council](The_High_Council_of_Aetherhaven.md) and Engine Complex.
 
 ### The Clockkeepers Without Hours
 
@@ -174,27 +174,27 @@ An informal network that preserves unsynchronized clocks and contradictory famil
 
 Many members believe official timekeeping is politically manipulated. They do not yet know that some discrepancies are caused by actual temporal adjustment.
 
-### The Severed Coil
+### [The Severed Coil](The_Severed_Coil.md)
 
 A militant splinter faction.
 
-The Severed Coil believes Aetherhaven cannot become free until the Golden Veins are physically severed.
+[The Severed Coil](The_Severed_Coil.md) believes Aetherhaven cannot become free until the Golden Veins are physically severed.
 
 It may contain:
 
 - sincere radicals,
 - angry workers,
 - displaced families,
-- infiltrators from the Ninth Guild,
+- infiltrators from [the Ninth Guild](The_Ninth_Guild.md),
 - and agents seeking to discredit the larger movement.
 
 The Unwound publicly rejects attacks that endanger civilians.
 
-The Severed Coil claims every citizen is already endangered by dependence on the Heart Engine.
+[The Severed Coil](The_Severed_Coil.md) claims every citizen is already endangered by dependence on the Heart Engine.
 
-## Relationship with the Brass Watch
+## Relationship with [the Brass Watch](The_Brass_Watch.md)
 
-The Brass Watch's relationship with the Unwound is defined by mutual suspicion and reluctant dependence.
+[The Brass Watch](The_Brass_Watch.md)'s relationship with the Unwound is defined by mutual suspicion and reluctant dependence.
 
 The Watch sees:
 
@@ -214,9 +214,9 @@ The Unwound sees:
 
 Both views contain truth.
 
-### Chief Inspector Thorne's Position
+### [Chief Inspector Thorne](../characters/Chief_Inspector_Beatrice_Thorne.md)'s Position
 
-Thorne refuses to treat every Unwound member as a criminal.
+[Thorne](../characters/Chief_Inspector_Beatrice_Thorne.md) refuses to treat every Unwound member as a criminal.
 
 She distinguishes among:
 
@@ -224,11 +224,11 @@ She distinguishes among:
 - community responders,
 - obstructive witnesses,
 - saboteurs,
-- and Severed Coil operatives.
+- and [Severed Coil](The_Severed_Coil.md) operatives.
 
 This places her under pressure from Council officials who prefer a simpler enemy.
 
-Thorne is troubled by the movement's willingness to conceal suspects and destroy evidence. She is equally troubled by the fact that Unwound free clocks and handwritten ledgers sometimes preserve information missing from official Watch records.
+[Thorne](../characters/Chief_Inspector_Beatrice_Thorne.md) is troubled by the movement's willingness to conceal suspects and destroy evidence. She is equally troubled by the fact that Unwound free clocks and handwritten ledgers sometimes preserve information missing from official Watch records.
 
 The Second Watch has quietly begun comparing anomaly scenes against Unwound timekeeping archives.
 
@@ -247,7 +247,7 @@ The Watch and the Unwound frequently collide over:
 
 During major outages, Watch officers may depend on Unwound manual systems to evacuate or shelter civilians.
 
-During investigations, Unwound communities may refuse cooperation unless Thorne guarantees that evidence will not be transferred to the Council or Engine Complex.
+During investigations, Unwound communities may refuse cooperation unless [Thorne](../characters/Chief_Inspector_Beatrice_Thorne.md) guarantees that evidence will not be transferred to the Council or Engine Complex.
 
 ### Clockwork Sentinels
 
@@ -274,7 +274,7 @@ The Unwound is divided over Elias.
 - He studies and awakens ancient machinery.
 - His work is connected to the Heart Engine.
 - He built or completed Amelia's Aether Gauntlet.
-- He maintains relationships with the Academy, Society of Explorers, and High Council officials.
+- He maintains relationships with the Academy, Society of Explorers, and [High Council](The_High_Council_of_Aetherhaven.md) officials.
 - His discoveries may increase the city's dependence on systems no one understands.
 
 Elias agrees with the Unwound that Aetherhaven needs distributed safeguards and manual alternatives.
@@ -304,7 +304,7 @@ The moderate movement's sixth principle—no person should be treated as a compo
 
 They oppose attempts by the Council, Academy, Watch, or radicals to use her merely as a key.
 
-The Severed Coil may interpret the Aether Heart as a direct link between Amelia and the system they want to destroy.
+[The Severed Coil](The_Severed_Coil.md) may interpret the Aether Heart as a direct link between Amelia and the system they want to destroy.
 
 Some extremists could claim that "freeing" Amelia requires disconnecting the Heart, disabling the gauntlet, or preventing her from reaching the Aetherium.
 
@@ -317,9 +317,9 @@ Amelia is likely to understand the Unwound better than most adults because she c
 
 She may become the first person able to show them that the Heart Engine is not simply a power source—and that shutting it down blindly could awaken or release something worse.
 
-## Relationship with the High Council
+## Relationship with [the High Council](The_High_Council_of_Aetherhaven.md)
 
-The High Council publicly describes the Unwound as a movement at risk of radicalization.
+[The High Council](The_High_Council_of_Aetherhaven.md) publicly describes the Unwound as a movement at risk of radicalization.
 
 Privately, different Council members view it as:
 
@@ -335,7 +335,7 @@ Council officials have attempted to:
 - seize free-clock archives,
 - restrict broadsides,
 - classify Golden Vein diagrams,
-- and connect peaceful organizers to Severed Coil attacks.
+- and connect peaceful organizers to [Severed Coil](The_Severed_Coil.md) attacks.
 
 Some Council actions are intended to prevent catastrophe.
 
@@ -345,9 +345,9 @@ The Unwound's greatest political power is not sabotage.
 
 It is the possibility that ordinary citizens may learn the Heart Engine cannot be independently shut down.
 
-## Relationship with the Mechanists' Guild
+## Relationship with [the Mechanists' Guild](The_Mechanists_Guild.md)
 
-The Mechanists' Guild publicly opposes Unwound interference with certified machinery.
+[The Mechanists' Guild](The_Mechanists_Guild.md) publicly opposes Unwound interference with certified machinery.
 
 Privately, many Guild members sympathize with the movement's demand for systems that can be understood, repaired, and safely stopped.
 
@@ -362,24 +362,24 @@ A hidden network of Guild members may provide the Unwound with:
 
 This relationship is fertile ground for betrayal, reform, and whistleblower stories.
 
-## Relationship with the Ninth Guild
+## Relationship with [the Ninth Guild](The_Ninth_Guild.md)
 
-The Ninth Guild is one of the Unwound's greatest dangers.
+[The Ninth Guild](The_Ninth_Guild.md) is one of the Unwound's greatest dangers.
 
 It may:
 
 - sell devices to radicals,
-- infiltrate Severed Coil cells,
+- infiltrate [Severed Coil](The_Severed_Coil.md) cells,
 - stage attacks under Unwound symbols,
 - or encourage sabotage that exposes ancient machinery.
 
-The Ninth Guild wants instability because instability creates access.
+[The Ninth Guild](The_Ninth_Guild.md) wants instability because instability creates access.
 
 The Unwound wants independence.
 
 Those goals may temporarily overlap, but they are not the same.
 
-A major future revelation may show that one of the most destructive "Unwound" attacks was engineered by the Ninth Guild or by a Council faction seeking justification for a crackdown.
+A major future revelation may show that one of the most destructive "Unwound" attacks was engineered by [the Ninth Guild](The_Ninth_Guild.md) or by a Council faction seeking justification for a crackdown.
 
 ## Temporal Significance
 
@@ -403,7 +403,7 @@ Their records reveal:
 - people appearing in family books before their birth records,
 - and repairs documented before the damage occurred.
 
-They interpret this as proof that the High Council manipulates timekeeping.
+They interpret this as proof that [the High Council](The_High_Council_of_Aetherhaven.md) manipulates timekeeping.
 
 They are partly wrong.
 
@@ -464,7 +464,7 @@ Recurring visual elements may include:
 
 Moderate gatherings should feel communal and practical.
 
-Severed Coil imagery should appear harsher:
+[Severed Coil](The_Severed_Coil.md) imagery should appear harsher:
 
 - cut conduits,
 - blackened coils,
@@ -483,7 +483,7 @@ A radical cell cuts a Golden Vein and discovers that something other than energy
 
 ### The False Saboteur
 
-The Brass Watch arrests a respected Handwright organizer after an attack. Amelia finds evidence that the Ninth Guild staged the sabotage.
+[The Brass Watch](The_Brass_Watch.md) arrests a respected Handwright organizer after an attack. Amelia finds evidence that [the Ninth Guild](The_Ninth_Guild.md) staged the sabotage.
 
 ### The Free Clocks
 
@@ -491,11 +491,11 @@ Hundreds of Unwound clocks strike an hour that official clocks deny exists.
 
 ### Amelia Unbound
 
-The Severed Coil attempts to separate Amelia from the Aether Heart, believing they are freeing her from the Engine's influence. Moderate Unwound members help protect her.
+[The Severed Coil](The_Severed_Coil.md) attempts to separate Amelia from the Aether Heart, believing they are freeing her from the Engine's influence. Moderate Unwound members help protect her.
 
 ### The Handhouse Siege
 
-Council forces surround a community repair hall containing records that contradict the official chronology. Thorne must decide whether to execute the seizure order.
+Council forces surround a community repair hall containing records that contradict the official chronology. [Thorne](../characters/Chief_Inspector_Beatrice_Thorne.md) must decide whether to execute the seizure order.
 
 ### The Machine Everyone Can Stop
 
@@ -517,19 +517,19 @@ One neighborhood disconnects from the Golden Veins. For the first time in genera
 - Most members are reformers, workers, and craftspeople rather than saboteurs.
 - A radical splinter faction attacks Golden Veins.
 - The movement preserves manual systems and unsynchronized clocks.
-- The Brass Watch monitors them but sometimes relies on them during outages.
-- Thorne distinguishes lawful reformers from extremists.
+- [The Brass Watch](The_Brass_Watch.md) monitors them but sometimes relies on them during outages.
+- [Thorne](../characters/Chief_Inspector_Beatrice_Thorne.md) distinguishes lawful reformers from extremists.
 - Elias agrees with some of their concerns but rejects sabotage.
 - Amelia divides opinion within the movement.
-- The High Council uses radical attacks to discredit the whole organization.
+- [The High Council](The_High_Council_of_Aetherhaven.md) uses radical attacks to discredit the whole organization.
 
 ### Hold for Later
 
 - Free-clock archives preserve earlier chronologies.
 - The Second Watch quietly uses Unwound records.
-- A major sabotage was staged by the Ninth Guild or a Council faction.
+- A major sabotage was staged by [the Ninth Guild](The_Ninth_Guild.md) or a Council faction.
 - Golden Veins carry time, memory, or chronal contradiction toward the Heart Engine.
-- The Severed Coil may be manipulated by an outside power.
+- [The Severed Coil](The_Severed_Coil.md) may be manipulated by an outside power.
 - The movement's claim that Aetherhaven feeds the Engine is substantially true.
 - Disconnecting the city may cause temporal fragmentation.
 - Amelia's Aether Heart may be capable of regulating the exchange rather than simply stopping it.
@@ -540,8 +540,8 @@ One neighborhood disconnects from the Golden Veins. For the first time in genera
 - Most members are sincere reformers with legitimate concerns.
 - The movement does not uniformly reject technology.
 - Its central opposition is to dependence without understanding or consent.
-- The Severed Coil is a radical splinter, not the whole movement.
-- The Brass Watch's suspicion must remain reasonable, especially after real sabotage.
+- [The Severed Coil](The_Severed_Coil.md) is a radical splinter, not the whole movement.
+- [The Brass Watch](The_Brass_Watch.md)'s suspicion must remain reasonable, especially after real sabotage.
 - Council suppression should not automatically prove every Unwound claim.
 - Elias should share some of their concerns while opposing destructive methods.
 - Amelia must remain a person, not a symbol or component, in the movement's moral debate.
@@ -556,8 +556,8 @@ One neighborhood disconnects from the Golden Veins. For the first time in genera
 1. Who first founded the Unwound?
 2. Did the movement begin before or after the Rising?
 3. Who currently coordinates the Free Spring Assembly?
-4. Who leads the Severed Coil?
-5. Has the Ninth Guild infiltrated the radicals?
+4. Who leads [the Severed Coil](The_Severed_Coil.md)?
+5. Has [the Ninth Guild](The_Ninth_Guild.md) infiltrated the radicals?
 6. Which Council official is using the movement as a political enemy?
 7. What exactly flows inward through the Golden Veins?
 8. Why do free clocks preserve some chronology?
@@ -567,4 +567,4 @@ One neighborhood disconnects from the Golden Veins. For the first time in genera
 12. Will the Unwound accept Amelia as a person whose choices may contradict their doctrine?
 13. Which respected Watch officer secretly belongs to a Handwright Circle?
 14. Did Elias once work with an early Unwound founder?
-15. Will the Severed Coil eventually become an enemy, an ally, or both?
+15. Will [the Severed Coil](The_Severed_Coil.md) eventually become an enemy, an ally, or both?
