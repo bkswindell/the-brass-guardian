@@ -1,7 +1,7 @@
 ---
 character_id: AH-CHAR-PLACEHOLDER-004
 name: Master Gideon Brasswell
-title: Master Engineer
+title: Keeper of the Engine Complex
 aliases:
   - Gideon Brasswell
   - Gideon
@@ -9,51 +9,64 @@ series: The Brass Guardian / The Aetherhaven Chronicles
 canon_status: Source-grounded placeholder
 canonical_scope: Aetherhaven volumes
 last_updated: 2026-08-02
-primary_locations: []
+primary_locations:
+  - Engine Complex
 affiliations: []
-key_connections: []
+key_connections:
+  - Professor Elias Hawthorne
 temporal_relevance: Unresolved
 source_basis:
+  - Aetherhaven.pdf
   - Aetherhaven v3.pdf
 ---
 
 # Master Gideon Brasswell
 
-> **Placeholder profile.** This file exists so references can resolve to one authoritative record. It records only what the cited source currently supports and does not supersede more developed canon elsewhere in the repository.
+> **Placeholder profile.** This file exists so references can resolve to one authoritative record. It preserves the supplied source material without silently choosing between descriptions that still require canon review.
 
 ## Canonical Summary
 
-A highly respected engineer who maintains the oldest machinery beneath [Aetherhaven](../locations/Aetherhaven.md). He has two mechanical hands, trained [Elias](Professor_Elias_Hawthorne.md) as an apprentice, and carries an old guild medallion matching symbols found inside [the Heart Engine](../locations/The_Aetherium.md).
+The newest compiled source presents Gideon Brasswell as the broad-shouldered, soot-covered chief engineer responsible for delivering power from the Heart Engine through Aetherhaven. He trusts pressure gauges more than politicians, initially dismisses stories of ancient intelligence, has heard breathing behind the walls of the Pulse Chamber, and believes something beneath the city is awakening.
+
+Earlier supplied material also describes Gideon as a respected master engineer who maintains ancient machinery, has two mechanical hands, trained Elias Hawthorne as an apprentice, and carries an old guild medallion whose markings resemble patterns inside the Heart Engine.
+
+Both descriptions are retained here pending reconciliation.
 
 ## Source Notes
 
-- Expand from later canon review.
+- **Aetherhaven v3.pdf:** Keeper of the Engine Complex; chief engineer; soot-covered and practical; aware of the breathing behind the Pulse Chamber walls and the changing power supply.
+- **Aetherhaven.pdf:** Master engineer; two mechanical hands; former mentor to Elias; associated with an unexplained guild medallion.
 
 ## Public Role
 
-Pending expansion. Preserve the source description without adding unsupported biography, motives, affiliations, or chronology.
+Gideon is publicly associated with the safe and continuous operation of Aetherhaven's power-distribution machinery. His exact professional title and the extent of his earlier relationship with Elias require later confirmation.
 
 ## Relationships
 
-Relationships explicitly named in the source may be linked here during later expansion. No unassigned relationship should be treated as established merely because this placeholder exists.
+### Professor Elias Hawthorne
+
+One supplied source describes Gideon as Elias's former master. The newer compiled description does not contradict that relationship, but does not repeat it.
 
 ## Hidden History
 
-Unassigned. Do not infer a hidden identity, allegiance, or temporal origin from the placeholder.
+Unassigned. Do not infer that Gideon caused, controls, or fully understands the presence behind the Pulse Chamber walls.
 
 ## Visual Continuity
 
-Use only source-supported details until a dedicated visual profile is approved.
+Source-supported elements include a broad, practical, soot-marked engineer. The earlier description of two mechanical hands remains provisional until visually reconciled.
 
 ## Continuity Constraints
 
 - This is a placeholder, not a completed character profile.
-- Source contradictions remain visible and unresolved.
-- Unknown identity, age, allegiance, chronology, and motive must not be invented.
+- Preserve both supplied descriptions until a canon decision reconciles them.
+- Gideon must remain practical and technically credible.
+- His knowledge of the Engine Complex must not automatically make him responsible for its deepest secret.
 - Replace or expand this file rather than creating a duplicate profile later.
 
 ## Open Canon Questions
 
-1. Which source details remain authoritative after full canon review?
-2. What relationships, visual elements, and staged revelations require confirmation?
-3. Does this character need a full long-form profile or a deliberately limited mystery record?
+1. Is "Keeper of the Engine Complex" Gideon's formal current title?
+2. Are both mechanical hands still canonical?
+3. Did Gideon train Elias, and during what period?
+4. What does Gideon believe is breathing behind the Pulse Chamber walls?
+5. What is the origin and function of his guild medallion?
