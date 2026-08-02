@@ -50,7 +50,7 @@ Every canonical Markdown file should contain:
 - YAML front matter with a stable ID, canon status, last-updated date, related Markdown paths, and image paths.
 - A concise canonical summary.
 - A **Visual Reference** section using active compiled art when available.
-- Direct relative hyperlinks whenever another character, location, organization, artifact, or story arc is named as a meaningful relationship.
+- Direct relative hyperlinks whenever another character, location, organization, artifact, historical event, or story arc is named as a meaningful relationship.
 - A **Continuity Notes** section defining what the file owns and what belongs in linked files.
 - A **TODO / Production Checklist** using Markdown checkboxes.
 - Open questions or intentionally unresolved canon where appropriate.
@@ -84,6 +84,13 @@ Every canonical Markdown file should contain:
 - Preserve visible plate text even when it conflicts with newer canon; document the conflict and let active linked Markdown control the broader story.
 - Keep recovery details, form, canonical purpose, production status, and unresolved questions in the artifact file.
 
+### Historical Events
+
+- Link the event's public and restricted evidence, involved profiles, related story arcs, and authoritative artifact records.
+- Include a canonical historical illustration, evidence collage, photograph, document, map, or artifact set when one exists.
+- Do not depict an unresolved witness account, mediator identity, chronology, or disputed action as settled fact.
+- Treat the historical-event file as the authoritative owner of the event chronology.
+
 ### Story Arcs
 
 - Link to the involved characters, organizations, locations, and artifacts.
@@ -93,7 +100,7 @@ Every canonical Markdown file should contain:
 
 Whenever a Markdown file makes a meaningful named reference to another documented entity, use a relative Markdown link on the first important occurrence in that section. Repeated links in every sentence are unnecessary.
 
-Use an artifact file as the authoritative source for an object or image. Use character, location, organization, and arc files as the authoritative sources for their broader subjects.
+Use an artifact file as the authoritative source for an object or image. Use character, location, organization, historical-event, and arc files as the authoritative sources for their broader subjects.
 
 ## Duplication Rule
 
@@ -113,6 +120,8 @@ Summarize and link; do not copy full sections between files. A local file may co
 - [x] Create one Markdown record for every entry in the original Artifact Image Slate.
 - [x] Link existing active artifact art where confidently matched.
 - [x] Transcribe and fully describe every completed active artifact plate currently available.
+- [x] Create the historical-event template and `historical_events/` index.
+- [x] Separate objective historical events from story arcs that reveal or revisit them.
 - [ ] Add visual-reference sections to every existing character profile.
 - [ ] Add map and location-art sections to every existing location profile.
 - [ ] Add crest, seal, or representative-art sections to every existing organization profile.
