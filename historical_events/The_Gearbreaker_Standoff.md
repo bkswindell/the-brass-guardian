@@ -174,6 +174,8 @@ No dedicated artifact records for these documents have yet been created.
 
 The standoff appears as a flashback narrated by the former young constable who crossed the line. He shares the account when Amelia faces a well-intentioned mistake caused by certainty without sufficient understanding.
 
+The account also gives Amelia the context to reinterpret her earlier conflicts with Orin. Across prior volumes, Orin repeatedly blocks her from entering unsafe or restricted mine passages, creating genuine frustration and a strained relationship. Learning how far he once went to prevent a single miner from being forced into danger helps Amelia understand that his refusals are rooted in responsibility rather than casual obstruction. The historical event does not resolve their relationship by itself; the story arc owns that personal reconciliation.
+
 ### Six-Key and Heart Engine arcs
 
 The later six-socket wall and machinery beneath the mountain may cause Amelia and others to re-examine whether the earlier instability was purely geological. The standoff itself does not prove a Six-Key or Heart Engine connection.

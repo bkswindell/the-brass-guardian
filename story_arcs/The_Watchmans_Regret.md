@@ -116,6 +116,34 @@ The question Amelia begins carrying into later political arcs is:
 
 > **What does each person believe they are protecting?**
 
+## Secondary Emotional Resolution: Amelia and Orin
+
+Earlier volumes establish a growing strain between [Amelia Hawthorne](../characters/Amelia_Hawthorne.md) and [Orin Flint](../characters/Orin_Flint.md).
+
+Amelia and her companions are repeatedly blocked from entering the Gearbreaker Mines or following evidence into restricted tunnels. Orin's refusals are legitimate and safety-grounded, but he explains little and refuses to negotiate. From Amelia's perspective, he repeatedly places himself between her and the truth.
+
+That history gives the Watchman's account personal meaning. Amelia does not merely learn an abstract lesson about authority and certainty. She realizes that Orin once faced the full weight of the Council and Brass Watch rather than allow one miner to be forced into danger. His refusal to admit Amelia is the same instinct, applied to someone who does not yet understand why she is being protected.
+
+This realization does not prove that Orin is always right, excuse poor communication, or require Amelia to stop challenging him. It changes the question she asks.
+
+Instead of demanding:
+
+> **Why won't you let me in?**
+
+Amelia begins asking:
+
+> **What do you know that I don't?**
+
+The story should end with a brief coda in which Amelia returns to Orin after speaking with the Watchman. She does not seek unrestricted permission or offer a sentimental apology. She approaches him with a more mature understanding of the responsibility he carries.
+
+Orin notices the difference.
+
+The reconciliation should be restrained and characteristic of both characters. Orin does not become warm or easy. Amelia does not become obedient. He may explain a danger he previously would have dismissed with a single word, invite her to show him the evidence before he decides, or permit a narrowly controlled investigation under conditions he defines.
+
+The reward is not access to every tunnel.
+
+The reward is the beginning of mutual trust.
+
 ## Key Dialogue
 
 The Watchman:
@@ -156,21 +184,27 @@ Whether they ever spoke privately after the Standoff remains unresolved.
 
 ## Story Beats
 
-1. Amelia makes a well-intentioned but insufficiently informed decision.
-2. The Brass Watch intervenes, and Amelia feels misunderstood or unfairly judged.
-3. Consequences place her in contact with the veteran Watchman.
-4. He recognizes certainty rather than malice.
-5. He tells the Gearbreaker story in fragments rather than one uninterrupted lecture.
-6. Amelia initially searches for the single person who was right.
-7. The Watchman's account reveals competing duties and incomplete information.
-8. Amelia applies the lesson to the present problem rather than merely apologizing.
-9. Thorne acknowledges the Watchman's growth.
-10. Amelia asks who was right and receives the answer: the mountain.
+1. Earlier volumes have already established repeated conflict between Amelia and Orin over access to the mines.
+2. Amelia makes a well-intentioned but insufficiently informed decision in the present story.
+3. The Brass Watch intervenes, and Amelia feels misunderstood or unfairly judged.
+4. Consequences place her in contact with the veteran Watchman.
+5. He recognizes certainty rather than malice.
+6. He tells the Gearbreaker story in fragments rather than one uninterrupted lecture.
+7. Amelia initially searches for the single person who was right.
+8. The Watchman's account reveals competing duties and incomplete information.
+9. Amelia recognizes the connection between Orin's stand at Gearbreaker and his repeated refusal to let her enter unsafe tunnels.
+10. Amelia applies the lesson to the active story problem rather than merely apologizing.
+11. Thorne acknowledges the Watchman's growth.
+12. Amelia asks who was right and receives the answer: the mountain.
+13. In a restrained coda, Amelia returns to Orin and approaches the mine dispute differently.
+14. Orin recognizes her changed judgment and offers explanation, consideration, or limited supervised cooperation rather than unrestricted access.
 
 ## Continuity Constraints
 
 - The story is a coming-of-age lesson for Amelia.
 - Amelia's mistake is well intentioned and plausible.
+- Earlier volumes must establish repeated frustration between Amelia and Orin over denied mine access.
+- Orin's earlier refusals are grounded in real safety concerns, even when he communicates them poorly or withholds details.
 - The Watchman is the young constable who crossed the line at Gearbreaker.
 - He has grown into a respected veteran or equivalent mature figure.
 - The story does not portray Orin as bloodthirsty or the Watch as uniformly abusive.
@@ -178,20 +212,27 @@ Whether they ever spoke privately after the Standoff remains unresolved.
 - The mediator remains unresolved unless a later canon decision deliberately reveals the identity.
 - The Watchman's account may be incomplete or subjective without being dishonest.
 - Amelia must apply the lesson to the active story problem.
-- The emotional resolution is understanding, not merely punishment or absolution.
+- The story must also change how Amelia interprets Orin's protection of the mines.
+- The reconciliation does not make Orin permissive, remove mine danger, or grant Amelia unrestricted access.
+- Orin and Amelia retain their contrasting personalities; the change is greater understanding and the beginning of earned trust.
+- The emotional resolution is understanding, not merely punishment, absolution, obedience, or easy friendship.
 
 ## Unresolved Story Questions
 
-1. What present-day decision places Amelia in conflict with the Watch?
-2. Does Thorne assign Amelia to the Watchman, or does Amelia seek him out?
-3. What is the Watchman's name and present role?
-4. Which miner did he attempt to force?
-5. Has he ever apologized directly to Orin?
-6. Does Orin appear in the present-day story or only in flashback?
-7. What active problem allows Amelia to demonstrate that she learned the lesson?
-8. At what point in the larger series does Amelia need this moral framework?
-9. Does the story expose missing official records or remain centered on personal testimony?
-10. What artifact anchors the flashback: Orin's report, a Watch badge, a damaged helmet, or another object?
+1. Which earlier-volume incidents most effectively establish Amelia's frustration with Orin?
+2. What present-day decision places Amelia in conflict with the Watch?
+3. Does Thorne assign Amelia to the Watchman, or does Amelia seek him out?
+4. What is the Watchman's name and present role?
+5. Which miner did he attempt to force?
+6. Has he ever apologized directly to Orin?
+7. Does Orin appear throughout the present-day story or only in the closing coda and flashback?
+8. What active problem allows Amelia to demonstrate that she learned the lesson?
+9. At what point in the larger series does Amelia need this moral framework?
+10. Does the story expose missing official records or remain centered on personal testimony?
+11. What artifact anchors the flashback: Orin's report, a Watch badge, a damaged helmet, or another object?
+12. What specific question does Amelia finally ask Orin after hearing the Watchman's account?
+13. What limited explanation, cooperation, or supervised access shows that Orin recognizes her growth?
+14. Does Orin acknowledge that his refusal was correct but his communication was not?
 
 ## Development Checklist
 
@@ -200,9 +241,13 @@ Whether they ever spoke privately after the Standoff remains unresolved.
 - [x] Watchman identity function established but name preserved.
 - [x] Key dialogue preserved.
 - [x] Flashback constraints preserved.
+- [x] Earlier Amelia-Orin tension established as required setup.
+- [x] Partial Amelia-Orin reconciliation established as the secondary resolution.
+- [ ] Select the earlier mine-access conflicts that build the strain.
 - [ ] Select Amelia's inciting mistake.
 - [ ] Choose the natural meeting structure.
 - [ ] Define the Watchman's current role and name.
 - [ ] Create or select the anchoring artifact.
+- [ ] Decide the restrained Orin-Amelia coda.
 - [ ] Outline the present-day plot.
 - [ ] Draft the complete story.

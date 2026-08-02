@@ -162,11 +162,25 @@ Orin will stand in his path if necessary.
 
 ## Relationship with Amelia Hawthorne
 
-Orin speaks to [Amelia Hawthorne](Amelia_Hawthorne.md) honestly. He does not soften danger for her, dismiss her because of her age, or treat her as a mechanism that belongs in the mines.
+Orin's relationship with [Amelia Hawthorne](Amelia_Hawthorne.md) is initially strained.
 
-The mountain and its oldest machinery appear to respond differently around her. Orin does not pretend to know why.
+Across earlier volumes, Amelia and her companions repeatedly seek access to the Gearbreaker Mines or their deeper tunnels while pursuing legitimate mysteries. Orin repeatedly blocks them. Some refusals interrupt promising investigations, prevent Amelia from following evidence, or appear to protect secrets that she believes adults are withholding from her.
 
-His protection of Amelia comes from the same principle that governs his crews: no one gets to use a person as an expendable tool.
+Amelia grows frustrated with Orin's obstinacy and begins to interpret his refusals as distrust, territorial control, or an unwillingness to take her seriously. Orin does little to correct that impression. To him, a closed tunnel is a closed tunnel, and a lengthy explanation does not make unstable stone safer.
+
+Orin does not dislike Amelia. He recognizes her intelligence and speaks to her honestly, but he does not yet trust her judgment underground. Curiosity can become dangerous when it outruns experience, and Amelia's unusual connection to ancient machinery makes unrestricted access more dangerous rather than less.
+
+He does not soften a safety decision merely because Amelia's questions are important.
+
+> **You'll get your answers after my people get home.**
+
+[The Watchman's Regret](../story_arcs/The_Watchmans_Regret.md) becomes the turning point in their relationship. Hearing the truth of [the Gearbreaker Standoff](../historical_events/The_Gearbreaker_Standoff.md) allows Amelia to understand that Orin's refusals are not primarily attempts to control her or hide the truth. They come from a man who has already stood against the Council and the Brass Watch rather than permit someone under his protection to be forced into danger.
+
+The resolution does not make Orin permissive, grant Amelia unrestricted access, or erase their differences. Amelia begins asking what Orin sees instead of assuming that his answer is arbitrary. Orin recognizes the change in her judgment and becomes more willing to explain his concerns, hear her evidence, and consider narrowly defined, supervised access when conditions genuinely permit it.
+
+Their trust begins there. It is not completed there.
+
+Orin's protection of Amelia remains governed by the same principle that protects his crews: no one gets to use a person as an expendable tool, including Amelia herself.
 
 ## Relationship with Chancellor Octavia Vale
 
