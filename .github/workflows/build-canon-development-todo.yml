@@ -47,7 +47,7 @@ jobs:
       - name: Commit generated TODO
         shell: bash
         run: |
-          if git diff --quiet; then
+          if [ -z "$(git status --porcelain -- CANON_DEVELOPMENT_TODO.md)" ]; then
             echo "Canon development TODO is current."
             exit 0
           fi
