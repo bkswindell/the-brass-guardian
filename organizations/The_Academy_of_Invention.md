@@ -53,6 +53,14 @@ The Academy provides laboratories and theoretical research. [The Institute of Vi
 
 The final boundaries between Academy research and Institute authority remain unresolved.
 
+## Relationship with the Institute of Vital Mechanics
+
+The Academy collaborates with [the Institute of Vital Mechanics](The_Institute_of_Vital_Mechanics.md) on mechanobiology, implants, adaptive devices, and experimental treatment.
+
+The relationship produces real advances and creates access to vulnerable patients whose conditions can become academic opportunities.
+
+Neither Academy review nor Institute approval guarantees that an experiment is safe, consensual, or morally justified.
+
 ## Continuity Constraints
 
 - This is a placeholder, not a completed organization profile.

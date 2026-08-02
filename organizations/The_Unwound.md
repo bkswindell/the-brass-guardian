@@ -534,6 +534,14 @@ One neighborhood disconnects from the Golden Veins. For the first time in genera
 - Disconnecting the city may cause temporal fragmentation.
 - [Amelia](../characters/Amelia_Hawthorne.md)'s Aether Heart may be capable of regulating the exchange rather than simply stopping it.
 
+## Relationship with the Institute of Vital Mechanics
+
+Some Institute practitioners may sympathize with or belong to [the Unwound](The_Unwound.md), particularly those who oppose dependence on permanent implants, the Heart Engine, or mechanized solutions imposed as medical necessity.
+
+Other Unwound members may view the Institute as proof that Aetherhaven replaces living bodies rather than caring for them.
+
+No formal organizational alliance is established. Individual affiliation may support reform, leak records, influence treatment, or create divided loyalty.
+
 ## Continuity Constraints
 
 - The Unwound must not be portrayed as a single unified terrorist organization.

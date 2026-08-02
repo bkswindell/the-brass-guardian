@@ -51,6 +51,14 @@ Whether [the Institute of Vital Mechanics](The_Institute_of_Vital_Mechanics.md) 
 
 The Society and Institute may disagree over when medical caution becomes an unreasonable barrier to exploration and when an explorer's confidence becomes preventable risk.
 
+## Relationship with the Institute of Vital Mechanics
+
+The Society may rely on [the Institute of Vital Mechanics](The_Institute_of_Vital_Mechanics.md) for expedition medics, readiness review, medical equipment, and evacuation planning.
+
+Field isolation gives expeditionary practitioners broad authority and weak oversight. A medic may save a life through necessary improvisation or perform a procedure that could not have been justified in the city.
+
+Whether an Institute practitioner accompanied the Clockwork Jungle expedition remains unresolved.
+
 ## Continuity Constraints
 
 - This is a placeholder, not a completed organization profile.

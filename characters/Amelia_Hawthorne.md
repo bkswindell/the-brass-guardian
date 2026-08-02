@@ -519,22 +519,17 @@ Learning when not to answer may become as important as learning how to listen.
 
 ## Relationship with the Institute of Vital Mechanics
 
-[The Institute of Vital Mechanics](../organizations/The_Institute_of_Vital_Mechanics.md) may have participated in Amelia's emergency treatment, surgery, rehabilitation, prosthetic fitting, implant monitoring, and long-term care after the Clockwork Jungle disaster.
+[The Institute of Vital Mechanics](../organizations/The_Institute_of_Vital_Mechanics.md) may have participated in Amelia's emergency treatment, surgery, rehabilitation, prosthetic fitting, implant monitoring, or experimental care after the Clockwork Jungle disaster.
 
 The exact clinicians and sequence remain unresolved.
 
-Amelia may feel gratitude toward individual caregivers while remaining wary of institutional researchers interested in the Aether Heart. Previous medical care does not grant the Institute ownership of her records, gauntlet, body, or future choices.
+Amelia may remember individual caregivers with gratitude while distrusting the institution that employed them. She may also remember pain, frightening apparatus, missing time, adults arguing over amputation or replacement, or recommendations she was too young and injured to understand.
 
-This relationship can support stories about:
+The Institute's involvement does not make its later advice trustworthy by default.
 
-- rehabilitation and adaptation;
-- ordinary maintenance and physical limits;
-- informed consent;
-- medical privacy;
-- disagreement between Elias and clinicians;
-- and Amelia learning to speak for herself in decisions adults once made during an emergency.
+Some practitioners may want to preserve the gauntlet. Others may recommend removing the Aether Heart, replacing Elias's design, confining Amelia for observation, or studying her as a unique interface.
 
-The Institute must include compassionate practitioners and institutional tensions rather than functioning only as a threat or exposition source.
+Amelia's developing ability to question medical authority, seek another opinion, and participate in decisions about her own body should become part of her growth.
 
 ## The Clockwork Jungle Expedition
 

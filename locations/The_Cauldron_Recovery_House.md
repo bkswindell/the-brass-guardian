@@ -49,108 +49,91 @@ The Cauldron Recovery House provides rehabilitation, adaptive-device care, indus
 
 It is affiliated with [the Institute of Vital Mechanics](../organizations/The_Institute_of_Vital_Mechanics.md), but it cannot function as a simple branch of Government District authority.
 
-Its survival depends on local trust.
+Residents often trust individual House practitioners more than the central Institute because those practitioners live with the consequences of their recommendations.
 
-The facility may be staffed by a mixture of:
+That does not make the House automatically safe or medically correct.
 
-- Institute physicians and therapists;
-- Cauldron healers;
-- former workshop medics;
-- prosthetists;
-- volunteer caregivers;
-- neighborhood compact members;
-- and practitioners whose credentials are unrecognized by the upper city but whose skill is real.
+Its care may combine salvaged devices, household remedies, local herbs, rough surgery, unlicensed prosthetics, practical experience, and limited supplies. Some methods are more humane and effective than upper-city treatment. Others survive because no better option is available.
 
 ## Neutrality and Trust
 
-The Recovery House must not serve as:
+The Recovery House claims customary neutrality, not guaranteed legal protection.
 
-- a Brass Watch observation post;
-- a Council registry for undocumented residents;
-- a debt-collection office;
-- a mechanism for confiscating unlicensed prosthetics;
-- or a research pipeline extracting unusual cases from vulnerable people.
+It is expected not to function as a Brass Watch observation post, Council registry, debt office, confiscation point, or pipeline sending unusual patients to upper-city researchers.
 
-Emergency coordination with the Watch may occur at the Ash Line or during major disasters, but patient information and local access remain sensitive.
+Those expectations have likely been tested and may have been violated in the past.
 
-The House's neutral status may be customary rather than legally guaranteed.
+Trust is attached to people, neighborhood compacts, and repeated conduct rather than the Institute seal on the door.
+
+A practitioner who shares a patient's name or accepts an outside payment may make the entire House unsafe until the community answers the breach.
 
 ## Services
 
-Possible services include:
+Possible services include rehabilitation after industrial accidents, burn recovery, mobility training, prosthetics adjustment, pain management, adaptive-work retraining, community nursing, temporary shelter, and treatment using local herbs or household methods.
 
-- rehabilitation after industrial accidents;
-- burn and chemical-exposure recovery;
-- mobility training;
-- prosthetics adjustment and maintenance;
-- pain management;
-- adaptive-work retraining;
-- community nursing;
-- trauma recovery;
-- support for conscious automata or hybrid beings whose medical status is disputed;
-- and temporary shelter during recovery.
+The House is more likely than the central Hall to attempt preservation before replacement when time and supplies permit.
 
-Exact services and technology remain open.
+It is also more likely to use an untested remedy because no certified treatment is affordable or accessible.
+
+Patients may be transferred to the Hall for surgery or advanced intervention only after local options have failed—or when delay has made the situation worse.
 
 ## Relationship with the Institute of Vital Mechanics
 
-The central Institute may provide:
+The central Institute may provide supplies, specialist rotations, difficult surgery, training, prosthetic components, and emergency transport.
 
-- supplies;
-- specialist rotations;
-- difficult surgeries;
-- training;
-- prosthetics components;
-- and emergency transport.
+It may also demand records, impose licensing requirements, reject local methods, recruit unusual patients, or threaten to withdraw support.
 
-The Recovery House may distrust:
+The Recovery House may conceal information from the central Hall to protect residents.
 
-- official records;
-- upper-city research interests;
-- licensing requirements;
-- Council oversight;
-- and any demand that treatment reveal a patient's identity or legal status.
+It may also depend on that Hall when a patient needs care no Cauldron practitioner can provide.
 
-Their relationship should contain both genuine cooperation and recurring tension.
+Their relationship is one of dependency, resentment, cooperation, and recurring negotiation.
 
 ## Visual Continuity
 
-The Recovery House should look repaired, practical, crowded, and cared for rather than polished.
+The Recovery House should look repaired, practical, crowded, and protected by its community rather than polished or idealized.
 
 Possible visual elements include:
 
-- salvaged braces and mobility devices adapted for individual patients;
-- clean linens maintained despite soot and limited resources;
-- workshop-made ramps and lifts;
-- locally painted signs;
+- salvaged braces and mobility devices adapted to individual bodies;
+- clean linens maintained despite soot and limited water;
+- drying herbs beside mechanical tools;
 - locked medicine cabinets;
+- workshop-made ramps and lifts;
 - shared kitchens and recovery courtyards;
 - worn wood, patched tile, brass rails, and repurposed machinery;
-- and visible evidence that the community protects the building.
+- hand-painted warnings about privacy and Watch access;
+- and visible evidence of both successful adaptation and failed treatment.
 
-Avoid portraying it as filthy, hopeless, or secretly sinister merely because it is in the Cauldron.
+Avoid portraying it as morally pure merely because it opposes upper-city control.
 
 ## Continuity Constraints
 
 - A rehabilitation and community-care facility exists in the Cauldron.
 - It is affiliated with the Institute but depends on local trust and partial autonomy.
-- It serves people neglected or excluded by ordinary civic systems.
-- It is not a disguised Watch or Council outpost.
-- It may use salvaged, unofficial, or uncertified technology without being inherently negligent.
-- Exact leadership, legal status, and final name remain unresolved.
+- It serves people neglected, priced out, undocumented, or endangered by ordinary civic systems.
+- It is not a disguised Watch or Council outpost, though its neutrality may be breached.
+- It may use herbs, household remedies, salvaged devices, unlicensed methods, and uncertified technology.
+- Local methods are neither automatically superior nor automatically negligent.
+- Individual trust matters more than institutional affiliation.
+- Transfer to the central Hall may be necessary even when the Hall is feared.
+- Exact leadership, legal status, scandals, and final name remain unresolved.
 
 ## Open Canon Questions
 
 1. Is **The Cauldron Recovery House** the final name?
 2. Who founded it?
-3. Is it controlled by the Institute, locally governed, or jointly chartered?
-4. What neutral-care custom protects patients?
-5. Which neighborhood compact protects it?
-6. How are supplies moved across the Ash Line?
-7. Which services require transfer to the central Hall?
-8. Does the Mechanists' Guild recognize devices maintained here?
-9. Which recurring healer, therapist, or prosthetist works here?
-10. What past breach of trust shaped its current rules?
+3. Is it locally governed, Institute controlled, or jointly chartered?
+4. What customary protection guards patient identity?
+5. When was that protection last broken?
+6. Which neighborhood compact protects the House?
+7. What herbs or remedies are unavailable in the upper city?
+8. Which local practices genuinely outperform Institute methods?
+9. Which local practice has caused preventable harm?
+10. How are supplies moved across the Ash Line?
+11. Which services require transfer to the central Hall?
+12. Does the Mechanists' Guild recognize devices maintained here?
+13. Which recurring healer, therapist, prosthetist, or morally compromised practitioner works here?
 
 ## Development Checklist
 

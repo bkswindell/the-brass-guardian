@@ -155,13 +155,17 @@ Direct involvement remains unconfirmed.
 
 ## Institute of Vital Mechanics
 
-The [Institute of Vital Mechanics](../organizations/The_Institute_of_Vital_Mechanics.md) may have supported the expedition, the recovery, Amelia's surgery, rehabilitation, prosthetic integration, or later monitoring.
+The [Institute of Vital Mechanics](../organizations/The_Institute_of_Vital_Mechanics.md) may have supported the expedition, recovery, surgery, rehabilitation, prosthetic integration, experimental treatment, or later monitoring.
 
 The exact role remains unresolved.
 
-The historical record must not imply that Elias single-handedly provided every form of medical care required to keep Amelia alive. His emergency engineering and stabilization may have been essential, while trained medical practitioners provided other critical care.
+The historical record must not imply that Elias single-handedly provided every form of care required to keep Amelia alive. His emergency engineering and stabilization may have been essential, while trained practitioners provided other critical treatment.
 
-Whether an Institute medic accompanied the expedition or became involved only after evacuation remains an open question.
+It must also not assume that every Institute recommendation was safe, ethical, or accepted.
+
+The recovery may have involved disputed decisions concerning amputation, replacement, observation, the Aether Heart, or experimental integration. Elias may have accepted some measures under desperate circumstances and refused others.
+
+Whether an Institute medic accompanied the expedition or became involved only after evacuation remains open.
 
 ## Conflicting Accounts
 
@@ -281,6 +285,8 @@ The aftermath-first approach is canonical working structure.
 19. Why do systems in Aetherhaven resemble the Jungle machine?
 20. What will the site reveal when Amelia returns?
 21. What exact medical personnel, field support, surgery, and rehabilitation kept Amelia alive?
+22. What procedures or experiments were performed during Amelia's recovery?
+23. Which Institute recommendations did Elias accept or refuse?
 
 ## Development Checklist
 

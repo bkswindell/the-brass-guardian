@@ -901,6 +901,16 @@ A [High Council](The_High_Council_of_Aetherhaven.md) member discovers that their
 - The exact fate of Prototype I after the broken handoff.
 - Whether the Order's oldest Closure prevented—or caused—a major [Aetherhaven](../locations/Aetherhaven.md) mystery.
 
+## Relationship with the Institute of Vital Mechanics
+
+The Order of the Closed Eye may maintain individual contacts within [the Institute of Vital Mechanics](The_Institute_of_Vital_Mechanics.md).
+
+Medical records, anomalous implants, altered memories, unidentified patients, and Ancient biological-mechanical interfaces would all be valuable to the Order's containment work.
+
+Possible influence includes sealed wards, altered records, restricted diagnoses, concealed deaths, or treatment recommendations shaped by containment rather than recovery.
+
+No institution-wide control is established.
+
 ## Continuity Constraints
 
 - The Order must remain deeply secretive and institutionally embedded.
