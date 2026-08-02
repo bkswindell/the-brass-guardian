@@ -12,7 +12,7 @@ canonical_images:
   - null
 ---
 
-# [Theatre of Impossible Things](../locations/The_Theatre_of_Impossible_Things.md) Playbill
+# Theatre of Impossible Things Playbill
 
 > **Artifact Image Slate #59** · Background Lore and Transitional Artifacts · [Artifact standard](../CANON_MARKDOWN_STANDARD.md)
 

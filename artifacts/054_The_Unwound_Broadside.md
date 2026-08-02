@@ -14,7 +14,7 @@ canonical_images:
   - null
 ---
 
-# [The Unwound](../organizations/The_Unwound.md) Broadside
+# The Unwound Broadside
 
 > **Artifact Image Slate #54** · Organizations and Secret Societies · [Artifact standard](../CANON_MARKDOWN_STANDARD.md)
 

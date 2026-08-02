@@ -14,7 +14,7 @@ canonical_images:
 visual_transcription_status: complete
 ---
 
-# Seal of [the Society of Explorers](../organizations/The_Society_of_Explorers.md)
+# Seal of the Society of Explorers
 
 > **Artifact Image Slate #2** · Foundational Canon Images · [Artifact standard](../CANON_MARKDOWN_STANDARD.md)
 

@@ -28,7 +28,7 @@ key_connections:
 temporal_relevance: Critical
 ---
 
-# The Passenger of [Dock Zero](../locations/Dock_Zero.md)
+# The Passenger of Dock Zero
 
 ## Canonical Summary
 

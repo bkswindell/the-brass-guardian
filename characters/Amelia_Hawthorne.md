@@ -4,7 +4,6 @@ name: Amelia Hawthorne
 title: The Clockwork Explorer
 aliases:
   - Amelia
-  - The Clockwork Explorer
 series: The Brass Guardian / The Aetherhaven Chronicles
 canon_status: Source-grounded placeholder
 canonical_scope: Aetherhaven volumes

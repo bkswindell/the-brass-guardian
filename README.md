@@ -1,8 +1,8 @@
-# [The Brass Guardian](characters/Professor_Elias_Hawthorne.md)
+# The Brass Guardian
 
 ![The Brass Guardian cover](art/The_Brass_Guardian_Cover.png)
 
-*[The Brass Guardian](characters/Professor_Elias_Hawthorne.md)* is an illustrated steampunk adventure series set in **[Aetherhaven](locations/Aetherhaven.md)**, a city of copper towers, drifting airships, living machinery, shifting gardens, hidden canals, and ancient mechanisms that may remember more than the people who built around them.
+*The Brass Guardian* is an illustrated steampunk adventure series set in **[Aetherhaven](locations/Aetherhaven.md)**, a city of copper towers, drifting airships, living machinery, shifting gardens, hidden canals, and ancient mechanisms that may remember more than the people who built around them.
 
 At the heart of the series are **[Professor Elias Hawthorne](characters/Professor_Elias_Hawthorne.md)** and his daughter **[Amelia Hawthorne](characters/Amelia_Hawthorne.md)**. Together, they travel aboard the airship *Wayfinder*, solve strange mechanical mysteries, help people and living machines, and uncover fragments of [Aetherhaven](locations/Aetherhaven.md)'s forgotten history.
 
@@ -47,7 +47,7 @@ Project development and canon indexing are maintained in [PROJECT_INDEX.md](PROJ
 
 ## Project Status
 
-*[The Brass Guardian](characters/Professor_Elias_Hawthorne.md)* is an active, evolving creative project. The current work focuses on [Aetherhaven](locations/Aetherhaven.md) while allowing distant regions to appear through travelers, artifacts, airship routes, and stories brought home from beyond the city.
+*The Brass Guardian* is an active, evolving creative project. The current work focuses on [Aetherhaven](locations/Aetherhaven.md) while allowing distant regions to appear through travelers, artifacts, airship routes, and stories brought home from beyond the city.
 
 ---
 

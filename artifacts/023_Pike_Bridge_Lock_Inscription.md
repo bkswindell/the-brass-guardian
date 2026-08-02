@@ -13,7 +13,7 @@ canonical_images:
   - null
 ---
 
-# [Pike Bridge](../locations/Pike_Bridge.md) Lock Inscription
+# Pike Bridge Lock Inscription
 
 > **Artifact Image Slate #23** · [The Thirteenth Canal](../locations/The_Thirteenth_Canal.md) · [Artifact standard](../CANON_MARKDOWN_STANDARD.md)
 

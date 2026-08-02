@@ -1,6 +1,6 @@
-# [The Brass Guardian](characters/Professor_Elias_Hawthorne.md) — Project Index
+# The Brass Guardian — Project Index
 
-> **Development reference and spoiler warning:** This file indexes the working canon for *[The Brass Guardian](characters/Professor_Elias_Hawthorne.md) / The [Aetherhaven](locations/Aetherhaven.md) Chronicles*. Character profiles, organization profiles, location files, and story-arc documents contain unrevealed histories, future plot developments, antagonist material, and other spoilers.
+> **Development reference and spoiler warning:** This file indexes the working canon for *The Brass Guardian / The [Aetherhaven](locations/Aetherhaven.md) Chronicles*. Character profiles, organization profiles, location files, and story-arc documents contain unrevealed histories, future plot developments, antagonist material, and other spoilers.
 
 **Last audited:** August 2, 2026  
 **Canonical branch:** `main`
@@ -9,15 +9,15 @@
 
 The repository currently contains:
 
-- **9** canonical character profiles
-- **12** canonical organization profiles
-- **5** canonical location profiles
+- **9** completed canonical character profiles and **19** source-grounded character placeholders
+- **12** completed canonical organization profiles and **23** source-grounded organization placeholders
+- **5** completed canonical location profiles and **48** source-grounded location placeholders
 - **5** long-range or hidden story-arc profiles
 - **64** artifact image-slate records
 - **5** profile templates and development standards
 - **2** compiled manuscript exports (`DOCX` and `PDF`)
 - an active artwork library in `art/`
-
+- a complete [placeholder profile index](PLACEHOLDER_PROFILE_INDEX.md)
 
 ## Canon Authority
 
@@ -35,8 +35,9 @@ A file marked **Canonical working profile** is authoritative for future story an
 
 | File | Purpose |
 |---|---|
-| [README.md](README.md) | Public, spoiler-light description of *[The Brass Guardian](characters/Professor_Elias_Hawthorne.md)* series |
+| [README.md](README.md) | Public, spoiler-light description of *The Brass Guardian* series |
 | [PROJECT_INDEX.md](PROJECT_INDEX.md) | Internal project inventory, canon index, audit notes, and development backlog |
+| [PLACEHOLDER_PROFILE_INDEX.md](PLACEHOLDER_PROFILE_INDEX.md) | Index of source-grounded placeholder records awaiting full development |
 | [The_Brass_Guardian.pdf](The_Brass_Guardian.pdf) | Compiled illustrated manuscript in PDF format |
 | [The_Brass_Guardian.docx](The_Brass_Guardian.docx) | Editable compiled manuscript |
 | [Character_Profile_Template.md](Character_Profile_Template.md) | Standard structure for new character profiles |
@@ -132,18 +133,18 @@ Every future Markdown profile should compile relevant active artwork directly in
 The `unused/` directory is private owner storage. It is outside the project canon and must never be consulted, indexed, reused, summarized, or treated as a source unless the project owner explicitly restores a named item.
 
 
-## Development Backlog
+## Placeholder Expansion Backlog
 
-### Intentionally Deferred Core Profiles
+Every currently identified person, organization, and location now has a dedicated Markdown record. Completed profiles remain authoritative. Files marked **Source-grounded placeholder** preserve the supplied PDF/DOCX material and current Markdown references until they receive full development.
 
-The central protagonists do not yet have dedicated canonical profile files:
+The central protagonists now have dedicated placeholders:
 
 - [Professor Elias Hawthorne](characters/Professor_Elias_Hawthorne.md)
 - [Amelia Hawthorne](characters/Amelia_Hawthorne.md)
 
-This is intentional. Their full profiles will be created after most of the surrounding world, institutions, relationships, and long-range mysteries have stabilized, reducing repetitive revisions and allowing their final profiles to synthesize the mature canon. Until then, their established characterization should be drawn first from active Markdown files and only then from the compiled manuscript where the Markdown canon leaves a genuine gap.
+Their placeholders deliberately preserve unresolved source details instead of forcing a premature final synthesis.
 
-### Other Planned Profiles
+Other character placeholders include:
 
 - [Doctor Elara Quill](characters/Doctor_Elara_Quill.md)
 - [Master Gideon Brasswell](characters/Master_Gideon_Brasswell.md)
@@ -158,6 +159,10 @@ This is intentional. Their full profiles will be created after most of the surro
 - [The Null Shepherd](characters/The_Null_Shepherd.md)
 - [The Bellmaker](characters/The_Bellmaker.md)
 
+Organization and location placeholders—including all missing numbered and restricted map locations—are catalogued in [PLACEHOLDER_PROFILE_INDEX.md](PLACEHOLDER_PROFILE_INDEX.md).
+
+The next development phase is to replace placeholders with complete profiles as each subject becomes story-relevant. Expansion should preserve source notes, explicitly resolve contradictions, and retain existing file paths so inbound links remain stable.
+
 ## Audit Findings
 
 The August 2, 2026 audit identified the following housekeeping and continuity items:
@@ -169,7 +174,7 @@ The August 2, 2026 audit identified the following housekeeping and continuity it
 5. Artifact numbering inconsistencies and the two [Society of Explorers](organizations/The_Society_of_Explorers.md) seal variants are known, accepted development conditions. They may be normalized later but should not be treated as current canon conflicts.
 6. `art/AH-X-YYY.png` remains an unassigned active-art placeholder and should be interpreted only when its intended purpose is explicitly established.
 7. The canonical Markdown files are the primary project source. The compiled DOCX and PDF are owner-managed publication snapshots that may intentionally lag behind current canon; consult them only where the active Markdown library has a genuine gap.
-8. [Amelia](characters/Amelia_Hawthorne.md) and [Elias Hawthorne](characters/Professor_Elias_Hawthorne.md) are intentionally deferred until the surrounding canon is substantially complete.
+8. [Amelia](characters/Amelia_Hawthorne.md) and [Elias Hawthorne](characters/Professor_Elias_Hawthorne.md) now have source-grounded placeholder profiles. Their full synthesis remains intentionally deferred until the surrounding canon is substantially complete.
 9. The `unused/` directory is excluded from all canon, story, art, and continuity work unless the project owner explicitly restores a named item.
 
 ## Markdown Integration Migration

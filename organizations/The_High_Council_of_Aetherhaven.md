@@ -36,7 +36,7 @@ key_relationships:
 temporal_relevance: Critical
 ---
 
-# The High Council of [Aetherhaven](../locations/Aetherhaven.md)
+# The High Council of Aetherhaven
 
 ## Canonical Summary
 

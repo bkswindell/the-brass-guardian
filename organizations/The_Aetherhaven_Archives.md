@@ -17,7 +17,7 @@ source_basis:
   - Aetherhaven v3.pdf and current canonical Markdown
 ---
 
-# The [Aetherhaven](../locations/Aetherhaven.md) Archives
+# The Aetherhaven Archives
 
 > **Placeholder profile.** This file provides a stable link target while the organization awaits full development. It does not expand beyond the cited source.
 

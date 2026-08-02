@@ -14,7 +14,7 @@ canonical_images:
   - null
 ---
 
-# [High Council](../organizations/The_High_Council_of_Aetherhaven.md) Thirteenth Seat Record
+# High Council Thirteenth Seat Record
 
 > **Artifact Image Slate #56** · Organizations and Secret Societies · [Artifact standard](../CANON_MARKDOWN_STANDARD.md)
 

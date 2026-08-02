@@ -12,7 +12,7 @@ canonical_images:
   - null
 ---
 
-# [Orin Flint](../characters/Orin_Flint.md)’s Depth Log
+# Orin Flint’s Depth Log
 
 > **Artifact Image Slate #35** · The Machine Behind the Wall · [Artifact standard](../CANON_MARKDOWN_STANDARD.md)
 

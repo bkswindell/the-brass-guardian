@@ -15,7 +15,7 @@ canonical_images:
 visual_transcription_status: complete
 ---
 
-# [The First Mechanist](../characters/The_First_Mechanist.md)’s Mark
+# The First Mechanist’s Mark
 
 > **Artifact Image Slate #4** · Foundational Canon Images · [Artifact standard](../CANON_MARKDOWN_STANDARD.md)
 

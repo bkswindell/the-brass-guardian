@@ -12,7 +12,7 @@ canonical_images:
   - null
 ---
 
-# [Aetherhaven](../locations/Aetherhaven.md) Pneumatic Message Capsule
+# Aetherhaven Pneumatic Message Capsule
 
 > **Artifact Image Slate #57** · Background Lore and Transitional Artifacts · [Artifact standard](../CANON_MARKDOWN_STANDARD.md)
 

@@ -1,6 +1,6 @@
 # Source-Grounded Placeholder Profile Index
 
-> Generated from **[Aetherhaven](locations/Aetherhaven.md) v3.pdf** and existing canonical Markdown on 2026-08-02. These files provide stable link targets and preserve source-supported information until each entity receives a full review.
+> Generated from **Aetherhaven v3.pdf** and existing canonical Markdown on 2026-08-02. These files provide stable link targets and preserve source-supported information until each entity receives a full review.
 
 A placeholder does not resolve contradictions, assign unknown identities, or supersede a completed canonical profile.
 

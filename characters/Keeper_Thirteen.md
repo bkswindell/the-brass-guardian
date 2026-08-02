@@ -21,7 +21,7 @@ source_basis:
 
 ## Canonical Summary
 
-A planned character profile named in the supplied project material, but no descriptive entry for this figure was located in [Aetherhaven](../locations/Aetherhaven.md) v3.pdf.
+A planned character profile named in the supplied project material, but no descriptive entry for this figure was located in Aetherhaven v3.pdf.
 
 ## Source Notes
 

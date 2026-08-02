@@ -13,7 +13,7 @@ canonical_images:
   - null
 ---
 
-# Prototype II and [Amelia](../characters/Amelia_Hawthorne.md)’s Gauntlet Comparison
+# Prototype II and Amelia’s Gauntlet Comparison
 
 > **Artifact Image Slate #43** · The Door That Remembered [Amelia](../characters/Amelia_Hawthorne.md) · [Artifact standard](../CANON_MARKDOWN_STANDARD.md)
 

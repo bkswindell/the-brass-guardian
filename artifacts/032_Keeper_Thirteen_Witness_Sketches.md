@@ -13,7 +13,7 @@ canonical_images:
   - null
 ---
 
-# [Keeper Thirteen](../characters/Keeper_Thirteen.md) Witness Sketches
+# Keeper Thirteen Witness Sketches
 
 > **Artifact Image Slate #32** · The Bell Beneath the Clocktower · [Artifact standard](../CANON_MARKDOWN_STANDARD.md)
 

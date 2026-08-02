@@ -13,7 +13,7 @@ canonical_images:
   - null
 ---
 
-# [The First Mechanist](../characters/The_First_Mechanist.md) Handwriting Comparison
+# The First Mechanist Handwriting Comparison
 
 > **Artifact Image Slate #44** · The Door That Remembered [Amelia](../characters/Amelia_Hawthorne.md) · [Artifact standard](../CANON_MARKDOWN_STANDARD.md)
 

@@ -25,20 +25,20 @@ source_basis:
 
 ## Canonical Summary
 
-The newest compiled source identifies Orin Flint as the respected foreman of the Gearbreaker Mines. He places worker safety above profit or politics, can identify underground chambers by the echo of a hammer strike, halted excavation after the discovery of a smooth metal wall with six empty sockets, and refuses repeated private orders to resume digging. Machinery can now be heard moving beyond the wall.
+The newest compiled source identifies Orin Flint as the respected foreman of [the Gearbreaker Mines](../locations/The_Gearbreaker_Mines.md). He places worker safety above profit or politics, can identify underground chambers by the echo of a hammer strike, halted excavation after the discovery of a smooth metal wall with six empty sockets, and refuses repeated private orders to resume digging. Machinery can now be heard moving beyond the wall.
 
-Earlier supplied material describes Orin as the leader of the Miners' Guild, a veteran of the Gearbreaker Mines who believes the tunnels are alive and carries a compass that points toward nearby metal rather than north.
+Earlier supplied material describes Orin as the leader of [the Miners' Guild](../organizations/The_Miners_Guild.md), a veteran of [the Gearbreaker Mines](../locations/The_Gearbreaker_Mines.md) who believes the tunnels are alive and carries a compass that points toward nearby metal rather than north.
 
 Both descriptions remain provisional until the character receives a full canon review.
 
 ## Source Notes
 
 - **Aetherhaven v3.pdf:** Foreman; worker-safety advocate; halted excavation; hears machinery beyond the six-socket wall.
-- **Aetherhaven.pdf:** Miners' Guild leader; believes the tunnels are alive; carries a metal-seeking compass.
+- **[Aetherhaven](../locations/Aetherhaven.md).pdf:** [Miners' Guild](../organizations/The_Miners_Guild.md) leader; believes the tunnels are alive; carries a metal-seeking compass.
 
 ## Public Role
 
-Orin is publicly associated with mining safety and operations in the Gearbreaker Mines. Whether he also formally leads the Miners' Guild remains unresolved.
+Orin is publicly associated with mining safety and operations in [the Gearbreaker Mines](../locations/The_Gearbreaker_Mines.md). Whether he also formally leads [the Miners' Guild](../organizations/The_Miners_Guild.md) remains unresolved.
 
 ## Relationships
 
@@ -58,11 +58,11 @@ Use a practical veteran mining foreman as the current baseline. The metal-seekin
 - Orin prioritizes worker safety.
 - Do not identify the source of the private excavation orders without a later canon decision.
 - Preserve the six-socket wall and machinery beyond it.
-- Treat Miners' Guild leadership and the unusual compass as provisional rather than discarded.
+- Treat [Miners' Guild](../organizations/The_Miners_Guild.md) leadership and the unusual compass as provisional rather than discarded.
 
 ## Open Canon Questions
 
-1. Does Orin formally lead the Miners' Guild or only the Gearbreaker crews?
+1. Does Orin formally lead [the Miners' Guild](../organizations/The_Miners_Guild.md) or only the Gearbreaker crews?
 2. Who is ordering excavation to resume?
 3. What lies behind the six-socket wall?
 4. Is the metal-seeking compass still canonical?

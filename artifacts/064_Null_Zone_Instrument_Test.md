@@ -13,7 +13,7 @@ canonical_images:
   - null
 ---
 
-# [Null Zone](../locations/The_Null_Zone.md) Instrument Test
+# Null Zone Instrument Test
 
 > **Artifact Image Slate #64** · Background Lore and Transitional Artifacts · [Artifact standard](../CANON_MARKDOWN_STANDARD.md)
 

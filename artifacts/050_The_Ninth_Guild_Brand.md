@@ -14,7 +14,7 @@ canonical_images:
   - null
 ---
 
-# [The Ninth Guild](../organizations/The_Ninth_Guild.md) Brand
+# The Ninth Guild Brand
 
 > **Artifact Image Slate #50** · Organizations and Secret Societies · [Artifact standard](../CANON_MARKDOWN_STANDARD.md)
 

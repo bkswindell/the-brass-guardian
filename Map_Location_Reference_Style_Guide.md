@@ -1,4 +1,4 @@
-# [Aetherhaven](locations/Aetherhaven.md) Map-Location Reference Style Guide
+# Aetherhaven Map-Location Reference Style Guide
 
 ## Purpose
 

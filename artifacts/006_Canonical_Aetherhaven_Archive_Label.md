@@ -13,7 +13,7 @@ canonical_images:
 visual_transcription_status: not-applicable-working-placeholder
 ---
 
-# Canonical [Aetherhaven](../locations/Aetherhaven.md) Archive Label
+# Canonical Aetherhaven Archive Label
 
 > **Artifact Image Slate #6** · Foundational Canon Images · [Artifact standard](../CANON_MARKDOWN_STANDARD.md)
 

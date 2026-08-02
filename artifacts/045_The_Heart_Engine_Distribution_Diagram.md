@@ -14,7 +14,7 @@ canonical_images:
   - null
 ---
 
-# [The Heart Engine](../locations/The_Aetherium.md) Distribution Diagram
+# The Heart Engine Distribution Diagram
 
 > **Artifact Image Slate #45** · The Living Key · [Artifact standard](../CANON_MARKDOWN_STANDARD.md)
 

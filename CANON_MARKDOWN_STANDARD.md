@@ -2,7 +2,7 @@
 
 ## Purpose
 
-This standard keeps *[The Brass Guardian](characters/Professor_Elias_Hawthorne.md)* repository interconnected, visually grounded, low in duplication, and easy for people and AI agents to navigate.
+This standard keeps *The Brass Guardian* repository interconnected, visually grounded, low in duplication, and easy for people and AI agents to navigate.
 
 ## Source Priority
 

@@ -13,7 +13,7 @@ canonical_images:
   - null
 ---
 
-# [Pulse Chamber](../locations/The_Pulse_Chamber.md) Pressure Record
+# Pulse Chamber Pressure Record
 
 > **Artifact Image Slate #46** · The Living Key · [Artifact standard](../CANON_MARKDOWN_STANDARD.md)
 

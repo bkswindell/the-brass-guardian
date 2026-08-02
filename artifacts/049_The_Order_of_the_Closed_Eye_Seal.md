@@ -13,7 +13,7 @@ canonical_images:
   - null
 ---
 
-# [The Order of the Closed Eye](../organizations/The_Order_of_the_Closed_Eye.md) Seal
+# The Order of the Closed Eye Seal
 
 > **Artifact Image Slate #49** · Organizations and Secret Societies · [Artifact standard](../CANON_MARKDOWN_STANDARD.md)
 

@@ -14,7 +14,7 @@ canonical_images:
   - null
 ---
 
-# [Brass Watch](../organizations/The_Brass_Watch.md) Restricted Incident File
+# Brass Watch Restricted Incident File
 
 > **Artifact Image Slate #55** · Organizations and Secret Societies · [Artifact standard](../CANON_MARKDOWN_STANDARD.md)
 

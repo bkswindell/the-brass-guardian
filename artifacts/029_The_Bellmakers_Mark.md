@@ -12,7 +12,7 @@ canonical_images:
   - null
 ---
 
-# [The Bellmaker](../characters/The_Bellmaker.md)’s Mark
+# The Bellmaker’s Mark
 
 > **Artifact Image Slate #29** · The Bell Beneath the Clocktower · [Artifact standard](../CANON_MARKDOWN_STANDARD.md)
 

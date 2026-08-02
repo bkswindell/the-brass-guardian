@@ -1,6 +1,6 @@
-# [Aetherhaven](../locations/Aetherhaven.md) Artifact Image Slate
+# Aetherhaven Artifact Image Slate
 
-> **Development reference and spoiler warning:** These files document the planned and completed archival plates, recovered objects, diagrams, photographs, rubbings, and evidence records used throughout *[The Brass Guardian](../characters/Professor_Elias_Hawthorne.md)*. The active Markdown canon controls whenever the original slate and later development differ.
+> **Development reference and spoiler warning:** These files document the planned and completed archival plates, recovered objects, diagrams, photographs, rubbings, and evidence records used throughout *The Brass Guardian*. The active Markdown canon controls whenever the original slate and later development differ.
 
 ## Source and Usage Rules
 

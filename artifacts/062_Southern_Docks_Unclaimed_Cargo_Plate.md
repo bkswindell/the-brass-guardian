@@ -12,7 +12,7 @@ canonical_images:
   - null
 ---
 
-# [Southern Docks](../locations/The_Southern_Docks.md) Unclaimed Cargo Plate
+# Southern Docks Unclaimed Cargo Plate
 
 > **Artifact Image Slate #62** · Background Lore and Transitional Artifacts · [Artifact standard](../CANON_MARKDOWN_STANDARD.md)
 

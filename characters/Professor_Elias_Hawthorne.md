@@ -5,7 +5,6 @@ title: The Brass Guardian
 aliases:
   - Elias Hawthorne
   - Elias
-  - The Brass Guardian
 series: The Brass Guardian / The Aetherhaven Chronicles
 canon_status: Source-grounded placeholder
 canonical_scope: Aetherhaven volumes

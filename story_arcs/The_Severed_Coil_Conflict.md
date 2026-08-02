@@ -18,7 +18,7 @@ supporting_factions:
 temporal_relevance: High
 ---
 
-# [The Severed Coil](../organizations/The_Severed_Coil.md) Conflict
+# The Severed Coil Conflict
 
 ## Arc Premise
 

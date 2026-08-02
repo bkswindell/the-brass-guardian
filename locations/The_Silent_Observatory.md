@@ -20,7 +20,7 @@ source_basis:
   - Aetherhaven v3.pdf
 ---
 
-# The Silent [Observatory](The_Observatory.md)
+# The Silent Observatory
 
 > **Placeholder profile.** This record provides a stable link target and preserves the source description until the location receives a complete profile.
 

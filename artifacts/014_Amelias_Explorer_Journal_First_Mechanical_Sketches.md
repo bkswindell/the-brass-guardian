@@ -12,7 +12,7 @@ canonical_images:
   - null
 ---
 
-# [Amelia](../characters/Amelia_Hawthorne.md)’s Explorer Journal: First Mechanical Sketches
+# Amelia’s Explorer Journal: First Mechanical Sketches
 
 > **Artifact Image Slate #14** · [Amelia](../characters/Amelia_Hawthorne.md) and the Aether Gauntlet · [Artifact standard](../CANON_MARKDOWN_STANDARD.md)
 

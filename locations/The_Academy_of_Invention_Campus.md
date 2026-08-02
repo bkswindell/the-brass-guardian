@@ -21,7 +21,7 @@ source_basis:
   - Aetherhaven v3.pdf
 ---
 
-# [The Academy of Invention](../organizations/The_Academy_of_Invention.md) Campus
+# The Academy of Invention Campus
 
 > **Placeholder profile.** This record provides a stable link target and preserves the source description until the location receives a complete profile.
 
