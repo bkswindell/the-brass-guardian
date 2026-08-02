@@ -15,7 +15,7 @@ primary_connections: []
 points_of_interest: []
 related_markdown: []
 canonical_images:
-  - ../art/Map_of_Aetherhaven.png
+  - art/Map_of_Aetherhaven.png
   - null
 temporal_relevance: None
 ---
@@ -24,7 +24,7 @@ temporal_relevance: None
 
 ## Map Reference
 
-![Map of Aetherhaven](../art/Map_of_Aetherhaven.png)
+![Map of Aetherhaven](art/Map_of_Aetherhaven.png)
 
 State the map number or restricted-area letter and link to the full map image.
 
@@ -34,7 +34,7 @@ State the map number or restricted-area letter and link to the full map image.
 
 ## Public Map Reference
 
-Use the voice defined in [Map Location Reference Style Guide](../Map_Location_Reference_Style_Guide.md).
+Use the voice defined in [Map Location Reference Style Guide](Map_Location_Reference_Style_Guide.md).
 
 ## Canonical Summary
 
