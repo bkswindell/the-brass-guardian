@@ -165,6 +165,10 @@ The four redacted handling instructions are visually present but unreadable. The
 - [The Disappearance of Prototype I](../story_arcs/The_Disappearance_of_Prototype_I.md)
 - [The Black Catalogue Arc](../story_arcs/The_Black_Catalogue_Arc.md)
 
+## Related Historical Events
+
+- [The Disappearance of Prototype I](../historical_events/The_Disappearance_of_Prototype_I.md)
+
 ## Continuity Notes
 
 - This file is authoritative for the visible content and physical presentation of the active artifact image or images.

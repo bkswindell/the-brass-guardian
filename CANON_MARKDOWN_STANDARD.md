@@ -4,6 +4,37 @@
 
 This standard keeps *The Brass Guardian* repository interconnected, visually grounded, low in duplication, and easy for people and AI agents to navigate.
 
+
+## Historical-Event Records
+
+Historical events belong in `historical_events/` and use [Historical_Event_Profile_Template.md](Historical_Event_Profile_Template.md).
+
+A historical-event file owns:
+
+- the objective event,
+- public and restricted accounts,
+- participants and institutions,
+- the known timeline,
+- conflicting testimony,
+- physical evidence and provenance,
+- institutional consequences,
+- continuity constraints,
+- and unresolved historical questions.
+
+A story arc owns how Amelia and the reader discover, experience, or interpret that history.
+
+Profiles and artifacts should link to the event rather than repeat its full chronology. Historical records must preserve uncertainty and must not convert rumor into fact.
+
+Every historical event ends with an **Archival Status** section containing:
+
+- Public Record,
+- Restricted Record,
+- Order Interest,
+- Primary Sources,
+- and Outstanding Historical Questions.
+
+Artifacts should link to relevant historical events through a **Related Historical Events** section. Provenance belongs in the artifact record; the complete event chronology belongs in the historical-event record.
+
 ## Source Priority
 
 1. Latest explicit canon decision in active Markdown.
@@ -19,7 +50,7 @@ Every canonical Markdown file should contain:
 - YAML front matter with a stable ID, canon status, last-updated date, related Markdown paths, and image paths.
 - A concise canonical summary.
 - A **Visual Reference** section using active compiled art when available.
-- Direct relative hyperlinks whenever another character, location, organization, artifact, or story arc is named as a meaningful relationship.
+- Direct relative hyperlinks whenever another character, location, organization, artifact, historical event, or story arc is named as a meaningful relationship.
 - A **Continuity Notes** section defining what the file owns and what belongs in linked files.
 - A **TODO / Production Checklist** using Markdown checkboxes.
 - Open questions or intentionally unresolved canon where appropriate.
@@ -53,6 +84,13 @@ Every canonical Markdown file should contain:
 - Preserve visible plate text even when it conflicts with newer canon; document the conflict and let active linked Markdown control the broader story.
 - Keep recovery details, form, canonical purpose, production status, and unresolved questions in the artifact file.
 
+### Historical Events
+
+- Link the event's public and restricted evidence, involved profiles, related story arcs, and authoritative artifact records.
+- Include a canonical historical illustration, evidence collage, photograph, document, map, or artifact set when one exists.
+- Do not depict an unresolved witness account, mediator identity, chronology, or disputed action as settled fact.
+- Treat the historical-event file as the authoritative owner of the event chronology.
+
 ### Story Arcs
 
 - Link to the involved characters, organizations, locations, and artifacts.
@@ -62,7 +100,7 @@ Every canonical Markdown file should contain:
 
 Whenever a Markdown file makes a meaningful named reference to another documented entity, use a relative Markdown link on the first important occurrence in that section. Repeated links in every sentence are unnecessary.
 
-Use an artifact file as the authoritative source for an object or image. Use character, location, organization, and arc files as the authoritative sources for their broader subjects.
+Use an artifact file as the authoritative source for an object or image. Use character, location, organization, historical-event, and arc files as the authoritative sources for their broader subjects.
 
 ## Duplication Rule
 
@@ -82,6 +120,8 @@ Summarize and link; do not copy full sections between files. A local file may co
 - [x] Create one Markdown record for every entry in the original Artifact Image Slate.
 - [x] Link existing active artifact art where confidently matched.
 - [x] Transcribe and fully describe every completed active artifact plate currently available.
+- [x] Create the historical-event template and `historical_events/` index.
+- [x] Separate objective historical events from story arcs that reveal or revisit them.
 - [ ] Add visual-reference sections to every existing character profile.
 - [ ] Add map and location-art sections to every existing location profile.
 - [ ] Add crest, seal, or representative-art sections to every existing organization profile.

@@ -266,6 +266,11 @@ The geometric relationship to [The Six-Key Sigil](003_The_Six_Key_Sigil.md) is v
 - [Conservancy of Living Mechanisms](../organizations/The_Conservancy_of_Living_Mechanisms.md)
 - [The Moon Garden](../locations/The_Moon_Garden.md)
 
+## Related Historical Events
+
+- [The Rising](../historical_events/The_Rising.md)
+- [The Great Garden Rearrangement](../historical_events/The_Great_Garden_Rearrangement.md)
+
 ## Continuity Notes
 
 - This file is authoritative for the visible content and physical presentation of the active artifact image or images.

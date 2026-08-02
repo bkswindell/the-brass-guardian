@@ -41,6 +41,12 @@ Unresolved unless explicitly stated in the source. Do not invent leadership, ran
 
 Add only relationships already established in the source or current canonical Markdown.
 
+## The Gearbreaker Standoff
+
+The [Gearbreaker Standoff](../historical_events/The_Gearbreaker_Standoff.md) demonstrated the practical solidarity of the Gearbreaker crews and Orin Flint's authority among miners.
+
+The event does not yet prove that Orin formally leads the entire Miners' Guild. It does establish that experienced Gearbreaker crews would walk off site with him rather than accept an unsafe external order.
+
 ## Continuity Constraints
 
 - This is a placeholder, not a completed organization profile.

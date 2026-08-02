@@ -272,6 +272,12 @@ The hidden inner glyph in Variant B may connect to [The Six-Key Sigil](003_The_S
 
 - [Aerial Mariners' Union](../organizations/The_Aerial_Mariners_Union.md)
 
+## Related Historical Events
+
+- [The Revision of the Society of Explorers Charter](../historical_events/The_Revision_of_the_Society_of_Explorers_Charter.md)
+
+Both active seal variants remain valid evidence from different periods or functions of the Society.
+
 ## Continuity Notes
 
 - This file is authoritative for the visible content and physical presentation of the active artifact image or images.

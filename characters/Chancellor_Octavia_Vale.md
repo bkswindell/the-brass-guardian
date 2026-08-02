@@ -329,6 +329,16 @@ Octavia learns a fact that may destabilize the city if released and strengthen t
 - Whether she remains Chancellor after the Thirteenth Chair opens.
 - What decision could make her reject Continuance doctrine.
 
+## The Gearbreaker Standoff
+
+[The Gearbreaker Standoff](../historical_events/The_Gearbreaker_Standoff.md) is one of the defining failures and lessons of Octavia Vale's public career.
+
+Vale authorized a lawful compliance action after receiving incomplete information and intense pressure to restore mine production. She did not intend violence, but underestimated Orin Flint's practical authority, the loyalty of his crews, and the danger of using the Brass Watch to resolve a specialized safety dispute.
+
+After the standoff and the later tunnel collapse, Vale stopped assuming that a lawful order could substitute for local knowledge. She still challenges Orin, but now asks why before deciding how civic authority should respond.
+
+The incident remains a public embarrassment. Orin does not exploit it, and Vale does not pretend it never happened.
+
 ## Continuity Constraints
 
 - Octavia must not be reduced to an Order puppet.

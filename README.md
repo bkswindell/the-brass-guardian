@@ -34,7 +34,7 @@ Each story is designed to stand on its own while contributing to a larger world 
 This repository contains the active working materials for the series:
 
 - the current illustrated manuscript in [PDF](The_Brass_Guardian.pdf) and [Word](The_Brass_Guardian.docx) formats,
-- canonical character, organization, location, and story-arc profiles,
+- canonical character, organization, location, historical-event, and story-arc profiles,
 - an interconnected [artifact image slate](artifacts/README.md) documenting recovered objects, maps, diagrams, seals, and archival plates,
 - maps, character references, and story artwork,
 - and development standards used to preserve continuity across future stories and illustrations.

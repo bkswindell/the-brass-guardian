@@ -42,3 +42,7 @@ Formal seating chart showing twelve named officials and one sealed position.
 - [ ] Confirm archive catalog number, recovery metadata, and publication-safe caption.
 - [ ] Add backlinks from every profile that directly references this artifact.
 - [ ] Reconcile this slate concept with newer canon before final publication.
+
+## Related Historical Events
+
+- [The First Continuance](../historical_events/The_First_Continuance.md)

@@ -1,0 +1,74 @@
+name: Build Historical Event Library
+
+on:
+  workflow_dispatch:
+  pull_request:
+    paths:
+      - scripts/build_historical_event_library.py
+      - scripts/finalize_historical_event_migration.py
+      - scripts/normalize_historical_event_output.py
+      - .github/workflows/build-historical-event-library.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: historical-events-${{ github.event.pull_request.number || github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  build-history:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out pull-request branch
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          ref: ${{ github.event.pull_request.head.ref || github.ref_name }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Build historical event library
+        run: |
+          python scripts/build_historical_event_library.py
+          python scripts/normalize_historical_event_output.py
+          python scripts/finalize_historical_event_migration.py
+
+      - name: Refresh development TODO
+        run: |
+          python scripts/build_canon_development_todo.py
+          python scripts/link_canon_development_todo.py
+
+      - name: Verify deterministic output
+        shell: bash
+        run: |
+          find . -type f -name '*.md' -not -path './.git/*' -not -path './unused/*' -print0 \
+            | sort -z | xargs -0 sha256sum > /tmp/history-before.sha256
+          python scripts/build_historical_event_library.py
+          python scripts/normalize_historical_event_output.py
+          python scripts/finalize_historical_event_migration.py
+          python scripts/build_canon_development_todo.py
+          python scripts/link_canon_development_todo.py
+          find . -type f -name '*.md' -not -path './.git/*' -not -path './unused/*' -print0 \
+            | sort -z | xargs -0 sha256sum > /tmp/history-after.sha256
+          diff -u /tmp/history-before.sha256 /tmp/history-after.sha256
+
+      - name: Verify Markdown patch
+        run: git diff --check
+
+      - name: Commit generated canon
+        shell: bash
+        run: |
+          if [ -z "$(git status --porcelain)" ]; then
+            echo "Historical event library is current."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -- '*.md' '**/*.md' scripts/link_markdown_references.py scripts/build_canon_development_todo.py
+          git commit -m "Finalize historical event canon architecture"
+          git push origin HEAD:${{ github.event.pull_request.head.ref || github.ref_name }}
