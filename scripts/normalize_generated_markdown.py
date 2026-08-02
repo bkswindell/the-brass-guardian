@@ -2,8 +2,8 @@
 """Normalize edge cases after the repository-wide Markdown link pass.
 
 This script is intentionally conservative. It removes links from top-level file
-headings, prevents source filenames from being interpreted as city references,
-and corrects a known ambiguous Pike-family name introduced by an earlier link pass.
+headings, prevents source filenames and series titles from being interpreted as
+entity references, and corrects known ambiguous names from earlier link passes.
 """
 
 from __future__ import annotations
@@ -29,6 +29,14 @@ def rel(source: Path, target: str) -> str:
 
 
 def normalize(path: Path, text: str) -> str:
+    # These phrases are series or story titles as often as they are epithets. They
+    # remain in the character profiles as titles but are removed from automatic
+    # alias lists so prose titles are not mistaken for personal-name references.
+    if path.as_posix().endswith("characters/Professor_Elias_Hawthorne.md"):
+        text = text.replace("\n  - The Brass Guardian\n", "\n")
+    if path.as_posix().endswith("characters/Amelia_Hawthorne.md"):
+        text = text.replace("\n  - The Clockwork Explorer\n", "\n")
+
     lines = text.splitlines(keepends=True)
     output: list[str] = []
 
@@ -42,6 +50,18 @@ def normalize(path: Path, text: str) -> str:
         line = re.sub(
             r"\[Aetherhaven\]\([^)]+/Aetherhaven\.md\)(?=\s+v\d+(?:\.\d+)?\.pdf)",
             "Aetherhaven",
+            line,
+        )
+
+        # The franchise and story titles are not references to Elias or Amelia.
+        line = re.sub(
+            r"\[The Brass Guardian\]\([^)]+Professor_Elias_Hawthorne\.md\)",
+            "The Brass Guardian",
+            line,
+        )
+        line = re.sub(
+            r"\[The Clockwork Explorer\]\([^)]+Amelia_Hawthorne\.md\)",
+            "The Clockwork Explorer",
             line,
         )
 
