@@ -1,0 +1,62 @@
+name: Build Canon Development TODO
+
+on:
+  workflow_dispatch:
+  pull_request:
+    paths:
+      - scripts/build_canon_development_todo.py
+      - scripts/link_canon_development_todo.py
+      - .github/workflows/build-canon-development-todo.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: canon-development-todo-${{ github.event.pull_request.number || github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  build-todo:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out pull-request branch
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          ref: ${{ github.event.pull_request.head.ref || github.ref_name }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Generate canon development TODO
+        run: |
+          python scripts/build_canon_development_todo.py
+          python scripts/link_canon_development_todo.py
+
+      - name: Verify deterministic output
+        shell: bash
+        run: |
+          sha256sum CANON_DEVELOPMENT_TODO.md PROJECT_INDEX.md > /tmp/todo-before.sha256
+          python scripts/build_canon_development_todo.py
+          python scripts/link_canon_development_todo.py
+          sha256sum CANON_DEVELOPMENT_TODO.md PROJECT_INDEX.md > /tmp/todo-after.sha256
+          diff -u /tmp/todo-before.sha256 /tmp/todo-after.sha256
+
+      - name: Verify Markdown patch
+        run: git diff --check
+
+      - name: Commit generated TODO
+        shell: bash
+        run: |
+          if [ -z "$(git status --porcelain -- CANON_DEVELOPMENT_TODO.md PROJECT_INDEX.md)" ]; then
+            echo "Canon development TODO and project index are current."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add CANON_DEVELOPMENT_TODO.md PROJECT_INDEX.md
+          git commit -m "Generate prioritized canon development TODO"
+          git push origin HEAD:${{ github.event.pull_request.head.ref || github.ref_name }}
