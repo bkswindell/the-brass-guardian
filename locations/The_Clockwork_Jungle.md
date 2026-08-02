@@ -13,7 +13,11 @@ access_status: []
 map_reference_category: unlisted
 map_number: 
 parent_location: 
-primary_connections: []
+primary_connections:
+  - Professor Elias Hawthorne
+  - Amelia Hawthorne
+  - The Clockwork Jungle Expedition
+  - Return to the Clockwork Jungle
 points_of_interest: []
 temporal_relevance: Unresolved
 source_basis:
@@ -30,11 +34,11 @@ No numbered or lettered map reference is currently assigned.
 
 ## Public Map Reference
 
-The expedition region where [Amelia](../characters/Amelia_Hawthorne.md)'s arm was injured according to the supplied source. It contains living and mechanical wilderness, ancient structures, and dangers not yet fully reconciled with current canon.
+The Clockwork Jungle is the distant expedition region where living wilderness, mechanical growth, and Ancient structures exist together. It is the site of [the Clockwork Jungle Expedition](../historical_events/The_Clockwork_Jungle_Expedition.md), during which a dormant machine awakened, much of the expedition was destroyed, and [Amelia Hawthorne](../characters/Amelia_Hawthorne.md)'s right arm was catastrophically injured. The location remains a source-grounded placeholder because its geography, peoples, ecology, access rules, and full visual identity have not yet received a dedicated canon review.
 
 ## Canonical Summary
 
-The expedition region where [Amelia](../characters/Amelia_Hawthorne.md)'s arm was injured according to the supplied source. It contains living and mechanical wilderness, ancient structures, and dangers not yet fully reconciled with current canon.
+The Clockwork Jungle is the distant expedition region where living wilderness, mechanical growth, and Ancient structures exist together. It is the site of [the Clockwork Jungle Expedition](../historical_events/The_Clockwork_Jungle_Expedition.md), during which a dormant machine awakened, much of the expedition was destroyed, and [Amelia Hawthorne](../characters/Amelia_Hawthorne.md)'s right arm was catastrophically injured. The location remains a source-grounded placeholder because its geography, peoples, ecology, access rules, and full visual identity have not yet received a dedicated canon review.
 
 ## Source Notes
 
@@ -48,6 +52,16 @@ Pending expansion. Do not add hidden history, governing organizations, or access
 
 Link parent districts, organizations, recurring characters, and artifacts only when established.
 
+## Historical and Narrative Connections
+
+The series begins after the expedition disaster rather than opening with a complete depiction of it.
+
+The location's history is owned by [The Clockwork Jungle Expedition](../historical_events/The_Clockwork_Jungle_Expedition.md). The future story that revisits the site is owned by [Return to the Clockwork Jungle](../story_arcs/The_Return_to_the_Clockwork_Jungle.md).
+
+Earlier volumes should reveal the Jungle through aftermath, field records, damaged artifacts, incomplete memories, Ancient systems found in Aetherhaven, and [Elias Hawthorne](../characters/Professor_Elias_Hawthorne.md)'s protective behavior.
+
+The eventual return should show that the Jungle has not remained a static ruin waiting unchanged for the Hawthornes. Exact changes remain unresolved.
+
 ## Visual Continuity
 
 Use the source description as the temporary visual baseline. No generated image becomes canonical merely because this placeholder exists.
@@ -59,6 +73,8 @@ Use the source description as the temporary visual baseline. No generated image 
 - Restricted locations must remain cautionary without resolving their central mystery.
 - Do not merge this location with a similarly named institution, office, vessel, or artifact.
 - Replace or expand this file rather than creating a duplicate profile later.
+- Preserve the aftermath-first narrative strategy; do not use this location profile to reveal the complete expedition before the story earns it.
+- A later return may revise the accepted account without erasing the real harm suffered by Amelia and Elias.
 
 ## Open Canon Questions
 

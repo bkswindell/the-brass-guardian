@@ -8,8 +8,6 @@ A placeholder does not resolve contradictions, assign unknown identities, or sup
 
 | Entity | File |
 |---|---|
-| [Professor Elias Hawthorne](characters/Professor_Elias_Hawthorne.md) | [Professor_Elias_Hawthorne.md](characters/Professor_Elias_Hawthorne.md) |
-| [Amelia Hawthorne](characters/Amelia_Hawthorne.md) | [Amelia_Hawthorne.md](characters/Amelia_Hawthorne.md) |
 | [Doctor Elara Quill](characters/Doctor_Elara_Quill.md) | [Doctor_Elara_Quill.md](characters/Doctor_Elara_Quill.md) |
 | [Lucian Wren](characters/Lucian_Wren.md) | [Lucian_Wren.md](characters/Lucian_Wren.md) |
 | [Barnaby Wren](characters/Barnaby_Wren.md) | [Barnaby_Wren.md](characters/Barnaby_Wren.md) |
