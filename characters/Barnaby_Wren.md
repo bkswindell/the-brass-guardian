@@ -1,58 +1,76 @@
 ---
 character_id: AH-CHAR-PLACEHOLDER-007
 name: Barnaby Wren
-title: Retired explorer and proprietor of the Last Lantern
+title: Proprietor of the Last Lantern
 aliases:
   - Barnaby
 series: The Brass Guardian / The Aetherhaven Chronicles
 canon_status: Source-grounded placeholder
 canonical_scope: Aetherhaven volumes
 last_updated: 2026-08-02
-primary_locations: []
+primary_locations:
+  - The Last Lantern
 affiliations: []
-key_connections: []
-temporal_relevance: Unresolved
+key_connections:
+  - Professor Elias Hawthorne
+  - Amelia Hawthorne
+temporal_relevance: High
 source_basis:
+  - Aetherhaven.pdf
   - Aetherhaven v3.pdf
 ---
 
 # Barnaby Wren
 
-> **Placeholder profile.** This file exists so references can resolve to one authoritative record. It records only what the cited source currently supports and does not supersede more developed canon elsewhere in the repository.
+> **Placeholder profile.** This file preserves all currently supplied descriptions of Barnaby Wren without inventing an explanation for their temporal implications.
 
 ## Canonical Summary
 
-A retired explorer and storyteller who owns [the Last Lantern](../locations/The_Last_Lantern.md). His walls are covered in impossible maps, and his records indicate that he vanished for two years despite remembering only a few weeks.
+The newest compiled source identifies Barnaby as the proprietor of the Last Lantern, the oldest shop in the Merchant District. His shelves contain impossible objects including unopened letters from the future, keys without locks, maps of places that may not exist, and bottles filled with forgotten songs. He accepts no money; his price is always a promise. He is warm toward Amelia and distrustful of Elias, whom he accuses of already breaking a promise Elias does not remember making.
+
+Earlier supplied material also describes Barnaby as a retired explorer and storyteller whose shop walls are covered in impossible maps. Records claim that he once vanished for two years, although he remembers only a few weeks.
+
+Both descriptions are retained pending a fuller character profile.
 
 ## Source Notes
 
-- Expand from later canon review.
+- **Aetherhaven v3.pdf:** Proprietor of the Last Lantern; trades in promises; possesses impossible objects; remembers a prior promise involving Elias.
+- **Aetherhaven.pdf:** Retired explorer and storyteller; vanished for two years while remembering only weeks.
 
 ## Public Role
 
-Pending expansion. Preserve the source description without adding unsupported biography, motives, affiliations, or chronology.
+Barnaby publicly operates the Last Lantern. Whether his former exploration career and disappearance are widely known remains unresolved.
 
 ## Relationships
 
-Relationships explicitly named in the source may be linked here during later expansion. No unassigned relationship should be treated as established merely because this placeholder exists.
+### Amelia Hawthorne
+
+Barnaby is warm toward Amelia. The reason for that trust is not yet established.
+
+### Professor Elias Hawthorne
+
+Barnaby distrusts Elias and claims Elias has already broken a promise made during a meeting Elias cannot remember.
 
 ## Hidden History
 
-Unassigned. Do not infer a hidden identity, allegiance, or temporal origin from the placeholder.
+Barnaby's disappearance, the missing time, and the forgotten promise may be related, but the supplied sources do not confirm that connection.
 
 ## Visual Continuity
 
-Use only source-supported details until a dedicated visual profile is approved.
+An older shopkeeper and former explorer surrounded by impossible maps, unusual objects, old shelves, lantern light, and records that do not fit official chronology.
 
 ## Continuity Constraints
 
 - This is a placeholder, not a completed character profile.
-- Source contradictions remain visible and unresolved.
-- Unknown identity, age, allegiance, chronology, and motive must not be invented.
-- Replace or expand this file rather than creating a duplicate profile later.
+- Barnaby does not accept ordinary money at the Last Lantern.
+- His price is a promise.
+- Elias does not currently remember the earlier meeting Barnaby references.
+- Do not define the broken promise or Barnaby's missing two years without a future canon decision.
 
 ## Open Canon Questions
 
-1. Which source details remain authoritative after full canon review?
-2. What relationships, visual elements, and staged revelations require confirmation?
-3. Does this character need a full long-form profile or a deliberately limited mystery record?
+1. What promise did Elias make?
+2. Why does Elias not remember meeting Barnaby?
+3. Where was Barnaby during the two missing years?
+4. Why does Barnaby trust Amelia?
+5. How does the Last Lantern acquire objects from impossible places or times?
