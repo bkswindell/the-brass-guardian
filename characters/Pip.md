@@ -1,0 +1,226 @@
+---
+character_id: AH-CHAR-PIP
+name: Pip
+type: Small brass sparrow, Wayfinder companion, and possible Garden messenger
+series: The Brass Guardian / The Aetherhaven Chronicles
+canon_status: Canonical working profile
+canonical_scope: Aetherhaven volumes
+last_updated: 2026-08-01
+primary_locations:
+  - The Wayfinder
+  - The Hawthorne workshop
+  - The Clockwork Gardens
+affiliation:
+  - Amelia Hawthorne
+possible_connection:
+  - Juniper Bell
+  - The Keeper of Dreams
+  - The Moon Garden
+temporal_relevance: Medium to high
+---
+
+# Pip
+
+## Canonical Summary
+
+Pip is a small brass sparrow and Amelia Hawthorne's regular companion aboard the *Wayfinder*.
+
+He is curious, expressive, and far more independent than an ordinary clockwork bird. Pip assists with small tasks, carries messages, explores spaces too narrow for people, and remains close to Amelia during ordinary life aboard the ship.
+
+A brass sparrow closely resembling Pip once delivered a blue-ribbon invitation from the Keeper of Dreams and later remained near the Hawthorne workshop.
+
+Whether that messenger was Pip is unresolved.
+
+Pip may be an ordinary companion who resembles an older Garden messenger.
+
+He may also have known Juniper Bell and the Moon Garden before Amelia understood who he was.
+
+## Personality
+
+Pip communicates through:
+
+- chirps,
+- wing movements,
+- head tilts,
+- tapping,
+- and strongly expressed preferences.
+
+He should feel like a companion rather than a tool.
+
+Pip may be:
+
+- brave when Amelia is threatened,
+- easily distracted by polished screws,
+- suspicious of unfamiliar mechanisms,
+- pleased with himself after delivering even an unimportant message,
+- and unwilling to explain where he has been.
+
+## Relationship with Amelia
+
+Pip chooses to remain near Amelia.
+
+She treats him as:
+
+- a friend,
+- an expedition companion,
+- and a small living mechanism with his own preferences.
+
+He may perch:
+
+- on her shoulder,
+- near the Aether Heart,
+- beside her bed,
+- or in the Wayfinder's observation spaces.
+
+Pip often notices emotional or mechanical disturbances before Amelia does.
+
+He cannot explain what he senses.
+
+## Relationship with the Wayfinder
+
+Pip moves freely through:
+
+- maintenance passages,
+- rigging,
+- vents,
+- observation windows,
+- and compartments too small for the Hawthornes.
+
+The ship may open small access panels for him without Elias having designed that behavior.
+
+Pip sometimes disappears during a voyage and returns carrying:
+
+- a seed,
+- a thread,
+- a screw,
+- or a message no one remembers sending.
+
+## Relationship with Juniper Bell
+
+Juniper behaves as though she already knows Pip.
+
+She may:
+
+- greet him by name before Amelia introduces him,
+- offer a seed he particularly likes,
+- understand one of his tapping patterns,
+- or ask where he has been as though expecting a report.
+
+Pip appears comfortable around Juniper's mechanical insects and may follow her through Garden paths he refuses to show anyone else.
+
+Neither Juniper nor Pip provides a direct explanation.
+
+## The Messenger Sparrow Mystery
+
+The messenger from the Keeper of Dreams:
+
+- was a tiny brass sparrow,
+- tapped on the Hawthorne workshop window,
+- carried a message tied with blue ribbon,
+- and remained near the workshop after Amelia returned from the Moon Garden.
+
+Pip closely resembles that sparrow.
+
+Possible explanations include:
+
+- Pip was the messenger and remained with Amelia afterward.
+- Pip has incomplete or protected memory of the event.
+- Juniper maintains several sparrows built from one living pattern.
+- The Gardens created a messenger in Pip's form.
+- Pip exists along more than one point in his own chronology.
+- The companion Amelia knows is descended mechanically from the original messenger.
+
+No explanation is selected.
+
+The mystery should emerge through small behavior rather than immediate exposition.
+
+## Clues
+
+Potential recurring clues include:
+
+- Pip taps three times before hidden Garden routes open.
+- He collects blue ribbon despite ignoring other cloth.
+- The silver flower glows when he sleeps beside it.
+- He recognizes the Dream Engine.
+- Old paintings contain a sparrow with the same damaged feather plate.
+- Juniper refers to a message Pip has not yet delivered.
+- Wayfinder logs record Pip aboard before Elias remembers bringing him home.
+
+## Limits
+
+Pip must not become an all-knowing guide.
+
+He may:
+
+- become lost,
+- refuse to enter a dangerous place,
+- misunderstand what Amelia wants,
+- be frightened,
+- or know a route without knowing why it matters.
+
+His mystery should deepen his companionship rather than making every affectionate moment suspicious.
+
+## Visual Continuity
+
+Pip should consistently appear as:
+
+- a small brass sparrow,
+- delicately articulated,
+- expressive through posture,
+- practical rather than jewel-encrusted,
+- and sized to perch comfortably on Amelia's shoulder or hand.
+
+Possible recurring details include:
+
+- blue accents or ribbon,
+- a slightly uneven feather plate,
+- warm eye lenses,
+- tiny mechanical feet,
+- and a soft internal glow when near the Aether Heart or Moon Garden.
+
+## Staged Revelations
+
+### Safe for Early Volumes
+
+- Pip is Amelia's brass sparrow companion.
+- He lives aboard or regularly travels on the Wayfinder.
+- He helps with messages and small tasks.
+- He behaves like a distinct personality.
+- He resembles the Moon Garden messenger.
+
+### Mid-Series
+
+- Juniper already knows him.
+- Pip recognizes hidden Garden routes.
+- His tapping pattern matches the original invitation.
+- Wayfinder and Garden records disagree about when he joined Amelia.
+- The silver flower responds to him.
+
+### Hold for Later
+
+- Whether Pip and the messenger are the same being.
+- Who built or awakened him.
+- Whether his memories have been altered.
+- Whether he can enter the Moon Garden without invitation.
+- Why the Gardens chose his form.
+- Whether Pip has delivered messages from future events.
+
+## Continuity Constraints
+
+- Pip is a companion, not equipment.
+- He must retain personality, preference, vulnerability, and affection.
+- His resemblance to the Keeper's messenger is deliberate but unresolved.
+- He should not solve every route or mystery.
+- Juniper's familiarity with him should emerge gradually.
+- His connection to the Moon Garden must not undermine his genuine bond with Amelia.
+- Pip's exact origin should remain open until a later story.
+
+## Open Canon Questions
+
+1. Is Pip the original blue-ribbon messenger?
+2. When did he first join Amelia?
+3. Who built or awakened him?
+4. Why does Juniper recognize him?
+5. Does Pip remember the Moon Garden?
+6. Why do some records place him aboard the Wayfinder too early?
+7. What message has he not yet delivered?
