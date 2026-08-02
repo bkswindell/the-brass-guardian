@@ -9,6 +9,7 @@ image_status: image-needed
 source:
 source_scope:
 last_updated:
+visual_transcription_status: pending-image
 related_markdown: []
 canonical_images:
   - null
@@ -22,30 +23,38 @@ canonical_images:
 
 > **Image pending:** Link only active art from `art/`. Never use material from `unused/`.
 
-## Canonical Purpose
+## Plate Text Transcription — Visual Evidence Only
 
-State what the artifact contributes to the story or world. Keep broader history in linked profiles.
+> Transcribe every readable word physically present in the active image. Record headings, labels, dates, signatures, seals, stamps, handwritten notes, redactions, names, places, dimensions, catalog numbers, and identifying marks. Use `[illegible]`, `[partially illegible]`, `[redacted]`, `[struck through]`, or a precise description instead of guessing.
 
-## Intended Form
+## Complete Plate Description — Visual Evidence Only
 
-Describe the physical presentation: photograph, rubbing, technical plate, journal page, seal, map, evidence file, or other format.
+Describe the entire composition as visible: artifact form, materials, colors, arrangement, damage, mounting, photographs, rubbings, sketches, callouts, seals, evidence handling, and every visually identifiable feature. Do not add story facts that cannot be seen on the plate.
 
-## Canon Relationships
+## Non-Visual Canon References and Story Context
+
+State the artifact's canonical purpose, broader history, and story relationships here. Clearly identify conflicts between the visible plate and newer Markdown canon. Link to authoritative character, organization, location, and story-arc files instead of duplicating their full content.
+
+## Related Canon
 
 - [Project Index](PROJECT_INDEX.md)
 
 ## Continuity Notes
 
-- This file is authoritative for the artifact itself.
+- This file is authoritative for the artifact image and its visible content.
 - Linked profiles remain authoritative for broader people, places, organizations, and plot arcs.
+- Visible text is preserved even when later canon differs; discrepancies are documented rather than silently corrected.
 - Do not duplicate long passages from linked files.
 
-## Production Checklist
+## TODO / Production Checklist
 
 - [ ] Active art image linked.
+- [ ] All visible text transcribed.
+- [ ] Dates, signatures, seals, redactions, names, places, and identifying marks documented.
+- [ ] Complete visual-only description added.
+- [ ] Non-visual canon separated from plate evidence.
 - [ ] Final catalog number and classification confirmed.
 - [ ] Public caption written.
-- [ ] Restricted annotations documented where needed.
 - [ ] Related Markdown files linked.
 - [ ] Backlinks added from direct references.
 - [ ] Accessibility text and AI-ingestion description reviewed.
