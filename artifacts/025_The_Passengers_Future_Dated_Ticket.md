@@ -196,6 +196,11 @@ The plate’s recovery story at the Old [Aetherhaven](../locations/Aetherhaven.m
 - [The Aerial Docks](../locations/The_Aerial_Docks.md)
 - [Gardens Airship Landing](../locations/The_Gardens_Airship_Landing.md)
 
+## Related Historical Events
+
+- [The Closing of Dock Zero](../historical_events/The_Closing_of_Dock_Zero.md)
+- [The Last Morningstar Manifest](../historical_events/The_Last_Morningstar_Manifest.md)
+
 ## Continuity Notes
 
 - This file is authoritative for the visible content and physical presentation of the active artifact image or images.

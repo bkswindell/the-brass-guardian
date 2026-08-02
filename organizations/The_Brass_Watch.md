@@ -548,6 +548,18 @@ Sentinels throughout the city receive an ancient command that overrides the Bras
 - The Watch may have unknowingly enforced ancient containment rules.
 - A future or alternate Brass Watch may already have interacted with current records.
 
+## Institutional Memory: The Gearbreaker Standoff
+
+[The Gearbreaker Standoff](../historical_events/The_Gearbreaker_Standoff.md) is an informal but powerful lesson within the Brass Watch.
+
+A young constable's attempt to physically force a miner toward a closed shaft triggered a disciplined defensive response from Orin Flint and the assembled crews. Veteran officers recognized that the Watch was unprepared for the confrontation and resisted further escalation inside their own ranks.
+
+No formal regulation says never force Orin Flint into the mountain.
+
+No formal regulation is needed.
+
+The future story [The Watchman's Regret](../story_arcs/The_Watchmans_Regret.md) follows the constable who caused the defining moment and later became a respected veteran shaped by what he learned.
+
 ## Continuity Constraints
 
 - The Brass Watch must not be portrayed as uniformly corrupt or incompetent.

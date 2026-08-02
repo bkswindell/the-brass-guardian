@@ -12,7 +12,8 @@ The repository currently contains:
 - **9** completed canonical character profiles and **19** source-grounded character placeholders
 - **12** completed canonical organization profiles and **23** source-grounded organization placeholders
 - **5** completed canonical location profiles and **48** source-grounded location placeholders
-- **5** long-range or hidden story-arc profiles
+- **6** long-range or hidden story-arc profiles
+- **15** historical-event records
 - **64** artifact image-slate records
 - **5** profile templates and development standards
 - **2** compiled manuscript exports (`DOCX` and `PDF`)
@@ -48,6 +49,7 @@ A file marked **Canonical working profile** is authoritative for future story an
 | [CANON_MARKDOWN_STANDARD.md](CANON_MARKDOWN_STANDARD.md) | Required visual, hyperlinking, TODO, and AI-ingestion standards for Markdown files |
 | [Artifact_Profile_Template.md](Artifact_Profile_Template.md) | Standard structure for artifact records |
 | [Story_Arc_Profile_Template.md](Story_Arc_Profile_Template.md) | Standard structure for story-arc records |
+| [Historical_Event_Profile_Template.md](Historical_Event_Profile_Template.md) | Standard structure for objective in-world historical-event records |
 
 ## Canonical Character Profiles
 
@@ -99,6 +101,31 @@ A file marked **Canonical working profile** is authoritative for future story an
 | The Keeper of Dreams | [Juniper Bell](characters/Juniper_Bell.md), [the Moon Garden](locations/The_Moon_Garden.md), the Dream Engine, [Pip](characters/Pip.md), and teaser continuity | Canonical delayed-reveal arc | [The_Keeper_of_Dreams.md](story_arcs/The_Keeper_of_Dreams.md) |
 | [The Severed Coil](organizations/The_Severed_Coil.md) Conflict | Long-range escalation from unnoticed interference to direct civic conflict | Canonical long-range arc | [The_Severed_Coil_Conflict.md](story_arcs/The_Severed_Coil_Conflict.md) |
 | The Thirteenth Chair | [High Council](organizations/The_High_Council_of_Aetherhaven.md), [First Mechanist](characters/The_First_Mechanist.md), Continuance, and constitutional authority | Canonical long-range arc | [The_Thirteenth_Chair.md](story_arcs/The_Thirteenth_Chair.md) |
+
+
+## Historical Events
+
+Historical-event records own objective in-world events, while story arcs own how Amelia and the reader discover or experience them.
+
+See the [Historical Events Index](historical_events/README.md).
+
+| Event | Canon status | File |
+|---|---|---|
+| The Gearbreaker Standoff | Canonical historical event | [The_Gearbreaker_Standoff.md](historical_events/The_Gearbreaker_Standoff.md) |
+| The Rising | Historical placeholder | [The_Rising.md](historical_events/The_Rising.md) |
+| The First Continuance | Historical placeholder | [The_First_Continuance.md](historical_events/The_First_Continuance.md) |
+| The Disappearance of Prototype I | Canonical historical event | [The_Disappearance_of_Prototype_I.md](historical_events/The_Disappearance_of_Prototype_I.md) |
+| The Resolute Incident | Canonical historical event | [The_Resolute_Incident.md](historical_events/The_Resolute_Incident.md) |
+| The Closing of Dock Zero | Historical placeholder | [The_Closing_of_Dock_Zero.md](historical_events/The_Closing_of_Dock_Zero.md) |
+| Revision of the Society of Explorers Charter | Canonical working history | [The_Revision_of_the_Society_of_Explorers_Charter.md](historical_events/The_Revision_of_the_Society_of_Explorers_Charter.md) |
+| The Founding of the Conservancy | Historical placeholder | [The_Founding_of_the_Conservancy.md](historical_events/The_Founding_of_the_Conservancy.md) |
+| The Ash Compact | Historical placeholder | [The_Ash_Compact.md](historical_events/The_Ash_Compact.md) |
+| The Founding of the Eight Guilds | Historical placeholder | [The_Founding_of_the_Eight_Guilds.md](historical_events/The_Founding_of_the_Eight_Guilds.md) |
+| The Opening of the Aerial Docks | Historical placeholder | [The_Opening_of_the_Aerial_Docks.md](historical_events/The_Opening_of_the_Aerial_Docks.md) |
+| The First Dream Bloom | Historical placeholder | [The_First_Dream_Bloom.md](historical_events/The_First_Dream_Bloom.md) |
+| The Great Garden Rearrangement | Historical placeholder | [The_Great_Garden_Rearrangement.md](historical_events/The_Great_Garden_Rearrangement.md) |
+| The Night of Silent Clocks | Historical placeholder | [The_Night_of_Silent_Clocks.md](historical_events/The_Night_of_Silent_Clocks.md) |
+| The Last Morningstar Manifest | Historical placeholder | [The_Last_Morningstar_Manifest.md](historical_events/The_Last_Morningstar_Manifest.md) |
 
 ## Artifact Image Slate
 

@@ -457,6 +457,18 @@ A Watch officer accuses Thorne of giving [Amelia](Amelia_Hawthorne.md) special t
 - The Council may have expected the expedition to fail.
 - Thorne's own name may appear inside the Vaults.
 
+## The Gearbreaker Standoff
+
+[The Gearbreaker Standoff](../historical_events/The_Gearbreaker_Standoff.md) permanently changed Thorne's understanding of operational authority.
+
+She did not order officers to assault miners. Nevertheless, an inexperienced constable crossed the line, and the Watch's internal disagreement became the only thing preventing further escalation before a mediator arrived.
+
+Thorne learned that authority without situational understanding can become dangerous. When Orin now closes a tunnel, her first useful response is not to demand his legal authority but to say:
+
+> **Show me.**
+
+The exact extent of Thorne's direct presence during the decisive moments remains unresolved.
+
 ## Continuity Constraints
 
 - Thorne must remain principled rather than authoritarian.

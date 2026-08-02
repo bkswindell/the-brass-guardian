@@ -99,6 +99,10 @@ The image does not visibly contain the phrase “Awaiting the Bearer.” If that
 - [The Ninth Guild](../organizations/The_Ninth_Guild.md)
 - [Order of the Closed Eye](../organizations/The_Order_of_the_Closed_Eye.md)
 
+## Related Historical Events
+
+- [The Disappearance of Prototype I](../historical_events/The_Disappearance_of_Prototype_I.md)
+
 ## Continuity Notes
 
 - This file is authoritative for the visible content and physical presentation of the active artifact image or images.

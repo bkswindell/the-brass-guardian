@@ -1067,6 +1067,14 @@ A Council Seat remains occupied in every official record despite no one remember
 - Why the chair may respond to [Amelia](../characters/Amelia_Hawthorne.md).
 - Whether the Thirteenth Chair has cast votes while sealed.
 
+## Institutional Memory: The Gearbreaker Standoff
+
+The [Gearbreaker Standoff](../historical_events/The_Gearbreaker_Standoff.md) exposed the limits of Council authority when civic urgency, merchant pressure, and incomplete technical information combine.
+
+The Council's attempt to compel mine production nearly produced bloodshed and was later discredited by the collapse of the tunnel Orin Flint had refused to reopen.
+
+The event remains politically embarrassing and is rarely discussed in formal session. It nevertheless shapes modern Council treatment of mine closures, specialist authority, and Brass Watch compliance actions.
+
 ## Continuity Constraints
 
 - The High Council must contain sincere public servants, self-interested politicians, experts, reformers, and compromised figures rather than functioning as a uniformly corrupt body.

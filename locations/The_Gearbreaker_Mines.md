@@ -52,6 +52,14 @@ Link parent districts, organizations, recurring characters, and artifacts only w
 
 Use the source description as the temporary visual baseline. No generated image becomes canonical merely because this placeholder exists.
 
+## Historical Event: The Gearbreaker Standoff
+
+The mine entrance was the site of the [Gearbreaker Standoff](../historical_events/The_Gearbreaker_Standoff.md), when Orin Flint and the mining crews resisted a failed Brass Watch attempt to force a return to unsafe work.
+
+The miners raised tools only after a Watch constable physically attempted to force one crew member toward the shaft. They took exactly one step forward and held position. No one was physically injured. The disputed tunnel collapsed several days later.
+
+The incident established the modern unwritten rule that when Orin closes the mountain, outside authorities proceed by evidence and negotiation rather than force.
+
 ## Continuity Constraints
 
 - This is a placeholder, not a completed location profile.

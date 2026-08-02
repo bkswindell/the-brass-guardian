@@ -4,6 +4,37 @@
 
 This standard keeps *The Brass Guardian* repository interconnected, visually grounded, low in duplication, and easy for people and AI agents to navigate.
 
+
+## Historical-Event Records
+
+Historical events belong in `historical_events/` and use [Historical_Event_Profile_Template.md](Historical_Event_Profile_Template.md).
+
+A historical-event file owns:
+
+- the objective event,
+- public and restricted accounts,
+- participants and institutions,
+- the known timeline,
+- conflicting testimony,
+- physical evidence and provenance,
+- institutional consequences,
+- continuity constraints,
+- and unresolved historical questions.
+
+A story arc owns how Amelia and the reader discover, experience, or interpret that history.
+
+Profiles and artifacts should link to the event rather than repeat its full chronology. Historical records must preserve uncertainty and must not convert rumor into fact.
+
+Every historical event ends with an **Archival Status** section containing:
+
+- Public Record,
+- Restricted Record,
+- Order Interest,
+- Primary Sources,
+- and Outstanding Historical Questions.
+
+Artifacts should link to relevant historical events through a **Related Historical Events** section. Provenance belongs in the artifact record; the complete event chronology belongs in the historical-event record.
+
 ## Source Priority
 
 1. Latest explicit canon decision in active Markdown.

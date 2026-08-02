@@ -41,6 +41,14 @@ Unresolved unless explicitly stated in the source. Do not invent leadership, ran
 
 Add only relationships already established in the source or current canonical Markdown.
 
+## Relationship to the Gearbreaker Mines
+
+Rhythmic vibrations associated with the Quiet Choir have been reported in abandoned pipe systems beneath the [Gearbreaker Mines](../locations/The_Gearbreaker_Mines.md).
+
+[Orin Flint](../characters/Orin_Flint.md) has learned not to answer them. He may not know the network's accepted name or nature during early stories.
+
+This connection remains exploratory and does not establish that the Quiet Choir caused the [Gearbreaker Standoff](../historical_events/The_Gearbreaker_Standoff.md), the later tunnel collapse, or the six-socket wall.
+
 ## Continuity Constraints
 
 - This is a placeholder, not a completed organization profile.

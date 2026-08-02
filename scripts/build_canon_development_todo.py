@@ -22,6 +22,7 @@ PROFILE_DIRS = {
     "Character": ROOT / "characters",
     "Organization": ROOT / "organizations",
     "Location": ROOT / "locations",
+    "Historical Event": ROOT / "historical_events",
 }
 
 EXCLUDED_NAMES = {"README.md"}
@@ -397,6 +398,8 @@ def visual_task(record: Record, sequence: int) -> Task | None:
         action = "Generate or link a canonical crest, seal, badge, representative artifact, uniform element, or headquarters image; embed it under `Visual Reference`."
     elif record.kind == "Location":
         action = "Add a labeled Aetherhaven map callout and generate or select at least one canonical establishing image; embed both under `Map Reference` and `Visual Reference`."
+    elif record.kind == "Historical Event":
+        action = "Create or link a canonical historical illustration, evidence collage, photograph, document, or artifact set; preserve conflicting accounts and avoid depicting unresolved facts as certain."
     else:
         action = "Generate representative, spoiler-controlled arc art and embed it without duplicating character, location, or artifact canon."
 

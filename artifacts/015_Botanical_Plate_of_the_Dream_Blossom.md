@@ -128,6 +128,10 @@ The term “memory spores” is visible plate terminology. Their precise capabil
 - [The Moon Garden](../locations/The_Moon_Garden.md)
 - [The Keeper of Dreams](../story_arcs/The_Keeper_of_Dreams.md)
 
+## Related Historical Events
+
+- [The First Dream Bloom](../historical_events/The_First_Dream_Bloom.md)
+
 ## Continuity Notes
 
 - This file is authoritative for the visible content and physical presentation of the active artifact image or images.

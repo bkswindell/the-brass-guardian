@@ -42,3 +42,7 @@ Cargo manifest with impossible items, unfamiliar ports, and [Elias Hawthorne](..
 - [ ] Confirm archive catalog number, recovery metadata, and publication-safe caption.
 - [ ] Add backlinks from every profile that directly references this artifact.
 - [ ] Reconcile this slate concept with newer canon before final publication.
+
+## Related Historical Events
+
+- [The Last Morningstar Manifest](../historical_events/The_Last_Morningstar_Manifest.md)

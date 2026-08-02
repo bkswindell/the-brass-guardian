@@ -23,6 +23,8 @@ ENTITY_DIRS = {
     "organization": ROOT / "organizations",
     "location": ROOT / "locations",
     "artifact": ROOT / "artifacts",
+    "story_arc": ROOT / "story_arcs",
+    "historical_event": ROOT / "historical_events",
 }
 EXCLUDED_DIR_NAMES = {".git", ".github", "unused", "node_modules", "vendor"}
 VISUAL_EVIDENCE_HEADINGS = {

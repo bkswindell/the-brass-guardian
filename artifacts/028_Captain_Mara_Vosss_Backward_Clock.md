@@ -42,3 +42,7 @@ Cabinet photograph and repair diagram of a clock from the Resolute.
 - [ ] Confirm archive catalog number, recovery metadata, and publication-safe caption.
 - [ ] Add backlinks from every profile that directly references this artifact.
 - [ ] Reconcile this slate concept with newer canon before final publication.
+
+## Related Historical Events
+
+- [The Resolute Incident](../historical_events/The_Resolute_Incident.md)
