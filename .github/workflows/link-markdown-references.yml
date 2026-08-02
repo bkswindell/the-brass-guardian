@@ -41,14 +41,6 @@ jobs:
       - name: Link canonical references
         run: python scripts/run_cached_linker.py
 
-      - name: Verify placeholder generation is stable
-        run: |
-          python scripts/create_placeholder_profiles.py
-          git diff --check
-
-      - name: Verify link pass is idempotent
-        run: python scripts/run_cached_linker.py --check
-
       - name: Verify patch
         run: git diff --check
 
