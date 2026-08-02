@@ -1,0 +1,939 @@
+---
+organization_id: AH-ORG-CLOSED-EYE
+name: The Order of the Closed Eye
+type: Secret containment cabal, information-control network, and ancient-systems suppression society
+aliases:
+  - The Closed Eye
+  - The Order
+  - The Keepers of Closure
+series: The Brass Guardian / The Aetherhaven Chronicles
+canon_status: Canonical hidden profile
+canonical_scope: Aetherhaven volumes
+last_updated: 2026-08-01
+public_status: Officially unacknowledged
+hidden_leadership:
+  - The Closed Council
+institutional_reach:
+  - The High Council
+  - The Academy of Invention
+  - The Society of Explorers
+  - The Mechanists' Guild
+  - The Civic Archives
+  - Selected Brass Watch offices
+  - The Clockwrights
+key_relationships:
+  - Chancellor Octavia Vale
+  - Chief Inspector Beatrice Thorne
+  - Professor Elias Hawthorne
+  - Amelia Hawthorne
+  - Doctor Elara Quill
+  - The Ninth Guild
+  - The Underclock
+  - The Brass Watch
+  - The High Council
+temporal_relevance: Critical
+---
+
+# The Order of the Closed Eye
+
+## Publicly Knowable Canonical Summary
+
+The Order of the Closed Eye is a secret society believed to operate within the High Council, Academy of Invention, Society of Explorers, and other institutions throughout Aetherhaven.
+
+Its members believe certain discoveries become dangerous simply by being understood. They conceal artifacts, alter maps, seal laboratories, and remove historical records when knowledge itself may awaken an ancient mechanism.
+
+Their symbol is a closed mechanical eye, often marked with a tiny keyhole at its center.
+
+Some credit the Order with preventing catastrophes the public will never know came close to occurring.
+
+Others accuse it of deciding which truths Aetherhaven is permitted to remember.
+
+The Order may have protected the city for generations.
+
+It may also be the reason no one remembers what truly happened during the expedition that changed Amelia's arm.
+
+## Core Doctrine
+
+The Order's central belief is:
+
+> **To understand a mechanism is sometimes to activate it.**
+
+Its members claim to possess evidence that some ancient systems respond not merely to:
+
+- touch,
+- aether,
+- pressure,
+- or mechanical input,
+
+but to:
+
+- recognition,
+- translation,
+- restored memory,
+- completed diagrams,
+- correctly spoken names,
+- and patterns arranged in the proper conceptual order.
+
+To the Order, knowledge can function as machinery.
+
+A translated inscription may be a lever.
+
+A remembered sequence may be a key.
+
+A completed map may become a route.
+
+A recovered identity may awaken something built to wait for that person.
+
+This gives the Order a legitimate reason to fear certain discoveries.
+
+It also gives the Order, in its own eyes, the right to decide what everyone else is allowed to know.
+
+## Closure
+
+The Order calls its containment process **Closure**.
+
+Closure may include:
+
+- confiscating an artifact,
+- sealing a laboratory,
+- removing coordinates,
+- splitting a record across several archives,
+- altering provenance,
+- creating a plausible false history,
+- reclassifying a site,
+- suppressing a translation,
+- or Veiling selected memories.
+
+An artifact is not destroyed.
+
+It is closed.
+
+A route is not erased.
+
+It is made intentionally unfindable.
+
+A witness is not officially silenced.
+
+They are prevented from retaining the part of the truth the Order believes could reactivate the danger.
+
+The finest Closure leaves no visible gap.
+
+The altered record appears complete.
+
+## The Closed Council
+
+The Order's concealed leadership is called the **Closed Council**.
+
+It is not the same body as the public High Council.
+
+The Closed Council's membership, size, and meeting place remain unknown.
+
+It is believed to hold several **Veiled Seats**, each responsible for influence within a major institution.
+
+Possible seats include:
+
+- Civic Authority
+- Archives and Records
+- Academy and Research
+- Exploration and Maps
+- Guilds and Infrastructure
+- Watch and Security
+- Chronometry and Calendars
+- Vaults and Containment
+
+These are functional designations, not confirmed titles.
+
+Even senior Order members may know only one representative.
+
+The Closed Council is powerful because it rarely gives direct orders.
+
+It shapes:
+
+- what information exists,
+- which options appear reasonable,
+- which appointments reach consideration,
+- which reports are circulated,
+- and which dangers the public institutions are permitted to recognize.
+
+## Control of the High Council
+
+The Order exerts more control over the High Council than the High Council realizes.
+
+Its influence operates through several kinds of seats.
+
+### Open Seats
+
+High Council members who are full Order members and knowingly serve both institutions.
+
+Their number remains undefined.
+
+### Bound Seats
+
+Council members who do not know the Order's complete structure but are controlled through:
+
+- selective briefings,
+- sealed oaths,
+- family obligations,
+- blackmail,
+- concealed evidence,
+- altered records,
+- or Veiled memories.
+
+A Bound Seat may genuinely believe they are making an independent decision.
+
+### Guided Seats
+
+Council members whose aides, clerks, researchers, legal advisers, or agenda packets are controlled by the Order.
+
+The Council member may never meet an Order agent.
+
+They simply receive a carefully curated reality.
+
+### Unbound Seats
+
+Council members outside direct Order influence.
+
+They may still be manipulated through votes, missing reports, restricted files, or colleagues whose decisions have already been shaped.
+
+The Order's power does not mean it controls every outcome.
+
+The High Council contains:
+
+- resistant members,
+- competing interests,
+- honest officials,
+- ambitious politicians,
+- and people who notice when information does not align.
+
+The Order is strongest when no one realizes a decision was made before the vote began.
+
+## Chancellor Octavia Vale
+
+Chancellor Octavia Vale knows the Order exists.
+
+She does not control it.
+
+She has inherited:
+
+- emergency contact procedures,
+- sealed Closure notices,
+- restricted archives,
+- and instructions identifying circumstances under which the Order may be consulted.
+
+Octavia believes she understands the boundaries of that relationship.
+
+She does not know the full number of Order seats within the High Council or how much of her information environment has already been curated.
+
+This creates a long-term conflict:
+
+> Is Octavia working with the Order to protect Aetherhaven—or governing inside a reality the Order has constructed for her?
+
+The sealed letter addressed to Amelia decades before Amelia's birth may have passed through Order custody.
+
+Whether the Order preserved it, delayed it, altered it, or prevented its delivery remains unresolved.
+
+## Internal Roles
+
+### Observers
+
+Embedded scholars, archivists, clerks, officers, cartographers, mechanists, and researchers who identify dangerous discoveries before they spread.
+
+Observers monitor:
+
+- excavations,
+- Academy projects,
+- expedition reports,
+- temporal anomalies,
+- artifact responses,
+- and patterns suggesting an ancient system is close to activation.
+
+### Redactors
+
+Mapmakers, archivists, translators, legal specialists, and record engineers who remove dangerous context while preserving a plausible public account.
+
+The best Redactors produce records that do not appear censored.
+
+They appear ordinary.
+
+### Wardens of Closure
+
+Agents responsible for:
+
+- confiscation,
+- secure transport,
+- repository control,
+- artifact containment,
+- and the physical enforcement of Closure.
+
+Wardens may operate through official institutions without those institutions understanding the true mission.
+
+### Veilers
+
+Rare specialists authorized to fragment, suppress, redirect, or partially remove dangerous memories.
+
+The Order insists Veiling is used only when knowledge itself functions as an activation key.
+
+Evidence suggests the rule has not always been followed.
+
+### Adjudicators
+
+Senior Order figures who determine whether a discovery requires:
+
+- observation,
+- restriction,
+- Closure,
+- permanent containment,
+- or destruction.
+
+The Order publicly denies using destruction.
+
+Some records imply exceptions.
+
+## Internal Factions
+
+The Order is not philosophically unified.
+
+### Custodians
+
+Believe Closure must preserve both the city and the people affected.
+
+They favor narrow redaction, reversible containment, and minimum interference.
+
+### Absolutists
+
+Believe any risk of ancient activation justifies total suppression, permanent Veiling, confinement, or elimination of the activating knowledge.
+
+### Continuity Wardens
+
+Focus on temporal instability, altered archives, and systems capable of creating incompatible versions of Aetherhaven.
+
+They may possess the deepest knowledge of Lost Seconds.
+
+### Civic Stewards
+
+Believe the Order must guide public institutions quietly because ordinary governance cannot act on truths it cannot safely reveal.
+
+This faction is most deeply embedded in the High Council.
+
+### Penitents
+
+Members who believe the Order has exceeded its mandate and now preserves its own power as much as the city.
+
+Some may become whistleblowers, defectors, or allies.
+
+## Relationship with the Academy of Invention
+
+The Academy is one of the Order's principal battlegrounds.
+
+The Academy exists to discover.
+
+The Order exists to decide which discoveries must never be completed.
+
+Order Observers may be embedded among:
+
+- faculty,
+- ethics boards,
+- laboratory attendants,
+- archive staff,
+- collection curators,
+- and building administrators.
+
+The Order has likely:
+
+- sealed laboratories,
+- removed research notes,
+- reassigned scholars,
+- confiscated prototypes,
+- altered catalogues,
+- and arranged for certain experiments to be remembered as failures that never progressed.
+
+Doctor Elara Quill knows Academy records have been deliberately changed.
+
+She may not initially know the Order's entire structure, but she recognizes its methods.
+
+Her removal of Prototype II records can be interpreted as an attempt to prevent:
+
+- Order confiscation,
+- Ninth Guild acquisition,
+- or both.
+
+Elara and the Order share a fear of dangerous knowledge.
+
+They disagree over whether protecting someone requires denying them the truth.
+
+## Relationship with the Society of Explorers
+
+The Society maps places the Order may prefer remain inaccessible.
+
+The Order uses Society influence to:
+
+- redirect expeditions,
+- alter recovered maps,
+- remove route coordinates,
+- classify regions as **Intentionally Uncharted**,
+- and suppress accounts of ancient sites.
+
+The Society's Inner Compass may be:
+
+- partially infiltrated,
+- partially allied,
+- or originally created to negotiate with the Order.
+
+This relationship is deliberately unresolved.
+
+Elias may eventually discover that some of the maps he trusted were designed to lead him away from the truth.
+
+## Relationship with the Mechanists' Guild
+
+The Order has deep historical connections to the recognized engineering guilds.
+
+It may have influenced:
+
+- hidden symbols beneath old guild medallions,
+- the sealing of Heart Engine access patterns,
+- restrictions on conscious machinery,
+- destruction of early chronometric records,
+- and the official exclusion of certain disciplines.
+
+Some senior:
+
+- Clockwrights,
+- Aetherwrights,
+- Artificers,
+- and guild archivists
+
+may serve as Observers or Civic Stewards.
+
+Others despise the Order for converting safety into secret censorship.
+
+The hidden symbol beneath old medallions may have been covered because recognizing its full pattern activates an ancient access system.
+
+## Relationship with the Brass Watch
+
+The Order occasionally presents sealed authority requiring the Brass Watch to:
+
+- surrender evidence,
+- halt investigations,
+- transfer artifacts,
+- amend public reports,
+- deny an incident occurred,
+- or classify a location beyond ordinary access.
+
+Most officers believe these are High Council security directives.
+
+Chief Inspector Beatrice Thorne increasingly suspects another authority stands behind them.
+
+The Order may be directly responsible for the official denial of her Shrouded Vaults expedition.
+
+That makes Thorne one of its most dangerous potential enemies.
+
+Her mechanical lens can detect:
+
+- erased writing,
+- prior record layers,
+- sealed door outlines,
+- and evidence altered through Closure.
+
+The Order may once have expected Thorne to become a Warden.
+
+Instead, the Vaults taught her to distrust any institution that treats missing evidence as proof of safety.
+
+## The Shrouded Vaults Expedition
+
+The expedition that cost Thorne her left eye was likely an Order-directed operation using Brass Watch personnel.
+
+Thorne believed she was recovering a public-safety threat.
+
+The Order knew more than it disclosed.
+
+When the mission failed:
+
+- survivors were Veiled,
+- reports were altered,
+- the operation was denied,
+- and Thorne's injury was assigned a conventional line-of-duty explanation.
+
+Her replacement lens may incorporate material the Order intended to reclaim.
+
+That would explain why it sees through some Redactions.
+
+## Relationship with Captain Mara Voss
+
+Mara does not initially know the Order by name.
+
+She knows someone has been altering:
+
+- crew manifests,
+- voyage records,
+- route reports,
+- and the history of the *Resolute*.
+
+She would regard any society that erases mariners from their own memorial record as an enemy.
+
+The Order may consider Mara dangerous because:
+
+- she preserves private ledgers,
+- the Union maintains distributed records,
+- and the *Resolute* carried evidence that survived Closure.
+
+## Relationship with the Aerial Mariners' Union
+
+The Union's Living Charts, private logs, memorial bells, route songs, and family records are unusually resistant to centralized erasure.
+
+The Order may have attempted to suppress:
+
+- the Returning Star,
+- pre-departure arrivals,
+- chronal routes,
+- and records from the *Resolute*.
+
+The Starless Room may contain evidence the Order tried and failed to remove.
+
+The Union does not know the complete identity of the force altering official charts.
+
+Senior Chartkeepers may refer to it simply as:
+
+> The hand that closes the map.
+
+## Relationship with the Unwound
+
+The Unwound is not complicit in the Order's artifact thefts or containment operations.
+
+It views the Order as proof that Aetherhaven's official history is manufactured.
+
+Moderate Unwound members oppose the Order because:
+
+- secrecy prevents consent,
+- suppressed engineering creates dependence,
+- citizens cannot evaluate systems they are forbidden to understand,
+- and official timekeeping may conceal real temporal harm.
+
+The Order sees Unwound free clocks, family ledgers, hand-maintained calendars, and decentralized records as dangerous because they preserve information Closure was meant to remove.
+
+The two organizations are ideological enemies.
+
+## Relationship with the Severed Coil
+
+The Severed Coil views Order repositories as:
+
+- targets,
+- weapons caches,
+- proof of institutional corruption,
+- and possible sources of shutdown systems or Golden Vein maps.
+
+The Order regards the Coil as one of the clearest examples of why dangerous knowledge must remain contained.
+
+Each organization uses the other to justify its doctrine.
+
+The Order may exaggerate Coil threats to secure broader Closure authority.
+
+The Coil may attack Order sites without understanding what their containment actually prevents.
+
+## Relationship with the Ninth Guild
+
+The Order of the Closed Eye and Ninth Guild are ideological mirror enemies.
+
+### The Order
+
+> Some knowledge must be forgotten.
+
+### The Ninth Guild
+
+> Nothing discovered should ever be lost.
+
+The Order suppresses, fragments, and contains.
+
+The Ninth Guild preserves, revises, and experiments.
+
+Their hidden conflict may span generations through:
+
+- archive theft,
+- infiltrated laboratories,
+- intercepted transfers,
+- escaped accessions,
+- erased researchers,
+- and competing attempts to control ancient artifacts.
+
+The Order calls the Ninth Guild reckless.
+
+The Ninth Guild calls the Order humanity's greatest vandal.
+
+Both can treat people as secondary to doctrine.
+
+## Relationship with the Underclock
+
+The Underclock is not an Order ally.
+
+Its tunnels, couriers, smugglers, sanctuary routes, and compartmentalized cells make it useful to anyone who can manipulate the right intermediary.
+
+The Order distrusts the Underclock because:
+
+- routes cannot be fully mapped,
+- identities are protected,
+- and transported objects may disappear from official custody.
+
+The Underclock distrusts the Order because Closure resembles the worst form of institutional disappearance.
+
+Their most important conflict centers on Prototype I.
+
+The Underclock was manipulated into participating in the extraction of Prototype I without knowing:
+
+- the artifact's identity,
+- the true client,
+- or the larger conflict between the Order and Ninth Guild.
+
+The Order now blames the Underclock for the breach.
+
+Some Underclock members know they were used and preserve fragments of evidence that neither the Order nor Ninth Guild possesses.
+
+## Relationship with Elias Hawthorne
+
+After Amelia's original accident, Elias agreed to a limited Closure procedure.
+
+He believed a specific:
+
+- symbol,
+- location,
+- sequence,
+- or memory
+
+might reactivate the mechanism that injured her.
+
+He consented to losing one dangerous memory.
+
+The Order removed more than he authorized.
+
+This gives Elias several layers of guilt:
+
+- he invited the Order into his family's memories,
+- he believed he was protecting Amelia,
+- he cannot remember enough to know what else was taken,
+- and he has spent years reconstructing the truth through journals and artifacts.
+
+The locked journal aboard the *Wayfinder* may exist because Elias learned that handwritten, physically anchored records can survive Veiling.
+
+The Order considers him:
+
+- a former cooperative witness,
+- a growing security risk,
+- and one of the people most likely to reconstruct what it removed.
+
+## Relationship with Juniper Bell
+
+The Order considers Juniper Bell an unresolved containment problem.
+
+She preserves information through:
+
+- living memory,
+- dream imagery,
+- Garden behavior,
+- seeds,
+- songs,
+- repeated seasons,
+- and physical relationships difficult to redact without causing harm.
+
+The Order may have attempted to:
+
+- remove Juniper from historic paintings,
+- alter Conservancy registers,
+- classify the Keeper title as folklore,
+- and Veil witnesses who remembered her across generations.
+
+These changes do not remain stable.
+
+Juniper sometimes reappears in restored artwork.
+
+In other records, her name returns in different handwriting.
+
+The Order does not know whether Juniper resists Closure personally or whether the Gardens continually restore what was removed.
+
+Her possible identity as the Keeper of Dreams is especially troubling because dreams may carry knowledge across barriers the Order cannot reliably censor.
+
+For complete character canon, see [Juniper Bell](../characters/Juniper_Bell.md).
+
+## Relationship with Amelia Hawthorne
+
+Amelia is the Order's greatest unresolved dilemma.
+
+Some members believe she must be protected because only she can safely interact with ancient systems.
+
+Others believe her existence risks activating systems the Order has spent generations keeping dormant.
+
+Internal positions include:
+
+### Guardians
+
+Protect Amelia from groups that would exploit her.
+
+### Closers
+
+Restrict knowledge of her abilities, limit access, and prepare contingencies if the Aether Heart becomes unstable.
+
+### Finalists
+
+Believe Amelia herself may eventually require Closure through:
+
+- permanent memory suppression,
+- separation from the Aether Heart,
+- confinement,
+- or another irreversible intervention.
+
+The Order may save Amelia in one story and attempt to control her in another.
+
+Its members may sincerely care about her.
+
+They still believe they have the right to decide what she is allowed to know about herself.
+
+## Prototype I: Restricted Canonical History
+
+The Order is definitively responsible for:
+
+- the Closure order,
+- the redaction,
+- the confiscation,
+- and the removal of Prototype I from public Academy records.
+
+It is not definitively responsible for the artifact's final disappearance.
+
+### Stage One — Prototype I Existed
+
+Prototype I was developed, recovered, or assembled before Prototype II.
+
+It displayed behavior that alarmed Academy officials and Order Observers.
+
+Possible behavior included:
+
+- independent movement,
+- unprompted memory,
+- recognition of an absent Bearer,
+- or activation in response to the Six-Key Sigil.
+
+### Stage Two — Closure Order
+
+The Order issued a sealed Closure directive.
+
+It:
+
+- erased the accession number,
+- removed the photograph,
+- altered Academy catalogues,
+- Veiled selected witnesses,
+- and replaced the official history with the claim that no verified Prototype I record existed.
+
+The surviving torn catalogue slip escaped complete destruction, likely because an Academy insider hid it.
+
+### Stage Three — Quiet Transfer
+
+Prototype I was moved under Order custody toward a concealed repository.
+
+Possible destinations included:
+
+- a sealed Academy annex,
+- an Order-controlled archive,
+- or an outer chamber of the Shrouded Vaults.
+
+The transfer did not appear in ordinary civic records.
+
+### Stage Four — Underclock Extraction
+
+The Ninth Guild learned enough about the transfer to arrange an interception.
+
+Rather than expose its own personnel, it manipulated an Underclock crew through:
+
+- forged rescue evidence,
+- false client identities,
+- compromised route instructions,
+- and the claim that a conscious captive was being moved for unlawful erasure.
+
+The Underclock believed it was performing an extraction under its sanctuary principles.
+
+It did not know the sealed subject was Prototype I.
+
+It did not know the client was a Ninth Guild front.
+
+### Stage Five — The Broken Handoff
+
+The extraction succeeded in removing Prototype I from Order custody.
+
+The intended handoff did not proceed cleanly.
+
+Possible outcomes include:
+
+- Prototype I awakened,
+- an Underclock courier changed the route,
+- an Order Warden interrupted the transfer,
+- a Ninth Guild Custodian attempted premature accession,
+- or the artifact rejected transfer.
+
+### Stage Six — Disappearance
+
+The Order claims the Ninth Guild stole Prototype I.
+
+The Ninth Guild's surviving Catalogue fragment states:
+
+> **ACCESSION INCOMPLETE**  
+> **SUBJECT DECLINED TRANSFER**  
+> **LOCATION: UNRESOLVED**
+
+The Underclock retained fragments of:
+
+- route instructions,
+- client code,
+- witness testimony,
+- or a transport token
+
+proving it was manipulated.
+
+Neither the Order nor Ninth Guild may currently possess Prototype I.
+
+## Temporal Significance
+
+The Order understands more about temporal fluidity than most public institutions.
+
+It may know that:
+
+- some records change,
+- some objects preserve prior chronology,
+- remembered concepts can reactivate ancient systems,
+- Lost Seconds may reconcile contradictions,
+- and certain people function as chronal anchors.
+
+Its response is suppression.
+
+The Order may have prevented real temporal disasters.
+
+It may also have destroyed the evidence Aetherhaven needs to understand and survive them.
+
+## Symbols and Artifacts
+
+### The Closed Mechanical Eye
+
+The Order's principal mark.
+
+It usually includes:
+
+- layered brass eyelids,
+- a sealed lens,
+- and a tiny keyhole or aperture.
+
+### Closure Notices
+
+Official-looking documents whose true authority cannot be traced through ordinary High Council records.
+
+### Redactor's Knives
+
+Precision tools used to remove text, seals, map layers, and mechanically recorded information.
+
+### Veiling Instruments
+
+Restricted devices used to fragment or redirect dangerous memories.
+
+### Closed Maps
+
+Maps altered so the dangerous route appears never to have existed.
+
+### The Book of Closures
+
+A rumored master index of sealed incidents.
+
+Its existence is unconfirmed.
+
+## Story Opportunities
+
+### The Map That Refuses to Stay Closed
+
+A redacted route reappears every time Amelia touches the map.
+
+### The Warden's Mercy
+
+An Order Warden saves Amelia from the Ninth Guild and then attempts to confiscate the evidence she recovered.
+
+### The Council Vote That Already Happened
+
+Octavia discovers that the outcome of a High Council debate was shaped before the members received their briefing packets.
+
+### The Memory Elias Gave Away
+
+Elias reconstructs the exact memory he once consented to lose and discovers the Order removed someone else from it.
+
+### The Underclock Job
+
+Tamsin or another Underclock contact uncovers evidence that Prototype I was moved through their network under false pretenses.
+
+### The Eye Beneath the Eye
+
+Thorne's lens reveals an Order symbol hidden beneath an official Brass Watch command seal.
+
+### The Closed Seat
+
+A High Council member discovers that their predecessor had been an Order member—and that some of their own memories are sealed.
+
+## Staged Revelations
+
+### Safe for Early Volumes
+
+- The Order may exist.
+- Its symbol is a closed mechanical eye.
+- It suppresses dangerous artifacts, maps, and records.
+- It operates within respected institutions.
+- It may be connected to missing memories surrounding Amelia's accident.
+- It may have prevented real disasters.
+- Prototype I's records were deliberately altered.
+
+### Mid-Series
+
+- The Order is real and deeply embedded.
+- It directed the Shrouded Vaults expedition.
+- It controls Closure authority independent of ordinary Council review.
+- Some Council members are full Order members.
+- Others are unknowingly guided or controlled.
+- Elias consented to limited memory removal.
+- The Order exceeded that consent.
+- It confiscated Prototype I.
+
+### Later Revelations
+
+- The full reach of the Closed Council.
+- Which trusted public figures hold Veiled Seats.
+- The exact degree of Order control over the High Council.
+- The true purpose of the Shrouded Vaults.
+- The complete memory removed from Elias and Amelia.
+- The exact fate of Prototype I after the broken handoff.
+- Whether the Order's oldest Closure prevented—or caused—a major Aetherhaven mystery.
+
+## Continuity Constraints
+
+- The Order must remain deeply secretive and institutionally embedded.
+- It must exert more influence over the High Council than the Council realizes.
+- Some Council members may be full members; others may be controlled without full knowledge.
+- Chancellor Octavia Vale knows the Order exists but not its full reach.
+- The Order must have prevented genuine catastrophes.
+- Its secrecy and memory manipulation must remain morally dangerous and unaccountable.
+- The Order is definitively responsible for Prototype I's redaction and confiscation.
+- The Ninth Guild manipulated the Underclock into the extraction.
+- The Underclock did not knowingly steal Prototype I for the Ninth Guild.
+- The broader Unwound is not complicit.
+- Neither the Order nor Ninth Guild should be confirmed to possess Prototype I in early canon.
+- The Order and Ninth Guild remain ideological mirror enemies.
+- The Order should sometimes help the Hawthornes and sometimes oppose them.
+- Its members may care sincerely for Amelia while denying her agency.
+- Not every High Council member should be an Order pawn.
+- The Order's control must operate primarily through information, records, appointments, leverage, and memory rather than overt rule.
+
+## Open Canon Questions
+
+1. Who sits on the Closed Council?
+2. How many High Council seats are Open, Bound, Guided, or Unbound?
+3. Which public figure first recognizes the Order's full reach?
+4. Who authorized the original Closure surrounding Amelia's accident?
+5. What memory did Elias consent to lose?
+6. What additional memories were removed?
+7. Which Academy insider saved the Prototype I catalogue slip?
+8. Who manipulated the Underclock crew?
+9. Did Prototype I escape by choice?
+10. What evidence did the Underclock preserve?
+11. Does Octavia's sealed letter contain an Order warning?
+12. Did the Order create the Shrouded Vaults or merely inherit them?
+13. Which Order faction believes Amelia should undergo permanent Closure?
+14. Is the Book of Closures real?
+15. What truth has the Order hidden that Aetherhaven now needs to survive?
