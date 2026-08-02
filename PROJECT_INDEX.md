@@ -9,13 +9,13 @@
 
 The repository currently contains:
 
-- **9** completed canonical character profiles and **19** source-grounded character placeholders
+- **11** completed canonical character profiles and **17** source-grounded character placeholders
 - **12** completed canonical organization profiles and **23** source-grounded organization placeholders
 - **5** completed canonical location profiles and **48** source-grounded location placeholders
 - **6** long-range or hidden story-arc profiles
 - **15** historical-event records
 - **64** artifact image-slate records
-- **5** profile templates and development standards
+- **6** profile templates and development standards
 - **2** compiled manuscript exports (`DOCX` and `PDF`)
 - an active artwork library in `art/`
 - a complete [placeholder profile index](PLACEHOLDER_PROFILE_INDEX.md)
@@ -25,7 +25,7 @@ The repository currently contains:
 When sources disagree, use the following order:
 
 1. The latest explicit canon decision recorded in the active profile and story-arc files.
-2. Canonical Markdown profiles in `characters/`, `organizations/`, `locations/`, and `story_arcs/`.
+2. Canonical Markdown profiles in `characters/`, `organizations/`, `locations/`, `historical_events/`, and `story_arcs/`.
 3. The compiled manuscript exports, which represent an assembled project snapshot and may lag newer canon development.
 4. Artwork in `art/`, interpreted together with the corresponding written canon.
 5. The `unused/` directory is outside the project canon and must never be used as a story, art, continuity, or reference source unless the project owner explicitly restores a specific item to active canon.
@@ -64,6 +64,8 @@ A file marked **Canonical working profile** is authoritative for future story an
 | [Tamsin Pike](characters/Tamsin_Pike.md) | Young canal guide, locksmith, and possible [Underclock](organizations/The_Underclock.md) route heir | Canonical working profile | [Tamsin_Pike.md](characters/Tamsin_Pike.md) |
 | [The Hidden Architect](characters/The_Hidden_Architect_Unassigned.md) | True leader of [the Severed Coil](organizations/The_Severed_Coil.md); identity deliberately unassigned | Canonical concealed role | [The_Hidden_Architect_Unassigned.md](characters/The_Hidden_Architect_Unassigned.md) |
 | [The Passenger of Dock Zero](characters/The_Passenger_of_Dock_Zero.md) | [Unverified Morningstar passenger](characters/The_Passenger_of_Dock_Zero.md) | Canonical working profile | [The_Passenger_of_Dock_Zero.md](characters/The_Passenger_of_Dock_Zero.md) |
+| [Master Gideon Brasswell](characters/Master_Gideon_Brasswell.md) | Keeper of the Engine Complex and former master to Elias Hawthorne | Canonical working profile | [Master_Gideon_Brasswell.md](characters/Master_Gideon_Brasswell.md) |
+| [Orin Flint](characters/Orin_Flint.md) | Foreman of the Gearbreaker Mines and protector of its crews | Canonical working profile | [Orin_Flint.md](characters/Orin_Flint.md) |
 
 ## Canonical Organization Profiles
 
@@ -101,6 +103,7 @@ A file marked **Canonical working profile** is authoritative for future story an
 | The Keeper of Dreams | [Juniper Bell](characters/Juniper_Bell.md), [the Moon Garden](locations/The_Moon_Garden.md), the Dream Engine, [Pip](characters/Pip.md), and teaser continuity | Canonical delayed-reveal arc | [The_Keeper_of_Dreams.md](story_arcs/The_Keeper_of_Dreams.md) |
 | [The Severed Coil](organizations/The_Severed_Coil.md) Conflict | Long-range escalation from unnoticed interference to direct civic conflict | Canonical long-range arc | [The_Severed_Coil_Conflict.md](story_arcs/The_Severed_Coil_Conflict.md) |
 | The Thirteenth Chair | [High Council](organizations/The_High_Council_of_Aetherhaven.md), [First Mechanist](characters/The_First_Mechanist.md), Continuance, and constitutional authority | Canonical long-range arc | [The_Thirteenth_Chair.md](story_arcs/The_Thirteenth_Chair.md) |
+| The Watchman's Regret | Amelia's coming-of-age lesson through a veteran Watchman's account of the Gearbreaker Standoff | Canonical future story concept | [The_Watchmans_Regret.md](story_arcs/The_Watchmans_Regret.md) |
 
 
 ## Historical Events
@@ -139,7 +142,7 @@ Artifact files:
 - link to authoritative character, organization, location, and story-arc files,
 - and include production and backlink TODOs.
 
-The artifact Markdown file owns the artifact concept. Broader history remains in the linked canon profiles.
+The artifact Markdown file owns the artifact concept and provenance. Historical-event records own complete event chronology; character, organization, location, and story-arc files link to that history rather than duplicating it.
 
 ## Map-Reference Standards
 
@@ -177,8 +180,6 @@ Their placeholders deliberately preserve unresolved source details instead of fo
 Other character placeholders include:
 
 - [Doctor Elara Quill](characters/Doctor_Elara_Quill.md)
-- [Master Gideon Brasswell](characters/Master_Gideon_Brasswell.md)
-- [Orin Flint](characters/Orin_Flint.md)
 - [Lucian Wren](characters/Lucian_Wren.md)
 - [Barnaby Wren](characters/Barnaby_Wren.md)
 - [Madame Celestine Mirrow](characters/Madame_Celestine_Mirrow.md)

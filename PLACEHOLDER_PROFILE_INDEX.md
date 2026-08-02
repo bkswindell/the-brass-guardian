@@ -11,8 +11,6 @@ A placeholder does not resolve contradictions, assign unknown identities, or sup
 | [Professor Elias Hawthorne](characters/Professor_Elias_Hawthorne.md) | [Professor_Elias_Hawthorne.md](characters/Professor_Elias_Hawthorne.md) |
 | [Amelia Hawthorne](characters/Amelia_Hawthorne.md) | [Amelia_Hawthorne.md](characters/Amelia_Hawthorne.md) |
 | [Doctor Elara Quill](characters/Doctor_Elara_Quill.md) | [Doctor_Elara_Quill.md](characters/Doctor_Elara_Quill.md) |
-| [Master Gideon Brasswell](characters/Master_Gideon_Brasswell.md) | [Master_Gideon_Brasswell.md](characters/Master_Gideon_Brasswell.md) |
-| [Orin Flint](characters/Orin_Flint.md) | [Orin_Flint.md](characters/Orin_Flint.md) |
 | [Lucian Wren](characters/Lucian_Wren.md) | [Lucian_Wren.md](characters/Lucian_Wren.md) |
 | [Barnaby Wren](characters/Barnaby_Wren.md) | [Barnaby_Wren.md](characters/Barnaby_Wren.md) |
 | [Madame Celestine Mirrow](characters/Madame_Celestine_Mirrow.md) | [Madame_Celestine_Mirrow.md](characters/Madame_Celestine_Mirrow.md) |

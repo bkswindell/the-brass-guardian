@@ -31,7 +31,7 @@ source_basis:
 
 ## Canonical Summary
 
-[Orin Flint](Orin_Flint.md) is the veteran Foreman of the [Gearbreaker Mines](../locations/The_Gearbreaker_Mines.md) and one of the most respected working leaders in [Aetherhaven](../locations/Aetherhaven.md). Gruff, obstinate, and nearly impossible to move once he has made a safety judgment, Orin places the lives of his crews and the integrity of the mountain above profit, politics, production, or civic urgency.
+Orin Flint is the veteran Foreman of the [Gearbreaker Mines](../locations/The_Gearbreaker_Mines.md) and one of the most respected working leaders in [Aetherhaven](../locations/Aetherhaven.md). Gruff, obstinate, and nearly impossible to move once he has made a safety judgment, Orin places the lives of his crews and the integrity of the mountain above profit, politics, production, or civic urgency.
 
 He knows the mines and tunnels better than any outside authority. He can identify chambers by their echoes, notices changes in the mountain before instruments confirm them, and treats long experience as evidence rather than superstition.
 
