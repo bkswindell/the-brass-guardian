@@ -29,7 +29,7 @@ temporal_relevance: Critical
 
 This file defines a future narrative role, not a selected identity.
 
-The Hidden Architect must eventually be revealed as a recurring character already known to Amelia and the reader—someone who has earned genuine trust and emotional attachment over several volumes.
+The Hidden Architect must eventually be revealed as a recurring character already known to [Amelia](Amelia_Hawthorne.md) and the reader—someone who has earned genuine trust and emotional attachment over several volumes.
 
 The actual character must not be chosen until the story has developed enough to make the betrayal emotionally devastating, logically credible, and fair in retrospect.
 
@@ -63,7 +63,7 @@ Their power comes from:
 
 ## Required Emotional Role
 
-The Hidden Architect must become someone Amelia trusts deeply.
+The Hidden Architect must become someone [Amelia](Amelia_Hawthorne.md) trusts deeply.
 
 The relationship may include:
 
@@ -75,9 +75,9 @@ The relationship may include:
 - intellectual respect,
 - or emotional support during earlier crises.
 
-The trust must be real from Amelia's perspective.
+The trust must be real from [Amelia](Amelia_Hawthorne.md)'s perspective.
 
-The character's apparent affection should not be wholly fabricated. The strongest version is someone who genuinely cares for Amelia but has subordinated that love to a cause, prophecy, fear, or belief they consider more important.
+The character's apparent affection should not be wholly fabricated. The strongest version is someone who genuinely cares for [Amelia](Amelia_Hawthorne.md) but has subordinated that love to a cause, prophecy, fear, or belief they consider more important.
 
 The reveal should therefore not reduce earlier scenes to meaningless lies.
 
@@ -85,7 +85,7 @@ It should transform their meaning.
 
 ## The Betrayal
 
-The revelation should initially shatter Amelia's belief system.
+The revelation should initially shatter [Amelia](Amelia_Hawthorne.md)'s belief system.
 
 She may question:
 
@@ -97,7 +97,7 @@ She may question:
 
 The emotional crisis should be severe but not permanent.
 
-Amelia's recovery must reaffirm:
+[Amelia](Amelia_Hawthorne.md)'s recovery must reaffirm:
 
 - trust is not foolish merely because someone betrayed it,
 - another person's deception does not erase the truth of her own choices,
@@ -117,7 +117,7 @@ He has always been destined—or conditioned—to serve as second-in-command.
 - saved him from the *Resolute* anomaly,
 - understood the future before he did,
 - gave meaning to what he witnessed,
-- or is the only person capable of guiding Aetherhaven through collapse.
+- or is the only person capable of guiding [Aetherhaven](../locations/Aetherhaven.md) through collapse.
 
 His loyalty may combine:
 
@@ -180,7 +180,7 @@ The identity should be selected later from an emotionally established character.
 
 A viable candidate must satisfy most of the following:
 
-- Has genuine access to Amelia and the Hawthornes.
+- Has genuine access to [Amelia](Amelia_Hawthorne.md) and the Hawthornes.
 - Can plausibly acquire information about Coil operations or ancient systems.
 - Has enough history or influence to guide [Silas](Silas_Rook_The_Stillmaker.md).
 - Possesses a motive that can be understood without excusing violence.
@@ -189,7 +189,7 @@ A viable candidate must satisfy most of the following:
 - Can survive rereading without obvious contradiction.
 - Has opportunities to pass information without drawing attention.
 - Has a worldview that could harden into the Architect's doctrine.
-- Creates a personal—not merely strategic—betrayal for Amelia.
+- Creates a personal—not merely strategic—betrayal for [Amelia](Amelia_Hawthorne.md).
 
 The candidate should not be selected only because the twist is surprising.
 
@@ -203,21 +203,21 @@ Useful neutral clues include:
 
 - the Architect knows details shared only with trusted allies,
 - Coil operations avoid harming one recurring character,
-- a warning uses a phrase Amelia first heard from someone she trusts,
+- a warning uses a phrase [Amelia](Amelia_Hawthorne.md) first heard from someone she trusts,
 - information reaches [the Coil](../organizations/The_Severed_Coil.md) unusually quickly,
 - a trusted figure is absent during key incidents for plausible reasons,
 - [Silas](Silas_Rook_The_Stillmaker.md) refers to the Architect with personal rather than formal language,
-- and certain plans appear designed by someone who understands Amelia emotionally.
+- and certain plans appear designed by someone who understands [Amelia](Amelia_Hawthorne.md) emotionally.
 
 Once the identity is selected, earlier clues can become more specific.
 
-The story must never rely on withholding something Amelia directly witnessed and should obviously have understood.
+The story must never rely on withholding something [Amelia](Amelia_Hawthorne.md) directly witnessed and should obviously have understood.
 
 The twist should be concealed through interpretation, not cheating.
 
-## Relationship with Amelia
+## Relationship with [Amelia](Amelia_Hawthorne.md)
 
-The Hidden Architect should understand Amelia better than [Silas](Silas_Rook_The_Stillmaker.md) does.
+The Hidden Architect should understand [Amelia](Amelia_Hawthorne.md) better than [Silas](Silas_Rook_The_Stillmaker.md) does.
 
 They know:
 
@@ -230,20 +230,20 @@ This knowledge allows them to anticipate her choices.
 
 It may also be their greatest weakness.
 
-They may believe Amelia's compassion makes her predictable.
+They may believe [Amelia](Amelia_Hawthorne.md)'s compassion makes her predictable.
 
 They fail to understand that compassion is not obedience.
 
 The final confrontation should be emotional before it is mechanical.
 
-The Architect may ask Amelia to:
+The Architect may ask [Amelia](Amelia_Hawthorne.md) to:
 
 - trust them one final time,
 - accept that terrible choices were necessary,
 - complete a plan they claim was always meant for her,
 - or forgive the deception because the affection was real.
 
-Amelia must be allowed to answer with complexity.
+[Amelia](Amelia_Hawthorne.md) must be allowed to answer with complexity.
 
 She can love someone and still stop them.
 
@@ -271,13 +271,13 @@ Evidence shows some Coil orders bypassed [Silas](Silas_Rook_The_Stillmaker.md) o
 
 ### Stage Five — The Second Chair
 
-Amelia discovers that [Silas](Silas_Rook_The_Stillmaker.md) has always described himself—directly or symbolically—as second.
+[Amelia](Amelia_Hawthorne.md) discovers that [Silas](Silas_Rook_The_Stillmaker.md) has always described himself—directly or symbolically—as second.
 
 The meaning was overlooked because everyone assumed he referred to [Mara](Captain_Mara_Voss.md), time, or the Inner Coil.
 
 ### Stage Six — Personal Clue
 
-A phrase, object, memory, or act of protection connects the hidden superior to someone Amelia trusts.
+A phrase, object, memory, or act of protection connects the hidden superior to someone [Amelia](Amelia_Hawthorne.md) trusts.
 
 ### Stage Seven — Identity Reveal
 
@@ -287,30 +287,30 @@ The reveal should reframe multiple volumes.
 
 ### Stage Eight — Emotional Collapse
 
-Amelia temporarily loses confidence in her own judgment and relationships.
+[Amelia](Amelia_Hawthorne.md) temporarily loses confidence in her own judgment and relationships.
 
 ### Stage Nine — Recovery
 
-Through Elias, allies, and her own choices, Amelia recognizes that betrayal does not invalidate her capacity for trust.
+Through [Elias](Professor_Elias_Hawthorne.md), allies, and her own choices, [Amelia](Amelia_Hawthorne.md) recognizes that betrayal does not invalidate her capacity for trust.
 
 ### Stage Ten — Confrontation
 
-Amelia confronts the Architect as someone she knows intimately, not as an abstract villain.
+[Amelia](Amelia_Hawthorne.md) confronts the Architect as someone she knows intimately, not as an abstract villain.
 
 ## Continuity Constraints
 
 - The identity must remain genuinely unassigned until explicitly selected later.
 - No current character profile should secretly lock the role to that character.
 - The future Architect must be a known, trusted, emotionally significant recurring character.
-- The character must have genuine affection or attachment to Amelia; the relationship cannot be entirely fabricated.
+- The character must have genuine affection or attachment to [Amelia](Amelia_Hawthorne.md); the relationship cannot be entirely fabricated.
 - [Silas Rook](Silas_Rook_The_Stillmaker.md) remains second-in-command and the only person who knows the true identity.
 - Most Coil members must believe [Silas](Silas_Rook_The_Stillmaker.md) is the leader, the Inner Coil is collective, or no apex exists.
 - The [Silas](Silas_Rook_The_Stillmaker.md) reveal must occur before the true-Architect reveal and must feel substantial.
 - Clues before identity selection must be modular and fair.
 - The eventual choice must improve earlier stories on rereading.
-- Amelia's emotional injury must be serious and sustained, but not destroy her permanently.
-- The resolution must affirm Amelia's agency and capacity to trust wisely.
-- The betrayal must not imply Amelia was foolish.
+- [Amelia](Amelia_Hawthorne.md)'s emotional injury must be serious and sustained, but not destroy her permanently.
+- The resolution must affirm [Amelia](Amelia_Hawthorne.md)'s agency and capacity to trust wisely.
+- The betrayal must not imply [Amelia](Amelia_Hawthorne.md) was foolish.
 - The Architect's motive must be understandable but their choices remain morally accountable.
 - The reveal should create conflict among the Hawthornes and allies without dissolving every relationship.
 - Not every act of kindness by the Architect should be reclassified as manipulation.
@@ -320,15 +320,15 @@ Amelia confronts the Architect as someone she knows intimately, not as an abstra
 1. Which trusted character will ultimately be selected?
 2. When did that person first begin directing [Silas](Silas_Rook_The_Stillmaker.md)?
 3. Did they rescue [Silas](Silas_Rook_The_Stillmaker.md) from the anomaly or exploit him afterward?
-4. What do they genuinely feel for Amelia?
+4. What do they genuinely feel for [Amelia](Amelia_Hawthorne.md)?
 5. Which earlier story contains the first fair clue?
 6. Did they help create [the Coil](../organizations/The_Severed_Coil.md) or take control of it?
 7. Do they share [Silas](Silas_Rook_The_Stillmaker.md)'s remembered future?
-8. Are they trying to save Amelia, use her, or both?
+8. Are they trying to save [Amelia](Amelia_Hawthorne.md), use her, or both?
 9. Which operations did they personally authorize?
 10. Have they ever secretly protected the Hawthornes from [the Coil](../organizations/The_Severed_Coil.md)?
-11. What truth would make Amelia hesitate to expose them?
+11. What truth would make [Amelia](Amelia_Hawthorne.md) hesitate to expose them?
 12. Does [Silas](Silas_Rook_The_Stillmaker.md) know the full extent of their deception?
 13. Will [Silas](Silas_Rook_The_Stillmaker.md) remain loyal after realizing he was also manipulated?
 14. Can the Architect be redeemed, or only understood?
-15. What must Amelia believe about herself to confront them?
+15. What must [Amelia](Amelia_Hawthorne.md) believe about herself to confront them?

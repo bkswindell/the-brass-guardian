@@ -14,7 +14,7 @@ canonical_images:
   - null
 ---
 
-# Dock Zero Restricted Photograph
+# [Dock Zero](../locations/Dock_Zero.md) Restricted Photograph
 
 > **Artifact Image Slate #26** · [The Passenger of Dock Zero](../characters/The_Passenger_of_Dock_Zero.md) · [Artifact standard](../CANON_MARKDOWN_STANDARD.md)
 

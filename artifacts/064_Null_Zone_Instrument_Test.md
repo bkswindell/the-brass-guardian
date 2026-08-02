@@ -13,7 +13,7 @@ canonical_images:
   - null
 ---
 
-# Null Zone Instrument Test
+# [Null Zone](../locations/The_Null_Zone.md) Instrument Test
 
 > **Artifact Image Slate #64** · Background Lore and Transitional Artifacts · [Artifact standard](../CANON_MARKDOWN_STANDARD.md)
 
@@ -23,7 +23,7 @@ canonical_images:
 
 ## Canonical Purpose
 
-Visually establishes that Amelia’s arm becomes stronger where every other machine fails.
+Visually establishes that [Amelia](../characters/Amelia_Hawthorne.md)’s arm becomes stronger where every other machine fails.
 
 ## Intended Form
 

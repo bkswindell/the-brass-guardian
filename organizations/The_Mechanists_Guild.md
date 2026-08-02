@@ -36,13 +36,13 @@ temporal_relevance: High
 
 ## Canonical Summary
 
-The Mechanists' Guild is Aetherhaven's professional order governing engineers, repair workers, automata builders, engine operators, structural specialists, canal engineers, aether technicians, clockmakers, artificers, and other certified practitioners responsible for the city's machinery and infrastructure.
+The Mechanists' Guild is [Aetherhaven](../locations/Aetherhaven.md)'s professional order governing engineers, repair workers, automata builders, engine operators, structural specialists, canal engineers, aether technicians, clockmakers, artificers, and other certified practitioners responsible for the city's machinery and infrastructure.
 
 It is not one of [the Eight Founding Engineering Guilds](The_Eight_Founding_Engineering_Guilds.md).
 
 It is the modern federation that unites them.
 
-The Guild sets common safety standards, certifies professional rank, investigates major mechanical failures, mediates disputes among disciplines, and approves nearly every major machine connected to Aetherhaven's public systems.
+The Guild sets common safety standards, certifies professional rank, investigates major mechanical failures, mediates disputes among disciplines, and approves nearly every major machine connected to [Aetherhaven](../locations/Aetherhaven.md)'s public systems.
 
 Its members carry brass medallions engraved with:
 
@@ -53,13 +53,13 @@ Its members carry brass medallions engraved with:
 
 Some older medallions contain a second symbol hidden beneath the official seal.
 
-The symbol matches architectural patterns found inside the Heart Engine.
+The symbol matches architectural patterns found inside [the Heart Engine](../locations/The_Aetherium.md).
 
 No current guild record explains why.
 
 ## Public Role
 
-The Mechanists' Guild exists to ensure that the machines supporting Aetherhaven are built, maintained, and operated by people who understand their responsibilities.
+The Mechanists' Guild exists to ensure that the machines supporting [Aetherhaven](../locations/Aetherhaven.md) are built, maintained, and operated by people who understand their responsibilities.
 
 Its authority covers:
 
@@ -91,13 +91,13 @@ The Guild is composed of [the Eight Founding Engineering Guilds](The_Eight_Found
 
 Each retains its own traditions, symbol, archives, and technical authority.
 
-Their guildmasters form the **Conclave of Eight**.
+Their guildmasters form the **[Conclave of Eight](The_Conclave_of_Eight.md)**.
 
 For full founding-guild canon, see [The Eight Founding Engineering Guilds](The_Eight_Founding_Engineering_Guilds.md).
 
-## The Octagonal Hall
+## [The Octagonal Hall](../locations/The_Octagonal_Hall.md)
 
-The Mechanists' Guild is headquartered in the **Octagonal Hall**, positioned between the Inventors' District and Government District.
+The Mechanists' Guild is headquartered in the **[Octagonal Hall](../locations/The_Octagonal_Hall.md)**, positioned between [the Inventors' District](../locations/The_Inventors_District.md) and [Government District](../locations/The_Government_District.md).
 
 Each of its eight sides belongs symbolically and administratively to one founding guild.
 
@@ -112,15 +112,15 @@ The Hall contains:
 - public standards offices,
 - and sealed collections of obsolete guild law.
 
-At the center stands a circular representation of the Aetherium.
+At the center stands a circular representation of [the Aetherium](../locations/The_Aetherium.md).
 
-Visitors are told it honors the source of Aetherhaven's power.
+Visitors are told it honors the source of [Aetherhaven](../locations/Aetherhaven.md)'s power.
 
 Older members sometimes avoid standing directly upon it.
 
-## The Conclave of Eight
+## [The Conclave of Eight](The_Conclave_of_Eight.md)
 
-The Conclave consists of the eight founding guildmasters.
+[The Conclave](The_Conclave_of_Eight.md) consists of the eight founding guildmasters.
 
 It decides:
 
@@ -131,13 +131,13 @@ It decides:
 - access to restricted infrastructure,
 - and whether new classes of machinery may be certified.
 
-The Conclave advises [the High Council](The_High_Council_of_Aetherhaven.md) but is not formally subordinate to it in technical judgment.
+[The Conclave](The_Conclave_of_Eight.md) advises [the High Council](The_High_Council_of_Aetherhaven.md) but is not formally subordinate to it in technical judgment.
 
 This independence creates recurring political conflict.
 
 A Council official may demand that a project proceed.
 
-The Conclave may refuse to certify it.
+[The Conclave](The_Conclave_of_Eight.md) may refuse to certify it.
 
 The city then decides whether authority or safety matters more.
 
@@ -163,7 +163,7 @@ A senior practitioner authorized to certify work, supervise apprentices, and acc
 
 ### Guildmaster
 
-The elected or recognized head of one founding guild and a member of the Conclave of Eight.
+The elected or recognized head of one founding guild and a member of [the Conclave of Eight](The_Conclave_of_Eight.md).
 
 Special offices may exist beyond rank, including:
 
@@ -200,7 +200,7 @@ The hidden pattern resembles:
 
 - conduit geometry,
 - access markings,
-- and structural motifs found inside the Heart Engine.
+- and structural motifs found inside [the Heart Engine](../locations/The_Aetherium.md).
 
 Possible explanations include:
 
@@ -270,16 +270,16 @@ Council officials may pressure the Guild to:
 - accelerate certification,
 - or deny inconvenient findings.
 
-The Conclave may respond through:
+[The Conclave](The_Conclave_of_Eight.md) may respond through:
 
 - refusal to certify,
 - professional censure,
 - work stoppage,
 - or public technical findings.
 
-## Relationship with the Academy of Invention
+## Relationship with [the Academy of Invention](The_Academy_of_Invention.md)
 
-The Academy teaches theory and develops experimental designs.
+[The Academy](The_Academy_of_Invention.md) teaches theory and develops experimental designs.
 
 The Guild decides whether those designs are safe enough for public practice.
 
@@ -287,7 +287,7 @@ This creates a longstanding rivalry.
 
 Academy scholars often consider the Guild cautious and old-fashioned.
 
-Guild masters often consider the Academy brilliant and insufficiently accountable.
+Guild masters often consider [the Academy](The_Academy_of_Invention.md) brilliant and insufficiently accountable.
 
 Many [Ninth Guild](The_Ninth_Guild.md) researchers began as people caught between those two cultures.
 
@@ -309,7 +309,7 @@ The Guild distrusts Watch officers who seize machinery before its condition can 
 
 ## Relationship with [the Aerial Mariners' Union](The_Aerial_Mariners_Union.md)
 
-The Guild's Skywrights and Enginewrights certify airships and major port machinery.
+The Guild's [Skywrights](The_Guild_of_Skywrights.md) and [Enginewrights](The_Guild_of_Enginewrights.md) certify airships and major port machinery.
 
 [The Aerial Mariners' Union](The_Aerial_Mariners_Union.md) operates those systems in real conditions.
 
@@ -346,15 +346,15 @@ The Mechanists' Guild officially condemns:
 
 [The Black Lacuna](The_Ninth_Guild.md) deliberately mocks the recognized eight-guild structure.
 
-## Relationship with Elias Hawthorne
+## Relationship with [Elias Hawthorne](../characters/Professor_Elias_Hawthorne.md)
 
-Elias is respected for his practical engineering and criticized for operating beyond ordinary certification boundaries.
+[Elias](../characters/Professor_Elias_Hawthorne.md) is respected for his practical engineering and criticized for operating beyond ordinary certification boundaries.
 
 His work on:
 
 - the Wayfinder,
 - ancient mechanisms,
-- and Amelia's Aether Gauntlet
+- and [Amelia](../characters/Amelia_Hawthorne.md)'s Aether Gauntlet
 
 creates intense professional interest.
 
@@ -362,13 +362,13 @@ Some Guild members regard him as a master innovator.
 
 Others believe his discoveries are too dependent on systems he cannot fully explain.
 
-Elias respects good standards.
+[Elias](../characters/Professor_Elias_Hawthorne.md) respects good standards.
 
 He distrusts any standard used to forbid investigation merely because the answer may be politically uncomfortable.
 
-## Relationship with Amelia Hawthorne
+## Relationship with [Amelia Hawthorne](../characters/Amelia_Hawthorne.md)
 
-The Guild's relationship with Amelia is ethically delicate.
+The Guild's relationship with [Amelia](../characters/Amelia_Hawthorne.md) is ethically delicate.
 
 Her gauntlet crosses multiple disciplines:
 
@@ -381,9 +381,9 @@ No current certification system adequately describes it.
 
 Some members want to study and classify the gauntlet.
 
-Others believe it falls outside professional authority because it is part of Amelia's body and identity.
+Others believe it falls outside professional authority because it is part of [Amelia](../characters/Amelia_Hawthorne.md)'s body and identity.
 
-The Guild must never treat Amelia as a machine requiring certification.
+The Guild must never treat [Amelia](../characters/Amelia_Hawthorne.md) as a machine requiring certification.
 
 A strong internal principle should emerge:
 
@@ -391,12 +391,12 @@ A strong internal principle should emerge:
 
 ## Temporal Significance
 
-The Clockwrights' archives, old medallions, and hidden symbols connect the Guild to Aetherhaven's temporal mysteries.
+The [Clockwrights](The_Guild_of_Clockwrights.md)' archives, old medallions, and hidden symbols connect the Guild to [Aetherhaven](../locations/Aetherhaven.md)'s temporal mysteries.
 
 Possible evidence includes:
 
 - medallions dated before the Guild's official founding,
-- rank seals matching Heart Engine access patterns,
+- rank seals matching [Heart Engine](../locations/The_Aetherium.md) access patterns,
 - guild charters with changing signatures,
 - and certification records for machines that do not yet exist.
 
@@ -408,13 +408,13 @@ That explanation is becoming harder to maintain.
 
 ### The Hidden Seal
 
-Amelia discovers the symbol beneath an old guild medallion matches a sealed Heart Engine passage.
+[Amelia](../characters/Amelia_Hawthorne.md) discovers the symbol beneath an old guild medallion matches a sealed [Heart Engine](../locations/The_Aetherium.md) passage.
 
 ### The Machine No One Will Certify
 
 A useful but conscious automaton is denied legal operation because no standard recognizes its personhood.
 
-### The Conclave Divided
+### [The Conclave](The_Conclave_of_Eight.md) Divided
 
 The eight guildmasters split over whether to disconnect a dangerous city system.
 
@@ -424,15 +424,15 @@ A respected engineer's medallion proves authentic even though no guild remembers
 
 ### The Ninth Seat
 
-An old plan of the Octagonal Hall shows an access route leading beneath the center.
+An old plan of [the Octagonal Hall](../locations/The_Octagonal_Hall.md) shows an access route leading beneath the center.
 
 ### The Broken Standard
 
 A Guild-certified system fails in a way the published safety rules say is impossible.
 
-### Amelia Before the Conclave
+### [Amelia](../characters/Amelia_Hawthorne.md) Before [the Conclave](The_Conclave_of_Eight.md)
 
-The guildmasters summon Amelia to explain the Aether Heart and discover it responds to their oldest medallions.
+The guildmasters summon [Amelia](../characters/Amelia_Hawthorne.md) to explain the Aether Heart and discover it responds to their oldest medallions.
 
 ## Staged Revelations
 
@@ -443,7 +443,7 @@ The guildmasters summon Amelia to explain the Aether Heart and discover it respo
 - It sets safety standards and certifies major machinery.
 - Members carry brass rank medallions.
 - Older medallions sometimes conceal a second symbol.
-- The hidden symbol resembles Heart Engine architecture.
+- The hidden symbol resembles [Heart Engine](../locations/The_Aetherium.md) architecture.
 - The Guild and Academy frequently disagree over experimentation.
 
 ### Hold for Later
@@ -451,10 +451,10 @@ The guildmasters summon Amelia to explain the Aether Heart and discover it respo
 - Whether medallions function as ancient access tokens.
 - Why the hidden symbol was covered.
 - Whether the Guild predates its official founding.
-- What lies beneath the center of the Octagonal Hall.
+- What lies beneath the center of [the Octagonal Hall](../locations/The_Octagonal_Hall.md).
 - Which current guildmaster knows the truth.
 - Whether a ninth discipline was erased.
-- How the oldest medallions interact with Amelia's Aether Heart.
+- How the oldest medallions interact with [Amelia](../characters/Amelia_Hawthorne.md)'s Aether Heart.
 
 ## Continuity Constraints
 
@@ -463,10 +463,10 @@ The guildmasters summon Amelia to explain the Aether Heart and discover it respo
 - It must remain both a safety institution and a political power.
 - Most members are honorable professionals, though corruption and institutional self-protection can exist.
 - Member medallions identify rank and discipline.
-- Hidden symbols beneath old medallions must match Heart Engine architecture.
+- Hidden symbols beneath old medallions must match [Heart Engine](../locations/The_Aetherium.md) architecture.
 - The meaning of the hidden symbols remains unresolved early.
-- The Guild must not claim ownership or certification authority over Amelia as a person.
-- The Conclave of Eight meets in the Octagonal Hall.
+- The Guild must not claim ownership or certification authority over [Amelia](../characters/Amelia_Hawthorne.md) as a person.
+- [The Conclave of Eight](The_Conclave_of_Eight.md) meets in [the Octagonal Hall](../locations/The_Octagonal_Hall.md).
 - [The Ninth Guild](The_Ninth_Guild.md) remains a forbidden shadow, not an acknowledged member.
 - The Guild should generate meaningful ethical and professional conflicts rather than simple bureaucracy.
 
@@ -474,11 +474,11 @@ The guildmasters summon Amelia to explain the Aether Heart and discover it respo
 
 1. Who designed the first guild medallions?
 2. Why were the hidden symbols covered?
-3. Do the symbols open Heart Engine passages?
-4. Is the Octagonal Hall built over an older structure?
+3. Do the symbols open [Heart Engine](../locations/The_Aetherium.md) passages?
+4. Is [the Octagonal Hall](../locations/The_Octagonal_Hall.md) built over an older structure?
 5. Which guildmaster first noticed the medallion connection?
 6. Was a ninth discipline erased from the founding order?
 7. How many current masters secretly belong to [the Ninth Guild](The_Ninth_Guild.md)?
-8. Will the Conclave recognize conscious automata as persons?
+8. Will [the Conclave](The_Conclave_of_Eight.md) recognize conscious automata as persons?
 9. Can the Guild create a safety standard for temporal machinery?
-10. What happens if Amelia's gauntlet is recognized as a guild artifact rather than Elias's invention?
+10. What happens if [Amelia](../characters/Amelia_Hawthorne.md)'s gauntlet is recognized as a guild artifact rather than [Elias](../characters/Professor_Elias_Hawthorne.md)'s invention?

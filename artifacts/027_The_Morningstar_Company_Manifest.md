@@ -24,11 +24,11 @@ canonical_images:
 
 ## Canonical Purpose
 
-Elias denies signing it. The ink should be chemically recent.
+[Elias](../characters/Professor_Elias_Hawthorne.md) denies signing it. The ink should be chemically recent.
 
 ## Intended Form
 
-Cargo manifest with impossible items, unfamiliar ports, and Elias Hawthorne’s signature.
+Cargo manifest with impossible items, unfamiliar ports, and [Elias Hawthorne](../characters/Professor_Elias_Hawthorne.md)’s signature.
 
 ## Related Canon
 

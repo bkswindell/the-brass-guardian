@@ -16,7 +16,7 @@ visual_transcription_status: complete
 
 # The Aether Gauntlet: Exterior Study
 
-> **Artifact Image Slate #9** · Amelia and the Aether Gauntlet · [Artifact standard](../CANON_MARKDOWN_STANDARD.md)
+> **Artifact Image Slate #9** · [Amelia](../characters/Amelia_Hawthorne.md) and the Aether Gauntlet · [Artifact standard](../CANON_MARKDOWN_STANDARD.md)
 
 ## Visual Reference
 
@@ -114,11 +114,11 @@ The sheet is worn and repaired with tape. No redactions or institutional seals a
 
 ## Non-Visual Canon References and Story Context
 
-This plate is authoritative for the external visual construction of Amelia Hawthorne’s Aether Gauntlet and the persistent visible placement of the Aether Heart.
+This plate is authoritative for the external visual construction of [Amelia Hawthorne](../characters/Amelia_Hawthorne.md)’s Aether Gauntlet and the persistent visible placement of the Aether Heart.
 
-The image’s statement that Elias designed and constructed the arm is an archival claim. Later canon concerning Prototype I, Prototype II, unknown components, and institutional intervention may complicate the completeness of that statement. See [The Black Catalogue Arc](../story_arcs/The_Black_Catalogue_Arc.md), [Prototype II Cabinet Photograph](011_Prototype_II_Cabinet_Photograph.md), and [The Missing Prototype I Catalog Card](012_The_Missing_Prototype_I_Catalog_Card.md).
+The image’s statement that [Elias](../characters/Professor_Elias_Hawthorne.md) designed and constructed the arm is an archival claim. Later canon concerning Prototype I, Prototype II, unknown components, and institutional intervention may complicate the completeness of that statement. See [The Black Catalogue Arc](../story_arcs/The_Black_Catalogue_Arc.md), [Prototype II Cabinet Photograph](011_Prototype_II_Cabinet_Photograph.md), and [The Missing Prototype I Catalog Card](012_The_Missing_Prototype_I_Catalog_Card.md).
 
-The plate should not be used to treat Amelia as equipment. It documents the prosthetic mechanism, not ownership of the person wearing it.
+The plate should not be used to treat [Amelia](../characters/Amelia_Hawthorne.md) as equipment. It documents the prosthetic mechanism, not ownership of the person wearing it.
 
 ## Related Canon
 

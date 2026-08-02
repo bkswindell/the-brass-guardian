@@ -15,7 +15,7 @@ canonical_images:
 
 # The Forbidden Canal Map
 
-> **Artifact Image Slate #22** · The Thirteenth Canal · [Artifact standard](../CANON_MARKDOWN_STANDARD.md)
+> **Artifact Image Slate #22** · [The Thirteenth Canal](../locations/The_Thirteenth_Canal.md) · [Artifact standard](../CANON_MARKDOWN_STANDARD.md)
 
 ## Visual Reference
 
@@ -23,7 +23,7 @@ canonical_images:
 
 ## Canonical Purpose
 
-The thirteenth canal should pass beneath locations that should not physically connect.
+[The thirteenth canal](../locations/The_Thirteenth_Canal.md) should pass beneath locations that should not physically connect.
 
 ## Intended Form
 

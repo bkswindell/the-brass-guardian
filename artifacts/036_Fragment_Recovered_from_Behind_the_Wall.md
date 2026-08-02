@@ -22,7 +22,7 @@ canonical_images:
 
 ## Canonical Purpose
 
-The material reacts faintly when placed near Amelia’s gauntlet.
+The material reacts faintly when placed near [Amelia](../characters/Amelia_Hawthorne.md)’s gauntlet.
 
 ## Intended Form
 

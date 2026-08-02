@@ -24,7 +24,7 @@ canonical_images:
 
 ## Canonical Purpose
 
-The thirteenth position is reserved for the First Mechanist.
+The thirteenth position is reserved for [the First Mechanist](../characters/The_First_Mechanist.md).
 
 ## Intended Form
 

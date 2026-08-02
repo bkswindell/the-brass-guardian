@@ -16,7 +16,7 @@ visual_transcription_status: complete
 
 # The Missing Prototype I Catalog Card
 
-> **Artifact Image Slate #12** · Amelia and the Aether Gauntlet · [Artifact standard](../CANON_MARKDOWN_STANDARD.md)
+> **Artifact Image Slate #12** · [Amelia](../characters/Amelia_Hawthorne.md) and the Aether Gauntlet · [Artifact standard](../CANON_MARKDOWN_STANDARD.md)
 
 ## Visual Reference
 
@@ -156,7 +156,7 @@ The plate is designed as evidence of absence: missing photograph, erased accessi
 
 This plate is the primary visual evidence that Prototype I existed and that its record was deliberately altered. The hidden sequence governing its confiscation, [Underclock](../organizations/The_Underclock.md) extraction, [Ninth Guild](../organizations/The_Ninth_Guild.md) manipulation, and unresolved location belongs to [The Disappearance of Prototype I](../story_arcs/The_Disappearance_of_Prototype_I.md) and [The Black Catalogue Arc](../story_arcs/The_Black_Catalogue_Arc.md).
 
-The plate describes Prototype I as the earliest full-scale Heart Engine iteration. That is an in-world record and may itself be incomplete or institutionally distorted.
+The plate describes Prototype I as the earliest full-scale [Heart Engine](../locations/The_Aetherium.md) iteration. That is an in-world record and may itself be incomplete or institutionally distorted.
 
 The four redacted handling instructions are visually present but unreadable. Their content must not be invented unless later canon explicitly restores it.
 

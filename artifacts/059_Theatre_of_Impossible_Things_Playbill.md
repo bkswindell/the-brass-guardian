@@ -12,7 +12,7 @@ canonical_images:
   - null
 ---
 
-# Theatre of Impossible Things Playbill
+# [Theatre of Impossible Things](../locations/The_Theatre_of_Impossible_Things.md) Playbill
 
 > **Artifact Image Slate #59** · Background Lore and Transitional Artifacts · [Artifact standard](../CANON_MARKDOWN_STANDARD.md)
 
@@ -22,7 +22,7 @@ canonical_images:
 
 ## Canonical Purpose
 
-Introduces Madame Celestine Mirrow and the theatre’s predictive performances.
+Introduces [Madame Celestine Mirrow](../characters/Madame_Celestine_Mirrow.md) and the theatre’s predictive performances.
 
 ## Intended Form
 

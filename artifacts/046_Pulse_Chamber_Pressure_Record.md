@@ -13,7 +13,7 @@ canonical_images:
   - null
 ---
 
-# Pulse Chamber Pressure Record
+# [Pulse Chamber](../locations/The_Pulse_Chamber.md) Pressure Record
 
 > **Artifact Image Slate #46** · The Living Key · [Artifact standard](../CANON_MARKDOWN_STANDARD.md)
 
@@ -27,7 +27,7 @@ The pulse increasingly resembles a heartbeat rather than a turbine cycle.
 
 ## Intended Form
 
-Long mechanical chart showing the Engine’s rhythm changing when Amelia approaches.
+Long mechanical chart showing the Engine’s rhythm changing when [Amelia](../characters/Amelia_Hawthorne.md) approaches.
 
 ## Related Canon
 

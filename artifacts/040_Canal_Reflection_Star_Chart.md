@@ -22,7 +22,7 @@ canonical_images:
 
 ## Canonical Purpose
 
-The reflected constellation matches the impossible sky seen in the Grand Atrium.
+The reflected constellation matches the impossible sky seen in [the Grand Atrium](../locations/The_Grand_Atrium.md).
 
 ## Intended Form
 

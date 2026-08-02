@@ -29,9 +29,9 @@ temporal_relevance: High
 
 The Hawthornes first encounter singular forbidden devices without knowing they belong to one distributed organization.
 
-Each early story resolves a local human or mechanical problem while revealing that someone has been preserving, revising, and cataloguing discoveries Aetherhaven attempted to erase.
+Each early story resolves a local human or mechanical problem while revealing that someone has been preserving, revising, and cataloguing discoveries [Aetherhaven](../locations/Aetherhaven.md) attempted to erase.
 
-[The Ninth Guild](../organizations/The_Ninth_Guild.md) becomes aware of Elias and Amelia gradually.
+[The Ninth Guild](../organizations/The_Ninth_Guild.md) becomes aware of [Elias](../characters/Professor_Elias_Hawthorne.md) and [Amelia](../characters/Amelia_Hawthorne.md) gradually.
 
 Unlike [the Severed Coil](../organizations/The_Severed_Coil.md), it does not begin by trying to destroy them.
 
@@ -58,7 +58,7 @@ The recurring mark establishes a connection among otherwise unrelated incidents.
 
 A hidden laboratory is found inside a respectable institution.
 
-The discovery proves the Guild is embedded within Aetherhaven rather than operating only from [the Cauldron](../locations/The_Cauldron.md).
+The discovery proves the Guild is embedded within [Aetherhaven](../locations/Aetherhaven.md) rather than operating only from [the Cauldron](../locations/The_Cauldron.md).
 
 ### Stage Four — Revision Crimes
 
@@ -68,16 +68,16 @@ The Hawthornes begin working with the Watch on cases ordinary procedure cannot r
 
 ### Stage Five — Guild Awareness
 
-Cataloguers identify Amelia and Elias as recurring variables in failed or exposed experiments.
+Cataloguers identify [Amelia](../characters/Amelia_Hawthorne.md) and [Elias](../characters/Professor_Elias_Hawthorne.md) as recurring variables in failed or exposed experiments.
 
-The Curator becomes interested.
+[The Curator](../characters/The_Curator.md) becomes interested.
 
 ### Stage Six — The Invitation
 
-The Curator offers information about:
+[The Curator](../characters/The_Curator.md) offers information about:
 
 - Prototype I,
-- Amelia's Aether Heart,
+- [Amelia](../characters/Amelia_Hawthorne.md)'s Aether Heart,
 - the lost expedition,
 - or erased memories.
 
@@ -97,17 +97,17 @@ The missing prototype is revealed to have agency, memory, or a role in preservin
 
 The early assumption that the Guild stole it is complicated or overturned.
 
-### Stage Nine — The Curator
+### Stage Nine — [The Curator](../characters/The_Curator.md)
 
-The heroes confront the Curator's doctrine:
+The heroes confront [the Curator](../characters/The_Curator.md)'s doctrine:
 
 > Nothing discovered should ever be lost.
 
-Amelia answers that preservation without consent is another form of destruction.
+[Amelia](../characters/Amelia_Hawthorne.md) answers that preservation without consent is another form of destruction.
 
 ### Stage Ten — Distributed Survival
 
-The Curator may be defeated, exposed, or displaced.
+[The Curator](../characters/The_Curator.md) may be defeated, exposed, or displaced.
 
 [The Ninth Guild](../organizations/The_Ninth_Guild.md) survives through:
 
@@ -118,9 +118,9 @@ The Curator may be defeated, exposed, or displaced.
 
 The arc resolves a major threat without pretending forbidden knowledge can simply be erased.
 
-## Emotional Arc for Elias
+## Emotional Arc for [Elias](../characters/Professor_Elias_Hawthorne.md)
 
-Elias discovers that:
+[Elias](../characters/Professor_Elias_Hawthorne.md) discovers that:
 
 - abandoned theories were completed,
 - old notes were stolen,
@@ -131,9 +131,9 @@ He must reject both extremes:
 - suppressing discovery out of fear,
 - and pursuing knowledge without responsibility.
 
-## Emotional Arc for Amelia
+## Emotional Arc for [Amelia](../characters/Amelia_Hawthorne.md)
 
-The Guild offers Amelia answers about herself.
+The Guild offers [Amelia](../characters/Amelia_Hawthorne.md) answers about herself.
 
 Her conflict is not simply escape from capture.
 
@@ -147,12 +147,12 @@ She learns that:
 
 ## Resolution Requirements
 
-- Amelia's personhood and consent remain central.
+- [Amelia](../characters/Amelia_Hawthorne.md)'s personhood and consent remain central.
 - Prototype I retains agency.
 - The Black Catalogue survives in fragmented form.
 - At least one Preservationist or Continuist becomes an uneasy ally.
 - [The Brass Watch](../organizations/The_Brass_Watch.md) develops better Revision Crime procedures.
 - [The Mechanists' Guild](../organizations/The_Mechanists_Guild.md) confronts its role in creating exiles and forbidden researchers.
-- The Academy confronts research it hid rather than responsibly resolved.
-- The Curator's doctrine is challenged without pretending all preserved knowledge should be destroyed.
+- [The Academy](../organizations/The_Academy_of_Invention.md) confronts research it hid rather than responsibly resolved.
+- [The Curator](../characters/The_Curator.md)'s doctrine is challenged without pretending all preserved knowledge should be destroyed.
 - [The Ninth Guild](../organizations/The_Ninth_Guild.md) remains available for future stories.

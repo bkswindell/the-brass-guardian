@@ -1,6 +1,6 @@
-# The Brass Guardian — Project Index
+# [The Brass Guardian](characters/Professor_Elias_Hawthorne.md) — Project Index
 
-> **Development reference and spoiler warning:** This file indexes the working canon for *The Brass Guardian / The Aetherhaven Chronicles*. Character profiles, organization profiles, location files, and story-arc documents contain unrevealed histories, future plot developments, antagonist material, and other spoilers.
+> **Development reference and spoiler warning:** This file indexes the working canon for *[The Brass Guardian](characters/Professor_Elias_Hawthorne.md) / The [Aetherhaven](locations/Aetherhaven.md) Chronicles*. Character profiles, organization profiles, location files, and story-arc documents contain unrevealed histories, future plot developments, antagonist material, and other spoilers.
 
 **Last audited:** August 2, 2026  
 **Canonical branch:** `main`
@@ -35,7 +35,7 @@ A file marked **Canonical working profile** is authoritative for future story an
 
 | File | Purpose |
 |---|---|
-| [README.md](README.md) | Public, spoiler-light description of *The Brass Guardian* series |
+| [README.md](README.md) | Public, spoiler-light description of *[The Brass Guardian](characters/Professor_Elias_Hawthorne.md)* series |
 | [PROJECT_INDEX.md](PROJECT_INDEX.md) | Internal project inventory, canon index, audit notes, and development backlog |
 | [The_Brass_Guardian.pdf](The_Brass_Guardian.pdf) | Compiled illustrated manuscript in PDF format |
 | [The_Brass_Guardian.docx](The_Brass_Guardian.docx) | Editable compiled manuscript |
@@ -55,7 +55,7 @@ A file marked **Canonical working profile** is authoritative for future story an
 | [Chancellor Octavia Vale](characters/Chancellor_Octavia_Vale.md) | First Voice of [the High Council](organizations/The_High_Council_of_Aetherhaven.md) and guardian of civic stability | Canonical working profile | [Chancellor_Octavia_Vale.md](characters/Chancellor_Octavia_Vale.md) |
 | [Chief Inspector Beatrice Thorne](characters/Chief_Inspector_Beatrice_Thorne.md) | [Commander of the Brass Watch](characters/Chief_Inspector_Beatrice_Thorne.md) | Canonical working profile | [Chief_Inspector_Beatrice_Thorne.md](characters/Chief_Inspector_Beatrice_Thorne.md) |
 | [Juniper Bell](characters/Juniper_Bell.md) | [Keeper of the Clockwork Gardens](characters/Juniper_Bell.md) and possible Keeper of Dreams | Canonical working profile | [Juniper_Bell.md](characters/Juniper_Bell.md) |
-| [Pip](characters/Pip.md) | Amelia's brass sparrow companion and possible [Moon Garden](locations/The_Moon_Garden.md) messenger | Canonical working profile | [Pip.md](characters/Pip.md) |
+| [Pip](characters/Pip.md) | [Amelia](characters/Amelia_Hawthorne.md)'s brass sparrow companion and possible [Moon Garden](locations/The_Moon_Garden.md) messenger | Canonical working profile | [Pip.md](characters/Pip.md) |
 | [Silas Rook](characters/Silas_Rook_The_Stillmaker.md) / [The Stillmaker](characters/Silas_Rook_The_Stillmaker.md) | Operational commander and concealed second-in-command of [the Severed Coil](organizations/The_Severed_Coil.md) | Canonical hidden profile | [Silas_Rook_The_Stillmaker.md](characters/Silas_Rook_The_Stillmaker.md) |
 | [Tamsin Pike](characters/Tamsin_Pike.md) | Young canal guide, locksmith, and possible [Underclock](organizations/The_Underclock.md) route heir | Canonical working profile | [Tamsin_Pike.md](characters/Tamsin_Pike.md) |
 | [The Hidden Architect](characters/The_Hidden_Architect_Unassigned.md) | True leader of [the Severed Coil](organizations/The_Severed_Coil.md); identity deliberately unassigned | Canonical concealed role | [The_Hidden_Architect_Unassigned.md](characters/The_Hidden_Architect_Unassigned.md) |
@@ -67,8 +67,8 @@ A file marked **Canonical working profile** is authoritative for future story an
 |---|---|---|---|
 | [The Aerial Mariners' Union](organizations/The_Aerial_Mariners_Union.md) | Airship labor union, route authority, mutual-aid society, and keeper of private navigation knowledge | Canonical working profile | [The_Aerial_Mariners_Union.md](organizations/The_Aerial_Mariners_Union.md) |
 | [The Brass Watch](organizations/The_Brass_Watch.md) | Constabulary, emergency service, and anomalous-incident authority | Canonical working profile | [The_Brass_Watch.md](organizations/The_Brass_Watch.md) |
-| [The Conservancy of Living Mechanisms](organizations/The_Conservancy_of_Living_Mechanisms.md) | Pacifist stewards and guardians of the Clockwork Gardens and living machines | Canonical working profile | [The_Conservancy_of_Living_Mechanisms.md](organizations/The_Conservancy_of_Living_Mechanisms.md) |
-| [The Eight Founding Engineering Guilds](organizations/The_Eight_Founding_Engineering_Guilds.md) | Foundational engineering orders and the Conclave of Eight | Canonical working profile | [The_Eight_Founding_Engineering_Guilds.md](organizations/The_Eight_Founding_Engineering_Guilds.md) |
+| [The Conservancy of Living Mechanisms](organizations/The_Conservancy_of_Living_Mechanisms.md) | Pacifist stewards and guardians of [the Clockwork Gardens](locations/The_Clockwork_Gardens.md) and living machines | Canonical working profile | [The_Conservancy_of_Living_Mechanisms.md](organizations/The_Conservancy_of_Living_Mechanisms.md) |
+| [The Eight Founding Engineering Guilds](organizations/The_Eight_Founding_Engineering_Guilds.md) | Foundational engineering orders and [the Conclave of Eight](organizations/The_Conclave_of_Eight.md) | Canonical working profile | [The_Eight_Founding_Engineering_Guilds.md](organizations/The_Eight_Founding_Engineering_Guilds.md) |
 | [The High Council of Aetherhaven](organizations/The_High_Council_of_Aetherhaven.md) | Central government of twelve active seats and the sealed Thirteenth Chair | Canonical working profile | [The_High_Council_of_Aetherhaven.md](organizations/The_High_Council_of_Aetherhaven.md) |
 | [The Lamplighters' Fellowship](organizations/The_Lamplighters_Fellowship.md) | Civic lighting service and informal working-class witness network | Canonical working profile | [The_Lamplighters_Fellowship.md](organizations/The_Lamplighters_Fellowship.md) |
 | [The Mechanists' Guild](organizations/The_Mechanists_Guild.md) | Professional engineering federation, certification authority, and civic safety order | Canonical working profile | [The_Mechanists_Guild.md](organizations/The_Mechanists_Guild.md) |
@@ -76,17 +76,17 @@ A file marked **Canonical working profile** is authoritative for future story an
 | [The Order of the Closed Eye](organizations/The_Order_of_the_Closed_Eye.md) | Secret containment cabal and information-control network | Canonical hidden profile | [The_Order_of_the_Closed_Eye.md](organizations/The_Order_of_the_Closed_Eye.md) |
 | [The Severed Coil](organizations/The_Severed_Coil.md) | Violent extremist faction and clandestine sabotage network | Canonical working profile | [The_Severed_Coil.md](organizations/The_Severed_Coil.md) |
 | [The Underclock](organizations/The_Underclock.md) | Decentralized sanctuary, smuggling, tunnel-route, and information network | Canonical working profile | [The_Underclock.md](organizations/The_Underclock.md) |
-| [The Unwound](organizations/The_Unwound.md) | Reform movement opposing unexamined dependence on the Heart Engine | Canonical working profile | [The_Unwound.md](organizations/The_Unwound.md) |
+| [The Unwound](organizations/The_Unwound.md) | Reform movement opposing unexamined dependence on [the Heart Engine](locations/The_Aetherium.md) | Canonical working profile | [The_Unwound.md](organizations/The_Unwound.md) |
 
 ## Canonical Location Profiles
 
 | Location | Map status and role | Canon status | File |
 |---|---|---|---|
-| [The Aerial Docks](locations/The_Aerial_Docks.md) | Location #19; primary commercial airship port and site of Dock Zero | Canonical working profile | [The_Aerial_Docks.md](locations/The_Aerial_Docks.md) |
+| [The Aerial Docks](locations/The_Aerial_Docks.md) | Location #19; primary commercial airship port and site of [Dock Zero](locations/Dock_Zero.md) | Canonical working profile | [The_Aerial_Docks.md](locations/The_Aerial_Docks.md) |
 | [The Cauldron](locations/The_Cauldron.md) | Restricted Area E; industrial exile district and illicit trade ecosystem | Canonical working profile | [The_Cauldron.md](locations/The_Cauldron.md) |
 | [The Entertainment District](locations/The_Entertainment_District.md) | Location #17; public nightlife district and frontier with [the Cauldron](locations/The_Cauldron.md) | Canonical working profile | [The_Entertainment_District.md](locations/The_Entertainment_District.md) |
-| [The Gardens Airship Landing](locations/The_Gardens_Airship_Landing.md) | Location #8; explorer, courier, official, and emergency platform within the Clockwork Gardens | Canonical working profile | [The_Gardens_Airship_Landing.md](locations/The_Gardens_Airship_Landing.md) |
-| [The Moon Garden](locations/The_Moon_Garden.md) | Hidden nocturnal layer of the Clockwork Gardens and home of the Dream Engine | Canonical hidden location | [The_Moon_Garden.md](locations/The_Moon_Garden.md) |
+| [The Gardens Airship Landing](locations/The_Gardens_Airship_Landing.md) | Location #8; explorer, courier, official, and emergency platform within [the Clockwork Gardens](locations/The_Clockwork_Gardens.md) | Canonical working profile | [The_Gardens_Airship_Landing.md](locations/The_Gardens_Airship_Landing.md) |
+| [The Moon Garden](locations/The_Moon_Garden.md) | Hidden nocturnal layer of [the Clockwork Gardens](locations/The_Clockwork_Gardens.md) and home of the Dream Engine | Canonical hidden location | [The_Moon_Garden.md](locations/The_Moon_Garden.md) |
 
 ## Canonical Story Arcs
 
@@ -96,7 +96,7 @@ A file marked **Canonical working profile** is authoritative for future story an
 | The Disappearance of Prototype I | Closure, [the Underclock](organizations/The_Underclock.md) extraction, and unresolved accession | Canonical hidden arc | [The_Disappearance_of_Prototype_I.md](story_arcs/The_Disappearance_of_Prototype_I.md) |
 | The Keeper of Dreams | [Juniper Bell](characters/Juniper_Bell.md), [the Moon Garden](locations/The_Moon_Garden.md), the Dream Engine, [Pip](characters/Pip.md), and teaser continuity | Canonical delayed-reveal arc | [The_Keeper_of_Dreams.md](story_arcs/The_Keeper_of_Dreams.md) |
 | [The Severed Coil](organizations/The_Severed_Coil.md) Conflict | Long-range escalation from unnoticed interference to direct civic conflict | Canonical long-range arc | [The_Severed_Coil_Conflict.md](story_arcs/The_Severed_Coil_Conflict.md) |
-| The Thirteenth Chair | [High Council](organizations/The_High_Council_of_Aetherhaven.md), First Mechanist, Continuance, and constitutional authority | Canonical long-range arc | [The_Thirteenth_Chair.md](story_arcs/The_Thirteenth_Chair.md) |
+| The Thirteenth Chair | [High Council](organizations/The_High_Council_of_Aetherhaven.md), [First Mechanist](characters/The_First_Mechanist.md), Continuance, and constitutional authority | Canonical long-range arc | [The_Thirteenth_Chair.md](story_arcs/The_Thirteenth_Chair.md) |
 
 ## Artifact Image Slate
 
@@ -138,38 +138,38 @@ The `unused/` directory is private owner storage. It is outside the project cano
 
 The central protagonists do not yet have dedicated canonical profile files:
 
-- Professor Elias Hawthorne
-- Amelia Hawthorne
+- [Professor Elias Hawthorne](characters/Professor_Elias_Hawthorne.md)
+- [Amelia Hawthorne](characters/Amelia_Hawthorne.md)
 
 This is intentional. Their full profiles will be created after most of the surrounding world, institutions, relationships, and long-range mysteries have stabilized, reducing repetitive revisions and allowing their final profiles to synthesize the mature canon. Until then, their established characterization should be drawn first from active Markdown files and only then from the compiled manuscript where the Markdown canon leaves a genuine gap.
 
 ### Other Planned Profiles
 
-- Doctor Elara Quill
-- Master Gideon Brasswell
-- Orin Flint
-- Lucian Wren
-- Barnaby Wren
-- Madame Celestine Mirrow
-- Keeper Thirteen
-- The First Mechanist
-- The Lady in the Water
-- The Ashen Cartographer
-- The Null Shepherd
-- The Bellmaker
+- [Doctor Elara Quill](characters/Doctor_Elara_Quill.md)
+- [Master Gideon Brasswell](characters/Master_Gideon_Brasswell.md)
+- [Orin Flint](characters/Orin_Flint.md)
+- [Lucian Wren](characters/Lucian_Wren.md)
+- [Barnaby Wren](characters/Barnaby_Wren.md)
+- [Madame Celestine Mirrow](characters/Madame_Celestine_Mirrow.md)
+- [Keeper Thirteen](characters/Keeper_Thirteen.md)
+- [The First Mechanist](characters/The_First_Mechanist.md)
+- [The Lady in the Water](characters/The_Lady_in_the_Water.md)
+- [The Ashen Cartographer](characters/The_Ashen_Cartographer.md)
+- [The Null Shepherd](characters/The_Null_Shepherd.md)
+- [The Bellmaker](characters/The_Bellmaker.md)
 
 ## Audit Findings
 
 The August 2, 2026 audit identified the following housekeeping and continuity items:
 
 1. The former root `README.md` was an internal canon index rather than a public repository introduction. Its indexing function belongs in this file.
-2. The old index title, “Aetherhaven Canonical Character Memory,” no longer reflected the repository's broader scope.
+2. The old index title, “[Aetherhaven](locations/Aetherhaven.md) Canonical Character Memory,” no longer reflected the repository's broader scope.
 3. [The Moon Garden](locations/The_Moon_Garden.md) entry had been appended below the Working Rule instead of appearing in the location table.
 4. Several completed character profiles remained listed as planned work.
-5. Artifact numbering inconsistencies and the two Society of Explorers seal variants are known, accepted development conditions. They may be normalized later but should not be treated as current canon conflicts.
+5. Artifact numbering inconsistencies and the two [Society of Explorers](organizations/The_Society_of_Explorers.md) seal variants are known, accepted development conditions. They may be normalized later but should not be treated as current canon conflicts.
 6. `art/AH-X-YYY.png` remains an unassigned active-art placeholder and should be interpreted only when its intended purpose is explicitly established.
 7. The canonical Markdown files are the primary project source. The compiled DOCX and PDF are owner-managed publication snapshots that may intentionally lag behind current canon; consult them only where the active Markdown library has a genuine gap.
-8. Amelia and Elias Hawthorne are intentionally deferred until the surrounding canon is substantially complete.
+8. [Amelia](characters/Amelia_Hawthorne.md) and [Elias Hawthorne](characters/Professor_Elias_Hawthorne.md) are intentionally deferred until the surrounding canon is substantially complete.
 9. The `unused/` directory is excluded from all canon, story, art, and continuity work unless the project owner explicitly restores a named item.
 
 ## Markdown Integration Migration

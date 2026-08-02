@@ -28,17 +28,17 @@ key_connections:
 temporal_relevance: Critical
 ---
 
-# The Passenger of Dock Zero
+# The Passenger of [Dock Zero](../locations/Dock_Zero.md)
 
 ## Canonical Summary
 
-The Passenger of Dock Zero is a solitary, unidentified traveler who repeatedly waits near the sealed hangar at [the Aerial Docks](../locations/The_Aerial_Docks.md) and the permanently reserved Morningstar berth at the Gardens' Airship Landing.
+The Passenger of [Dock Zero](../locations/Dock_Zero.md) is a solitary, unidentified traveler who repeatedly waits near the sealed hangar at [the Aerial Docks](../locations/The_Aerial_Docks.md) and the permanently reserved [Morningstar berth](../locations/The_Morningstar_Berth.md) at the Gardens' Airship Landing.
 
 He wears the weathered uniform of an airship line that does not appear in any surviving registry. The cut, fastenings, and insignia are internally consistent enough to suggest a real organization, but no Harbormaster, archivist, commercial captain, or [Aerial Mariners' Union](../organizations/The_Aerial_Mariners_Union.md) official has identified it.
 
 [Captain Mara Voss](Captain_Mara_Voss.md) found an ornate Morningstar passage ticket in his possession after he made repeated attempts to enter the reserved berth. The ticket's passenger field had been blurred, abraded, or otherwise damaged. Several remaining strokes appear compatible with the Passenger's claim that the ticket belongs to him, but not enough survives to verify his name or identity.
 
-The ticket was impounded for verification and transferred to the Aetherhaven Archives under restricted transit review. Its encoded departure notation belongs to an obsolete Upper Strata transit concordance. [Mara](Captain_Mara_Voss.md) and the city's chronologers interpret it as a departure window approximately forty-seven years beyond the current civic year, though the exact conversion varies as Aetherhaven's timekeeping systems drift.
+The ticket was impounded for verification and transferred to [the Aetherhaven Archives](../organizations/The_Aetherhaven_Archives.md) under restricted transit review. Its encoded departure notation belongs to an obsolete Upper Strata transit concordance. [Mara](Captain_Mara_Voss.md) and the city's chronologers interpret it as a departure window approximately forty-seven years beyond the current civic year, though the exact conversion varies as [Aetherhaven](../locations/Aetherhaven.md)'s timekeeping systems drift.
 
 The Passenger does not appear to understand the ticket as being dated decades in the future.
 
@@ -46,7 +46,7 @@ He is impatient, urgent, secretive, and exceptionally persistent, but he is not 
 
 At times he seems deliberately evasive.
 
-At other times he appears genuinely confused, as though he remembers that he must leave Aetherhaven but has forgotten why.
+At other times he appears genuinely confused, as though he remembers that he must leave [Aetherhaven](../locations/Aetherhaven.md) but has forgotten why.
 
 He returns regularly and asks the same question:
 
@@ -72,13 +72,13 @@ No verified civic record establishes the Passenger's:
 
 Dockworkers generally call him the Passenger.
 
-Some believe he is a harmless eccentric. Others think he is a smuggler, fugitive, or performer maintaining an elaborate deception. A smaller number suspect that he arrived in Aetherhaven from a chronology that no longer aligns with the city's official records.
+Some believe he is a harmless eccentric. Others think he is a smuggler, fugitive, or performer maintaining an elaborate deception. A smaller number suspect that he arrived in [Aetherhaven](../locations/Aetherhaven.md) from a chronology that no longer aligns with the city's official records.
 
 No explanation has been proven.
 
 ## Character Function
 
-The Passenger embodies the personal cost of Aetherhaven's fluid chronology.
+The Passenger embodies the personal cost of [Aetherhaven](../locations/Aetherhaven.md)'s fluid chronology.
 
 He is not simply evidence that time behaves strangely. He is a person forced to live inside a contradiction:
 
@@ -92,10 +92,10 @@ Narratively, he provides:
 
 - A recurring temporal mystery that can develop across multiple volumes.
 - A sympathetic figure whom official systems cannot classify.
-- A reason for Amelia to investigate through empathy rather than authority.
-- A continuing connection among Dock Zero, the Morningstar berth, the Morningstar Company, and the shifting archive record.
+- A reason for [Amelia](Amelia_Hawthorne.md) to investigate through empathy rather than authority.
+- A continuing connection among [Dock Zero](../locations/Dock_Zero.md), [the Morningstar berth](../locations/The_Morningstar_Berth.md), the Morningstar Company, and the shifting archive record.
 - A character who may know future events without understanding that they are future events.
-- A possible witness to another version of Aetherhaven.
+- A possible witness to another version of [Aetherhaven](../locations/Aetherhaven.md).
 - A measure of how the city's chronology affects memory and identity.
 
 ## Personality and Behavior
@@ -160,7 +160,7 @@ It remains unclear whether such answers are evasions, damaged memories, statemen
 
 [Mara](Captain_Mara_Voss.md) is the primary authority managing the Passenger's case.
 
-She found the future-coded ticket in his possession and impounded it after repeated attempts to enter the reserved Morningstar berth. Although the ticket cannot conclusively establish his identity, [Mara](Captain_Mara_Voss.md) believes his claim is plausible enough to deserve investigation.
+She found the future-coded ticket in his possession and impounded it after repeated attempts to enter the reserved [Morningstar berth](../locations/The_Morningstar_Berth.md). Although the ticket cannot conclusively establish his identity, [Mara](Captain_Mara_Voss.md) believes his claim is plausible enough to deserve investigation.
 
 She does not trust him completely.
 
@@ -182,9 +182,9 @@ The Passenger respects [Mara](Captain_Mara_Voss.md)'s authority more than that o
 
 He may recognize something about [Mara](Captain_Mara_Voss.md) that she has not yet experienced.
 
-## Relationship with Amelia Hawthorne
+## Relationship with [Amelia Hawthorne](Amelia_Hawthorne.md)
 
-Amelia is likely to become the first person who treats the Passenger's confusion as part of the mystery rather than proof of deception.
+[Amelia](Amelia_Hawthorne.md) is likely to become the first person who treats the Passenger's confusion as part of the mystery rather than proof of deception.
 
 Adults ask him:
 
@@ -194,7 +194,7 @@ Adults ask him:
 - Why are you trespassing?
 - What are you hiding?
 
-Amelia is more likely to ask:
+[Amelia](Amelia_Hawthorne.md) is more likely to ask:
 
 - What do you remember immediately before you began waiting?
 - What do you think will happen when the Morningstar arrives?
@@ -202,11 +202,11 @@ Amelia is more likely to ask:
 - Why are you relieved each time it has not arrived?
 - What does the ticket mean to you rather than to the Archives?
 
-The Passenger may initially dismiss Amelia because she is a child. That changes when he sees the Aether Heart or recognizes symbols within her gauntlet.
+The Passenger may initially dismiss [Amelia](Amelia_Hawthorne.md) because she is a child. That changes when he sees the Aether Heart or recognizes symbols within her gauntlet.
 
 Possible early reactions include:
 
-- He becomes briefly afraid of Amelia's arm.
+- He becomes briefly afraid of [Amelia](Amelia_Hawthorne.md)'s arm.
 - He calls the Aether Heart by an unfamiliar name.
 - He asks whether she has already opened a particular door.
 - He mistakes her for someone he expects to meet later.
@@ -214,7 +214,7 @@ Possible early reactions include:
 
 None of these possibilities should be confirmed too early.
 
-Their relationship should grow slowly. Amelia may become the person he trusts not because she has authority, but because she listens without forcing his memories into the city's official chronology.
+Their relationship should grow slowly. [Amelia](Amelia_Hawthorne.md) may become the person he trusts not because she has authority, but because she listens without forcing his memories into the city's official chronology.
 
 ## Relationship with [Chief Inspector Beatrice Thorne](Chief_Inspector_Beatrice_Thorne.md) and [the Brass Watch](../organizations/The_Brass_Watch.md)
 
@@ -224,7 +224,7 @@ Their relationship should grow slowly. Amelia may become the person he trusts no
 
 The Watch has documented:
 
-- Repeated unauthorized approach to Dock Zero.
+- Repeated unauthorized approach to [Dock Zero](../locations/Dock_Zero.md).
 - No violence.
 - No weapons offense.
 - No theft.
@@ -243,7 +243,7 @@ The Passenger cooperates with [Thorne](Chief_Inspector_Beatrice_Thorne.md) only 
 - The last vessel he traveled aboard.
 - The person who gave him the ticket.
 - The reason he must leave before a particular event.
-- Whether he has met Elias or Amelia Hawthorne.
+- Whether he has met [Elias](Professor_Elias_Hawthorne.md) or [Amelia Hawthorne](Amelia_Hawthorne.md).
 
 ## Relationship with [the High Council](../organizations/The_High_Council_of_Aetherhaven.md)
 
@@ -253,7 +253,7 @@ Council positions vary:
 
 - Some consider him a fraud.
 - Some want him quietly removed from the docks.
-- Some want the ticket sealed in the Shrouded Vaults.
+- Some want the ticket sealed in [the Shrouded Vaults](../locations/The_Shrouded_Vaults.md).
 - Some believe he should be monitored as a chronal anomaly.
 - At least one official appears to know more about the Morningstar than the current registry admits.
 
@@ -273,9 +273,9 @@ The ticket is the strongest physical evidence connecting the Passenger to the Mo
 - Its passenger field once contained a name.
 - The name is now too damaged to verify.
 - Some surviving strokes are consistent with his claim.
-- Its transit code converts to approximately forty-seven years in Aetherhaven's future.
+- Its transit code converts to approximately forty-seven years in [Aetherhaven](../locations/Aetherhaven.md)'s future.
 - The code uses an obsolete Upper Strata concordance.
-- The ticket includes references to Dock Zero or the reserved berth.
+- The ticket includes references to [Dock Zero](../locations/Dock_Zero.md) or the reserved berth.
 - Its reverse watermark resembles the Morningstar Company emblem found on recovered cargo.
 
 ### Unresolved Possibilities
@@ -288,7 +288,7 @@ The ticket may have been:
 - Taken from someone who no longer exists in the current chronology.
 - Issued to another version of him.
 - Altered by archive or timeline adjustment.
-- Given to him by Amelia, [Mara](Captain_Mara_Voss.md), Elias, or another figure in their future.
+- Given to him by [Amelia](Amelia_Hawthorne.md), [Mara](Captain_Mara_Voss.md), [Elias](Professor_Elias_Hawthorne.md), or another figure in their future.
 - Intended not as permission to board, but as an instruction to be present.
 
 The damaged name must remain suggestive but inconclusive.
@@ -300,7 +300,7 @@ The Passenger believes the Morningstar is real and expected.
 He appears to know:
 
 - Where it will berth.
-- That Dock Zero matters.
+- That [Dock Zero](../locations/Dock_Zero.md) matters.
 - That the vessel may not use ordinary arrival signals.
 - That his ticket remains valid.
 - That missing the vessel would have consequences.
@@ -316,7 +316,7 @@ The Passenger's relief when told the ship has not arrived suggests several possi
 3. He believes its early arrival would be catastrophic.
 4. He is waiting for someone else to appear first.
 5. He must remain at the berth until a condition is met.
-6. He knows the Morningstar should not arrive in the current version of Aetherhaven.
+6. He knows the Morningstar should not arrive in the current version of [Aetherhaven](../locations/Aetherhaven.md).
 
 ## Memory and Temporal Displacement
 
@@ -361,7 +361,7 @@ Evidence that could support this later:
 - He addresses workers by names they have never used.
 - He waits on days when clocks lose a second.
 - Archive descriptions of his coat or appearance change while [Mara](Captain_Mara_Voss.md)'s handwritten notes do not.
-- He recognizes the Morningstar berth after renovations alter the surrounding platform.
+- He recognizes [the Morningstar berth](../locations/The_Morningstar_Berth.md) after renovations alter the surrounding platform.
 - He remembers a crew or airship line absent from all current records.
 - He is occasionally missing from photographs even when witnesses remember him being present.
 
@@ -391,14 +391,14 @@ His age should remain difficult to determine. Different witnesses may describe h
 
 ### The Future-Dated Ticket
 
-His principal canonical artifact. Currently held by the Aetherhaven Archives under Harbormaster authority.
+His principal canonical artifact. Currently held by [the Aetherhaven Archives](../organizations/The_Aetherhaven_Archives.md) under Harbormaster authority.
 
 ### The Unidentified Uniform
 
 The only persistent material clue still in his possession. Its construction may contain:
 
 - Obsolete fastenings.
-- Fabric not produced in current Aetherhaven mills.
+- Fabric not produced in current [Aetherhaven](../locations/Aetherhaven.md) mills.
 - Repair stitching from several regions or eras.
 - A removed name strip.
 - A concealed emblem matching the Morningstar watermark.
@@ -415,7 +415,7 @@ Future stories may reveal one, but it should connect directly to his lost purpos
 
 ### The Name Beneath the Blur
 
-Amelia discovers that the remaining strokes in the ticket's passenger field change under different kinds of light. Each reading produces a different plausible name.
+[Amelia](Amelia_Hawthorne.md) discovers that the remaining strokes in the ticket's passenger field change under different kinds of light. Each reading produces a different plausible name.
 
 ### The Reason He Must Leave
 
@@ -423,15 +423,15 @@ The Passenger remembers a warning but not its subject:
 
 > You must be aboard before the city remembers you.
 
-Amelia must determine whether boarding the Morningstar will save him, erase him, or complete the process already consuming his identity.
+[Amelia](Amelia_Hawthorne.md) must determine whether boarding the Morningstar will save him, erase him, or complete the process already consuming his identity.
 
 ### The Passenger Who Was Never There
 
-After a Lost Second, dockworkers insist no Passenger has ever waited at Dock Zero. [Mara](Captain_Mara_Voss.md)'s black ledger and Amelia's memory are the only evidence he existed.
+After a Lost Second, dockworkers insist no Passenger has ever waited at [Dock Zero](../locations/Dock_Zero.md). [Mara](Captain_Mara_Voss.md)'s black ledger and [Amelia](Amelia_Hawthorne.md)'s memory are the only evidence he existed.
 
 ### The Inherited Ticket
 
-A family arrives in Aetherhaven carrying a photograph of the Passenger from decades earlier. They claim he vanished before their oldest relative was born.
+A family arrives in [Aetherhaven](../locations/Aetherhaven.md) carrying a photograph of the Passenger from decades earlier. They claim he vanished before their oldest relative was born.
 
 ### The Wrong Arrival
 
@@ -441,7 +441,7 @@ A vessel appears at the reserved berth bearing the Morningstar emblem, but the P
 
 For the first time, he does not ask whether the Morningstar has arrived. He asks:
 
-> Has Amelia opened the sixth door yet?
+> Has [Amelia](Amelia_Hawthorne.md) opened the sixth door yet?
 
 ### The Uniform Line
 
@@ -461,7 +461,7 @@ The vessel finally appears exactly on schedule according to its own concordance.
 
 ### Safe for Early Volumes
 
-- The Passenger waits at Dock Zero.
+- The Passenger waits at [Dock Zero](../locations/Dock_Zero.md).
 - His identity is unknown.
 - He wears an unrecognized airship uniform.
 - The Morningstar ticket was found in his possession.
@@ -481,7 +481,7 @@ The vessel finally appears exactly on schedule according to its own concordance.
 - Why he must leave.
 - Who gave him the ticket.
 - Whether he is temporally displaced.
-- Whether he has met Amelia, Elias, or [Mara](Captain_Mara_Voss.md) in another chronology.
+- Whether he has met [Amelia](Amelia_Hawthorne.md), [Elias](Professor_Elias_Hawthorne.md), or [Mara](Captain_Mara_Voss.md) in another chronology.
 - Whether his missing memory was accidental or deliberate.
 - Whether the Morningstar is a vessel, a chronal system, or both.
 - Whether he is waiting to board or to prevent someone else from boarding.
@@ -501,8 +501,8 @@ The vessel finally appears exactly on schedule according to its own concordance.
 - He must continue asking about the Morningstar until a meaningful story event changes the question.
 - His relief when the ship has not arrived is important and should not be treated as a casual quirk.
 - [Mara](Captain_Mara_Voss.md) should take his claim seriously without fully trusting him.
-- Amelia should approach him through empathy and observation rather than authority.
-- The Morningstar berth remains a physical anchor supporting his belief.
+- [Amelia](Amelia_Hawthorne.md) should approach him through empathy and observation rather than authority.
+- [The Morningstar berth](../locations/The_Morningstar_Berth.md) remains a physical anchor supporting his belief.
 - Temporal evidence surrounding him must leave residue in artifacts, ledgers, photographs, or memory.
 - No early story should definitively establish that he is from forty-seven years in the future.
 - The coded date represents an interpreted convergence and may drift as time adjusts.
@@ -512,14 +512,14 @@ The vessel finally appears exactly on schedule according to its own concordance.
 1. What is the Passenger's true name?
 2. Was the ticket issued to him?
 3. Did he inherit or receive it from another person?
-4. Why must he leave Aetherhaven?
+4. Why must he leave [Aetherhaven](../locations/Aetherhaven.md)?
 5. Why is he relieved that the Morningstar has not arrived?
 6. Who is the woman he may not have met yet?
 7. What happened immediately before he began waiting?
-8. Does he remember another version of Aetherhaven?
+8. Does he remember another version of [Aetherhaven](../locations/Aetherhaven.md)?
 9. Why does his uniform belong to a line that never existed?
 10. Is his biography being erased while his purpose remains anchored?
-11. Does he know Amelia from her future?
+11. Does he know [Amelia](Amelia_Hawthorne.md) from her future?
 12. Is he connected to the missing crew of the *Resolute*?
 13. Is the Morningstar coming to collect him, deliver him, or replace him?
 14. What happens if he remembers everything before the vessel arrives?

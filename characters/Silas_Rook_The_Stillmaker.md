@@ -80,17 +80,17 @@ Rook did not return with her.
 
 At least, not in the way the official record understands return.
 
-He emerged from the anomaly out of sequence, arriving in Aetherhaven years before the *Resolute's* official reappearance. He brought memories of a future city fractured by failed timekeeping, severed districts, incompatible histories, and a Heart Engine no longer able to reconcile them.
+He emerged from the anomaly out of sequence, arriving in [Aetherhaven](../locations/Aetherhaven.md) years before the *Resolute's* official reappearance. He brought memories of a future city fractured by failed timekeeping, severed districts, incompatible histories, and a [Heart Engine](../locations/The_Aetherium.md) no longer able to reconcile them.
 
-He concluded that Aetherhaven could not be saved through reform.
+He concluded that [Aetherhaven](../locations/Aetherhaven.md) could not be saved through reform.
 
-It had to be deliberately [unwound](../organizations/The_Unwound.md) before it broke on its own.
+It had to be deliberately unwound before it broke on its own.
 
 That belief became the foundation of [the Severed Coil](../organizations/The_Severed_Coil.md).
 
 ## The Central Tragedy
 
-Rook is not merely trying to destroy Aetherhaven.
+Rook is not merely trying to destroy [Aetherhaven](../locations/Aetherhaven.md).
 
 He believes he is preventing its destruction.
 
@@ -100,16 +100,16 @@ He has seen—or remembers seeing—a future in which:
 - families remember different children,
 - [the Brass Watch](../organizations/The_Brass_Watch.md) enforces laws from timelines that never occurred,
 - the Morningstar arrives to a city that cannot agree it exists,
-- and the Heart Engine consumes increasingly large portions of lived time to hold Aetherhaven together.
+- and [the Heart Engine](../locations/The_Aetherium.md) consumes increasingly large portions of lived time to hold [Aetherhaven](../locations/Aetherhaven.md) together.
 
 Rook believes controlled collapse is the only alternative to uncontrolled temporal fracture.
 
 He intends to:
 
-- sever the city's dependence on the Heart Engine,
+- sever the city's dependence on [the Heart Engine](../locations/The_Aetherium.md),
 - force manual systems to replace aetheric infrastructure,
 - interrupt civic synchronization,
-- and trigger a deliberate unwinding while Aetherhaven can still survive it.
+- and trigger a deliberate unwinding while [Aetherhaven](../locations/Aetherhaven.md) can still survive it.
 
 He is willing to sacrifice lives to accomplish this.
 
@@ -117,7 +117,7 @@ His deepest moral corruption is the belief that some casualties may not matter b
 
 He increasingly treats people as temporary arrangements of memory rather than irreplaceable lives.
 
-This places him in direct philosophical opposition to Amelia.
+This places him in direct philosophical opposition to [Amelia](Amelia_Hawthorne.md).
 
 ## The Major Plot Twist
 
@@ -139,7 +139,7 @@ It should be:
 
 > The villain's certainty created the future he feared.
 
-Amelia's path to defeating him is therefore not merely stopping his machinery.
+[Amelia](Amelia_Hawthorne.md)'s path to defeating him is therefore not merely stopping his machinery.
 
 She must prove that the future is not a command.
 
@@ -175,7 +175,7 @@ The name **Silas Rook** should first appear in evidence connected to the *Resolu
 
 Possible discovery sequence:
 
-1. Amelia finds a partially erased crew manifest.
+1. [Amelia](Amelia_Hawthorne.md) finds a partially erased crew manifest.
 2. [Thorne](Chief_Inspector_Beatrice_Thorne.md)'s lens reveals one additional line beneath the official six names.
 3. [Mara](Captain_Mara_Voss.md)'s black ledger contains an empty space she has recopied for years without understanding why.
 4. A backward chronometer briefly displays the initials **S.R.**
@@ -231,7 +231,7 @@ He is:
 - a missing crew member,
 - a trusted friend,
 - someone she may have abandoned,
-- and someone now using their shared knowledge to endanger Aetherhaven.
+- and someone now using their shared knowledge to endanger [Aetherhaven](../locations/Aetherhaven.md).
 
 [Mara](Captain_Mara_Voss.md)'s guilt makes her vulnerable to his arguments.
 
@@ -272,19 +272,19 @@ Their early interference appears as unrelated failure.
 
 Once the pattern emerges, he becomes fascinated rather than immediately hostile.
 
-### Elias Hawthorne
+### [Elias Hawthorne](Professor_Elias_Hawthorne.md)
 
-Rook sees Elias as a man clever enough to understand the danger but too emotionally compromised to act.
+Rook sees [Elias](Professor_Elias_Hawthorne.md) as a man clever enough to understand the danger but too emotionally compromised to act.
 
-He may admire Elias's engineering while condemning his decision to preserve and improve ancient systems.
+He may admire [Elias](Professor_Elias_Hawthorne.md)'s engineering while condemning his decision to preserve and improve ancient systems.
 
-Rook believes Elias's greatest failure was not building Amelia's gauntlet.
+Rook believes [Elias](Professor_Elias_Hawthorne.md)'s greatest failure was not building [Amelia](Amelia_Hawthorne.md)'s gauntlet.
 
 It was believing he could control what chose her.
 
-### Amelia Hawthorne
+### [Amelia Hawthorne](Amelia_Hawthorne.md)
 
-Amelia is the variable Rook's remembered future does not fully explain.
+[Amelia](Amelia_Hawthorne.md) is the variable Rook's remembered future does not fully explain.
 
 He may know of:
 
@@ -293,17 +293,17 @@ He may know of:
 - a blue Aether Heart,
 - or a child standing at the center of the final convergence.
 
-He does not initially know whether Amelia saves Aetherhaven or causes the future he fears.
+He does not initially know whether [Amelia](Amelia_Hawthorne.md) saves [Aetherhaven](../locations/Aetherhaven.md) or causes the future he fears.
 
 This uncertainty makes him cautious.
 
 Later, he identifies her as the only person capable of:
 
-- stabilizing the Heart Engine,
+- stabilizing [the Heart Engine](../locations/The_Aetherium.md),
 - defeating [the Coil](../organizations/The_Severed_Coil.md)'s temporal plan,
 - or completing it.
 
-Rook may attempt to persuade Amelia before trying to destroy or capture her.
+Rook may attempt to persuade [Amelia](Amelia_Hawthorne.md) before trying to destroy or capture her.
 
 His most dangerous argument is not that he wants power.
 
@@ -364,7 +364,7 @@ It may refer to one who:
 
 Rook does not want chaos for its own sake.
 
-He wants a final, controlled stillness from which Aetherhaven can be rebuilt.
+He wants a final, controlled stillness from which [Aetherhaven](../locations/Aetherhaven.md) can be rebuilt.
 
 The name becomes terrifying because his operations often begin with silence:
 
@@ -423,15 +423,15 @@ The Hawthornes receive a warning that saves their lives. It is also proof that [
 
 ### The Future He Remembers
 
-Rook shows Amelia evidence of fractured Aetherhaven. Every image appears authentic.
+Rook shows [Amelia](Amelia_Hawthorne.md) evidence of fractured [Aetherhaven](../locations/Aetherhaven.md). Every image appears authentic.
 
 ### The Cause of the Future
 
-Amelia discovers that the earliest event in Rook's catastrophe occurred because of a Coil operation he ordered.
+[Amelia](Amelia_Hawthorne.md) discovers that the earliest event in Rook's catastrophe occurred because of a Coil operation he ordered.
 
 ### The Final Course
 
-Rook attempts to force Aetherhaven into a controlled temporal shutdown, believing [Mara](Captain_Mara_Voss.md) must navigate the city through the collapse as she once navigated the *Resolute*.
+Rook attempts to force [Aetherhaven](../locations/Aetherhaven.md) into a controlled temporal shutdown, believing [Mara](Captain_Mara_Voss.md) must navigate the city through the collapse as she once navigated the *Resolute*.
 
 ## Staged Revelations
 
@@ -460,7 +460,7 @@ Rook attempts to force Aetherhaven into a controlled temporal shutdown, believin
 - He founded or shaped [the Severed Coil](../organizations/The_Severed_Coil.md).
 - He believes he is preventing a future temporal collapse.
 - His campaign may be creating that future.
-- He has known about Amelia longer than she has known about him.
+- He has known about [Amelia](Amelia_Hawthorne.md) longer than she has known about him.
 
 ## Continuity Constraints
 
@@ -474,7 +474,7 @@ Rook attempts to force Aetherhaven into a controlled temporal shutdown, believin
 - His willingness to sacrifice others must remain morally indefensible.
 - His belief that time can correct casualties should deepen his cruelty.
 - The causal-loop twist must be foreshadowed before confirmation.
-- Amelia should defeat his certainty as much as his machinery.
+- [Amelia](Amelia_Hawthorne.md) should defeat his certainty as much as his machinery.
 - The broader [Unwound](../organizations/The_Unwound.md) must not be blamed for secretly accepting his leadership.
 - His existence should reframe earlier Coil incidents without making every mystery his doing.
 - Some Coil operations should remain independent, opportunistic, or manipulated by other forces.
@@ -490,7 +490,7 @@ Rook attempts to force Aetherhaven into a controlled temporal shutdown, believin
 6. Is the Inner Coil entirely his invention?
 7. How much of the future he remembers is authentic?
 8. Which Coil actions created the future he fears?
-9. Has he met an older Amelia?
+9. Has he met an older [Amelia](Amelia_Hawthorne.md)?
 10. Why does he believe [Mara](Captain_Mara_Voss.md) must complete the final course?
 11. Can he still move between chronologies?
 12. Is his body aging normally?

@@ -39,9 +39,9 @@ temporal_relevance: High
 
 The Severed Coil is the violent extremist splinter of [the Unwound](The_Unwound.md).
 
-Where the broader [Unwound](The_Unwound.md) argues that Aetherhaven must reduce its dependence on the Heart Engine, the Severed Coil believes the city must first be made to fail.
+Where the broader [Unwound](The_Unwound.md) argues that [Aetherhaven](../locations/Aetherhaven.md) must reduce its dependence on [the Heart Engine](../locations/The_Aetherium.md), the Severed Coil believes the city must first be made to fail.
 
-Its members attack Golden Veins, destroy civic machinery, sabotage power regulators, burn records, steal or corrupt clockwork sentinels, and create public disruption intended to prove that Aetherhaven cannot survive without systems its citizens do not understand.
+Its members attack Golden Veins, destroy civic machinery, sabotage power regulators, burn records, steal or corrupt clockwork sentinels, and create public disruption intended to prove that [Aetherhaven](../locations/Aetherhaven.md) cannot survive without systems its citizens do not understand.
 
 They do not merely predict collapse.
 
@@ -49,7 +49,7 @@ They manufacture it.
 
 The Severed Coil is deeply underground, organized through isolated cells, false names, coded broadsides, and intermediaries who often do not know whom they ultimately serve. Its true size, leadership, funding, and objectives remain unknown.
 
-The faction is feared throughout Aetherhaven.
+The faction is feared throughout [Aetherhaven](../locations/Aetherhaven.md).
 
 Citizens know it through:
 
@@ -69,18 +69,18 @@ Readers see what it has done long before they meet anyone who admits belonging t
 
 The Severed Coil begins with one accurate observation:
 
-> Aetherhaven is dangerously dependent on machinery it cannot fully understand.
+> [Aetherhaven](../locations/Aetherhaven.md) is dangerously dependent on machinery it cannot fully understand.
 
 It reaches a monstrous conclusion:
 
 > Therefore, the city must be forced to suffer until dependence becomes impossible.
 
-The faction believes gradual reform is a lie maintained by comfortable people who benefit from the current system. It regards petitions, public debate, and community resilience as distractions that allow [the High Council](The_High_Council_of_Aetherhaven.md) and Engine Complex to preserve control.
+The faction believes gradual reform is a lie maintained by comfortable people who benefit from the current system. It regards petitions, public debate, and community resilience as distractions that allow [the High Council](The_High_Council_of_Aetherhaven.md) and [Engine Complex](../locations/The_Engine_Complex.md) to preserve control.
 
 Its doctrine is commonly summarized in three statements:
 
 1. **A system that cannot be stopped cannot be trusted.**
-2. **A city that cannot survive [unwound](The_Unwound.md) deserves to stop.**
+2. **A city that cannot survive unwound deserves to stop.**
 3. **Pain reveals what comfort conceals.**
 
 The third principle marks the faction's moral collapse.
@@ -91,7 +91,7 @@ The faction therefore contains both the completely misguided and the inherently 
 
 ## Historical Origin
 
-The Severed Coil claims descent from early [Unwound](The_Unwound.md) organizers who warned that the Heart Engine would eventually consume the city.
+The Severed Coil claims descent from early [Unwound](The_Unwound.md) organizers who warned that [the Heart Engine](../locations/The_Aetherium.md) would eventually consume the city.
 
 The broader [Unwound](The_Unwound.md) disputes this version of history.
 
@@ -104,7 +104,7 @@ The most likely origin is a fractured coalition formed after a major industrial 
 
 Moderate organizers responded by building manual backup systems and demanding transparency.
 
-A smaller group concluded that Aetherhaven's institutions would never change voluntarily.
+A smaller group concluded that [Aetherhaven](../locations/Aetherhaven.md)'s institutions would never change voluntarily.
 
 That group became the first Coil.
 
@@ -181,7 +181,7 @@ Its goals are often not limited to physical destruction. Operations are designed
 - create fear,
 - discredit [the High Council](The_High_Council_of_Aetherhaven.md),
 - provoke harsh Watch responses,
-- expose dependence on the Heart Engine,
+- expose dependence on [the Heart Engine](../locations/The_Aetherium.md),
 - and make peaceful [Unwound](The_Unwound.md) reformers appear complicit.
 
 Known or suspected methods include:
@@ -308,7 +308,7 @@ The Second Watch is increasingly involved when Coil attacks affect:
 
 This raises a disturbing possibility:
 
-The Severed Coil may understand more about Aetherhaven's temporal systems than the Watch does.
+The Severed Coil may understand more about [Aetherhaven](../locations/Aetherhaven.md)'s temporal systems than the Watch does.
 
 ## Relationship with [Captain Mara Voss](../characters/Captain_Mara_Voss.md)
 
@@ -331,11 +331,11 @@ She will not knowingly work with the Coil.
 
 [Mara](../characters/Captain_Mara_Voss.md)'s private code draws a hard line at deliberate public endangerment.
 
-The faction may attempt to frame one of her trusted contacts, use Dock Zero as a symbolic target, or exploit the Morningstar panic to create chaos at [the Aerial Docks](../locations/The_Aerial_Docks.md).
+The faction may attempt to frame one of her trusted contacts, use [Dock Zero](../locations/Dock_Zero.md) as a symbolic target, or exploit the Morningstar panic to create chaos at [the Aerial Docks](../locations/The_Aerial_Docks.md).
 
-## Relationship with Professor Elias Hawthorne
+## Relationship with [Professor Elias Hawthorne](../characters/Professor_Elias_Hawthorne.md)
 
-The Severed Coil sees Elias as both enemy and opportunity.
+The Severed Coil sees [Elias](../characters/Professor_Elias_Hawthorne.md) as both enemy and opportunity.
 
 He is:
 
@@ -348,13 +348,13 @@ Some cells want to expose him.
 
 Some want to recruit him.
 
-Some want to force him to disable the Heart Engine.
+Some want to force him to disable [the Heart Engine](../locations/The_Aetherium.md).
 
-Others believe he helped bind Amelia to the system they seek to destroy.
+Others believe he helped bind [Amelia](../characters/Amelia_Hawthorne.md) to the system they seek to destroy.
 
-Elias rejects the Coil's methods absolutely.
+[Elias](../characters/Professor_Elias_Hawthorne.md) rejects the Coil's methods absolutely.
 
-He may agree that Aetherhaven is dangerously dependent, but he believes deliberate suffering corrupts any legitimate goal.
+He may agree that [Aetherhaven](../locations/Aetherhaven.md) is dangerously dependent, but he believes deliberate suffering corrupts any legitimate goal.
 
 The Coil may target his work because:
 
@@ -362,9 +362,9 @@ The Coil may target his work because:
 - it can reveal who is manipulating them,
 - or it may offer a safer alternative that undermines their justification for violence.
 
-## Relationship with Amelia Hawthorne
+## Relationship with [Amelia Hawthorne](../characters/Amelia_Hawthorne.md)
 
-Amelia represents a crisis in the Severed Coil's ideology.
+[Amelia](../characters/Amelia_Hawthorne.md) represents a crisis in the Severed Coil's ideology.
 
 She is a person, a child, and an explorer.
 
@@ -378,7 +378,7 @@ Different cells may view her as:
 - a potential key to shutting the system down,
 - or a dangerous symbol who could undermine their movement.
 
-Early in the series, the Coil should not confront Amelia directly.
+Early in the series, the Coil should not confront [Amelia](../characters/Amelia_Hawthorne.md) directly.
 
 Instead, she encounters its effects:
 
@@ -388,13 +388,13 @@ Instead, she encounters its effects:
 - erased evidence,
 - and moderate [Unwound](The_Unwound.md) members blamed for violence they opposed.
 
-This allows Amelia to understand the human cost before she understands the perpetrators.
+This allows [Amelia](../characters/Amelia_Hawthorne.md) to understand the human cost before she understands the perpetrators.
 
 Later, a Coil cell may attempt to "rescue" her against her will.
 
 The moral line must remain clear:
 
-Any faction that denies Amelia's agency while claiming to free her has reproduced the very system it condemns.
+Any faction that denies [Amelia](../characters/Amelia_Hawthorne.md)'s agency while claiming to free her has reproduced the very system it condemns.
 
 ## Relationship with [the High Council](The_High_Council_of_Aetherhaven.md)
 
@@ -459,7 +459,7 @@ Its later communiques refer to:
 
 The faction may have discovered that Golden Veins carry more than energy.
 
-It may believe severing them will free Aetherhaven from the Heart Engine's temporal influence.
+It may believe severing them will free [Aetherhaven](../locations/Aetherhaven.md) from [the Heart Engine](../locations/The_Aetherium.md)'s temporal influence.
 
 The actual effect could be catastrophic.
 
@@ -517,7 +517,7 @@ The Hawthornes encounter a disrupted canal, damaged regulator, burned archive ro
 
 ### Stage Three: Pattern
 
-[Thorne](../characters/Chief_Inspector_Beatrice_Thorne.md) connects incidents across districts. Amelia notices that the attacks form a map, sequence, or mechanical pattern.
+[Thorne](../characters/Chief_Inspector_Beatrice_Thorne.md) connects incidents across districts. [Amelia](../characters/Amelia_Hawthorne.md) notices that the attacks form a map, sequence, or mechanical pattern.
 
 ### Stage Four: Voice
 
@@ -529,15 +529,15 @@ A sympathetic secondary character is recruited, coerced, or revealed as a former
 
 ### Stage Six: First Encounter
 
-Only after the faction has become a sustained threat should Amelia, Elias, or [Thorne](../characters/Chief_Inspector_Beatrice_Thorne.md) meet a confirmed operative face to face.
+Only after the faction has become a sustained threat should [Amelia](../characters/Amelia_Hawthorne.md), [Elias](../characters/Professor_Elias_Hawthorne.md), or [Thorne](../characters/Chief_Inspector_Beatrice_Thorne.md) meet a confirmed operative face to face.
 
 The encounter should reveal that the Severed Coil is more disciplined, divided, and dangerous than public rumor suggested.
 
 ## Story Opportunities
 
-### The Blackout at Starlight Walk
+### The Blackout at [Starlight Walk](../locations/The_Starlight_Walkways.md)
 
-A coordinated failure darkens the Starlight Walkways during a public gathering. Manual [Unwound](The_Unwound.md) crews save lives while the public blames them for the attack.
+A coordinated failure darkens [the Starlight Walkways](../locations/The_Starlight_Walkways.md) during a public gathering. Manual [Unwound](The_Unwound.md) crews save lives while the public blames them for the attack.
 
 ### The Sentinel with the Broken Command
 
@@ -545,7 +545,7 @@ A stolen sentinel returns carrying a Coil symbol and an ancient directive the Wa
 
 ### Ash in the Archive
 
-A fire destroys official Golden Vein records, but Amelia discovers the burned pages were selected to conceal one older document.
+A fire destroys official Golden Vein records, but [Amelia](../characters/Amelia_Hawthorne.md) discovers the burned pages were selected to conceal one older document.
 
 ### The Empty Escapement
 
@@ -557,15 +557,15 @@ The Second Watch finds a Coil safehouse abandoned before it was constructed acco
 
 ### The Child of the Coil
 
-A young person connected to a recurring character is being recruited through grief and anger. Amelia recognizes the manipulation before the adults do.
+A young person connected to a recurring character is being recruited through grief and anger. [Amelia](../characters/Amelia_Hawthorne.md) recognizes the manipulation before the adults do.
 
 ### Let It Stop
 
-Multiple civic systems fail in a sequence that appears designed to force the Heart Engine into a new rhythm.
+Multiple civic systems fail in a sequence that appears designed to force [the Heart Engine](../locations/The_Aetherium.md) into a new rhythm.
 
 ### The First Face
 
-A captured operative claims the Inner Coil has already met Amelia—just not in this version of Aetherhaven.
+A captured operative claims the Inner Coil has already met [Amelia](../characters/Amelia_Hawthorne.md)—just not in this version of [Aetherhaven](../locations/Aetherhaven.md).
 
 ## Staged Revelations
 
@@ -592,7 +592,7 @@ A captured operative claims the Inner Coil has already met Amelia—just not in 
 - Whether some cells are receiving instructions from another chronology.
 - Whether a known ally was once a member.
 - Whether the Coil understands what mass Golden Vein severance would do.
-- Whether its leadership wants to free Aetherhaven or deliberately fracture it.
+- Whether its leadership wants to free [Aetherhaven](../locations/Aetherhaven.md) or deliberately fracture it.
 - The first confirmed face-to-face encounter.
 
 ## Continuity Constraints
@@ -608,7 +608,7 @@ A captured operative claims the Inner Coil has already met Amelia—just not in 
 - [Thorne](../characters/Chief_Inspector_Beatrice_Thorne.md) must not use the threat as justification for indiscriminate repression.
 - Moderate [Unwound](The_Unwound.md) members may fear the Coil as much as the public does.
 - [Mara](../characters/Captain_Mara_Voss.md) may cooperate with criminals but must reject the Coil's deliberate endangerment.
-- Amelia's autonomy must remain central if the faction claims it wants to free her.
+- [Amelia](../characters/Amelia_Hawthorne.md)'s autonomy must remain central if the faction claims it wants to free her.
 - [The Ninth Guild](The_Ninth_Guild.md) connection should remain plausible but unconfirmed in early volumes.
 - The faction's temporal knowledge should grow gradually.
 - Not every attack bearing the symbol should be genuine.
@@ -618,15 +618,15 @@ A captured operative claims the Inner Coil has already met Amelia—just not in 
 1. Who leads the Inner Coil?
 2. Is the Inner Coil real?
 3. What event created the first Severed Coil cell?
-4. How many cells operate in Aetherhaven?
+4. How many cells operate in [Aetherhaven](../locations/Aetherhaven.md)?
 5. Who funds them?
 6. Has [the Ninth Guild](The_Ninth_Guild.md) infiltrated or created cells?
 7. Have Council officials staged attacks under the Coil symbol?
 8. Does the faction possess chronal technology?
 9. Why are some warnings recorded before the attacks they predict?
 10. Which known character has a hidden history with the Coil?
-11. Is the faction attempting to stop the Heart Engine or trigger it?
+11. Is the faction attempting to stop [the Heart Engine](../locations/The_Aetherium.md) or trigger it?
 12. What would happen if every Golden Vein were severed?
-13. Does the Coil know Amelia is the Bearer of the Living Key?
+13. Does the Coil know [Amelia](../characters/Amelia_Hawthorne.md) is the Bearer of the Living Key?
 14. Will a moderate [Unwound](The_Unwound.md) leader become its target?
 15. What is the first confirmed Severed Coil operative the Hawthornes will meet?

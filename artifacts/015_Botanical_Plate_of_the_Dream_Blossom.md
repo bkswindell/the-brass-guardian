@@ -17,7 +17,7 @@ visual_transcription_status: complete
 
 # Botanical Plate of the Dream Blossom
 
-> **Artifact Image Slate #15** · The Clockwork Gardens · [Artifact standard](../CANON_MARKDOWN_STANDARD.md)
+> **Artifact Image Slate #15** · [The Clockwork Gardens](../locations/The_Clockwork_Gardens.md) · [Artifact standard](../CANON_MARKDOWN_STANDARD.md)
 
 ## Visual Reference
 
@@ -116,9 +116,9 @@ The botanical color palette is blue, violet, green, brass, and dark steel. The m
 
 ## Non-Visual Canon References and Story Context
 
-The plate visually establishes that Dream Blossom anatomy resembles Heart Engine machinery. The exact biological, aetheric, or historical explanation belongs to [Juniper Bell](../characters/Juniper_Bell.md), [The Moon Garden](../locations/The_Moon_Garden.md), and [The Keeper of Dreams](../story_arcs/The_Keeper_of_Dreams.md).
+The plate visually establishes that Dream Blossom anatomy resembles [Heart Engine](../locations/The_Aetherium.md) machinery. The exact biological, aetheric, or historical explanation belongs to [Juniper Bell](../characters/Juniper_Bell.md), [The Moon Garden](../locations/The_Moon_Garden.md), and [The Keeper of Dreams](../story_arcs/The_Keeper_of_Dreams.md).
 
-The plate identifies the specimen’s origin as “Elderglen Garden.” Current canon describes [the Moon Garden](../locations/The_Moon_Garden.md) as a hidden nocturnal layer of the Clockwork Gardens. The relationship between Elderglen Garden, [the Moon Garden](../locations/The_Moon_Garden.md), and the visible Clockwork Gardens is not resolved by this image.
+The plate identifies the specimen’s origin as “Elderglen Garden.” Current canon describes [the Moon Garden](../locations/The_Moon_Garden.md) as a hidden nocturnal layer of [the Clockwork Gardens](../locations/The_Clockwork_Gardens.md). The relationship between Elderglen Garden, [the Moon Garden](../locations/The_Moon_Garden.md), and the visible [Clockwork Gardens](../locations/The_Clockwork_Gardens.md) is not resolved by this image.
 
 The term “memory spores” is visible plate terminology. Their precise capabilities should not be expanded beyond linked canon.
 

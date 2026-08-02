@@ -17,7 +17,7 @@ visual_transcription_status: complete
 
 # Prototype II Cabinet Photograph
 
-> **Artifact Image Slate #11** · Amelia and the Aether Gauntlet · [Artifact standard](../CANON_MARKDOWN_STANDARD.md)
+> **Artifact Image Slate #11** · [Amelia](../characters/Amelia_Hawthorne.md) and the Aether Gauntlet · [Artifact standard](../CANON_MARKDOWN_STANDARD.md)
 
 ## Visual Reference
 
@@ -87,9 +87,9 @@ The parchment has a formal border, clipped or torn corners, age stains, and tape
 
 ## Non-Visual Canon References and Story Context
 
-The active plate visually documents Prototype II and its disturbed display case. The broader history of the prototype, its relationship to Amelia’s gauntlet, and the meaning of its active core belong to [The Black Catalogue Arc](../story_arcs/The_Black_Catalogue_Arc.md), [The Ninth Guild](../organizations/The_Ninth_Guild.md), and [The Order of the Closed Eye](../organizations/The_Order_of_the_Closed_Eye.md).
+The active plate visually documents Prototype II and its disturbed display case. The broader history of the prototype, its relationship to [Amelia](../characters/Amelia_Hawthorne.md)’s gauntlet, and the meaning of its active core belong to [The Black Catalogue Arc](../story_arcs/The_Black_Catalogue_Arc.md), [The Ninth Guild](../organizations/The_Ninth_Guild.md), and [The Order of the Closed Eye](../organizations/The_Order_of_the_Closed_Eye.md).
 
-The plate calls the object a “Mechanist Prosthesis (Experimental)” from the Aetherhaven Arsenal. These are in-world catalog assertions, not necessarily complete or trustworthy institutional history.
+The plate calls the object a “Mechanist Prosthesis (Experimental)” from the [Aetherhaven](../locations/Aetherhaven.md) Arsenal. These are in-world catalog assertions, not necessarily complete or trustworthy institutional history.
 
 The image does not visibly contain the phrase “Awaiting the Bearer.” If that phrase remains canon, it must come from another record rather than this plate.
 

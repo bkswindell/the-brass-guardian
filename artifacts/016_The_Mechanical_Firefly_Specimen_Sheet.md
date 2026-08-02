@@ -16,7 +16,7 @@ canonical_images:
 
 # The Mechanical Firefly Specimen Sheet
 
-> **Artifact Image Slate #16** · The Clockwork Gardens · [Artifact standard](../CANON_MARKDOWN_STANDARD.md)
+> **Artifact Image Slate #16** · [The Clockwork Gardens](../locations/The_Clockwork_Gardens.md) · [Artifact standard](../CANON_MARKDOWN_STANDARD.md)
 
 ## Visual Reference
 
@@ -24,7 +24,7 @@ canonical_images:
 
 ## Canonical Purpose
 
-Records the creature Amelia rescued. One annotation suggests it is far older than the Gardens.
+Records the creature [Amelia](../characters/Amelia_Hawthorne.md) rescued. One annotation suggests it is far older than the Gardens.
 
 ## Intended Form
 

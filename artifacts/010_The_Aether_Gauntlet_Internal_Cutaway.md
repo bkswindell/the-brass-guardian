@@ -15,7 +15,7 @@ canonical_images:
 
 # The Aether Gauntlet: Internal Cutaway
 
-> **Artifact Image Slate #10** · Amelia and the Aether Gauntlet · [Artifact standard](../CANON_MARKDOWN_STANDARD.md)
+> **Artifact Image Slate #10** · [Amelia](../characters/Amelia_Hawthorne.md) and the Aether Gauntlet · [Artifact standard](../CANON_MARKDOWN_STANDARD.md)
 
 ## Visual Reference
 
@@ -23,7 +23,7 @@ canonical_images:
 
 ## Canonical Purpose
 
-Reveals that Elias’s work follows a much older internal architecture, whether he knew it or not.
+Reveals that [Elias](../characters/Professor_Elias_Hawthorne.md)’s work follows a much older internal architecture, whether he knew it or not.
 
 ## Intended Form
 

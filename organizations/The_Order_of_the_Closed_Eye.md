@@ -38,7 +38,7 @@ temporal_relevance: Critical
 
 ## Publicly Knowable Canonical Summary
 
-The Order of the Closed Eye is a secret society believed to operate within [the High Council](The_High_Council_of_Aetherhaven.md), Academy of Invention, Society of Explorers, and other institutions throughout Aetherhaven.
+The Order of the Closed Eye is a secret society believed to operate within [the High Council](The_High_Council_of_Aetherhaven.md), [Academy of Invention](The_Academy_of_Invention.md), [Society of Explorers](The_Society_of_Explorers.md), and other institutions throughout [Aetherhaven](../locations/Aetherhaven.md).
 
 Its members believe certain discoveries become dangerous simply by being understood. They conceal artifacts, alter maps, seal laboratories, and remove historical records when knowledge itself may awaken an ancient mechanism.
 
@@ -46,11 +46,11 @@ Their symbol is a closed mechanical eye, often marked with a tiny keyhole at its
 
 Some credit the Order with preventing catastrophes the public will never know came close to occurring.
 
-Others accuse it of deciding which truths Aetherhaven is permitted to remember.
+Others accuse it of deciding which truths [Aetherhaven](../locations/Aetherhaven.md) is permitted to remember.
 
 The Order may have protected the city for generations.
 
-It may also be the reason no one remembers what truly happened during the expedition that changed Amelia's arm.
+It may also be the reason no one remembers what truly happened during the expedition that changed [Amelia](../characters/Amelia_Hawthorne.md)'s arm.
 
 ## Core Doctrine
 
@@ -226,9 +226,9 @@ She does not know the full number of Order seats within [the High Council](The_H
 
 This creates a long-term conflict:
 
-> Is [Octavia](../characters/Chancellor_Octavia_Vale.md) working with the Order to protect Aetherhaven—or governing inside a reality the Order has constructed for her?
+> Is [Octavia](../characters/Chancellor_Octavia_Vale.md) working with the Order to protect [Aetherhaven](../locations/Aetherhaven.md)—or governing inside a reality the Order has constructed for her?
 
-The sealed letter addressed to Amelia decades before Amelia's birth may have passed through Order custody.
+The sealed letter addressed to [Amelia](../characters/Amelia_Hawthorne.md) decades before [Amelia](../characters/Amelia_Hawthorne.md)'s birth may have passed through Order custody.
 
 Whether the Order preserved it, delayed it, altered it, or prevented its delivery remains unresolved.
 
@@ -305,7 +305,7 @@ Believe any risk of ancient activation justifies total suppression, permanent Ve
 
 ### Continuity Wardens
 
-Focus on temporal instability, altered archives, and systems capable of creating incompatible versions of Aetherhaven.
+Focus on temporal instability, altered archives, and systems capable of creating incompatible versions of [Aetherhaven](../locations/Aetherhaven.md).
 
 They may possess the deepest knowledge of Lost Seconds.
 
@@ -321,11 +321,11 @@ Members who believe the Order has exceeded its mandate and now preserves its own
 
 Some may become whistleblowers, defectors, or allies.
 
-## Relationship with the Academy of Invention
+## Relationship with [the Academy of Invention](The_Academy_of_Invention.md)
 
-The Academy is one of the Order's principal battlegrounds.
+[The Academy](The_Academy_of_Invention.md) is one of the Order's principal battlegrounds.
 
-The Academy exists to discover.
+[The Academy](The_Academy_of_Invention.md) exists to discover.
 
 The Order exists to decide which discoveries must never be completed.
 
@@ -347,7 +347,7 @@ The Order has likely:
 - altered catalogues,
 - and arranged for certain experiments to be remembered as failures that never progressed.
 
-Doctor Elara Quill knows Academy records have been deliberately changed.
+[Doctor Elara Quill](../characters/Doctor_Elara_Quill.md) knows Academy records have been deliberately changed.
 
 She may not initially know the Order's entire structure, but she recognizes its methods.
 
@@ -357,11 +357,11 @@ Her removal of Prototype II records can be interpreted as an attempt to prevent:
 - [Ninth Guild](The_Ninth_Guild.md) acquisition,
 - or both.
 
-Elara and the Order share a fear of dangerous knowledge.
+[Elara](../characters/Doctor_Elara_Quill.md) and the Order share a fear of dangerous knowledge.
 
 They disagree over whether protecting someone requires denying them the truth.
 
-## Relationship with the Society of Explorers
+## Relationship with [the Society of Explorers](The_Society_of_Explorers.md)
 
 The Society maps places the Order may prefer remain inaccessible.
 
@@ -373,7 +373,7 @@ The Order uses Society influence to:
 - classify regions as **Intentionally Uncharted**,
 - and suppress accounts of ancient sites.
 
-The Society's Inner Compass may be:
+The Society's [Inner Compass](The_Inner_Compass.md) may be:
 
 - partially infiltrated,
 - partially allied,
@@ -381,7 +381,7 @@ The Society's Inner Compass may be:
 
 This relationship is deliberately unresolved.
 
-Elias may eventually discover that some of the maps he trusted were designed to lead him away from the truth.
+[Elias](../characters/Professor_Elias_Hawthorne.md) may eventually discover that some of the maps he trusted were designed to lead him away from the truth.
 
 ## Relationship with [the Mechanists' Guild](The_Mechanists_Guild.md)
 
@@ -390,16 +390,16 @@ The Order has deep historical connections to the recognized engineering guilds.
 It may have influenced:
 
 - hidden symbols beneath old guild medallions,
-- the sealing of Heart Engine access patterns,
+- the sealing of [Heart Engine](../locations/The_Aetherium.md) access patterns,
 - restrictions on conscious machinery,
 - destruction of early chronometric records,
 - and the official exclusion of certain disciplines.
 
 Some senior:
 
-- Clockwrights,
-- Aetherwrights,
-- Artificers,
+- [Clockwrights](The_Guild_of_Clockwrights.md),
+- [Aetherwrights](The_Guild_of_Aetherwrights.md),
+- [Artificers](The_Guild_of_Artificers.md),
 - and guild archivists
 
 may serve as Observers or Civic Stewards.
@@ -423,7 +423,7 @@ Most officers believe these are [High Council](The_High_Council_of_Aetherhaven.m
 
 [Chief Inspector Beatrice Thorne](../characters/Chief_Inspector_Beatrice_Thorne.md) increasingly suspects another authority stands behind them.
 
-The Order may be directly responsible for the official denial of her Shrouded Vaults expedition.
+The Order may be directly responsible for the official denial of her [Shrouded Vaults](../locations/The_Shrouded_Vaults.md) expedition.
 
 That makes [Thorne](../characters/Chief_Inspector_Beatrice_Thorne.md) one of its most dangerous potential enemies.
 
@@ -438,7 +438,7 @@ The Order may once have expected [Thorne](../characters/Chief_Inspector_Beatrice
 
 Instead, the Vaults taught her to distrust any institution that treats missing evidence as proof of safety.
 
-## The Shrouded Vaults Expedition
+## [The Shrouded Vaults](../locations/The_Shrouded_Vaults.md) Expedition
 
 The expedition that cost [Thorne](../characters/Chief_Inspector_Beatrice_Thorne.md) her left eye was likely an Order-directed operation using [Brass Watch](The_Brass_Watch.md) personnel.
 
@@ -499,7 +499,7 @@ Senior Chartkeepers may refer to it simply as:
 
 [The Unwound](The_Unwound.md) is not complicit in the Order's artifact thefts or containment operations.
 
-It views the Order as proof that Aetherhaven's official history is manufactured.
+It views the Order as proof that [Aetherhaven](../locations/Aetherhaven.md)'s official history is manufactured.
 
 Moderate [Unwound](The_Unwound.md) members oppose the Order because:
 
@@ -586,9 +586,9 @@ The Order now blames [the Underclock](The_Underclock.md) for the breach.
 
 Some [Underclock](The_Underclock.md) members know they were used and preserve fragments of evidence that neither the Order nor [Ninth Guild](The_Ninth_Guild.md) possesses.
 
-## Relationship with Elias Hawthorne
+## Relationship with [Elias Hawthorne](../characters/Professor_Elias_Hawthorne.md)
 
-After Amelia's original accident, Elias agreed to a limited Closure procedure.
+After [Amelia](../characters/Amelia_Hawthorne.md)'s original accident, [Elias](../characters/Professor_Elias_Hawthorne.md) agreed to a limited Closure procedure.
 
 He believed a specific:
 
@@ -603,14 +603,14 @@ He consented to losing one dangerous memory.
 
 The Order removed more than he authorized.
 
-This gives Elias several layers of guilt:
+This gives [Elias](../characters/Professor_Elias_Hawthorne.md) several layers of guilt:
 
 - he invited the Order into his family's memories,
-- he believed he was protecting Amelia,
+- he believed he was protecting [Amelia](../characters/Amelia_Hawthorne.md),
 - he cannot remember enough to know what else was taken,
 - and he has spent years reconstructing the truth through journals and artifacts.
 
-The locked journal aboard the *Wayfinder* may exist because Elias learned that handwritten, physically anchored records can survive Veiling.
+The locked journal aboard the *Wayfinder* may exist because [Elias](../characters/Professor_Elias_Hawthorne.md) learned that handwritten, physically anchored records can survive Veiling.
 
 The Order considers him:
 
@@ -651,9 +651,9 @@ Her possible identity as the Keeper of Dreams is especially troubling because dr
 
 For complete character canon, see [Juniper Bell](../characters/Juniper_Bell.md).
 
-## Relationship with Amelia Hawthorne
+## Relationship with [Amelia Hawthorne](../characters/Amelia_Hawthorne.md)
 
-Amelia is the Order's greatest unresolved dilemma.
+[Amelia](../characters/Amelia_Hawthorne.md) is the Order's greatest unresolved dilemma.
 
 Some members believe she must be protected because only she can safely interact with ancient systems.
 
@@ -663,7 +663,7 @@ Internal positions include:
 
 ### Guardians
 
-Protect Amelia from groups that would exploit her.
+Protect [Amelia](../characters/Amelia_Hawthorne.md) from groups that would exploit her.
 
 ### Closers
 
@@ -671,14 +671,14 @@ Restrict knowledge of her abilities, limit access, and prepare contingencies if 
 
 ### Finalists
 
-Believe Amelia herself may eventually require Closure through:
+Believe [Amelia](../characters/Amelia_Hawthorne.md) herself may eventually require Closure through:
 
 - permanent memory suppression,
 - separation from the Aether Heart,
 - confinement,
 - or another irreversible intervention.
 
-The Order may save Amelia in one story and attempt to control her in another.
+The Order may save [Amelia](../characters/Amelia_Hawthorne.md) in one story and attempt to control her in another.
 
 Its members may sincerely care about her.
 
@@ -730,7 +730,7 @@ Possible destinations included:
 
 - a sealed Academy annex,
 - an Order-controlled archive,
-- or an outer chamber of the Shrouded Vaults.
+- or an outer chamber of [the Shrouded Vaults](../locations/The_Shrouded_Vaults.md).
 
 The transfer did not appear in ordinary civic records.
 
@@ -802,7 +802,7 @@ Its response is suppression.
 
 The Order may have prevented real temporal disasters.
 
-It may also have destroyed the evidence Aetherhaven needs to understand and survive them.
+It may also have destroyed the evidence [Aetherhaven](../locations/Aetherhaven.md) needs to understand and survive them.
 
 ## Symbols and Artifacts
 
@@ -842,19 +842,19 @@ Its existence is unconfirmed.
 
 ### The Map That Refuses to Stay Closed
 
-A redacted route reappears every time Amelia touches the map.
+A redacted route reappears every time [Amelia](../characters/Amelia_Hawthorne.md) touches the map.
 
 ### The Warden's Mercy
 
-An Order Warden saves Amelia from [the Ninth Guild](The_Ninth_Guild.md) and then attempts to confiscate the evidence she recovered.
+An Order Warden saves [Amelia](../characters/Amelia_Hawthorne.md) from [the Ninth Guild](The_Ninth_Guild.md) and then attempts to confiscate the evidence she recovered.
 
 ### The Council Vote That Already Happened
 
 [Octavia](../characters/Chancellor_Octavia_Vale.md) discovers that the outcome of a [High Council](The_High_Council_of_Aetherhaven.md) debate was shaped before the members received their briefing packets.
 
-### The Memory Elias Gave Away
+### The Memory [Elias](../characters/Professor_Elias_Hawthorne.md) Gave Away
 
-Elias reconstructs the exact memory he once consented to lose and discovers the Order removed someone else from it.
+[Elias](../characters/Professor_Elias_Hawthorne.md) reconstructs the exact memory he once consented to lose and discovers the Order removed someone else from it.
 
 ### [The Underclock](The_Underclock.md) Job
 
@@ -876,18 +876,18 @@ A [High Council](The_High_Council_of_Aetherhaven.md) member discovers that their
 - Its symbol is a closed mechanical eye.
 - It suppresses dangerous artifacts, maps, and records.
 - It operates within respected institutions.
-- It may be connected to missing memories surrounding Amelia's accident.
+- It may be connected to missing memories surrounding [Amelia](../characters/Amelia_Hawthorne.md)'s accident.
 - It may have prevented real disasters.
 - Prototype I's records were deliberately altered.
 
 ### Mid-Series
 
 - The Order is real and deeply embedded.
-- It directed the Shrouded Vaults expedition.
+- It directed [the Shrouded Vaults](../locations/The_Shrouded_Vaults.md) expedition.
 - It controls Closure authority independent of ordinary Council review.
 - Some Council members are full Order members.
 - Others are unknowingly guided or controlled.
-- Elias consented to limited memory removal.
+- [Elias](../characters/Professor_Elias_Hawthorne.md) consented to limited memory removal.
 - The Order exceeded that consent.
 - It confiscated Prototype I.
 
@@ -896,10 +896,10 @@ A [High Council](The_High_Council_of_Aetherhaven.md) member discovers that their
 - The full reach of the Closed Council.
 - Which trusted public figures hold Veiled Seats.
 - The exact degree of Order control over [the High Council](The_High_Council_of_Aetherhaven.md).
-- The true purpose of the Shrouded Vaults.
-- The complete memory removed from Elias and Amelia.
+- The true purpose of [the Shrouded Vaults](../locations/The_Shrouded_Vaults.md).
+- The complete memory removed from [Elias](../characters/Professor_Elias_Hawthorne.md) and [Amelia](../characters/Amelia_Hawthorne.md).
 - The exact fate of Prototype I after the broken handoff.
-- Whether the Order's oldest Closure prevented—or caused—a major Aetherhaven mystery.
+- Whether the Order's oldest Closure prevented—or caused—a major [Aetherhaven](../locations/Aetherhaven.md) mystery.
 
 ## Continuity Constraints
 
@@ -916,7 +916,7 @@ A [High Council](The_High_Council_of_Aetherhaven.md) member discovers that their
 - Neither the Order nor [Ninth Guild](The_Ninth_Guild.md) should be confirmed to possess Prototype I in early canon.
 - The Order and [Ninth Guild](The_Ninth_Guild.md) remain ideological mirror enemies.
 - The Order should sometimes help the Hawthornes and sometimes oppose them.
-- Its members may care sincerely for Amelia while denying her agency.
+- Its members may care sincerely for [Amelia](../characters/Amelia_Hawthorne.md) while denying her agency.
 - Not every [High Council](The_High_Council_of_Aetherhaven.md) member should be an Order pawn.
 - The Order's control must operate primarily through information, records, appointments, leverage, and memory rather than overt rule.
 
@@ -925,15 +925,15 @@ A [High Council](The_High_Council_of_Aetherhaven.md) member discovers that their
 1. Who sits on the Closed Council?
 2. How many [High Council](The_High_Council_of_Aetherhaven.md) seats are Open, Bound, Guided, or Unbound?
 3. Which public figure first recognizes the Order's full reach?
-4. Who authorized the original Closure surrounding Amelia's accident?
-5. What memory did Elias consent to lose?
+4. Who authorized the original Closure surrounding [Amelia](../characters/Amelia_Hawthorne.md)'s accident?
+5. What memory did [Elias](../characters/Professor_Elias_Hawthorne.md) consent to lose?
 6. What additional memories were removed?
 7. Which Academy insider saved the Prototype I catalogue slip?
 8. Who manipulated [the Underclock](The_Underclock.md) crew?
 9. Did Prototype I escape by choice?
 10. What evidence did [the Underclock](The_Underclock.md) preserve?
 11. Does [Octavia](../characters/Chancellor_Octavia_Vale.md)'s sealed letter contain an Order warning?
-12. Did the Order create the Shrouded Vaults or merely inherit them?
-13. Which Order faction believes Amelia should undergo permanent Closure?
+12. Did the Order create [the Shrouded Vaults](../locations/The_Shrouded_Vaults.md) or merely inherit them?
+13. Which Order faction believes [Amelia](../characters/Amelia_Hawthorne.md) should undergo permanent Closure?
 14. Is the Book of Closures real?
-15. What truth has the Order hidden that Aetherhaven now needs to survive?
+15. What truth has the Order hidden that [Aetherhaven](../locations/Aetherhaven.md) now needs to survive?

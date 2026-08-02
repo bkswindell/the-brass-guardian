@@ -26,7 +26,7 @@ temporal_relevance: Medium to high
 
 Tamsin Pike is a clever, practical young canal guide with an unusual knowledge of locks, maintenance passages, water levels, and doors that do not appear on ordinary maps.
 
-She carries an old brass key whose design predates several of Aetherhaven's current canal systems.
+She carries an old brass key whose design predates several of [Aetherhaven](../locations/Aetherhaven.md)'s current canal systems.
 
 Tamsin may already belong to [the Underclock](../organizations/The_Underclock.md).
 
@@ -90,9 +90,9 @@ Her larger arc involves choosing what, if anything, she owes to a network whose 
 
 For complete organization canon, see [The Underclock](../organizations/The_Underclock.md).
 
-## Relationship with Amelia Hawthorne
+## Relationship with [Amelia Hawthorne](Amelia_Hawthorne.md)
 
-Tamsin can become a close friend and grounded peer for Amelia.
+Tamsin can become a close friend and grounded peer for [Amelia](Amelia_Hawthorne.md).
 
 She offers:
 
@@ -101,15 +101,15 @@ She offers:
 - humor,
 - and willingness to enter places adults have declared inaccessible.
 
-Amelia sees patterns Tamsin does not.
+[Amelia](Amelia_Hawthorne.md) sees patterns Tamsin does not.
 
-Tamsin knows routes Amelia cannot read.
+Tamsin knows routes [Amelia](Amelia_Hawthorne.md) cannot read.
 
 Their friendship should be mutual rather than reducing Tamsin to a guide.
 
-## Relationship with Elias Hawthorne
+## Relationship with [Elias Hawthorne](Professor_Elias_Hawthorne.md)
 
-Elias respects Tamsin's competence but worries about:
+[Elias](Professor_Elias_Hawthorne.md) respects Tamsin's competence but worries about:
 
 - hidden obligations,
 - dangerous routes,
@@ -117,7 +117,7 @@ Elias respects Tamsin's competence but worries about:
 
 Tamsin resents overprotection when it becomes dismissal.
 
-She may still trust Elias because he repairs things without asking her to surrender the key.
+She may still trust [Elias](Professor_Elias_Hawthorne.md) because he repairs things without asking her to surrender the key.
 
 ## Visual Continuity
 
@@ -160,7 +160,7 @@ Her clothing may include inherited repairs or old canal-family markings.
 - Tamsin must remain more than a route guide.
 - Her [Underclock](../organizations/The_Underclock.md) connection should be substantial but initially ambiguous.
 - She must not be treated as automatically criminal.
-- Her practical intelligence should remain distinct from Amelia's pattern recognition and Elias's engineering knowledge.
+- Her practical intelligence should remain distinct from [Amelia](Amelia_Hawthorne.md)'s pattern recognition and [Elias](Professor_Elias_Hawthorne.md)'s engineering knowledge.
 - The brass key must have limited, specific significance rather than functioning as a universal key.
 - Tamsin's choices must determine her eventual place in [the Underclock](../organizations/The_Underclock.md).
 

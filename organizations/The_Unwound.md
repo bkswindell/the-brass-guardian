@@ -44,7 +44,7 @@ The Unwound is a broad reform movement united by one belief:
 
 > Dependence without understanding is surrender.
 
-Its members argue that Aetherhaven has become dangerously dependent on the Heart Engine, the Golden Veins, synchronized civic clocks, automated sentinels, and machinery no living engineer fully understands.
+Its members argue that [Aetherhaven](../locations/Aetherhaven.md) has become dangerously dependent on [the Heart Engine](../locations/The_Aetherium.md), the Golden Veins, synchronized civic clocks, automated sentinels, and machinery no living engineer fully understands.
 
 The movement does not uniformly oppose machines.
 
@@ -56,7 +56,7 @@ A radical splinter faction, known as **[the Severed Coil](The_Severed_Coil.md)**
 
 That portrayal is politically convenient and factually incomplete.
 
-The Unwound may be wrong about some of the Heart Engine's purpose, but they are not wrong that Aetherhaven is feeding something.
+The Unwound may be wrong about some of [the Heart Engine](../locations/The_Aetherium.md)'s purpose, but they are not wrong that [Aetherhaven](../locations/Aetherhaven.md) is feeding something.
 
 ## Name and Philosophy
 
@@ -64,9 +64,9 @@ The name **Unwound** does not originally mean broken.
 
 It refers to releasing the stored tension inside a spring before it snaps.
 
-Early movement texts describe Aetherhaven as a machine wound tighter with every generation:
+Early movement texts describe [Aetherhaven](../locations/Aetherhaven.md) as a machine wound tighter with every generation:
 
-- more districts connected to the Heart Engine,
+- more districts connected to [the Heart Engine](../locations/The_Aetherium.md),
 - more clocks synchronized to the Clocktower,
 - more public systems automated,
 - more knowledge concentrated in institutions,
@@ -83,15 +83,15 @@ Their core principles include:
 5. Ancient machinery should not be awakened merely because it can be.
 6. No person should be treated as a component in someone else's machine.
 
-The sixth principle becomes especially important when the movement encounters Amelia.
+The sixth principle becomes especially important when the movement encounters [Amelia](../characters/Amelia_Hawthorne.md).
 
-## Public Role in Aetherhaven
+## Public Role in [Aetherhaven](../locations/Aetherhaven.md)
 
 The public sees several different versions of the Unwound.
 
 ### Community Reformers
 
-They operate repair halls, kitchens, hand-pump stations, local workshops, and emergency shelters. During outages, they are often the first people able to restore basic services without waiting for the Engine Complex.
+They operate repair halls, kitchens, hand-pump stations, local workshops, and emergency shelters. During outages, they are often the first people able to restore basic services without waiting for [the Engine Complex](../locations/The_Engine_Complex.md).
 
 ### Political Advocates
 
@@ -99,7 +99,7 @@ They petition [the High Council](The_High_Council_of_Aetherhaven.md) for:
 
 - distributed power,
 - independent safety systems,
-- public access to Engine Complex reports,
+- public access to [Engine Complex](../locations/The_Engine_Complex.md) reports,
 - limits on autonomous machinery,
 - protection for whistleblowers,
 - and investigation of Golden Vein failures.
@@ -110,7 +110,7 @@ They favor human craftsmanship, natural power, and mechanisms whose purpose rema
 
 ### Radicals
 
-[The Severed Coil](The_Severed_Coil.md) believes reform is impossible while Aetherhaven remains connected to the Heart Engine. Its members sabotage conduits, disable regulators, and attempt to force the city to confront its dependence.
+[The Severed Coil](The_Severed_Coil.md) believes reform is impossible while [Aetherhaven](../locations/Aetherhaven.md) remains connected to [the Heart Engine](../locations/The_Aetherium.md). Its members sabotage conduits, disable regulators, and attempt to force the city to confront its dependence.
 
 The movement's decentralized structure makes it difficult to determine where lawful reform ends and conspiracy begins.
 
@@ -135,7 +135,7 @@ Free clocks are not corrected after Lost Seconds.
 
 This practice began as a political statement.
 
-Over generations, it produced one of the movement's most important archives: thousands of private clocks, family calendars, workshop ledgers, and handwritten records that do not always agree with official Aetherhaven time.
+Over generations, it produced one of the movement's most important archives: thousands of private clocks, family calendars, workshop ledgers, and handwritten records that do not always agree with official [Aetherhaven](../locations/Aetherhaven.md) time.
 
 The Unwound calls these discrepancies **the Unaccounted Hours**.
 
@@ -147,7 +147,7 @@ The Unwound has no single recognized leader.
 
 This protects the movement from political capture but also makes it vulnerable to extremism, infiltration, and contradictory messages.
 
-### The Handwright Circles
+### [The Handwright Circles](The_Handwright_Circles.md)
 
 Local community groups centered on practical resilience.
 
@@ -160,15 +160,15 @@ They teach:
 - mechanical first aid,
 - and neighborhood evacuation.
 
-They are widely respected in the Workers' Dormitories and Old City.
+They are widely respected in [the Workers' Dormitories](../locations/The_Workers_Dormitories.md) and [Old City](../locations/The_Old_City.md).
 
-### The Free Spring Assembly
+### [The Free Spring Assembly](The_Free_Spring_Assembly.md)
 
 The movement's public political wing.
 
-It writes petitions, publishes broadsides, organizes debates, and demands transparency from [the High Council](The_High_Council_of_Aetherhaven.md) and Engine Complex.
+It writes petitions, publishes broadsides, organizes debates, and demands transparency from [the High Council](The_High_Council_of_Aetherhaven.md) and [Engine Complex](../locations/The_Engine_Complex.md).
 
-### The Clockkeepers Without Hours
+### [The Clockkeepers Without Hours](The_Clockkeepers_Without_Hours.md)
 
 An informal network that preserves unsynchronized clocks and contradictory family records.
 
@@ -178,7 +178,7 @@ Many members believe official timekeeping is politically manipulated. They do no
 
 A militant splinter faction.
 
-[The Severed Coil](The_Severed_Coil.md) believes Aetherhaven cannot become free until the Golden Veins are physically severed.
+[The Severed Coil](The_Severed_Coil.md) believes [Aetherhaven](../locations/Aetherhaven.md) cannot become free until the Golden Veins are physically severed.
 
 It may contain:
 
@@ -190,7 +190,7 @@ It may contain:
 
 The Unwound publicly rejects attacks that endanger civilians.
 
-[The Severed Coil](The_Severed_Coil.md) claims every citizen is already endangered by dependence on the Heart Engine.
+[The Severed Coil](The_Severed_Coil.md) claims every citizen is already endangered by dependence on [the Heart Engine](../locations/The_Aetherium.md).
 
 ## Relationship with [the Brass Watch](The_Brass_Watch.md)
 
@@ -209,7 +209,7 @@ The Unwound sees:
 
 - Council-backed raids,
 - confiscation of independent records,
-- officers protecting Engine Complex secrecy,
+- officers protecting [Engine Complex](../locations/The_Engine_Complex.md) secrecy,
 - and anomaly reports closed without explanation.
 
 Both views contain truth.
@@ -247,7 +247,7 @@ The Watch and the Unwound frequently collide over:
 
 During major outages, Watch officers may depend on Unwound manual systems to evacuate or shelter civilians.
 
-During investigations, Unwound communities may refuse cooperation unless [Thorne](../characters/Chief_Inspector_Beatrice_Thorne.md) guarantees that evidence will not be transferred to the Council or Engine Complex.
+During investigations, Unwound communities may refuse cooperation unless [Thorne](../characters/Chief_Inspector_Beatrice_Thorne.md) guarantees that evidence will not be transferred to the Council or [Engine Complex](../locations/The_Engine_Complex.md).
 
 ### Clockwork Sentinels
 
@@ -255,11 +255,11 @@ The Unwound distrusts clockwork sentinels because their deepest command hierarch
 
 Moderate members argue that no lawkeeper should contain directives that living officers cannot inspect or override.
 
-The sentinel refusal to enter the Old City after midnight is frequently cited in Unwound broadsides as proof that Aetherhaven's machines obey an authority older than its citizens.
+The sentinel refusal to enter [the Old City](../locations/The_Old_City.md) after midnight is frequently cited in Unwound broadsides as proof that [Aetherhaven](../locations/Aetherhaven.md)'s machines obey an authority older than its citizens.
 
-## Relationship with Professor Elias Hawthorne
+## Relationship with [Professor Elias Hawthorne](../characters/Professor_Elias_Hawthorne.md)
 
-The Unwound is divided over Elias.
+The Unwound is divided over [Elias](../characters/Professor_Elias_Hawthorne.md).
 
 ### Why Some Respect Him
 
@@ -272,50 +272,50 @@ The Unwound is divided over Elias.
 ### Why Some Distrust Him
 
 - He studies and awakens ancient machinery.
-- His work is connected to the Heart Engine.
-- He built or completed Amelia's Aether Gauntlet.
-- He maintains relationships with the Academy, Society of Explorers, and [High Council](The_High_Council_of_Aetherhaven.md) officials.
+- His work is connected to [the Heart Engine](../locations/The_Aetherium.md).
+- He built or completed [Amelia](../characters/Amelia_Hawthorne.md)'s Aether Gauntlet.
+- He maintains relationships with [the Academy](The_Academy_of_Invention.md), [Society of Explorers](The_Society_of_Explorers.md), and [High Council](The_High_Council_of_Aetherhaven.md) officials.
 - His discoveries may increase the city's dependence on systems no one understands.
 
-Elias agrees with the Unwound that Aetherhaven needs distributed safeguards and manual alternatives.
+[Elias](../characters/Professor_Elias_Hawthorne.md) agrees with the Unwound that [Aetherhaven](../locations/Aetherhaven.md) needs distributed safeguards and manual alternatives.
 
 He strongly rejects sabotage of the Golden Veins.
 
 He believes the movement correctly identifies a danger but often mistakes ignorance for evil and machinery for intent.
 
-The Unwound believes Elias sometimes mistakes curiosity for responsibility.
+The Unwound believes [Elias](../characters/Professor_Elias_Hawthorne.md) sometimes mistakes curiosity for responsibility.
 
 Their debates should be intellectually serious rather than dismissive.
 
-## Relationship with Amelia Hawthorne
+## Relationship with [Amelia Hawthorne](../characters/Amelia_Hawthorne.md)
 
-Amelia becomes a moral test for the movement.
+[Amelia](../characters/Amelia_Hawthorne.md) becomes a moral test for the movement.
 
 Different Unwound members see her as:
 
 - a child and explorer,
 - proof that human and machine can coexist,
 - evidence that ancient systems can choose a person,
-- a victim of Elias's experimentation,
-- a living conduit to the Heart Engine,
+- a victim of [Elias](../characters/Professor_Elias_Hawthorne.md)'s experimentation,
+- a living conduit to [the Heart Engine](../locations/The_Aetherium.md),
 - or a person whom every faction is in danger of treating as an object.
 
-The moderate movement's sixth principle—no person should be treated as a component—requires them to defend Amelia's autonomy.
+The moderate movement's sixth principle—no person should be treated as a component—requires them to defend [Amelia](../characters/Amelia_Hawthorne.md)'s autonomy.
 
 They oppose attempts by the Council, Academy, Watch, or radicals to use her merely as a key.
 
-[The Severed Coil](The_Severed_Coil.md) may interpret the Aether Heart as a direct link between Amelia and the system they want to destroy.
+[The Severed Coil](The_Severed_Coil.md) may interpret the Aether Heart as a direct link between [Amelia](../characters/Amelia_Hawthorne.md) and the system they want to destroy.
 
-Some extremists could claim that "freeing" Amelia requires disconnecting the Heart, disabling the gauntlet, or preventing her from reaching the Aetherium.
+Some extremists could claim that "freeing" [Amelia](../characters/Amelia_Hawthorne.md) requires disconnecting the Heart, disabling the gauntlet, or preventing her from reaching [the Aetherium](../locations/The_Aetherium.md).
 
 This creates danger without making the entire movement her enemy.
 
-Amelia is likely to understand the Unwound better than most adults because she can see both truths:
+[Amelia](../characters/Amelia_Hawthorne.md) is likely to understand the Unwound better than most adults because she can see both truths:
 
 - machines can help people,
 - and dependence can become a cage.
 
-She may become the first person able to show them that the Heart Engine is not simply a power source—and that shutting it down blindly could awaken or release something worse.
+She may become the first person able to show them that [the Heart Engine](../locations/The_Aetherium.md) is not simply a power source—and that shutting it down blindly could awaken or release something worse.
 
 ## Relationship with [the High Council](The_High_Council_of_Aetherhaven.md)
 
@@ -343,7 +343,7 @@ Others are intended to prevent questions.
 
 The Unwound's greatest political power is not sabotage.
 
-It is the possibility that ordinary citizens may learn the Heart Engine cannot be independently shut down.
+It is the possibility that ordinary citizens may learn [the Heart Engine](../locations/The_Aetherium.md) cannot be independently shut down.
 
 ## Relationship with [the Mechanists' Guild](The_Mechanists_Guild.md)
 
@@ -351,7 +351,7 @@ It is the possibility that ordinary citizens may learn the Heart Engine cannot b
 
 Privately, many Guild members sympathize with the movement's demand for systems that can be understood, repaired, and safely stopped.
 
-Older mechanists remember when local workshops maintained manual backups before the Engine Complex standardized the city's infrastructure.
+Older mechanists remember when local workshops maintained manual backups before [the Engine Complex](../locations/The_Engine_Complex.md) standardized the city's infrastructure.
 
 A hidden network of Guild members may provide the Unwound with:
 
@@ -383,7 +383,7 @@ A major future revelation may show that one of the most destructive "Unwound" at
 
 ## Temporal Significance
 
-The Unwound has unknowingly created one of Aetherhaven's most valuable chronal archives.
+The Unwound has unknowingly created one of [Aetherhaven](../locations/Aetherhaven.md)'s most valuable chronal archives.
 
 Because many members refuse civic synchronization, their:
 
@@ -409,27 +409,27 @@ They are partly wrong.
 
 They are also closer to the truth than most official institutions.
 
-The Clockkeepers Without Hours may eventually become essential allies of the Second Watch and the Hawthornes.
+[The Clockkeepers Without Hours](The_Clockkeepers_Without_Hours.md) may eventually become essential allies of the Second Watch and the Hawthornes.
 
-## The Central Claim: Aetherhaven Is Feeding It
+## The Central Claim: [Aetherhaven](../locations/Aetherhaven.md) Is Feeding It
 
 The movement's most controversial claim is:
 
-> The Heart Engine does not power Aetherhaven. Aetherhaven feeds the Heart Engine.
+> [The Heart Engine](../locations/The_Aetherium.md) does not power [Aetherhaven](../locations/Aetherhaven.md). [Aetherhaven](../locations/Aetherhaven.md) feeds [the Heart Engine](../locations/The_Aetherium.md).
 
 They base this belief on:
 
 - pressure changes in Golden Veins,
 - unexplained inward flows,
 - rising energy demand without equivalent production,
-- heat and aether traces moving toward the Aetherium,
-- and worker reports of machinery beneath the Engine Complex.
+- heat and aether traces moving toward [the Aetherium](../locations/The_Aetherium.md),
+- and worker reports of machinery beneath [the Engine Complex](../locations/The_Engine_Complex.md).
 
 The claim is not fully proven.
 
 It may also be incomplete.
 
-The Heart Engine may consume:
+[The Heart Engine](../locations/The_Aetherium.md) may consume:
 
 - excess power,
 - pressure,
@@ -440,7 +440,7 @@ The Heart Engine may consume:
 
 The Unwound sees a predator.
 
-The truth may be that the Engine is performing a function without which Aetherhaven would fracture.
+The truth may be that the Engine is performing a function without which [Aetherhaven](../locations/Aetherhaven.md) would fracture.
 
 That does not make the cost acceptable.
 
@@ -483,15 +483,15 @@ A radical cell cuts a Golden Vein and discovers that something other than energy
 
 ### The False Saboteur
 
-[The Brass Watch](The_Brass_Watch.md) arrests a respected Handwright organizer after an attack. Amelia finds evidence that [the Ninth Guild](The_Ninth_Guild.md) staged the sabotage.
+[The Brass Watch](The_Brass_Watch.md) arrests a respected Handwright organizer after an attack. [Amelia](../characters/Amelia_Hawthorne.md) finds evidence that [the Ninth Guild](The_Ninth_Guild.md) staged the sabotage.
 
 ### The Free Clocks
 
 Hundreds of Unwound clocks strike an hour that official clocks deny exists.
 
-### Amelia Unbound
+### [Amelia](../characters/Amelia_Hawthorne.md) Unbound
 
-[The Severed Coil](The_Severed_Coil.md) attempts to separate Amelia from the Aether Heart, believing they are freeing her from the Engine's influence. Moderate Unwound members help protect her.
+[The Severed Coil](The_Severed_Coil.md) attempts to separate [Amelia](../characters/Amelia_Hawthorne.md) from the Aether Heart, believing they are freeing her from the Engine's influence. Moderate Unwound members help protect her.
 
 ### The Handhouse Siege
 
@@ -499,11 +499,11 @@ Council forces surround a community repair hall containing records that contradi
 
 ### The Machine Everyone Can Stop
 
-Elias works with Unwound engineers to design a district power system with a visible manual shutdown, challenging both Engine Complex policy and Unwound suspicion of him.
+[Elias](../characters/Professor_Elias_Hawthorne.md) works with Unwound engineers to design a district power system with a visible manual shutdown, challenging both [Engine Complex](../locations/The_Engine_Complex.md) policy and Unwound suspicion of him.
 
 ### The Unaccounted Hours
 
-Amelia and the Second Watch compare Unwound family records with Archive files and discover that Aetherhaven has lost far more than isolated seconds.
+[Amelia](../characters/Amelia_Hawthorne.md) and the Second Watch compare Unwound family records with Archive files and discover that [Aetherhaven](../locations/Aetherhaven.md) has lost far more than isolated seconds.
 
 ### The Quiet District
 
@@ -513,14 +513,14 @@ One neighborhood disconnects from the Golden Veins. For the first time in genera
 
 ### Safe for Early Volumes
 
-- The Unwound opposes dependence on the Heart Engine.
+- The Unwound opposes dependence on [the Heart Engine](../locations/The_Aetherium.md).
 - Most members are reformers, workers, and craftspeople rather than saboteurs.
 - A radical splinter faction attacks Golden Veins.
 - The movement preserves manual systems and unsynchronized clocks.
 - [The Brass Watch](The_Brass_Watch.md) monitors them but sometimes relies on them during outages.
 - [Thorne](../characters/Chief_Inspector_Beatrice_Thorne.md) distinguishes lawful reformers from extremists.
-- Elias agrees with some of their concerns but rejects sabotage.
-- Amelia divides opinion within the movement.
+- [Elias](../characters/Professor_Elias_Hawthorne.md) agrees with some of their concerns but rejects sabotage.
+- [Amelia](../characters/Amelia_Hawthorne.md) divides opinion within the movement.
 - [The High Council](The_High_Council_of_Aetherhaven.md) uses radical attacks to discredit the whole organization.
 
 ### Hold for Later
@@ -528,11 +528,11 @@ One neighborhood disconnects from the Golden Veins. For the first time in genera
 - Free-clock archives preserve earlier chronologies.
 - The Second Watch quietly uses Unwound records.
 - A major sabotage was staged by [the Ninth Guild](The_Ninth_Guild.md) or a Council faction.
-- Golden Veins carry time, memory, or chronal contradiction toward the Heart Engine.
+- Golden Veins carry time, memory, or chronal contradiction toward [the Heart Engine](../locations/The_Aetherium.md).
 - [The Severed Coil](The_Severed_Coil.md) may be manipulated by an outside power.
-- The movement's claim that Aetherhaven feeds the Engine is substantially true.
+- The movement's claim that [Aetherhaven](../locations/Aetherhaven.md) feeds the Engine is substantially true.
 - Disconnecting the city may cause temporal fragmentation.
-- Amelia's Aether Heart may be capable of regulating the exchange rather than simply stopping it.
+- [Amelia](../characters/Amelia_Hawthorne.md)'s Aether Heart may be capable of regulating the exchange rather than simply stopping it.
 
 ## Continuity Constraints
 
@@ -543,11 +543,11 @@ One neighborhood disconnects from the Golden Veins. For the first time in genera
 - [The Severed Coil](The_Severed_Coil.md) is a radical splinter, not the whole movement.
 - [The Brass Watch](The_Brass_Watch.md)'s suspicion must remain reasonable, especially after real sabotage.
 - Council suppression should not automatically prove every Unwound claim.
-- Elias should share some of their concerns while opposing destructive methods.
-- Amelia must remain a person, not a symbol or component, in the movement's moral debate.
+- [Elias](../characters/Professor_Elias_Hawthorne.md) should share some of their concerns while opposing destructive methods.
+- [Amelia](../characters/Amelia_Hawthorne.md) must remain a person, not a symbol or component, in the movement's moral debate.
 - Moderate Unwound members should defend her autonomy.
 - The movement's independent clocks and records are important to temporal canon.
-- Their claim that Aetherhaven feeds the Heart Engine should be partly true but initially misunderstood.
+- Their claim that [Aetherhaven](../locations/Aetherhaven.md) feeds [the Heart Engine](../locations/The_Aetherium.md) should be partly true but initially misunderstood.
 - Cooperation with the Hawthornes and Watch should be uneasy, conditional, and valuable.
 - The organization should generate moral choices, not provide an easy hero-or-villain label.
 
@@ -555,16 +555,16 @@ One neighborhood disconnects from the Golden Veins. For the first time in genera
 
 1. Who first founded the Unwound?
 2. Did the movement begin before or after the Rising?
-3. Who currently coordinates the Free Spring Assembly?
+3. Who currently coordinates [the Free Spring Assembly](The_Free_Spring_Assembly.md)?
 4. Who leads [the Severed Coil](The_Severed_Coil.md)?
 5. Has [the Ninth Guild](The_Ninth_Guild.md) infiltrated the radicals?
 6. Which Council official is using the movement as a political enemy?
 7. What exactly flows inward through the Golden Veins?
 8. Why do free clocks preserve some chronology?
-9. How many Unaccounted Hours has Aetherhaven accumulated?
-10. Can the city safely disconnect from the Heart Engine?
-11. Does the Heart Engine consume temporal contradictions to keep the city stable?
-12. Will the Unwound accept Amelia as a person whose choices may contradict their doctrine?
+9. How many Unaccounted Hours has [Aetherhaven](../locations/Aetherhaven.md) accumulated?
+10. Can the city safely disconnect from [the Heart Engine](../locations/The_Aetherium.md)?
+11. Does [the Heart Engine](../locations/The_Aetherium.md) consume temporal contradictions to keep the city stable?
+12. Will the Unwound accept [Amelia](../characters/Amelia_Hawthorne.md) as a person whose choices may contradict their doctrine?
 13. Which respected Watch officer secretly belongs to a Handwright Circle?
-14. Did Elias once work with an early Unwound founder?
+14. Did [Elias](../characters/Professor_Elias_Hawthorne.md) once work with an early Unwound founder?
 15. Will [the Severed Coil](The_Severed_Coil.md) eventually become an enemy, an ally, or both?

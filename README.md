@@ -1,27 +1,27 @@
-# The Brass Guardian
+# [The Brass Guardian](characters/Professor_Elias_Hawthorne.md)
 
 ![The Brass Guardian cover](art/The_Brass_Guardian_Cover.png)
 
-*The Brass Guardian* is an illustrated steampunk adventure series set in **Aetherhaven**, a city of copper towers, drifting airships, living machinery, shifting gardens, hidden canals, and ancient mechanisms that may remember more than the people who built around them.
+*[The Brass Guardian](characters/Professor_Elias_Hawthorne.md)* is an illustrated steampunk adventure series set in **[Aetherhaven](locations/Aetherhaven.md)**, a city of copper towers, drifting airships, living machinery, shifting gardens, hidden canals, and ancient mechanisms that may remember more than the people who built around them.
 
-At the heart of the series are **Professor Elias Hawthorne** and his daughter **Amelia Hawthorne**. Together, they travel aboard the airship *Wayfinder*, solve strange mechanical mysteries, help people and living machines, and uncover fragments of Aetherhaven's forgotten history.
+At the heart of the series are **[Professor Elias Hawthorne](characters/Professor_Elias_Hawthorne.md)** and his daughter **[Amelia Hawthorne](characters/Amelia_Hawthorne.md)**. Together, they travel aboard the airship *Wayfinder*, solve strange mechanical mysteries, help people and living machines, and uncover fragments of [Aetherhaven](locations/Aetherhaven.md)'s forgotten history.
 
-Amelia carries the **Aether Gauntlet**, a mechanical arm powered by a glowing Aether Heart. Its origins are uncertain, and the oldest systems in Aetherhaven sometimes respond to it in unexpected ways.
+[Amelia](characters/Amelia_Hawthorne.md) carries the **Aether Gauntlet**, a mechanical arm powered by a glowing Aether Heart. Its origins are uncertain, and the oldest systems in [Aetherhaven](locations/Aetherhaven.md) sometimes respond to it in unexpected ways.
 
-## Aetherhaven
+## [Aetherhaven](locations/Aetherhaven.md)
 
-Aetherhaven is built around the ancient **Heart Engine**, whose power travels beneath the city through a network known as the Golden Veins.
+[Aetherhaven](locations/Aetherhaven.md) is built around the ancient **[Heart Engine](locations/The_Aetherium.md)**, whose power travels beneath the city through a network known as the Golden Veins.
 
 The city includes:
 
-- the living and ever-changing **Clockwork Gardens**,
+- the living and ever-changing **[Clockwork Gardens](locations/The_Clockwork_Gardens.md)**,
 - bustling airship ports and workshops,
-- elevated walkways and reflection canals,
+- elevated walkways and [reflection canals](locations/The_Reflection_Canals.md),
 - engineering guilds and grand civic institutions,
 - hidden routes beneath the streets,
 - and restricted places the city warns its citizens never to enter.
 
-Time does not always behave properly in Aetherhaven. Clocks lose seconds. Records disagree. Familiar paths move. Airships return with impossible stories. Physical objects and living memories sometimes preserve truths that official history has forgotten.
+Time does not always behave properly in [Aetherhaven](locations/Aetherhaven.md). Clocks lose seconds. Records disagree. Familiar paths move. Airships return with impossible stories. Physical objects and living memories sometimes preserve truths that official history has forgotten.
 
 ## Stories for Curious Readers
 
@@ -47,8 +47,8 @@ Project development and canon indexing are maintained in [PROJECT_INDEX.md](PROJ
 
 ## Project Status
 
-*The Brass Guardian* is an active, evolving creative project. The current work focuses on Aetherhaven while allowing distant regions to appear through travelers, artifacts, airship routes, and stories brought home from beyond the city.
+*[The Brass Guardian](characters/Professor_Elias_Hawthorne.md)* is an active, evolving creative project. The current work focuses on [Aetherhaven](locations/Aetherhaven.md) while allowing distant regions to appear through travelers, artifacts, airship routes, and stories brought home from beyond the city.
 
 ---
 
-> *In Aetherhaven, even the smallest gear may remember where it belongs.*
+> *In [Aetherhaven](locations/Aetherhaven.md), even the smallest gear may remember where it belongs.*

@@ -24,7 +24,7 @@ canonical_images:
 
 ## Canonical Purpose
 
-Could concern [Inspector Thorne](../characters/Chief_Inspector_Beatrice_Thorne.md)’s nonexistent expedition into the Shrouded Vaults.
+Could concern [Inspector Thorne](../characters/Chief_Inspector_Beatrice_Thorne.md)’s nonexistent expedition into [the Shrouded Vaults](../locations/The_Shrouded_Vaults.md).
 
 ## Intended Form
 

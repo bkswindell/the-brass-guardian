@@ -15,9 +15,9 @@ canonical_images:
 visual_transcription_status: complete
 ---
 
-# The Grand Atrium Architectural Lithograph
+# [The Grand Atrium](../locations/The_Grand_Atrium.md) Architectural Lithograph
 
-> **Artifact Image Slate #17** · The Clockwork Gardens · [Artifact standard](../CANON_MARKDOWN_STANDARD.md)
+> **Artifact Image Slate #17** · [The Clockwork Gardens](../locations/The_Clockwork_Gardens.md) · [Artifact standard](../CANON_MARKDOWN_STANDARD.md)
 
 ## Visual Reference
 
@@ -64,9 +64,9 @@ No hidden maintenance passages or sealed omitted doorway can be verified from th
 
 ## Non-Visual Canon References and Story Context
 
-The artifact slate originally calls for an antique elevation and cutaway showing the central orrery, hidden maintenance passages, and a sealed doorway omitted from public plans. The active art currently serves as a canonical location view of the Grand Atrium, not as that planned technical plate.
+The artifact slate originally calls for an antique elevation and cutaway showing the central orrery, hidden maintenance passages, and a sealed doorway omitted from public plans. The active art currently serves as a canonical location view of [the Grand Atrium](../locations/The_Grand_Atrium.md), not as that planned technical plate.
 
-The Grand Atrium is associated with the Clockwork Gardens, [Juniper Bell](../characters/Juniper_Bell.md), the [Conservancy of Living Mechanisms](../organizations/The_Conservancy_of_Living_Mechanisms.md), and [The Moon Garden](../locations/The_Moon_Garden.md).
+[The Grand Atrium](../locations/The_Grand_Atrium.md) is associated with [the Clockwork Gardens](../locations/The_Clockwork_Gardens.md), [Juniper Bell](../characters/Juniper_Bell.md), the [Conservancy of Living Mechanisms](../organizations/The_Conservancy_of_Living_Mechanisms.md), and [The Moon Garden](../locations/The_Moon_Garden.md).
 
 A future true architectural plate should receive its own image or replace the current visual only after explicit approval.
 

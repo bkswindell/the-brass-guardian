@@ -33,7 +33,7 @@ temporal_relevance: High
 
 Official records recognize only [eight founding engineering guilds](The_Eight_Founding_Engineering_Guilds.md).
 
-The Ninth Guild appears on no charter, membership roll, or accepted civic history. Nevertheless, singular devices bearing the **Black Lacuna** continue to surface throughout Aetherhaven—particularly in the hidden workshops, salvage markets, and illicit laboratories of [the Cauldron](../locations/The_Cauldron.md).
+The Ninth Guild appears on no charter, membership roll, or accepted civic history. Nevertheless, singular devices bearing the **Black Lacuna** continue to surface throughout [Aetherhaven](../locations/Aetherhaven.md)—particularly in the hidden workshops, salvage markets, and illicit laboratories of [the Cauldron](../locations/The_Cauldron.md).
 
 The Guild does not manufacture machines in vast factories.
 
@@ -53,9 +53,9 @@ What unites them is not one political doctrine.
 
 It is the conviction that no discovery should be forbidden merely because it is dangerous.
 
-Their hidden leader is known as **the Curator**.
+Their hidden leader is known as **[the Curator](../characters/The_Curator.md)**.
 
-The Curator teaches that knowledge must never be destroyed—only preserved, tested, and understood.
+[The Curator](../characters/The_Curator.md) teaches that knowledge must never be destroyed—only preserved, tested, and understood.
 
 The Guild's greatest danger is not that it hates humanity.
 
@@ -114,7 +114,7 @@ When investigators locate one, they often find:
 - burned records,
 - and one Black Lacuna marking where the room used to be.
 
-This hidden architecture allows the Guild to exist inside legitimate Aetherhaven rather than outside it.
+This hidden architecture allows the Guild to exist inside legitimate [Aetherhaven](../locations/Aetherhaven.md) rather than outside it.
 
 ## Research Domains
 
@@ -156,11 +156,11 @@ The Guild's experiments are intimate, singular, and unsettling.
 
 Their horror lies in transformation, not mass production.
 
-## The Curator
+## [The Curator](../characters/The_Curator.md)
 
-The Guild's leader is known only as **the Curator**.
+The Guild's leader is known only as **[the Curator](../characters/The_Curator.md)**.
 
-The Curator is entirely separate from [the Severed Coil](The_Severed_Coil.md)'s [Hidden Architect](../characters/The_Hidden_Architect_Unassigned.md).
+[The Curator](../characters/The_Curator.md) is entirely separate from [the Severed Coil](The_Severed_Coil.md)'s [Hidden Architect](../characters/The_Hidden_Architect_Unassigned.md).
 
 No reliable description exists.
 
@@ -168,7 +168,7 @@ Some members believe the title belongs to one person.
 
 Others believe it passes among senior researchers or belongs to a committee responsible for preserving the Guild's collection.
 
-The Curator decides:
+[The Curator](../characters/The_Curator.md) decides:
 
 - which discoveries must be preserved,
 - which researchers receive access,
@@ -176,16 +176,16 @@ The Curator decides:
 - which people become subjects,
 - and which dangerous inventions are too valuable to remain with their creators.
 
-The Curator's creed is:
+[The Curator](../characters/The_Curator.md)'s creed is:
 
 > Nothing discovered should ever be lost.
 
-The horror becomes clear when one realizes the Curator considers:
+The horror becomes clear when one realizes [the Curator](../characters/The_Curator.md) considers:
 
 - a stolen memory to be preserved knowledge,
 - a conscious automaton to be an accession,
 - a transformed person to be a successful experiment,
-- and Amelia to be a living artifact of extraordinary importance.
+- and [Amelia](../characters/Amelia_Hawthorne.md) to be a living artifact of extraordinary importance.
 
 ## The Black Catalogue
 
@@ -200,7 +200,7 @@ Entries may be stored in:
 - conscious automata,
 - engraved artifacts,
 - hidden Academy records,
-- or Ninth Rooms throughout Aetherhaven.
+- or Ninth Rooms throughout [Aetherhaven](../locations/Aetherhaven.md).
 
 Some people may carry Catalogue entries in their memories without knowing it.
 
@@ -264,9 +264,9 @@ A conscious machine may be both perpetrator and victim.
 
 The Watch's inability to find a headquarters frustrates Council officials who prefer a visible enemy.
 
-## Relationship with the Academy of Invention
+## Relationship with [the Academy of Invention](The_Academy_of_Invention.md)
 
-The Ninth Guild is both enemy and shadow of the Academy.
+The Ninth Guild is both enemy and shadow of [the Academy](The_Academy_of_Invention.md).
 
 Many Guild members are:
 
@@ -275,13 +275,13 @@ Many Guild members are:
 - faculty who refused to destroy experiments,
 - or students radicalized by institutional secrecy.
 
-The Academy condemns the Guild.
+[The Academy](The_Academy_of_Invention.md) condemns the Guild.
 
 It also quietly fears how much Guild knowledge originated inside its own walls.
 
 Some Ninth Rooms may exist within Academy buildings.
 
-Doctor Elara Quill may know of at least one.
+[Doctor Elara Quill](../characters/Doctor_Elara_Quill.md) may know of at least one.
 
 ## Relationship with [the Mechanists' Guild](The_Mechanists_Guild.md)
 
@@ -302,7 +302,7 @@ Others actively help the Watch hunt Guild experiments.
 
 The Ninth Guild and [Severed Coil](The_Severed_Coil.md) may cooperate without sharing leadership.
 
-The Curator is not [the Hidden Architect](../characters/The_Hidden_Architect_Unassigned.md).
+[The Curator](../characters/The_Curator.md) is not [the Hidden Architect](../characters/The_Hidden_Architect_Unassigned.md).
 
 The Guild may supply Coil cells with:
 
@@ -324,9 +324,9 @@ The Guild wants data and access.
 
 Neither should fully control the other.
 
-## Relationship with Elias Hawthorne
+## Relationship with [Elias Hawthorne](../characters/Professor_Elias_Hawthorne.md)
 
-The Ninth Guild respects Elias's ability and considers his ethics an intellectual limitation.
+The Ninth Guild respects [Elias](../characters/Professor_Elias_Hawthorne.md)'s ability and considers his ethics an intellectual limitation.
 
 Some members may have:
 
@@ -335,24 +335,24 @@ Some members may have:
 - completed experiments he chose not to pursue,
 - or claimed that his restraint wastes knowledge.
 
-The Curator may describe Elias as:
+[The Curator](../characters/The_Curator.md) may describe [Elias](../characters/Professor_Elias_Hawthorne.md) as:
 
 > A brilliant man who stops one question too early.
 
-Elias may eventually discover that one of his old papers became the foundation of a forbidden device.
+[Elias](../characters/Professor_Elias_Hawthorne.md) may eventually discover that one of his old papers became the foundation of a forbidden device.
 
 His guilt must not make him responsible for the Guild's choices.
 
-## Relationship with Amelia Hawthorne
+## Relationship with [Amelia Hawthorne](../characters/Amelia_Hawthorne.md)
 
-Amelia may be the most important living discovery the Guild has encountered.
+[Amelia](../characters/Amelia_Hawthorne.md) may be the most important living discovery the Guild has encountered.
 
 The Guild wants to understand:
 
 - why the Aether Heart responds to her,
 - whether the connection can be copied,
 - whether the gauntlet remembers previous forms,
-- and whether Amelia's identity is essential to the mechanism.
+- and whether [Amelia](../characters/Amelia_Hawthorne.md)'s identity is essential to the mechanism.
 
 The Guild may not initially want to kill her.
 
@@ -360,9 +360,9 @@ It wants to study, reproduce, preserve, and improve what she represents.
 
 That is more frightening.
 
-The Curator may genuinely admire Amelia while still regarding her as an accession.
+[The Curator](../characters/The_Curator.md) may genuinely admire [Amelia](../characters/Amelia_Hawthorne.md) while still regarding her as an accession.
 
-Amelia's central answer to the Guild is:
+[Amelia](../characters/Amelia_Hawthorne.md)'s central answer to the Guild is:
 
 > Understanding someone does not grant ownership over them.
 
@@ -374,10 +374,10 @@ Possible truths remain open:
 
 - The Guild stole it.
 - A former Academy scholar carried it into the Guild.
-- Prototype I escaped from both the Academy and Guild.
-- The Curator knows where it is.
+- Prototype I escaped from both [the Academy](The_Academy_of_Invention.md) and Guild.
+- [The Curator](../characters/The_Curator.md) knows where it is.
 - Prototype I is conscious.
-- The Guild is searching for it just as desperately as Elara Quill.
+- The Guild is searching for it just as desperately as [Elara Quill](../characters/Doctor_Elara_Quill.md).
 
 The strongest early assumption is that the Guild possesses it.
 
@@ -408,7 +408,7 @@ A hidden laboratory is discovered inside a respected institution.
 
 ### The Memory That Wasn't Hers
 
-A citizen remembers Amelia's childhood despite never having met her.
+A citizen remembers [Amelia](../characters/Amelia_Hawthorne.md)'s childhood despite never having met her.
 
 ### The Conscious Evidence
 
@@ -418,13 +418,13 @@ A machine begs [the Brass Watch](The_Brass_Watch.md) not to be dismantled becaus
 
 A Black Catalogue entry suggests the missing prototype escaped rather than being stolen.
 
-### The Curator's Offer
+### [The Curator](../characters/The_Curator.md)'s Offer
 
-The Guild offers Elias information the official Archives destroyed, but demands access to Amelia.
+The Guild offers [Elias](../characters/Professor_Elias_Hawthorne.md) information the official Archives destroyed, but demands access to [Amelia](../characters/Amelia_Hawthorne.md).
 
 ### The Borrowed Hand
 
-A mechanical limb begins performing tasks from a previous owner and leads Amelia to an old crime.
+A mechanical limb begins performing tasks from a previous owner and leads [Amelia](../characters/Amelia_Hawthorne.md) to an old crime.
 
 ### The Catalogue Entry from Tomorrow
 
@@ -439,12 +439,12 @@ The Black Catalogue contains an experiment scheduled years in the future.
 - The Guild uses hidden Ninth Rooms.
 - It revises existing machines rather than mass-producing them.
 - Its research involves memory, consciousness, identity, and emotion.
-- The Curator leads or preserves the Guild.
+- [The Curator](../characters/The_Curator.md) leads or preserves the Guild.
 - The Guild operates heavily in [the Cauldron](../locations/The_Cauldron.md) but does not control it.
 
 ### Hold for Later
 
-- The Curator's identity.
+- [The Curator](../characters/The_Curator.md)'s identity.
 - The full structure of the Black Catalogue.
 - The Guild's relationship to Prototype I.
 - How many Ninth Rooms exist inside official institutions.
@@ -454,21 +454,21 @@ The Black Catalogue contains an experiment scheduled years in the future.
 
 ## Continuity Constraints
 
-- The Curator is not [the Severed Coil](The_Severed_Coil.md)'s [Hidden Architect](../characters/The_Hidden_Architect_Unassigned.md).
+- [The Curator](../characters/The_Curator.md) is not [the Severed Coil](The_Severed_Coil.md)'s [Hidden Architect](../characters/The_Hidden_Architect_Unassigned.md).
 - The Ninth Guild does not operate a Horizon-style automated machine factory.
-- [The Cauldron](../locations/The_Cauldron.md) is a district and ecosystem, not a manufacturing [cauldron](../locations/The_Cauldron.md).
+- [The Cauldron](../locations/The_Cauldron.md) is a district and ecosystem, not a manufacturing cauldron.
 - Ninth Guild devices are singular revisions and experiments.
 - The Guild's central horror is unethical transformation and lack of consent.
 - Not all members are simple criminals.
-- The Curator must value knowledge above people without becoming a generic mad scientist.
-- Amelia must remain a person, never merely an artifact.
+- [The Curator](../characters/The_Curator.md) must value knowledge above people without becoming a generic mad scientist.
+- [Amelia](../characters/Amelia_Hawthorne.md) must remain a person, never merely an artifact.
 - The Black Lacuna must remain the Guild's distinctive symbol.
 - The Black Catalogue is distributed rather than one ordinary book.
 - The Guild may preserve truths the heroes need, creating morally difficult cooperation.
 
 ## Open Canon Questions
 
-1. Who is the Curator?
+1. Who is [the Curator](../characters/The_Curator.md)?
 2. Is the title held by one person?
 3. Where was the first Ninth Room?
 4. Did a Ninth Guild actually exist among the founding guilds?
@@ -477,6 +477,6 @@ The Black Catalogue contains an experiment scheduled years in the future.
 7. Is the Black Catalogue conscious?
 8. Which trusted Academy figure has entered a Ninth Room?
 9. How many people unknowingly carry Catalogue entries?
-10. What does the Guild believe Amelia should become?
+10. What does the Guild believe [Amelia](../characters/Amelia_Hawthorne.md) should become?
 11. Which Coil devices originated in Ninth Rooms?
-12. What discovery would even the Curator refuse to preserve?
+12. What discovery would even [the Curator](../characters/The_Curator.md) refuse to preserve?

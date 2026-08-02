@@ -12,7 +12,7 @@ canonical_images:
   - null
 ---
 
-# The Last Lantern Promise Ledger
+# [The Last Lantern](../locations/The_Last_Lantern.md) Promise Ledger
 
 > **Artifact Image Slate #58** · Background Lore and Transitional Artifacts · [Artifact standard](../CANON_MARKDOWN_STANDARD.md)
 

@@ -28,13 +28,13 @@ temporal_relevance: Moderate
 
 ## Canonical Summary
 
-The Entertainment District is Aetherhaven's brightest public quarter and one of its most dangerous political frontiers.
+The Entertainment District is [Aetherhaven](Aetherhaven.md)'s brightest public quarter and one of its most dangerous political frontiers.
 
 Its theaters, music halls, taverns, gaming rooms, mechanical carnivals, hotels, restaurants, illusion houses, and illuminated rooftops draw visitors from every recognized district.
 
 They also draw people from [the Cauldron](The_Cauldron.md).
 
-Because it borders the Ash Line and serves both populations, the district is where respectable Aetherhaven and [the Cauldron](The_Cauldron.md) most often meet, bargain, deceive one another, and come into conflict.
+Because it borders the Ash Line and serves both populations, the district is where respectable [Aetherhaven](Aetherhaven.md) and [the Cauldron](The_Cauldron.md) most often meet, bargain, deceive one another, and come into conflict.
 
 [The Brass Watch](../organizations/The_Brass_Watch.md) maintains a major presence there.
 
@@ -85,7 +85,7 @@ The district thrives on plausible deniability.
 - employment,
 - information,
 - recruitment,
-- and access to greater Aetherhaven.
+- and access to greater [Aetherhaven](Aetherhaven.md).
 
 Some own or quietly control theaters, taverns, hotels, repair rooms, and gaming houses.
 
@@ -93,7 +93,7 @@ Others treat the district as neutral territory where Ash Law and Council law ove
 
 The district is not part of [the Cauldron](The_Cauldron.md).
 
-It is the place where [Cauldron](The_Cauldron.md) influence is most visible inside lawful Aetherhaven.
+It is the place where [Cauldron](The_Cauldron.md) influence is most visible inside lawful [Aetherhaven](Aetherhaven.md).
 
 ## Relationship with [the Brass Watch](../organizations/The_Brass_Watch.md)
 
@@ -108,7 +108,7 @@ A specialized Watch presence includes:
 - controlled checkpoints,
 - and informant handlers.
 
-The Watch's informal Ash Detail conducts much of its work here.
+The Watch's informal [Ash Detail](../organizations/The_Ash_Detail.md) conducts much of its work here.
 
 [Chief Inspector Thorne](../characters/Chief_Inspector_Beatrice_Thorne.md) prefers carefully prepared arrests in the Entertainment District to poorly controlled incursions beyond the Ash Line.
 
@@ -145,9 +145,9 @@ Possible neutral venues include:
 - gaming houses,
 - and bathhouses supplied by independent steam systems.
 
-## Theatre of Impossible Things
+## [Theatre of Impossible Things](The_Theatre_of_Impossible_Things.md)
 
-Madame Celestine Mirrow's Theatre of Impossible Things is one of the district's most famous venues.
+[Madame Celestine Mirrow](../characters/Madame_Celestine_Mirrow.md)'s [Theatre of Impossible Things](The_Theatre_of_Impossible_Things.md) is one of the district's most famous venues.
 
 Its predictive performances make it useful and dangerous to:
 
@@ -156,7 +156,7 @@ Its predictive performances make it useful and dangerous to:
 - political figures,
 - and people trying to determine whether they have already been betrayed.
 
-Celestine insists the theater is not an intelligence service.
+[Celestine](../characters/Madame_Celestine_Mirrow.md) insists the theater is not an intelligence service.
 
 Few people believe her.
 
@@ -178,9 +178,9 @@ A [Severed Coil](../organizations/The_Severed_Coil.md) cell uses a masquerade to
 
 An actor is mistaken for a fugitive because a mechanical double has been using the performer's face.
 
-### The Ash Detail
+### [The Ash Detail](../organizations/The_Ash_Detail.md)
 
-Amelia discovers that a friendly ticket seller is one of [Thorne](../characters/Chief_Inspector_Beatrice_Thorne.md)'s most valuable informants.
+[Amelia](../characters/Amelia_Hawthorne.md) discovers that a friendly ticket seller is one of [Thorne](../characters/Chief_Inspector_Beatrice_Thorne.md)'s most valuable informants.
 
 ### Battle on the Brightside
 
@@ -195,7 +195,7 @@ A legal entertainment street transforms into an illicit market after the final b
 ### Safe for Early Volumes
 
 - The district is bright, crowded, and heavily patrolled.
-- [Cauldron](The_Cauldron.md) and greater Aetherhaven residents mingle there.
+- [Cauldron](The_Cauldron.md) and greater [Aetherhaven](Aetherhaven.md) residents mingle there.
 - The Watch often confronts [Cauldron](The_Cauldron.md) suspects there.
 - It contains informants, fronts, and neutral meeting venues.
 - Its proximity to [the Cauldron](The_Cauldron.md) creates recurring tension.
@@ -203,14 +203,14 @@ A legal entertainment street transforms into an illicit market after the final b
 ### Hold for Later
 
 - Which venues are controlled by [Cauldron](The_Cauldron.md) Houses.
-- The full structure of the Ash Detail.
+- The full structure of [the Ash Detail](../organizations/The_Ash_Detail.md).
 - Which respected performers are informants or couriers.
-- Whether Celestine trades predictions with [Thorne](../characters/Chief_Inspector_Beatrice_Thorne.md) or the Cinder Regent.
+- Whether [Celestine](../characters/Madame_Celestine_Mirrow.md) trades predictions with [Thorne](../characters/Chief_Inspector_Beatrice_Thorne.md) or [the Cinder Regent](../characters/The_Cinder_Regent.md).
 - Which neutral house has protected [the Hidden Architect](../characters/The_Hidden_Architect_Unassigned.md).
 
 ## Continuity Constraints
 
-- The Entertainment District must remain a lawful Aetherhaven district under full Watch authority.
+- The Entertainment District must remain a lawful [Aetherhaven](Aetherhaven.md) district under full Watch authority.
 - It should be glamorous and entertaining, not merely a crime zone.
 - Its role as a mixed social frontier must create both cultural vitality and danger.
 - The Watch presence is heavy because the district borders [Cauldron](The_Cauldron.md) influence.
@@ -221,9 +221,9 @@ A legal entertainment street transforms into an illicit market after the final b
 ## Open Canon Questions
 
 1. Which venue is the most respected neutral house?
-2. Who leads the Ash Detail?
+2. Who leads [the Ash Detail](../organizations/The_Ash_Detail.md)?
 3. Which entertainment businesses are owned by [Cauldron](The_Cauldron.md) Houses?
-4. How much does Celestine know about Watch operations?
+4. How much does [Celestine](../characters/Madame_Celestine_Mirrow.md) know about Watch operations?
 5. Where does the district officially end and the Ash Line begin?
 6. What event caused the permanent increase in Watch presence?
 7. Which recurring character maintains a secret second life here?

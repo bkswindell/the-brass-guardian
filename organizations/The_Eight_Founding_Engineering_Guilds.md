@@ -37,7 +37,7 @@ temporal_relevance: High
 
 ## Canonical Summary
 
-The Eight Founding Engineering Guilds are the original human institutions credited with making early Aetherhaven livable after the discovery of the Aetherium.
+The Eight Founding Engineering Guilds are the original human institutions credited with making early [Aetherhaven](../locations/Aetherhaven.md) livable after the discovery of [the Aetherium](../locations/The_Aetherium.md).
 
 Each accepted stewardship of one essential civic discipline:
 
@@ -50,49 +50,49 @@ Each accepted stewardship of one essential civic discipline:
 - precision mechanisms,
 - and living machinery.
 
-Together, the eight guilds represent modern Aetherhaven's attempt to impose understandable order upon mechanisms far older than the city itself.
+Together, the eight guilds represent modern [Aetherhaven](../locations/Aetherhaven.md)'s attempt to impose understandable order upon mechanisms far older than the city itself.
 
 The Eight are not merely professional societies. Their standards, apprenticeships, archives, and rivalries shaped the city's bridges, engines, canals, airships, clocks, automata, gardens, and public infrastructure.
 
 In the modern city, the individual guilds retain their own identities while operating within the larger professional federation known as the **[Mechanists' Guild](The_Mechanists_Guild.md)**.
 
-Their guildmasters form the **Conclave of Eight**, which meets in the **Octagonal Hall**.
+Their guildmasters form the **[Conclave of Eight](The_Conclave_of_Eight.md)**, which meets in the **[Octagonal Hall](../locations/The_Octagonal_Hall.md)**.
 
 The symbolism is important:
 
-- **Six** belongs to the ancient world: the Six Keys, hidden locks, and the Heart Engine.
-- **Eight** belongs to human Aetherhaven: civic order, labor, engineering, and stewardship.
+- **Six** belongs to the ancient world: the Six Keys, hidden locks, and [the Heart Engine](../locations/The_Aetherium.md).
+- **Eight** belongs to human [Aetherhaven](../locations/Aetherhaven.md): civic order, labor, engineering, and stewardship.
 - **Nine** suggests knowledge erased, excluded, or forbidden.
 
 ## The Public Founding Story
 
-Aetherhaven children are commonly taught:
+[Aetherhaven](../locations/Aetherhaven.md) children are commonly taught:
 
-> When the first settlers found the Aetherium turning beneath the mountain, eight guilds gathered around its light.
+> When the first settlers found [the Aetherium](../locations/The_Aetherium.md) turning beneath the mountain, eight guilds gathered around its light.
 >
-> The Framewrights raised the city.
+> The [Framewrights](The_Guild_of_Framewrights.md) raised the city.
 >
-> The Enginewrights set it moving.
+> The [Enginewrights](The_Guild_of_Enginewrights.md) set it moving.
 >
-> The Aetherwrights gave it power.
+> The [Aetherwrights](The_Guild_of_Aetherwrights.md) gave it power.
 >
-> The Canalwrights brought it water.
+> The [Canalwrights](The_Guild_of_Canalwrights.md) brought it water.
 >
-> The Skywrights opened the heavens.
+> The [Skywrights](The_Guild_of_Skywrights.md) opened the heavens.
 >
-> The Clockwrights gave it order.
+> The [Clockwrights](The_Guild_of_Clockwrights.md) gave it order.
 >
-> The Artificers gave it hands.
+> The [Artificers](The_Guild_of_Artificers.md) gave it hands.
 >
-> And the Verdant Mechanists taught it to grow.
+> And the [Verdant Mechanists](The_Guild_of_Verdant_Mechanists.md) taught it to grow.
 
 The story is hopeful, memorable, and almost certainly incomplete.
 
-## The Conclave of Eight
+## [The Conclave of Eight](The_Conclave_of_Eight.md)
 
-The guildmasters of the founding orders form the **Conclave of Eight**.
+The guildmasters of the founding orders form the **[Conclave of Eight](The_Conclave_of_Eight.md)**.
 
-The Conclave advises [the High Council](The_High_Council_of_Aetherhaven.md) on:
+[The Conclave](The_Conclave_of_Eight.md) advises [the High Council](The_High_Council_of_Aetherhaven.md) on:
 
 - engineering law,
 - infrastructure,
@@ -102,25 +102,25 @@ The Conclave advises [the High Council](The_High_Council_of_Aetherhaven.md) on:
 - hazardous machinery,
 - and disputes among guild disciplines.
 
-It does not formally govern Aetherhaven.
+It does not formally govern [Aetherhaven](../locations/Aetherhaven.md).
 
 In practice, few major civic projects can proceed without its approval.
 
-The Conclave meets in the **Octagonal Hall**, whose eight sides correspond to the founding guilds.
+[The Conclave](The_Conclave_of_Eight.md) meets in the **[Octagonal Hall](../locations/The_Octagonal_Hall.md)**, whose eight sides correspond to the founding guilds.
 
-At the chamber's center stands a circular representation of the Aetherium.
+At the chamber's center stands a circular representation of [the Aetherium](../locations/The_Aetherium.md).
 
 Officially, the center symbolizes the power around which the guilds built the city.
 
 [The Ninth Guild](The_Ninth_Guild.md) interprets that empty center as evidence that something essential was removed from the founding order.
 
-## 1. The Guild of Framewrights
+## 1. [The Guild of Framewrights](The_Guild_of_Framewrights.md)
 
 ### Stewardship
 
 Structures, architecture, metalwork, foundations, elevated platforms, bridges, towers, hangars, retaining walls, and civic supports.
 
-The Framewrights built the physical skeleton of Aetherhaven and played a central role in elevating the Clockwork Gardens after the Rising.
+The [Framewrights](The_Guild_of_Framewrights.md) built the physical skeleton of [Aetherhaven](../locations/Aetherhaven.md) and played a central role in elevating [the Clockwork Gardens](../locations/The_Clockwork_Gardens.md) after the Rising.
 
 ### Character
 
@@ -134,13 +134,13 @@ A brass keystone crossed by two structural beams.
 
 > Everything rests somewhere.
 
-## 2. The Guild of Enginewrights
+## 2. [The Guild of Enginewrights](The_Guild_of_Enginewrights.md)
 
 ### Stewardship
 
 Steam, pressure, turbines, locomotion, pumps, lifts, locomotives, industrial machinery, and heavy mechanical drives.
 
-The Enginewrights dominate the Engine Complex and much of the Industrial District.
+The [Enginewrights](The_Guild_of_Enginewrights.md) dominate [the Engine Complex](../locations/The_Engine_Complex.md) and much of [the Industrial District](../locations/The_Industrial_District.md).
 
 ### Character
 
@@ -154,13 +154,13 @@ A piston enclosed within a toothed wheel.
 
 > Pressure reveals weakness.
 
-## 3. The Guild of Aetherwrights
+## 3. [The Guild of Aetherwrights](The_Guild_of_Aetherwrights.md)
 
 ### Stewardship
 
-Aetherstone refinement, crystal regulators, energy conduits, Golden Vein connections, and controlled interfaces with the Aetherium.
+Aetherstone refinement, crystal regulators, energy conduits, Golden Vein connections, and controlled interfaces with [the Aetherium](../locations/The_Aetherium.md).
 
-The Aetherwrights are among the most politically powerful guilds because Aetherhaven's public systems depend on their work.
+The [Aetherwrights](The_Guild_of_Aetherwrights.md) are among the most politically powerful guilds because [Aetherhaven](../locations/Aetherhaven.md)'s public systems depend on their work.
 
 ### Character
 
@@ -174,13 +174,13 @@ A radiant crystal enclosed by three brass coils.
 
 > Power must have a path.
 
-## 4. The Guild of Canalwrights
+## 4. [The Guild of Canalwrights](The_Guild_of_Canalwrights.md)
 
 ### Stewardship
 
 Canals, locks, reservoirs, pumps, drainage, sanitation, aqueducts, flood defenses, waterfall controls, and water-driven machinery.
 
-The Canalwrights maintain one of Aetherhaven's oldest bodies of practical knowledge.
+The [Canalwrights](The_Guild_of_Canalwrights.md) maintain one of [Aetherhaven](../locations/Aetherhaven.md)'s oldest bodies of practical knowledge.
 
 ### Character
 
@@ -194,13 +194,13 @@ A lock gate above a turning waterwheel.
 
 > Water remembers the way.
 
-## 5. The Guild of Skywrights
+## 5. [The Guild of Skywrights](The_Guild_of_Skywrights.md)
 
 ### Stewardship
 
 Airship hulls, lift systems, propulsion assemblies, steering mechanisms, emergency descent systems, mooring towers, and aerial cargo structures.
 
-Skywrights design and certify vessels.
+[Skywrights](The_Guild_of_Skywrights.md) design and certify vessels.
 
 [The Aerial Mariners' Union](The_Aerial_Mariners_Union.md) crews, navigates, maintains, and operates them.
 
@@ -216,7 +216,7 @@ A winged anchor beneath a lift cell.
 
 > Build for the storm you have not seen.
 
-## 6. The Guild of Clockwrights
+## 6. [The Guild of Clockwrights](The_Guild_of_Clockwrights.md)
 
 ### Stewardship
 
@@ -224,7 +224,7 @@ Public clocks, navigation chronometers, timing relays, civic synchronization, fa
 
 Every Lost Second is technically their responsibility.
 
-They can recalibrate Aetherhaven's clocks.
+They can recalibrate [Aetherhaven](../locations/Aetherhaven.md)'s clocks.
 
 They cannot explain where the missing second goes.
 
@@ -240,13 +240,13 @@ An escapement wheel beneath an eight-pointed star.
 
 > Agreement makes the hour.
 
-## 7. The Guild of Artificers
+## 7. [The Guild of Artificers](The_Guild_of_Artificers.md)
 
 ### Stewardship
 
 Automata, prosthetics, clockwork sentinels, lenses, surgical devices, scientific instruments, communication mechanisms, and precision tools.
 
-The Artificers stand closest to the Academy of Invention.
+The [Artificers](The_Guild_of_Artificers.md) stand closest to [the Academy of Invention](The_Academy_of_Invention.md).
 
 They have also produced many of the scholars who later vanished into [Ninth Guild](The_Ninth_Guild.md) circles.
 
@@ -262,13 +262,13 @@ An articulated hand holding a small gear.
 
 > Precision is a promise.
 
-## 8. The Guild of Verdant Mechanists
+## 8. [The Guild of Verdant Mechanists](The_Guild_of_Verdant_Mechanists.md)
 
 ### Stewardship
 
 Living machinery, agricultural systems, mechanical flowers, clockwork pollinators, responsive vines, restorative gardens, and botanical engineering.
 
-They helped shape the Clockwork Gardens and Grand Atrium.
+They helped shape [the Clockwork Gardens](../locations/The_Clockwork_Gardens.md) and [Grand Atrium](../locations/The_Grand_Atrium.md).
 
 [The Conservancy of Living Mechanisms](The_Conservancy_of_Living_Mechanisms.md) maintains many of the systems they design.
 
@@ -290,49 +290,49 @@ The eight guilds do not possess equal influence.
 
 ### Most Politically Powerful
 
-- The Aetherwrights
-- The Enginewrights
+- The [Aetherwrights](The_Guild_of_Aetherwrights.md)
+- The [Enginewrights](The_Guild_of_Enginewrights.md)
 
 Their control of power and heavy infrastructure gives them close relationships with [the High Council](The_High_Council_of_Aetherhaven.md).
 
 ### Most Structurally Essential
 
-- The Framewrights
-- The Canalwrights
+- The [Framewrights](The_Guild_of_Framewrights.md)
+- The [Canalwrights](The_Guild_of_Canalwrights.md)
 
 Their work receives less glamour but keeps the city physically standing and habitable.
 
 ### Most Externally Constrained
 
-- The Skywrights
+- The [Skywrights](The_Guild_of_Skywrights.md)
 
 Their certifications matter, but [the Aerial Mariners' Union](The_Aerial_Mariners_Union.md) can refuse to fly what they approve.
 
 ### Most Embarrassed by Temporal Evidence
 
-- The Clockwrights
+- The [Clockwrights](The_Guild_of_Clockwrights.md)
 
 Their archives contain obsolete calendars, contradictory conversion tables, and functioning instruments that disagree.
 
 ### Most Vulnerable to Forbidden Research
 
-- The Artificers
+- The [Artificers](The_Guild_of_Artificers.md)
 
 Their disciplines come closest to memory, identity, sentience, and the work of [the Ninth Guild](The_Ninth_Guild.md).
 
 ### Most Underestimated
 
-- The Verdant Mechanists
+- The [Verdant Mechanists](The_Guild_of_Verdant_Mechanists.md)
 
-They maintain systems no other guild fully understands and may know more about the Clockwork Gardens than they reveal.
+They maintain systems no other guild fully understands and may know more about [the Clockwork Gardens](../locations/The_Clockwork_Gardens.md) than they reveal.
 
 ## [Juniper Bell](../characters/Juniper_Bell.md) and the Verdant Founding
 
-The relationship between [Juniper Bell](../characters/Juniper_Bell.md) and the founding of the Guild of Verdant Mechanists remains unresolved.
+The relationship between [Juniper Bell](../characters/Juniper_Bell.md) and the founding of [the Guild of Verdant Mechanists](The_Guild_of_Verdant_Mechanists.md) remains unresolved.
 
 Some records describe a green-coated gardener guiding the earliest Verdant engineers through living sections of the Gardens.
 
-Others place [Juniper](../characters/Juniper_Bell.md) beside the Aetherium before the accepted founding date.
+Others place [Juniper](../characters/Juniper_Bell.md) beside [the Aetherium](../locations/The_Aetherium.md) before the accepted founding date.
 
 When asked whether she founded the guild, [Juniper](../characters/Juniper_Bell.md) says:
 
@@ -365,9 +365,9 @@ The founding guilds retain:
 
 For full organizational canon, see [The Mechanists' Guild](The_Mechanists_Guild.md).
 
-## Relationship with the Academy of Invention
+## Relationship with [the Academy of Invention](The_Academy_of_Invention.md)
 
-The Academy teaches:
+[The Academy](The_Academy_of_Invention.md) teaches:
 
 - theory,
 - experimentation,
@@ -379,7 +379,7 @@ The guilds determine whether someone is trusted to practice that knowledge in th
 
 This creates a constant tension:
 
-- the Academy asks what is possible,
+- [the Academy](The_Academy_of_Invention.md) asks what is possible,
 - the guilds ask whether it can be built safely,
 - and [the Ninth Guild](The_Ninth_Guild.md) asks why anyone should be allowed to forbid the attempt.
 
@@ -391,7 +391,7 @@ Official history recognizes only eight founding guilds.
 
 It may instead prove that one was removed.
 
-[The Ninth Guild](The_Ninth_Guild.md)'s **[Black Lacuna](The_Ninth_Guild.md)** echoes the Conclave's central arrangement:
+[The Ninth Guild](The_Ninth_Guild.md)'s **[Black Lacuna](The_Ninth_Guild.md)** echoes [the Conclave](The_Conclave_of_Eight.md)'s central arrangement:
 
 - eight recognized positions,
 - and one absent center.
@@ -410,8 +410,8 @@ Possibilities include:
 
 - The Eight Founding Guilds must remain distinct professional orders with their own culture and stewardship.
 - [The Mechanists' Guild](The_Mechanists_Guild.md) is their modern umbrella federation, not a ninth founding guild.
-- The Conclave of Eight meets in the Octagonal Hall.
-- Six symbolizes the ancient systems; eight symbolizes modern civic Aetherhaven; nine symbolizes erased or forbidden knowledge.
+- [The Conclave of Eight](The_Conclave_of_Eight.md) meets in [the Octagonal Hall](../locations/The_Octagonal_Hall.md).
+- Six symbolizes the ancient systems; eight symbolizes modern civic [Aetherhaven](../locations/Aetherhaven.md); nine symbolizes erased or forbidden knowledge.
 - The public founding story must remain spoiler-light and suitable for younger readers.
 - No founding guild should be uniformly villainous or infallible.
 - Political power among the guilds must remain uneven.
@@ -423,10 +423,10 @@ Possibilities include:
 1. Were all eight guilds truly founded at the same time?
 2. Who wrote the official founding story?
 3. Did a ninth order exist and later disappear?
-4. Why does the Octagonal Hall place the Aetherium at its empty center?
+4. Why does [the Octagonal Hall](../locations/The_Octagonal_Hall.md) place [the Aetherium](../locations/The_Aetherium.md) at its empty center?
 5. Which guild possesses the oldest unaltered founding charter?
 6. Which guild first noticed the Lost Seconds?
-7. Did [Juniper Bell](../characters/Juniper_Bell.md) help establish the Verdant Mechanists?
+7. Did [Juniper Bell](../characters/Juniper_Bell.md) help establish the [Verdant Mechanists](The_Guild_of_Verdant_Mechanists.md)?
 8. Which Conclave member currently communicates with [the Ninth Guild](The_Ninth_Guild.md)?
 9. Do the oldest guild symbols conceal ancient command functions?
-10. What happens if the Conclave cannot reach agreement during a citywide crisis?
+10. What happens if [the Conclave](The_Conclave_of_Eight.md) cannot reach agreement during a citywide crisis?

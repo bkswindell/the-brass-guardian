@@ -12,9 +12,9 @@ canonical_images:
   - null
 ---
 
-# Amelia’s Explorer Journal: First Mechanical Sketches
+# [Amelia](../characters/Amelia_Hawthorne.md)’s Explorer Journal: First Mechanical Sketches
 
-> **Artifact Image Slate #14** · Amelia and the Aether Gauntlet · [Artifact standard](../CANON_MARKDOWN_STANDARD.md)
+> **Artifact Image Slate #14** · [Amelia](../characters/Amelia_Hawthorne.md) and the Aether Gauntlet · [Artifact standard](../CANON_MARKDOWN_STANDARD.md)
 
 ## Visual Reference
 
@@ -22,7 +22,7 @@ canonical_images:
 
 ## Canonical Purpose
 
-Shows Amelia’s intelligence developing naturally. Include small personal observations that adults overlooked.
+Shows [Amelia](../characters/Amelia_Hawthorne.md)’s intelligence developing naturally. Include small personal observations that adults overlooked.
 
 ## Intended Form
 

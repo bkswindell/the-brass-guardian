@@ -12,7 +12,7 @@ canonical_images:
   - null
 ---
 
-# The Quiet Choir Vibration Transcript
+# [The Quiet Choir](../organizations/The_Quiet_Choir.md) Vibration Transcript
 
 > **Artifact Image Slate #52** · Organizations and Secret Societies · [Artifact standard](../CANON_MARKDOWN_STANDARD.md)
 

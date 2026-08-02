@@ -53,7 +53,7 @@ Use relative Markdown hyperlinks to existing character, organization, location, 
 ## Development Checklist
 
 - [ ] Map position and label confirmed.
-- [x] Aetherhaven map linked.
+- [x] [Aetherhaven](locations/Aetherhaven.md) map linked.
 - [ ] Canonical location image linked.
 - [ ] Points of interest complete.
 - [ ] Governing organizations and recurring characters cross-linked.

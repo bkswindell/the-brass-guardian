@@ -14,7 +14,7 @@ canonical_images:
 visual_transcription_status: complete
 ---
 
-# Seal of the Society of Explorers
+# Seal of [the Society of Explorers](../organizations/The_Society_of_Explorers.md)
 
 > **Artifact Image Slate #2** · Foundational Canon Images · [Artifact standard](../CANON_MARKDOWN_STANDARD.md)
 
@@ -37,14 +37,14 @@ Two active visual variants are preserved. Their dates, slogans, iconography, and
 
 ### Archive heading and identification
 
-- **AETHERHAVEN ARCHIVES**
+- **[AETHERHAVEN ARCHIVES](../organizations/The_Aetherhaven_Archives.md)**
 - **SOCIETY ARTIFACT FILE**
 - **CATALOG No.** `SE-1-002`
-- **Seal of the Society of Explorers**
+- **Seal of [the Society of Explorers](../organizations/The_Society_of_Explorers.md)**
 
 ### Printed description
 
-> Official seal of the Society of Explorers of Aetherhaven. Impression found on authenticated expedition documents, charter licenses, and field dispatches. First issued in the Year 769 A.H. Current iteration adopted in the Year 1043 A.H.
+> Official seal of [the Society of Explorers](../organizations/The_Society_of_Explorers.md) of [Aetherhaven](../locations/Aetherhaven.md). Impression found on authenticated expedition documents, charter licenses, and field dispatches. First issued in the Year 769 A.H. Current iteration adopted in the Year 1043 A.H.
 
 ### Recovery information
 
@@ -60,7 +60,7 @@ Two active visual variants are preserved. Their dates, slogans, iconography, and
 
 ### Principal seal text
 
-- Outer upper ring: **SOCIETY OF EXPLORERS**
+- Outer upper ring: **[SOCIETY OF EXPLORERS](../organizations/The_Society_of_Explorers.md)**
 - Outer lower ring: **AETHERHAVEN**
 
 ### Labels and captions
@@ -97,11 +97,11 @@ Beneath the embossed impression:
 
 > **CHARTER OF EXPEDITION**  
 > Granted to  
-> **Prof. Elias Hawthorne**  
+> **Prof. [Elias Hawthorne](../characters/Professor_Elias_Hawthorne.md)**
 > for the pursuit of knowledge  
 > and the betterment of all.  
 > By authority of the Council,  
-> **Society of Explorers.**
+> **[Society of Explorers](../organizations/The_Society_of_Explorers.md).**
 
 A red stamp across the charter reads **APPROVED**.
 
@@ -124,12 +124,12 @@ A red stamp across the charter reads **APPROVED**.
 
 ### Variant A seals and property marks
 
-- Red circular **SOCIETY OF EXPLORERS** verification stamp surrounding a compass emblem.
+- Red circular **[SOCIETY OF EXPLORERS](../organizations/The_Society_of_Explorers.md)** verification stamp surrounding a compass emblem.
 - Red text beneath the stamp: **SEAL VERIFIED**.
 - Bottom-right brass plaque:
 
 > **PROPERTY OF THE**  
-> **SOCIETY OF EXPLORERS**  
+> **[SOCIETY OF EXPLORERS](../organizations/The_Society_of_Explorers.md)**
 > **AETHERHAVEN**
 
 ---
@@ -138,16 +138,16 @@ A red stamp across the charter reads **APPROVED**.
 
 ### Archive heading and identification
 
-- **AETHERHAVEN ARCHIVES**
+- **[AETHERHAVEN ARCHIVES](../organizations/The_Aetherhaven_Archives.md)**
 - **SOCIETY COLLECTIONS DIVISION**
 - **CATALOG NO.** `SE-7-002`
-- **Seal of the Society of Explorers**
+- **Seal of [the Society of Explorers](../organizations/The_Society_of_Explorers.md)**
 
 ### Printed description
 
-> Official seal of the Society of Explorers, as used on charters, expedition credentials, and authenticated correspondence.
+> Official seal of [the Society of Explorers](../organizations/The_Society_of_Explorers.md), as used on charters, expedition credentials, and authenticated correspondence.
 
-> The inner compass signifies guidance. The wings, pursuit of knowledge. The lantern, truth in dark places.
+> [The inner compass](../organizations/The_Inner_Compass.md) signifies guidance. The wings, pursuit of knowledge. The lantern, truth in dark places.
 
 ### Issue and physical information
 
@@ -174,7 +174,7 @@ A red stamp across the charter reads **APPROVED**.
 
 ### Principal seal text
 
-- Upper ring: **SOCIETY OF EXPLORERS**
+- Upper ring: **[SOCIETY OF EXPLORERS](../organizations/The_Society_of_Explorers.md)**
 - Lower ring: **VERITAS IN TENEBRIS • VIA INCOGNITA**
 
 ### Authentication block
@@ -182,14 +182,14 @@ A red stamp across the charter reads **APPROVED**.
 - **VERIFIED AUTHENTIC**
 - Signature: `L. Quill`
 - Title: **CHIEF ARCHIVIST**
-- Organization: **SOCIETY OF EXPLORERS**
+- Organization: **[SOCIETY OF EXPLORERS](../organizations/The_Society_of_Explorers.md)**
 
 ### Labels and captions
 
 - **WAX IMPRESSION**
 - **ARCHIVIST SKETCH**
 - **INNER RING DETAIL (ENHANCED)**
-- **SOCIETY OF EXPLORERS — EXPEDITION CREDENTIAL**
+- **[SOCIETY OF EXPLORERS](../organizations/The_Society_of_Explorers.md) — EXPEDITION CREDENTIAL**
 
 ### Hidden-glyph annotations
 
@@ -205,11 +205,11 @@ Beneath the enhanced detail:
 
 ### Expedition credential text
 
-> **SOCIETY OF EXPLORERS**  
+> **[SOCIETY OF EXPLORERS](../organizations/The_Society_of_Explorers.md)**
 > **EXPEDITION CREDENTIAL**
 
 > This certifies that  
-> **Prof. Elias Hawthorne**  
+> **Prof. [Elias Hawthorne](../characters/Professor_Elias_Hawthorne.md)**
 > is a recognized Explorer of the Society  
 > and is granted all rights and access  
 > pursuant to the Charter.
@@ -266,7 +266,7 @@ The two active images are provisional seal variants. Neither is automatically th
 
 The hidden inner glyph in Variant B may connect to [The Six-Key Sigil](003_The_Six_Key_Sigil.md) or [The First Mechanist’s Mark](004_The_First_Mechanists_Mark.md), but that relationship is not established solely by the image.
 
-The Society of Explorers does not yet have its own organization profile. Until one is created, institutional information should remain concise here and in linked files such as the [Aerial Mariners’ Union](../organizations/The_Aerial_Mariners_Union.md).
+[The Society of Explorers](../organizations/The_Society_of_Explorers.md) does not yet have its own organization profile. Until one is created, institutional information should remain concise here and in linked files such as the [Aerial Mariners’ Union](../organizations/The_Aerial_Mariners_Union.md).
 
 ## Related Canon
 

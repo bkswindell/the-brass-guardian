@@ -13,7 +13,7 @@ canonical_images:
   - null
 ---
 
-# Old City Street Sign Palimpsest
+# [Old City](../locations/The_Old_City.md) Street Sign Palimpsest
 
 > **Artifact Image Slate #63** · Background Lore and Transitional Artifacts · [Artifact standard](../CANON_MARKDOWN_STANDARD.md)
 
@@ -23,7 +23,7 @@ canonical_images:
 
 ## Canonical Purpose
 
-Suggests that Aetherhaven’s streets remember previous versions of the city.
+Suggests that [Aetherhaven](../locations/Aetherhaven.md)’s streets remember previous versions of the city.
 
 ## Intended Form
 
