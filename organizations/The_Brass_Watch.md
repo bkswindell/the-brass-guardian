@@ -571,6 +571,14 @@ Field medics remain responsible first to patient care. Watch authority does not 
 
 The exact structure of the Watch medical liaison remains unresolved.
 
+## Relationship with the Institute of Vital Mechanics
+
+The Brass Watch relies on [the Institute of Vital Mechanics](The_Institute_of_Vital_Mechanics.md) for field medics, disaster response, aetheric trauma, and injuries involving implants or unusual mechanisms.
+
+Institute personnel do not possess uniform independence from Watch authority. Some protect patients, some share records, and some treat containment as part of care.
+
+The boundary between medical transport and custody should remain a recurring institutional tension.
+
 ## Continuity Constraints
 
 - The Brass Watch must not be portrayed as uniformly corrupt or incompetent.

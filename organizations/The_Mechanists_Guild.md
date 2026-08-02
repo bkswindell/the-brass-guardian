@@ -467,6 +467,14 @@ Neither institution may claim ownership of a patient or assert that certificatio
 
 Ancient components such as Amelia's Aether Heart create an unresolved conflict because they cannot be certified under known standards and cannot be separated from the patient merely to satisfy professional review.
 
+## Relationship with the Institute of Vital Mechanics
+
+The Guild collaborates with [the Institute of Vital Mechanics](The_Institute_of_Vital_Mechanics.md) on prosthetics, braces, implants, and adaptive machinery.
+
+This collaboration saves lives but can favor replacement over biological recovery. A damaged limb may be treated as an engineering problem before every medical or herbal option has been exhausted.
+
+Guild certification does not guarantee that an intervention is the best choice for the patient.
+
 ## Continuity Constraints
 
 - The Mechanists' Guild is the modern federation of [the Eight Founding Engineering Guilds](The_Eight_Founding_Engineering_Guilds.md).

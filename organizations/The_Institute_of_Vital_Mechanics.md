@@ -24,6 +24,9 @@ primary_connections:
   - Professor Elias Hawthorne
   - Amelia Hawthorne
   - The Clockwork Jungle Expedition
+  - The Unwound
+  - The Order of the Closed Eye
+  - The Conservancy of Living Mechanisms, occasional resource exchange only
 temporal_relevance: High
 source_basis:
   - Owner canon decision recorded August 2, 2026
@@ -35,342 +38,477 @@ source_basis:
 
 ## Canonical Summary
 
-The Institute of Vital Mechanics is Aetherhaven's principal civic institution for advanced medicine, emergency surgery, trauma care, rehabilitation, prosthetics, implants, mechanobiology, and the safe integration of living bodies with mechanical technology.
+The Institute of Vital Mechanics is Aetherhaven's principal civic institution for severe medicine, emergency surgery, trauma care, rehabilitation, prosthetics, implants, mechanobiology, and the forced cooperation of living bodies with mechanical technology.
 
-It is not a separate medical district and does not replace every neighborhood healer, private physician, apothecary, midwife, workshop medic, or community clinic.
+It is necessary.
 
-Instead, the Institute operates as a distributed medical network with:
+It is not automatically safe.
+
+The Institute exists because there are injuries, infections, aetheric exposures, industrial accidents, and mechanical integrations that neighborhood healers cannot reliably treat. Its practitioners can preserve lives that would otherwise be lost, replace function that cannot be restored, and keep explorers or workers alive long enough to return home.
+
+They can also recommend treatments more dangerous than the illness, value a successful mechanism above the person attached to it, and mistake the ability to perform a procedure for proof that the procedure should be performed.
+
+The Institute is not a separate medical district and does not replace private physicians, apothecaries, midwives, household remedies, workshop medics, herbalists, or community healers. Most citizens prefer those alternatives for ordinary ailments and approach the Institute only when the risk of avoiding it has become greater than the risk of submitting to its care.
+
+The Institute operates as a distributed network with:
 
 - a central hospital and administrative institution in [the Government District](../locations/The_Government_District.md);
 - clinical and research staff embedded within [the Academy of Invention](The_Academy_of_Invention.md);
 - prosthetics, implant, and rehabilitation engineering facilities connected to [the Great Workshops](../locations/The_Great_Workshops.md);
-- a protected recovery and rehabilitation house inside [the Cauldron](../locations/The_Cauldron.md);
-- field medics and emergency liaisons who work alongside [the Brass Watch](The_Brass_Watch.md);
-- and expeditionary medical staff who may accompany accredited explorers into remote or anomalous regions.
+- a semi-autonomous recovery house inside [the Cauldron](../locations/The_Cauldron.md);
+- field medics and emergency liaisons working beside [the Brass Watch](The_Brass_Watch.md);
+- and expeditionary practitioners who may accompany accredited explorers.
 
-The Institute supports biology with technology.
+The Institute supports biology with technology, but its understanding of biology is incomplete and uneven. Its mechanical skill often exceeds its knowledge of infection, rejection, pain, recovery, and the long-term consequences of intervention.
 
-Its practitioners treat illness and injury, design braces and replacement limbs, develop implants, restore function, teach adaptation, study unusual biological-mechanical interfaces, and coordinate with certified mechanists when a medical device becomes part of a person's daily body.
+It can save a life.
 
-The Institute must never treat a patient as secondary to the mechanism keeping that patient alive.
+It may change that life permanently while doing so.
 
 ## Public Role
 
-The Institute's public responsibilities may include:
+The Institute's public responsibilities include catastrophic injury response, surgery, prosthetics, implants, rehabilitation, expedition medicine, industrial medicine, and the treatment of aetheric or mechanical trauma.
 
-- emergency and surgical care;
-- severe industrial-injury response;
-- treatment of burns, pressure injuries, aether exposure, chemical exposure, and crush trauma;
-- prosthetic design and fitting;
-- implant monitoring and repair;
-- long-term rehabilitation;
-- physical and occupational retraining;
-- field-medic education;
-- expedition medical certification;
-- disaster-response coordination;
-- medical ethics and consent review for experimental procedures;
-- and research into the boundary between living tissue and mechanical systems.
+It is not where most citizens willingly go for a cough, fever, rash, infected cut, difficult pregnancy, or ordinary broken bone.
 
-Most citizens encounter the Institute through an emergency ward, specialist clinic, rehabilitation program, workplace medical station, or field responder rather than its central administration.
+For common ailments, many residents first seek:
+
+- family remedies;
+- an apothecary;
+- a neighborhood healer;
+- a trusted midwife;
+- a workshop medic;
+- a Cauldron practitioner;
+- or an herbal treatment passed through generations.
+
+Some of those remedies are ineffective or dangerous. Some are better suited to the problem than the Institute's aggressive interventions.
+
+The Institute is most trusted when the alternative is death, loss of a limb, irreversible aether exposure, or a condition no ordinary practitioner understands.
+
+Its public reputation can be summarized as:
+
+> **They may save you. They may also decide that saving you requires becoming someone different.**
+
+Institute advice is respected, feared, questioned, and often taken only after a second opinion from someone the patient personally trusts.
 
 ## Distributed Presence
 
 ### The Hall of Vital Mechanics
 
-[The Hall of Vital Mechanics](../locations/The_Hall_of_Vital_Mechanics.md) is the Institute's central hospital, training center, records office, and emergency-coordination headquarters in the Government District.
+[The Hall of Vital Mechanics](../locations/The_Hall_of_Vital_Mechanics.md) is the Institute's central hospital, training center, records office, research authority, and emergency-coordination headquarters in the Government District.
 
-Its exact internal departments remain unresolved.
+It is both the best-equipped medical facility in Aetherhaven and the place many citizens most fear being taken.
+
+Public wards coexist with restricted theatres, implant laboratories, anatomical collections, sealed treatment records, and research rooms whose practices are not widely understood.
 
 ### Academy Clinical and Research Annex
 
-The Institute maintains a presence within or beside the Academy of Invention for:
+The Institute maintains a presence within or beside the Academy of Invention for anatomy, physiology, mechanobiology, implant testing, medical-device development, and experimental treatment.
 
-- anatomy and physiology education;
-- mechanobiology research;
-- implant testing;
-- clinical review of experimental devices;
-- medical instruction for inventors;
-- and ethical oversight where invention directly affects living bodies.
+The annex has produced important discoveries and unethical recommendations.
 
-The final formal name of this annex remains unresolved.
+Its practitioners may disagree over whether a procedure is treatment, research, or both. Patients with unusual conditions can attract academic attention that is not always in their interests.
+
+The final formal name and oversight of the annex remain unresolved.
 
 ### Great Workshops Prosthetics and Implant Annex
 
-Institute surgeons, prosthetists, therapists, and mechanobiologists work with certified engineers in the Great Workshops to create and maintain:
+Institute surgeons, prosthetists, rehabilitation staff, and mechanobiologists work with certified engineers in the Great Workshops to create replacement limbs, braces, sensory aids, stabilization frames, adaptive tools, and interfaces between tissue and machinery.
 
-- replacement limbs;
-- braces and mobility supports;
-- sensory aids;
-- pressure-regulation implants;
-- adaptive tools;
-- and custom interfaces between tissue and machinery.
+The annex is often excellent at replacing damaged function.
 
-The Institute governs the patient's medical care and consent.
+It is not always patient about preserving injured flesh when a mechanical replacement appears faster, more reliable, professionally interesting, or easier to certify.
 
-The Mechanists' Guild governs mechanical certification and engineering responsibility.
+One practitioner may spend weeks finding the correct herb, drainage method, or rest regimen to clear an infection.
 
-Neither institution owns the patient or the device once it becomes part of the patient's embodied life.
+Another may recommend amputation and a proven brass replacement before the infection has been fully understood.
+
+Neither recommendation is automatically foolish. Neither is automatically right.
 
 ### The Cauldron Recovery House
 
-[The Cauldron Recovery House](../locations/The_Cauldron_Recovery_House.md) provides rehabilitation, long-term recovery, industrial-injury care, adaptive-device support, and community medicine inside the Cauldron.
+[The Cauldron Recovery House](../locations/The_Cauldron_Recovery_House.md) provides rehabilitation, adaptive-device care, industrial-injury treatment, and community medicine inside the Cauldron.
 
-Its presence is politically sensitive.
+It is affiliated with the Institute but survives through local trust and partial independence. Residents may trust a particular healer or prosthetist there while distrusting the Institute as a whole.
 
-The facility cannot function as a disguised Brass Watch post, Council registry, or mechanism for identifying undocumented residents. Its safety depends on negotiated neutrality, local staff, and trust earned within the district.
+The House may use salvaged devices, household remedies, herbs, unlicensed methods, and practical knowledge rejected by the central Hall. Some of those practices work. Some carry their own risks.
 
 ### Brass Watch Medical Liaison
 
-The Institute trains or seconds field medics to support:
+The Institute trains or seconds field medics for fires, collapses, canal disasters, industrial explosions, hazardous machinery incidents, aetheric exposure, temporal disorientation, and mass-casualty evacuation.
 
-- fires;
-- collapses;
-- canal disasters;
-- industrial explosions;
-- hazardous machinery incidents;
-- aetheric exposure;
-- temporal disorientation;
-- and mass-casualty evacuation.
+Field medics are often more trusted than central Institute officials because they work where people are injured rather than where research is conducted.
 
-Some medics may be Watch officers with medical certification. Others remain Institute staff operating beside the Watch while retaining independent responsibility to patients.
+That trust is not universal. Some medics are Watch officers. Some share information with investigators. Some answer first to the Institute, the Council, or another organization.
 
 ### Expeditionary Medical Service
 
-Accredited expeditions may include an Institute field physician, surgeon, medic, prosthetics specialist, or expedition-certified practitioner.
+Accredited expeditions may include an Institute surgeon, medic, prosthetics specialist, or expedition-certified practitioner.
 
-The Institute may also provide:
+Expedition medics may carry broad emergency authority because delay can kill. The same isolation that makes decisive treatment necessary can also make oversight, consent, and later verification difficult.
 
-- portable surgical kits;
-- stabilization frames;
-- aether-burn treatments;
-- pressure and altitude medicine;
-- biological sample protocols;
-- airship infirmary standards;
-- evacuation plans;
-- and post-expedition rehabilitation.
+An expeditionary practitioner may save a life through an improvised procedure that would never be approved in the city.
 
-The exact size and authority of this service remain unresolved.
+Another may collect samples, test a device, or recommend a permanent intervention because no one present has the authority or knowledge to challenge them.
+
+The exact size, rules, and history of this service remain unresolved.
 
 ## Fields of Practice
 
-The Institute's working disciplines may include:
+The Institute's disciplines may include surgery, emergency medicine, field medicine, prosthetics, rehabilitation, mechanobiology, implant medicine, industrial medicine, aetheric trauma, environmental medicine, and the treatment of unusual biological-mechanical conditions.
 
-- general medicine;
-- surgery;
-- emergency medicine;
-- field medicine;
-- prosthetics;
-- orthotics and mobility support;
-- rehabilitation;
-- pain management;
-- mechanobiology;
-- implant medicine;
-- aetheric trauma;
-- environmental and expedition medicine;
-- industrial medicine;
-- and psychological recovery after catastrophic injury or anomalous events.
+Its capabilities should not be equated with a modern medical system.
 
-Final period-appropriate professional titles remain to be selected.
+Institute practitioners may possess advanced mechanical techniques while lacking reliable answers about:
 
-Terms such as physician, surgeon, medic, therapist, prosthetist, mechanobiologist, chirurgeon, and vital mechanist may coexist or later be reconciled.
+- infection and contamination;
+- internal disease;
+- tissue rejection;
+- nerve damage;
+- anesthesia and pain;
+- blood loss and replacement;
+- long-term implant effects;
+- psychological trauma;
+- and interactions between Ancient components and living bodies.
+
+Knowledge varies dramatically between practitioners and branches.
+
+A brilliant prosthetist may be a poor diagnostician. A skilled field surgeon may distrust herbs that a Cauldron healer understands. An Academy researcher may know more about aetheric tissue response than how to help a patient live comfortably afterward.
+
+Final period-appropriate professional titles remain unresolved. Physician, surgeon, medic, healer, prosthetist, chirurgeon, mechanobiologist, and vital mechanist may coexist.
+
+## Public Reputation and Avoidance
+
+The Institute is respected as a last resort rather than loved as a public service.
+
+Citizens may delay seeking care because they fear:
+
+- amputation;
+- compulsory observation;
+- experimental treatment;
+- permanent implants;
+- loss of privacy;
+- debt or service obligations;
+- being transferred to a restricted ward;
+- having an unusual condition reported to the Council or Watch;
+- or becoming more interesting to researchers than to caregivers.
+
+Families often ask who is on duty before deciding whether to enter the Hall. Trust attaches to individual practitioners more readily than to the institution.
+
+Some people die because they waited too long.
+
+Others survive because they refused an Institute recommendation and sought a less invasive treatment elsewhere.
+
+The risk runs in both directions.
+
+## Experiments and Institutional Abuse
+
+Experiments have been performed under Institute authority.
+
+Not every experiment was cruel, and some produced treatments that later saved lives. The institution nevertheless possesses a history of practices that may include:
+
+- procedures performed without meaningful consent;
+- experimental implants offered when no ordinary care was available;
+- treatment made conditional on observation or research access;
+- aggressive amputation and replacement;
+- testing on people with limited civic standing;
+- retention of tissue, devices, or records after recovery;
+- recommendations shaped by patents, prestige, or institutional rivalry;
+- and sealed wards where the distinction between patient and subject became deliberately unclear.
+
+The exact scandals, dates, victims, and reforms remain unresolved.
+
+These abuses do not make every practitioner malicious. They do mean that an Institute seal is not proof of moral authority.
+
+## Internal Factions and Outside Allegiances
+
+The Institute is too large and politically valuable to remain ideologically neutral.
+
+Individual practitioners, administrators, researchers, or record keepers may have loyalties to:
+
+- [the Unwound](The_Unwound.md), especially those who oppose dependency on implants or the Heart Engine;
+- [the Order of the Closed Eye](The_Order_of_the_Closed_Eye.md), especially those who classify anomalous patients and suppress dangerous knowledge;
+- the Academy of Invention;
+- the Mechanists' Guild;
+- the High Council;
+- the Brass Watch;
+- Cauldron neighborhood compacts;
+- merchant patrons;
+- or private research circles.
+
+No single outside organization is established as controlling the Institute.
+
+Affiliations may create genuine reform, quiet protection, divided loyalties, corruption, information leaks, concealed treatment, or deliberate harm.
+
+A physician's badge identifies training and access.
+
+It does not reveal whom that physician ultimately serves.
 
 ## Relationship with the Mechanists' Guild
 
 The Institute and [the Mechanists' Guild](The_Mechanists_Guild.md) share responsibility wherever machinery becomes medically necessary.
 
-The relationship is cooperative but not simple.
+Their cooperation has saved lives and accelerated the development of prosthetics, braces, implants, and adaptive tools.
 
-Potential areas of agreement include:
+It has also created a powerful bias toward mechanical solutions.
 
-- device safety;
-- material standards;
-- pressure tolerance;
-- maintenance documentation;
-- implant certification;
-- and training for prosthetics engineers.
+A damaged limb can become an engineering opportunity. A difficult recovery can look inefficient beside a certified replacement. A rare implant can become professional prestige for the surgeon, mechanist, institution, or patron who claims it.
 
-Potential conflicts include:
+Conflicts include:
 
-- whether a device should be treated primarily as machinery or part of a person's body;
-- who may inspect an implant;
-- whether a Guild certification can override a patient's refusal;
+- whether injured tissue should be preserved or replaced;
+- whether a device is equipment or part of a person's body;
+- who may inspect or alter an implant;
+- whether a patient's refusal can block certification, research, or public-safety review;
 - ownership of experimental designs;
 - responsibility when an implant behaves unpredictably;
-- and whether Ancient components can be certified under modern standards.
+- and whether Ancient components can be understood through modern standards.
 
-Medical consent takes priority over professional curiosity.
+Patient autonomy is an important argument within this relationship.
+
+It is not a universally enforced rule.
 
 ## Relationship with the Academy of Invention
 
-The Institute supports Academy research involving biology, healing, adaptive technology, and medical devices.
+The Institute and [the Academy of Invention](The_Academy_of_Invention.md) collaborate on anatomy, mechanobiology, adaptive technology, implants, and experimental procedures.
 
-The Academy provides theoretical knowledge, laboratories, and experimental designs.
+The Academy supplies theories, laboratories, instruments, and ambitious researchers.
 
-The Institute provides clinical reality, patient care, ethics, and the reminder that a successful mechanism can still harm the person using it.
+The Institute supplies injuries, clinical access, treatment records, and living cases that theory alone cannot provide.
 
-The institutions may disagree sharply over experimental procedures, access to rare cases, publication, and whether knowledge should be pursued before a safe clinical use exists.
+At their best, the institutions combine knowledge and practical care.
+
+At their worst, a patient becomes the place where an academic hypothesis is tested.
+
+The boundary between treatment and experiment is especially unstable when:
+
+- no accepted treatment exists;
+- the patient is dying;
+- an Ancient component is involved;
+- a child cannot fully participate in the decision;
+- or institutional prestige depends on success.
 
 ## Relationship with the Brass Watch
 
-The Institute supports the Brass Watch during disasters and dangerous investigations.
+The Institute supports [the Brass Watch](The_Brass_Watch.md) during disasters, dangerous investigations, and anomalous incidents.
 
-Its medics do not become evidence officers merely because they enter a secured scene. Their primary duty remains care.
+Care, custody, and evidence can overlap.
 
-This creates useful tension when:
+An Institute medic may protect a patient's privacy, record details for the Watch, identify an implant as dangerous evidence, or recommend confinement in a restricted ward.
 
-- clothing, implants, or biological material may also be evidence;
-- a patient refuses to answer questions;
-- a temporal incident creates conflicting medical records;
-- or the Watch wants access to a device integrated into a person's body.
+Different practitioners make different choices.
 
-The Institute can cooperate with Watch authority without surrendering patient autonomy.
+The Watch may genuinely need medical information to protect the city. It may also use medical authority to hold a person who has not committed a crime.
+
+No automatic rule makes Institute staff independent from Watch or Council pressure.
 
 ## Relationship with the Society of Explorers
 
-The Institute may certify expedition medical readiness, train field medics, review evacuation plans, and maintain records of unusual injuries encountered beyond Aetherhaven.
+The Institute may certify expedition readiness, train field medics, review evacuation plans, and maintain records of unusual injuries encountered beyond Aetherhaven.
 
-Whether an Institute medic accompanied the original Clockwork Jungle expedition remains unresolved.
+Explorers often view medical restrictions as obstacles imposed by people who have never entered the field.
 
-The Society may sometimes view medical restrictions as barriers to discovery.
+Institute practitioners often view explorers as people who rename preventable risk as courage.
 
-The Institute may view explorers as people who describe preventable risk as unavoidable adventure.
+Both criticisms can be true.
+
+Expeditionary medicine creates special danger because isolation gives a medic enormous authority, while sponsors may pressure that medic to keep an expedition moving, preserve a discovery, or collect samples before evacuation.
+
+Whether an Institute practitioner accompanied the original Clockwork Jungle expedition remains unresolved.
 
 ## Relationship with the Cauldron
 
-The Institute's official presence in the Cauldron exists because industrial injury, chemical exposure, poverty, disability, and lack of civic documentation do not remove a person's need for care.
+The Institute's presence in the Cauldron exists because industrial injury, chemical exposure, disability, poverty, and lack of civic documentation do not remove a person's need for care.
 
-The Recovery House may depend on:
+The central Institute is also one of the institutions Cauldron residents have reason to distrust.
 
-- local healers;
-- neighborhood compacts;
-- former Institute staff;
-- donated or salvaged equipment;
-- and negotiated supply routes.
+The [Cauldron Recovery House](../locations/The_Cauldron_Recovery_House.md) may depend on local healers, herbal knowledge, neighborhood compacts, former Institute staff, salvaged equipment, and practitioners whose credentials are not recognized by the upper city.
 
-The central Institute may not fully control the facility in practice.
+Central administrators may call those methods unsafe.
 
-That tension should remain available for later stories.
+Local residents may answer that the Hall's methods are merely dangerous in cleaner rooms.
+
+The Recovery House is not automatically morally superior. Its protection comes from local accountability, and that protection can fail.
+
+## Relationship with the Conservancy of Living Mechanisms
+
+The Institute has no standing alliance with [the Conservancy of Living Mechanisms](The_Conservancy_of_Living_Mechanisms.md).
+
+From time to time, individual practitioners or branches obtain:
+
+- medicinal herbs;
+- responsive mosses;
+- resins;
+- antifungal growths;
+- living fibers;
+- calming pollens;
+- or other rare materials from the Clockwork Gardens.
+
+The exchange is practical and often cautious.
+
+Conservancy members may distrust an institution inclined to cut, replace, classify, and experiment. Institute practitioners may dismiss Conservancy remedies as unmeasured, inconsistent, or superstitious.
+
+Neither side possesses complete knowledge.
+
+A resource obtained from the Conservancy may save a patient whom Institute surgery could not. An invasive Institute procedure may save someone no herb can reach.
+
+No regular partnership, shared governance, or ideological closeness should be assumed.
 
 ## Relationship with Elias and Amelia Hawthorne
 
 [Professor Elias Hawthorne](../characters/Professor_Elias_Hawthorne.md) has engineering knowledge, field experience, and personal responsibility connected to Amelia's survival.
 
-He should not be portrayed as having single-handedly performed every medical, surgical, rehabilitative, and prosthetic task required after the Clockwork Jungle disaster.
+His emergency actions may have been essential. Trained medical intervention was also necessary.
 
-His emergency actions may have been essential. Trained medical care was also necessary.
+The Institute may have contributed through an expedition medic, evacuation, surgery, infection control, pain management, rehabilitation, prosthetic fitting, implant monitoring, or collaboration while Elias built the mechanical framework of Amelia's arm.
 
-The Institute may have contributed through:
+It may also have recommended procedures Elias rejected.
 
-- an expedition medic;
-- emergency evacuation;
-- surgical stabilization;
-- infection control;
-- pain management;
-- rehabilitation;
-- prosthetic fitting;
-- implant monitoring;
-- and collaboration while Elias built the mechanical framework of Amelia's arm.
+Possible unresolved recommendations include:
 
-The exact practitioners, sequence, and institutional role remain unresolved.
+- complete amputation at a higher point;
+- a standardized prosthetic rather than Elias's custom design;
+- removal or isolation of the Aether Heart;
+- prolonged confinement for observation;
+- experimental integration;
+- or compulsory study because the Ancient component was considered a civic hazard.
 
-[Amelia Hawthorne](../characters/Amelia_Hawthorne.md) is a patient and person with authority over her own body. She is not a unique specimen owned by the Institute.
+None of these is yet established as the exact historical choice.
 
-Any Institute interest in the Aether Heart or Aether Gauntlet must be governed by Amelia's consent, safety, and age-appropriate participation in decisions.
+Elias may owe individual Institute practitioners Amelia's life while distrusting the institution that employed them.
+
+[Amelia Hawthorne](../characters/Amelia_Hawthorne.md) may remember kindness, pain, frightening procedures, missing time, or adults debating her future while she could not meaningfully participate.
+
+The Institute is not entitled to her trust merely because it helped keep her alive.
 
 ## Medical Ethics
 
-The Institute's strongest canonical principles should include:
+There is no universal Hippocratic oath in the modern sense.
 
-- treat the person before the mechanism;
-- obtain meaningful consent whenever circumstances permit;
-- do not make necessary care conditional on research participation;
-- do not allow the Council, Academy, Guild, Watch, or Society to claim a patient as institutional property;
-- distinguish emergency stabilization from permanent authority over future treatment;
-- preserve medical confidentiality while recognizing legitimate public-safety risks;
-- and ensure adaptive technology serves the patient's life rather than forcing the patient to serve the technology.
+Different schools, wards, guild traditions, and practitioners follow different codes. Some promise to preserve life. Some prioritize function. Some serve the city. Some serve knowledge. Some place loyalty to a patron, institution, or cause above the wishes of a patient.
 
-The final official oath, code, and enforcement process remain unresolved.
+Common ethical arguments may include:
+
+- whether survival justifies permanent alteration;
+- whether emergency authority continues after the emergency;
+- whether a child, prisoner, undocumented resident, injured worker, or unconscious explorer can meaningfully refuse;
+- whether dangerous knowledge should be recorded or destroyed;
+- whether a rare patient owes access to the people who saved them;
+- and whether one person's risk is justified by a treatment that may later save many.
+
+Individual practitioners can be principled, compassionate, and courageous.
+
+Institutional ethics are inconsistent, contested, and vulnerable to pressure.
+
+No reader or character should assume that an Institute recommendation is morally correct simply because it is medical.
 
 ## Political and Institutional Tensions
 
-The Institute may face pressure from:
+The Institute is a necessary civic power with weakly bounded authority.
 
-- the High Council during public-health or civic emergencies;
-- the Mechanists' Guild over device certification;
-- the Academy over research access;
-- the Brass Watch over evidence and custody;
-- the Society of Explorers over expedition restrictions;
-- merchants over expensive treatment and patents;
-- and the Cauldron over surveillance, unequal access, and civic neglect.
+It faces pressure from the High Council, Academy, Mechanists' Guild, Brass Watch, Society of Explorers, merchants, patrons, the Cauldron, the Unwound, and hidden interests connected to the Order of the Closed Eye.
 
-The Institute should not be portrayed as uniformly benevolent or corrupt.
+Corruption may take several forms:
 
-It is a large institution containing skilled caregivers, cautious administrators, ambitious researchers, exhausted field medics, ethical conflicts, political compromise, and people capable of both extraordinary compassion and institutional failure.
+- payment for preferred access;
+- research priorities shaped by patrons;
+- sealed treatment records;
+- altered causes of death;
+- devices recommended because a workshop profits from them;
+- patients transferred for political reasons;
+- dangerous discoveries concealed;
+- or practitioners using institutional access to serve another organization.
+
+The Institute should not be portrayed as uniformly benevolent or uniformly evil.
+
+It contains healers who take extraordinary risks for patients, researchers who justify cruelty as progress, exhausted field medics, brilliant prosthetists, frightened administrators, political operatives, reformers, and people who move between those categories over time.
+
+Its necessity protects it from easy abolition.
+
+Its necessity also makes its abuses harder to confront.
 
 ## Visual Language
 
-The Institute's visual language should combine medicine and precise engineering without resembling the Mechanists' Guild.
+The Institute's visual language should combine medicine, workshop engineering, and civic authority without resembling a modern hospital.
 
 Possible elements include:
 
-- clean enamel, brass, glass, linen, and dark wood;
-- articulated braces and anatomical diagrams;
-- medical instruments arranged beside precision tools;
-- white, cream, blue-gray, or muted green fabrics;
-- a symbol combining a pulse line, open hand, leaf, or articulated joint;
-- field cases designed to survive airship travel;
-- and prosthetics displayed as personal adaptive work rather than trophies.
+- brass, enamel, dark wood, glass, linen, leather straps, and stone;
+- articulated braces and intimidating stabilization frames;
+- anatomical diagrams beside mechanical cutaways;
+- surgical instruments maintained like precision tools;
+- herbal drawers beside chemical bottles;
+- locked specimen cabinets;
+- field cases scarred by expedition use;
+- prosthetics displayed as both practical work and institutional achievement;
+- public wards that are crowded and worn;
+- and restricted rooms cleaner, quieter, and more frightening than the spaces outside them.
 
-The final crest, uniforms, color system, and seal remain unresolved.
+The Hall should feel capable rather than comforting.
+
+Avoid modern visual shorthand such as perfect sterility, effortless diagnostics, disposable supplies, universal privacy, or uniformly gentle bedside care.
 
 ## Continuity Constraints
 
 - The Institute exists as a distributed medical network rather than a separate map district.
 - Its central institution is in the Government District.
-- It maintains a clinical and research presence at the Academy.
-- It maintains prosthetics and implant collaboration in the Great Workshops.
-- It supports a rehabilitation and community-care facility in the Cauldron.
-- It provides or trains field medics connected with the Brass Watch.
-- It may support expeditions with medical staff, equipment, and evacuation planning.
-- It combines biological medicine with technology, implants, prosthetics, and rehabilitation.
-- It collaborates with the Mechanists' Guild without surrendering medical authority or patient autonomy.
-- Elias's actions were important to Amelia's survival, but he did not necessarily provide all required medical care alone.
-- Amelia must never be treated as an Institute asset, specimen, device platform, or compulsory research subject.
-- The exact final name, leadership, branch names, ranks, and Clockwork Jungle personnel remain unresolved.
+- It maintains Academy, Great Workshops, Cauldron, Brass Watch, and expeditionary presences.
+- It combines incomplete biological medicine with comparatively advanced mechanical intervention.
+- It is necessary for catastrophic and unusual cases but is not assumed safe, trustworthy, or morally neutral.
+- Ordinary citizens commonly prefer home remedies, apothecaries, midwives, neighborhood healers, or trusted local practitioners for ordinary ailments.
+- Institute advice may be questioned, refused, or balanced against another form of care.
+- No universal Hippocratic oath or consistently enforced consent code exists.
+- Experiments and unethical treatments have occurred under Institute authority.
+- Some practitioners may be connected to the Unwound, Order of the Closed Eye, Council, Watch, Academy, Guild, Cauldron factions, or private patrons.
+- The Institute has no standing alliance with the Conservancy, though herbs and other resources may occasionally pass between individual practitioners.
+- Mechanical replacement may be favored over slower biological treatment, including amputation and prosthetic replacement where another healer might attempt to preserve the limb.
+- The Institute is less medically sophisticated than a modern health system; diagnosis, infection control, anesthesia, recovery, and long-term implant knowledge remain incomplete.
+- Elias's actions were important to Amelia's survival, but trained medical care was also required.
+- The Institute may have helped save Amelia while also frightening, studying, pressuring, or making contested recommendations about her.
+- The exact final name, leadership, ranks, scandals, and Clockwork Jungle personnel remain unresolved.
 
 ## Open Canon Questions
 
 1. Is **The Institute of Vital Mechanics** the final name?
-2. What is the central building's official name?
-3. Who leads the Institute?
-4. Is it governed by the Council, independently chartered, or professionally self-governing?
-5. What are its staff ranks and period-appropriate titles?
-6. Which services are public, charitable, fee-based, guild-funded, or Council-funded?
-7. How does it handle patients without civic records?
-8. What is the exact relationship between the central Institute and the Cauldron Recovery House?
-9. Does the Recovery House trust the central administration?
-10. What medical authority do Institute field medics possess during Watch operations?
-11. Does the Society of Explorers require an Institute-certified medic on dangerous expeditions?
-12. Was an Institute medic present during the Clockwork Jungle expedition?
-13. Who stabilized Amelia first?
-14. Who performed the surgery that allowed the Aether Gauntlet to be integrated safely?
-15. When did the Institute first encounter the Aether Heart?
-16. Did anyone attempt to claim research authority over Amelia?
-17. What ethical failure or historical scandal shaped the Institute's current consent rules?
-18. Which Institute practitioner eventually becomes a recurring character?
-19. What is the Institute's seal, oath, and visual identity?
-20. How does the Institute respond when an implant appears conscious or refuses repair?
+2. Who leads it, and whom do they truly answer to?
+3. Is it Council-chartered, professionally self-governing, privately patronized, or a mixture?
+4. What competing medical schools or traditions exist inside it?
+5. What codes do individual practitioners swear, if any?
+6. Which services are public, charitable, fee-based, guild-funded, patron-funded, or debt-based?
+7. What treatments do ordinary citizens most fear?
+8. What historical experiment or scandal is publicly known?
+9. What worse scandal remains sealed?
+10. Which patients were treated as subjects without meaningful consent?
+11. How common is amputation and mechanical replacement compared with preservation and herbal treatment?
+12. Which Institute branch is considered most trustworthy?
+13. Which is considered most dangerous?
+14. Which members are connected to the Unwound?
+15. Which members are connected to the Order of the Closed Eye?
+16. What information is routinely shared with the Brass Watch or Council?
+17. What exact relationship exists with the Cauldron Recovery House?
+18. What resources are occasionally obtained from the Conservancy?
+19. Was an Institute medic present during the Clockwork Jungle expedition?
+20. Who stabilized Amelia first?
+21. What procedures were performed during Amelia's survival and recovery?
+22. What recommendations did Elias accept or refuse?
+23. When did the Institute first encounter the Aether Heart?
+24. Did anyone claim research, custody, or public-safety authority over Amelia?
+25. Which recurring physician, medic, healer, prosthetist, or researcher eventually represents the Institute in the story?
 
 ## Development Checklist
 
 - [x] Distributed institutional role established.
-- [x] Government District headquarters established.
-- [x] Academy, Workshops, Cauldron, Watch, Guild, and Society connections established.
+- [x] Government District, Academy, Workshops, Cauldron, Watch, Guild, and Society connections established.
+- [x] Necessary-but-risky moral position established.
+- [x] Public distrust and preference for ordinary home or local care established.
+- [x] Limited medical sophistication and mechanical replacement bias established.
+- [x] Experimental abuse and inconsistent ethics established.
+- [x] Possible Unwound, Order, and other outside allegiances preserved.
+- [x] Limited, non-allied Conservancy resource exchange established.
 - [x] Medical support for Amelia's survival established as necessary but unresolved.
-- [x] Patient-autonomy constraints established.
 - [ ] Approve the final organization name.
-- [ ] Define governance and leadership.
-- [ ] Define staff ranks and medical terminology.
-- [ ] Select a recurring physician, medic, therapist, or prosthetist when a story requires one.
+- [ ] Define governance, leadership, schools, and practitioner ranks.
+- [ ] Define at least one public scandal and one sealed scandal.
+- [ ] Select a recurring compassionate practitioner and a recurring morally compromised practitioner when stories require them.
 - [ ] Create the Institute seal and field-medical visual language.
 - [ ] Resolve the exact Clockwork Jungle medical-response sequence only when the arc requires it.
