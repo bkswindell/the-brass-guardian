@@ -27,6 +27,7 @@ Characters · Organizations · Locations · Artifacts
 | Event | Status | Primary connections |
 |---|---|---|
 | [The Gearbreaker Standoff](The_Gearbreaker_Standoff.md) | Canonical historical event | Orin Flint, High Council, Brass Watch, Gearbreaker Mines |
+| [The Clockwork Jungle Expedition](The_Clockwork_Jungle_Expedition.md) | Canonical historical event | Elias Hawthorne, Amelia Hawthorne, Aether Gauntlet, Clockwork Jungle |
 | [The Disappearance of Prototype I](The_Disappearance_of_Prototype_I.md) | Canonical historical event | Prototype I, Order of the Closed Eye, Ninth Guild, Underclock |
 | [The Resolute Incident](The_Resolute_Incident.md) | Canonical historical event | Mara Voss, *Resolute*, Aerial Docks |
 | [The Revision of the Society of Explorers Charter](The_Revision_of_the_Society_of_Explorers_Charter.md) | Canonical working history | Society of Explorers and both seal variants |

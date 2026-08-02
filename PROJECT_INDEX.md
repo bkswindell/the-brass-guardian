@@ -9,11 +9,11 @@
 
 The repository currently contains:
 
-- **11** completed canonical character profiles and **17** source-grounded character placeholders
+- **13** completed canonical character profiles and **15** source-grounded character placeholders
 - **12** completed canonical organization profiles and **23** source-grounded organization placeholders
 - **5** completed canonical location profiles and **48** source-grounded location placeholders
-- **6** long-range or hidden story-arc profiles
-- **15** historical-event records
+- **7** long-range or hidden story-arc profiles
+- **16** historical-event records
 - **64** artifact image-slate records
 - **6** profile templates and development standards
 - **2** compiled manuscript exports (`DOCX` and `PDF`)
@@ -66,6 +66,8 @@ A file marked **Canonical working profile** is authoritative for future story an
 | [The Passenger of Dock Zero](characters/The_Passenger_of_Dock_Zero.md) | [Unverified Morningstar passenger](characters/The_Passenger_of_Dock_Zero.md) | Canonical working profile | [The_Passenger_of_Dock_Zero.md](characters/The_Passenger_of_Dock_Zero.md) |
 | [Master Gideon Brasswell](characters/Master_Gideon_Brasswell.md) | Keeper of the Engine Complex and former master to Elias Hawthorne | Canonical working profile | [Master_Gideon_Brasswell.md](characters/Master_Gideon_Brasswell.md) |
 | [Orin Flint](characters/Orin_Flint.md) | Foreman of the Gearbreaker Mines and protector of its crews | Canonical working profile | [Orin_Flint.md](characters/Orin_Flint.md) |
+| [Professor Elias Hawthorne](characters/Professor_Elias_Hawthorne.md) | Engineer, explorer, father, keeper of the Wayfinder, and the Brass Guardian | Canonical working profile | [Professor_Elias_Hawthorne.md](characters/Professor_Elias_Hawthorne.md) |
+| [Amelia Hawthorne](characters/Amelia_Hawthorne.md) | The Clockwork Explorer, bearer of the Aether Gauntlet, and central protagonist | Canonical working profile | [Amelia_Hawthorne.md](characters/Amelia_Hawthorne.md) |
 
 ## Canonical Organization Profiles
 
@@ -104,6 +106,7 @@ A file marked **Canonical working profile** is authoritative for future story an
 | [The Severed Coil](organizations/The_Severed_Coil.md) Conflict | Long-range escalation from unnoticed interference to direct civic conflict | Canonical long-range arc | [The_Severed_Coil_Conflict.md](story_arcs/The_Severed_Coil_Conflict.md) |
 | The Thirteenth Chair | [High Council](organizations/The_High_Council_of_Aetherhaven.md), [First Mechanist](characters/The_First_Mechanist.md), Continuance, and constitutional authority | Canonical long-range arc | [The_Thirteenth_Chair.md](story_arcs/The_Thirteenth_Chair.md) |
 | The Watchman's Regret | Amelia's coming-of-age lesson through a veteran Watchman's account of the Gearbreaker Standoff | Canonical future story concept | [The_Watchmans_Regret.md](story_arcs/The_Watchmans_Regret.md) |
+| Return to the Clockwork Jungle | Amelia and Elias revisit the site of the expedition disaster and confront memory, evidence, guilt, and agency | Canonical future story arc concept | [The_Return_to_the_Clockwork_Jungle.md](story_arcs/The_Return_to_the_Clockwork_Jungle.md) |
 
 
 ## Historical Events
@@ -115,6 +118,7 @@ See the [Historical Events Index](historical_events/README.md).
 | Event | Canon status | File |
 |---|---|---|
 | The Gearbreaker Standoff | Canonical historical event | [The_Gearbreaker_Standoff.md](historical_events/The_Gearbreaker_Standoff.md) |
+| The Clockwork Jungle Expedition | Canonical historical event with restricted chronology | [The_Clockwork_Jungle_Expedition.md](historical_events/The_Clockwork_Jungle_Expedition.md) |
 | The Rising | Historical placeholder | [The_Rising.md](historical_events/The_Rising.md) |
 | The First Continuance | Historical placeholder | [The_First_Continuance.md](historical_events/The_First_Continuance.md) |
 | The Disappearance of Prototype I | Canonical historical event | [The_Disappearance_of_Prototype_I.md](historical_events/The_Disappearance_of_Prototype_I.md) |
@@ -172,8 +176,6 @@ Every currently identified person, organization, and location now has a dedicate
 
 The central protagonists now have dedicated placeholders:
 
-- [Professor Elias Hawthorne](characters/Professor_Elias_Hawthorne.md)
-- [Amelia Hawthorne](characters/Amelia_Hawthorne.md)
 
 Their placeholders deliberately preserve unresolved source details instead of forcing a premature final synthesis.
 

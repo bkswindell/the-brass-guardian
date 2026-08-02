@@ -188,7 +188,7 @@ Gideon initially understands [Amelia](Amelia_Hawthorne.md) as a gifted child wit
 Over time, his instruments confirm things his existing theories cannot explain:
 
 - machinery responds before Amelia touches it,
-- pressure harmonics change near the [Aether Heart](../artifacts/008_The_Aether_Heart.md),
+- pressure harmonics change near the [Aether Heart](../artifacts/009_The_Aether_Gauntlet_Exterior_Study.md),
 - inactive components appear to anticipate her presence,
 - and the rhythm beyond the Pulse Chamber walls changes when she approaches.
 
@@ -456,7 +456,7 @@ Gideon should become one of the strongest voices asking whether an ancient autho
 Gideon becomes an important technical witness to the relationship among:
 
 - [Amelia](Amelia_Hawthorne.md),
-- the [Aether Heart](../artifacts/008_The_Aether_Heart.md),
+- the [Aether Heart](../artifacts/009_The_Aether_Gauntlet_Exterior_Study.md),
 - the Engine Complex,
 - and the Heart Engine's changing behavior.
 

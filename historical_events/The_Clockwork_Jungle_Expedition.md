@@ -53,7 +53,7 @@ An explosion followed.
 
 Much of the expedition was destroyed. Amelia's right arm was catastrophically injured, and she narrowly survived. Elias survived and later constructed the mechanical framework that became Amelia's [Aether Gauntlet](../artifacts/009_The_Aether_Gauntlet_Exterior_Study.md).
 
-The gauntlet now contains the visible [Aether Heart](../artifacts/008_The_Aether_Heart.md) and functions as an interface with Ancient machinery. Whether the Heart was recovered during the expedition, introduced during Amelia's treatment, awakened later, or connected to her before the explosion remains unresolved.
+The gauntlet now contains the visible [Aether Heart](../artifacts/009_The_Aether_Gauntlet_Exterior_Study.md) and functions as an interface with Ancient machinery. Whether the Heart was recovered during the expedition, introduced during Amelia's treatment, awakened later, or connected to her before the explosion remains unresolved.
 
 Elias spent years blaming himself and studying Ancient engineering afterward.
 
@@ -184,7 +184,7 @@ Potential surviving evidence includes:
 
 - [The Aether Gauntlet: Exterior Study](../artifacts/009_The_Aether_Gauntlet_Exterior_Study.md)
 - [Professor Hawthorne's Field Journal](../artifacts/008_Professor_Hawthornes_Field_Journal.md)
-- [The Aether Heart](../artifacts/008_The_Aether_Heart.md), path and final catalog identity require repository review
+- The Aether Heart, currently documented visually within [The Aether Gauntlet: Exterior Study](../artifacts/009_The_Aether_Gauntlet_Exterior_Study.md); a dedicated artifact record may be created later
 - [Prototype II Cabinet Photograph](../artifacts/011_Prototype_II_Cabinet_Photograph.md), potentially relevant to later comparison rather than direct expedition evidence
 - Future artifact concepts: expedition charter, damaged equipment case, vault map, recovery report, first gauntlet construction sheet, and the locked six-key journal
 

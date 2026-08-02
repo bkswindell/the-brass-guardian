@@ -43,8 +43,8 @@ source_basis:
   - Current canonical Markdown
 canonical_images:
   - ../art/AH-1-006_The_Wayfinder.png
-  - ../art/AH-1-008_Aether_Gauntlet_Exterior_Study.png
-  - ../art/AH-1-010_Prototype_II_Cabinet_Photograph.png
+  - ../art/AH-1-004_The_Aether_Gauntlet-Exterior_Study.png
+  - ../art/AH-1-005_Prototype_II.png
 ---
 
 # Amelia Hawthorne
@@ -67,7 +67,7 @@ She lives and travels with her father, [Professor Elias Hawthorne](Professor_Eli
 
 Amelia lost the ordinary use of her right arm during [the Clockwork Jungle Expedition](../historical_events/The_Clockwork_Jungle_Expedition.md), when a dormant Ancient machine awakened and an explosion destroyed much of the expedition. Elias later constructed the mechanical framework that became Amelia's [Aether Gauntlet](../artifacts/009_The_Aether_Gauntlet_Exterior_Study.md).
 
-Within the gauntlet rests the visible [Aether Heart](../artifacts/008_The_Aether_Heart.md), a glowing Ancient component or living mechanism whose full nature remains unresolved. Ancient machines respond to Amelia in ways they do not respond to anyone else. Some inscriptions or systems recognize her as **the Bearer of the Living Key**.
+Within the gauntlet rests the visible [Aether Heart](../artifacts/009_The_Aether_Gauntlet_Exterior_Study.md), a glowing Ancient component or living mechanism whose full nature remains unresolved. Ancient machines respond to Amelia in ways they do not respond to anyone else. Some inscriptions or systems recognize her as **the Bearer of the Living Key**.
 
 That recognition does not make Amelia an object, component, prophecy, or civic resource.
 

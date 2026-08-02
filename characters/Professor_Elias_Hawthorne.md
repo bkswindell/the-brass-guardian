@@ -53,7 +53,7 @@ That question shaped his career. It drew him away from ordinary engineering and 
 
 During that expedition, a dormant Ancient machine awakened inside a hidden structure or vault. The resulting explosion destroyed much of the expedition and nearly claimed [Amelia Hawthorne](Amelia_Hawthorne.md)'s right arm. Elias has carried responsibility for the event ever since, whether or not the final historical record ultimately proves that he caused it.
 
-Afterward, Elias constructed the mechanical structure that became Amelia's [Aether Gauntlet](../artifacts/009_The_Aether_Gauntlet_Exterior_Study.md). The gauntlet contains the visible [Aether Heart](../artifacts/008_The_Aether_Heart.md) and functions as an interface with Ancient machinery in ways Elias did not fully design and still cannot explain.
+Afterward, Elias constructed the mechanical structure that became Amelia's [Aether Gauntlet](../artifacts/009_The_Aether_Gauntlet_Exterior_Study.md). The gauntlet contains the visible [Aether Heart](../artifacts/009_The_Aether_Gauntlet_Exterior_Study.md) and functions as an interface with Ancient machinery in ways Elias did not fully design and still cannot explain.
 
 Elias and Amelia now travel aboard the *Wayfinder*, a vessel that came to him partly built and filled with older components whose makers remain unknown. Together they pursue the mystery of the Heart Engine, the Six Aether Keys, and the ancient systems that increasingly recognize Amelia.
 
