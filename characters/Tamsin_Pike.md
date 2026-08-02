@@ -28,9 +28,9 @@ Tamsin Pike is a clever, practical young canal guide with an unusual knowledge o
 
 She carries an old brass key whose design predates several of Aetherhaven's current canal systems.
 
-Tamsin may already belong to the Underclock.
+Tamsin may already belong to [the Underclock](../organizations/The_Underclock.md).
 
-Or the Underclock may believe she belongs to it because of a promise, route, debt, or protection inherited from the Pike family.
+Or [the Underclock](../organizations/The_Underclock.md) may believe she belongs to it because of a promise, route, debt, or protection inherited from the Pike family.
 
 She is comfortable around smugglers and guides without romanticizing them. She understands that hidden routes can rescue people, enrich criminals, conceal abuse, and preserve truths official institutions would rather erase.
 
@@ -162,7 +162,7 @@ Her clothing may include inherited repairs or old canal-family markings.
 - She must not be treated as automatically criminal.
 - Her practical intelligence should remain distinct from Amelia's pattern recognition and Elias's engineering knowledge.
 - The brass key must have limited, specific significance rather than functioning as a universal key.
-- Tamsin's choices must determine her eventual place in the Underclock.
+- Tamsin's choices must determine her eventual place in [the Underclock](../organizations/The_Underclock.md).
 
 ## Open Canon Questions
 

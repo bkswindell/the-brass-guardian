@@ -54,7 +54,7 @@ Together, the eight guilds represent modern Aetherhaven's attempt to impose unde
 
 The Eight are not merely professional societies. Their standards, apprenticeships, archives, and rivalries shaped the city's bridges, engines, canals, airships, clocks, automata, gardens, and public infrastructure.
 
-In the modern city, the individual guilds retain their own identities while operating within the larger professional federation known as the **Mechanists' Guild**.
+In the modern city, the individual guilds retain their own identities while operating within the larger professional federation known as the **[Mechanists' Guild](The_Mechanists_Guild.md)**.
 
 Their guildmasters form the **Conclave of Eight**, which meets in the **Octagonal Hall**.
 
@@ -92,7 +92,7 @@ The story is hopeful, memorable, and almost certainly incomplete.
 
 The guildmasters of the founding orders form the **Conclave of Eight**.
 
-The Conclave advises the High Council on:
+The Conclave advises [the High Council](The_High_Council_of_Aetherhaven.md) on:
 
 - engineering law,
 - infrastructure,
@@ -112,7 +112,7 @@ At the chamber's center stands a circular representation of the Aetherium.
 
 Officially, the center symbolizes the power around which the guilds built the city.
 
-The Ninth Guild interprets that empty center as evidence that something essential was removed from the founding order.
+[The Ninth Guild](The_Ninth_Guild.md) interprets that empty center as evidence that something essential was removed from the founding order.
 
 ## 1. The Guild of Framewrights
 
@@ -202,7 +202,7 @@ Airship hulls, lift systems, propulsion assemblies, steering mechanisms, emergen
 
 Skywrights design and certify vessels.
 
-The Aerial Mariners' Union crews, navigates, maintains, and operates them.
+[The Aerial Mariners' Union](The_Aerial_Mariners_Union.md) crews, navigates, maintains, and operates them.
 
 ### Character
 
@@ -248,7 +248,7 @@ Automata, prosthetics, clockwork sentinels, lenses, surgical devices, scientific
 
 The Artificers stand closest to the Academy of Invention.
 
-They have also produced many of the scholars who later vanished into Ninth Guild circles.
+They have also produced many of the scholars who later vanished into [Ninth Guild](The_Ninth_Guild.md) circles.
 
 ### Character
 
@@ -270,7 +270,7 @@ Living machinery, agricultural systems, mechanical flowers, clockwork pollinator
 
 They helped shape the Clockwork Gardens and Grand Atrium.
 
-The Conservancy of Living Mechanisms maintains many of the systems they design.
+[The Conservancy of Living Mechanisms](The_Conservancy_of_Living_Mechanisms.md) maintains many of the systems they design.
 
 ### Character
 
@@ -293,7 +293,7 @@ The eight guilds do not possess equal influence.
 - The Aetherwrights
 - The Enginewrights
 
-Their control of power and heavy infrastructure gives them close relationships with the High Council.
+Their control of power and heavy infrastructure gives them close relationships with [the High Council](The_High_Council_of_Aetherhaven.md).
 
 ### Most Structurally Essential
 
@@ -306,7 +306,7 @@ Their work receives less glamour but keeps the city physically standing and habi
 
 - The Skywrights
 
-Their certifications matter, but the Aerial Mariners' Union can refuse to fly what they approve.
+Their certifications matter, but [the Aerial Mariners' Union](The_Aerial_Mariners_Union.md) can refuse to fly what they approve.
 
 ### Most Embarrassed by Temporal Evidence
 
@@ -318,7 +318,7 @@ Their archives contain obsolete calendars, contradictory conversion tables, and 
 
 - The Artificers
 
-Their disciplines come closest to memory, identity, sentience, and the work of the Ninth Guild.
+Their disciplines come closest to memory, identity, sentience, and the work of [the Ninth Guild](The_Ninth_Guild.md).
 
 ### Most Underestimated
 
@@ -328,23 +328,23 @@ They maintain systems no other guild fully understands and may know more about t
 
 ## Juniper Bell and the Verdant Founding
 
-The relationship between Juniper Bell and the founding of the Guild of Verdant Mechanists remains unresolved.
+The relationship between [Juniper Bell](../characters/Juniper_Bell.md) and the founding of [the Guild](The_Mechanists_Guild.md) of Verdant Mechanists remains unresolved.
 
 Some records describe a green-coated gardener guiding the earliest Verdant engineers through living sections of the Gardens.
 
-Others place Juniper beside the Aetherium before the accepted founding date.
+Others place [Juniper](../characters/Juniper_Bell.md) beside the Aetherium before the accepted founding date.
 
-When asked whether she founded the guild, Juniper says:
+When asked whether she founded [the guild](The_Mechanists_Guild.md), [Juniper](../characters/Juniper_Bell.md) says:
 
 > **No. I only showed them where the roots were.**
 
-The statement may be modesty, evasion, or a literal description of the guild's origin.
+The statement may be modesty, evasion, or a literal description of [the guild](The_Mechanists_Guild.md)'s origin.
 
 For complete character canon, see [Juniper Bell](../characters/Juniper_Bell.md).
 
 ## Relationship with the Mechanists' Guild
 
-The modern Mechanists' Guild is the umbrella federation encompassing all eight founding orders.
+The modern [Mechanists' Guild](The_Mechanists_Guild.md) is the umbrella federation encompassing all eight founding orders.
 
 The founding guilds retain:
 
@@ -355,7 +355,7 @@ The founding guilds retain:
 - customs,
 - and internal leadership.
 
-The Mechanists' Guild provides:
+[The Mechanists' Guild](The_Mechanists_Guild.md) provides:
 
 - citywide certification,
 - common safety law,
@@ -381,17 +381,17 @@ This creates a constant tension:
 
 - the Academy asks what is possible,
 - the guilds ask whether it can be built safely,
-- and the Ninth Guild asks why anyone should be allowed to forbid the attempt.
+- and [the Ninth Guild](The_Ninth_Guild.md) asks why anyone should be allowed to forbid the attempt.
 
 ## Relationship with the Ninth Guild
 
 Official history recognizes only eight founding guilds.
 
-The Ninth Guild claims this is not proof that no ninth discipline existed.
+[The Ninth Guild](The_Ninth_Guild.md) claims this is not proof that no ninth discipline existed.
 
 It may instead prove that one was removed.
 
-The Ninth Guild's **Black Lacuna** echoes the Conclave's central arrangement:
+[The Ninth Guild](The_Ninth_Guild.md)'s **[Black Lacuna](The_Ninth_Guild.md)** echoes the Conclave's central arrangement:
 
 - eight recognized positions,
 - and one absent center.
@@ -409,14 +409,14 @@ Possibilities include:
 ## Continuity Constraints
 
 - The Eight Founding Guilds must remain distinct professional orders with their own culture and stewardship.
-- The Mechanists' Guild is their modern umbrella federation, not a ninth founding guild.
+- [The Mechanists' Guild](The_Mechanists_Guild.md) is their modern umbrella federation, not a ninth founding guild.
 - The Conclave of Eight meets in the Octagonal Hall.
 - Six symbolizes the ancient systems; eight symbolizes modern civic Aetherhaven; nine symbolizes erased or forbidden knowledge.
 - The public founding story must remain spoiler-light and suitable for younger readers.
 - No founding guild should be uniformly villainous or infallible.
 - Political power among the guilds must remain uneven.
-- The Ninth Guild's interpretation of the empty center remains a theory, not confirmed history.
-- Existing organizations such as the Aerial Mariners' Union and Conservancy of Living Mechanisms should remain distinct from the guilds they work alongside.
+- [The Ninth Guild](The_Ninth_Guild.md)'s interpretation of the empty center remains a theory, not confirmed history.
+- Existing organizations such as [the Aerial Mariners' Union](The_Aerial_Mariners_Union.md) and [Conservancy of Living Mechanisms](The_Conservancy_of_Living_Mechanisms.md) should remain distinct from the guilds they work alongside.
 
 ## Open Canon Questions
 
@@ -426,7 +426,7 @@ Possibilities include:
 4. Why does the Octagonal Hall place the Aetherium at its empty center?
 5. Which guild possesses the oldest unaltered founding charter?
 6. Which guild first noticed the Lost Seconds?
-7. Did Juniper Bell help establish the Verdant Mechanists?
-8. Which Conclave member currently communicates with the Ninth Guild?
+7. Did [Juniper Bell](../characters/Juniper_Bell.md) help establish the Verdant Mechanists?
+8. Which Conclave member currently communicates with [the Ninth Guild](The_Ninth_Guild.md)?
 9. Do the oldest guild symbols conceal ancient command functions?
 10. What happens if the Conclave cannot reach agreement during a citywide crisis?

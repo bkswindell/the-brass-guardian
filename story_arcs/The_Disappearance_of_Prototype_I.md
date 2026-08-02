@@ -21,25 +21,25 @@ temporal_relevance: High
 
 1. Prototype I existed before Prototype II.
 2. It displayed alarming signs of memory, recognition, autonomy, or Bearer response.
-3. The Order of the Closed Eye issued a Closure directive.
+3. [The Order of the Closed Eye](../organizations/The_Order_of_the_Closed_Eye.md) issued a Closure directive.
 4. Academy records were altered and witnesses Veiled.
 5. Prototype I was confiscated and prepared for a Quiet Transfer.
-6. The Ninth Guild learned of the transfer.
-7. A Ninth Guild front manipulated an Underclock crew by presenting the job as a sanctuary rescue.
-8. The Underclock intercepted the transfer without knowing the subject's identity.
+6. [The Ninth Guild](../organizations/The_Ninth_Guild.md) learned of the transfer.
+7. A [Ninth Guild](../organizations/The_Ninth_Guild.md) front manipulated an Underclock crew by presenting the job as a sanctuary rescue.
+8. [The Underclock](../organizations/The_Underclock.md) intercepted the transfer without knowing the subject's identity.
 9. The intended handoff failed.
-10. The Order lost custody.
-11. The Ninth Guild failed to complete accession.
+10. [The Order](../organizations/The_Order_of_the_Closed_Eye.md) lost custody.
+11. [The Ninth Guild](../organizations/The_Ninth_Guild.md) failed to complete accession.
 12. Prototype I's final location remains unresolved.
 
 ## Public Assumptions
 
 Different factions believe:
 
-- The Order destroyed Prototype I.
-- The Ninth Guild stole it.
+- [The Order](../organizations/The_Order_of_the_Closed_Eye.md) destroyed Prototype I.
+- [The Ninth Guild](../organizations/The_Ninth_Guild.md) stole it.
 - The Academy never built it.
-- The Underclock sold it.
+- [The Underclock](../organizations/The_Underclock.md) sold it.
 - Prototype I was only a failed designation.
 - Prototype II was mislabeled.
 
@@ -53,11 +53,11 @@ None of those explanations is fully accurate.
 - The erased accession number.
 - Prototype II labeled **Awaiting the Bearer**.
 - Order-style redaction patterns.
-- Black Lacuna references to an incomplete accession.
+- [Black Lacuna](../organizations/The_Ninth_Guild.md) references to an incomplete accession.
 
 ### Middle
 
-- Proof that the Order confiscated Prototype I.
+- Proof that [the Order](../organizations/The_Order_of_the_Closed_Eye.md) confiscated Prototype I.
 - Underclock route evidence.
 - A forged rescue request.
 - Testimony from a courier who remembers the case moving by itself.
@@ -81,10 +81,10 @@ For Elara, it may expose what she knew, what she hid, and whom she was trying to
 
 ## Continuity Constraints
 
-- The Order is responsible for Closure and confiscation.
-- The Ninth Guild manipulated the extraction.
-- The Underclock did not knowingly steal Prototype I for the Guild.
+- [The Order](../organizations/The_Order_of_the_Closed_Eye.md) is responsible for Closure and confiscation.
+- [The Ninth Guild](../organizations/The_Ninth_Guild.md) manipulated the extraction.
+- [The Underclock](../organizations/The_Underclock.md) did not knowingly steal Prototype I for [the Guild](../organizations/The_Mechanists_Guild.md).
 - The broader Unwound remains uninvolved.
-- Neither the Order nor Ninth Guild is confirmed to possess Prototype I.
+- Neither [the Order](../organizations/The_Order_of_the_Closed_Eye.md) nor [Ninth Guild](../organizations/The_Ninth_Guild.md) is confirmed to possess Prototype I.
 - Prototype I must retain the possibility of agency.
 - The mystery should unfold across multiple stories rather than one exposition scene.

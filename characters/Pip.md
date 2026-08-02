@@ -33,7 +33,7 @@ Whether that messenger was Pip is unresolved.
 
 Pip may be an ordinary companion who resembles an older Garden messenger.
 
-He may also have known Juniper Bell and the Moon Garden before Amelia understood who he was.
+He may also have known [Juniper Bell](Juniper_Bell.md) and [the Moon Garden](../locations/The_Moon_Garden.md) before Amelia understood who he was.
 
 ## Personality
 
@@ -97,7 +97,7 @@ Pip sometimes disappears during a voyage and returns carrying:
 
 ## Relationship with Juniper Bell
 
-Juniper behaves as though she already knows Pip.
+[Juniper](Juniper_Bell.md) behaves as though she already knows Pip.
 
 She may:
 
@@ -106,9 +106,9 @@ She may:
 - understand one of his tapping patterns,
 - or ask where he has been as though expecting a report.
 
-Pip appears comfortable around Juniper's mechanical insects and may follow her through Garden paths he refuses to show anyone else.
+Pip appears comfortable around [Juniper](Juniper_Bell.md)'s mechanical insects and may follow her through Garden paths he refuses to show anyone else.
 
-Neither Juniper nor Pip provides a direct explanation.
+Neither [Juniper](Juniper_Bell.md) nor Pip provides a direct explanation.
 
 ## The Messenger Sparrow Mystery
 
@@ -117,7 +117,7 @@ The messenger from the Keeper of Dreams:
 - was a tiny brass sparrow,
 - tapped on the Hawthorne workshop window,
 - carried a message tied with blue ribbon,
-- and remained near the workshop after Amelia returned from the Moon Garden.
+- and remained near the workshop after Amelia returned from [the Moon Garden](../locations/The_Moon_Garden.md).
 
 Pip closely resembles that sparrow.
 
@@ -125,7 +125,7 @@ Possible explanations include:
 
 - Pip was the messenger and remained with Amelia afterward.
 - Pip has incomplete or protected memory of the event.
-- Juniper maintains several sparrows built from one living pattern.
+- [Juniper](Juniper_Bell.md) maintains several sparrows built from one living pattern.
 - The Gardens created a messenger in Pip's form.
 - Pip exists along more than one point in his own chronology.
 - The companion Amelia knows is descended mechanically from the original messenger.
@@ -143,7 +143,7 @@ Potential recurring clues include:
 - The silver flower glows when he sleeps beside it.
 - He recognizes the Dream Engine.
 - Old paintings contain a sparrow with the same damaged feather plate.
-- Juniper refers to a message Pip has not yet delivered.
+- [Juniper](Juniper_Bell.md) refers to a message Pip has not yet delivered.
 - Wayfinder logs record Pip aboard before Elias remembers bringing him home.
 
 ## Limits
@@ -176,7 +176,7 @@ Possible recurring details include:
 - a slightly uneven feather plate,
 - warm eye lenses,
 - tiny mechanical feet,
-- and a soft internal glow when near the Aether Heart or Moon Garden.
+- and a soft internal glow when near the Aether Heart or [Moon Garden](../locations/The_Moon_Garden.md).
 
 ## Staged Revelations
 
@@ -186,11 +186,11 @@ Possible recurring details include:
 - He lives aboard or regularly travels on the Wayfinder.
 - He helps with messages and small tasks.
 - He behaves like a distinct personality.
-- He resembles the Moon Garden messenger.
+- He resembles [the Moon Garden](../locations/The_Moon_Garden.md) messenger.
 
 ### Mid-Series
 
-- Juniper already knows him.
+- [Juniper](Juniper_Bell.md) already knows him.
 - Pip recognizes hidden Garden routes.
 - His tapping pattern matches the original invitation.
 - Wayfinder and Garden records disagree about when he joined Amelia.
@@ -201,7 +201,7 @@ Possible recurring details include:
 - Whether Pip and the messenger are the same being.
 - Who built or awakened him.
 - Whether his memories have been altered.
-- Whether he can enter the Moon Garden without invitation.
+- Whether he can enter [the Moon Garden](../locations/The_Moon_Garden.md) without invitation.
 - Why the Gardens chose his form.
 - Whether Pip has delivered messages from future events.
 
@@ -211,8 +211,8 @@ Possible recurring details include:
 - He must retain personality, preference, vulnerability, and affection.
 - His resemblance to the Keeper's messenger is deliberate but unresolved.
 - He should not solve every route or mystery.
-- Juniper's familiarity with him should emerge gradually.
-- His connection to the Moon Garden must not undermine his genuine bond with Amelia.
+- [Juniper](Juniper_Bell.md)'s familiarity with him should emerge gradually.
+- His connection to [the Moon Garden](../locations/The_Moon_Garden.md) must not undermine his genuine bond with Amelia.
 - Pip's exact origin should remain open until a later story.
 
 ## Open Canon Questions
@@ -220,7 +220,7 @@ Possible recurring details include:
 1. Is Pip the original blue-ribbon messenger?
 2. When did he first join Amelia?
 3. Who built or awakened him?
-4. Why does Juniper recognize him?
-5. Does Pip remember the Moon Garden?
+4. Why does [Juniper](Juniper_Bell.md) recognize him?
+5. Does Pip remember [the Moon Garden](../locations/The_Moon_Garden.md)?
 6. Why do some records place him aboard the Wayfinder too early?
 7. What message has he not yet delivered?

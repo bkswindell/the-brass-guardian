@@ -30,7 +30,7 @@ temporal_relevance: High
 
 ## Canonical Summary
 
-Captain Mara Voss once commanded the celebrated exploration vessel *Resolute*. She now governs Aetherhaven's Aerial Docks and oversees the smaller emergency landing platform near the Clockwork Gardens. She knows every reputable captain, unreliable smuggler, customs officer, dock mechanic, and airship worth knowing—and several vessels that officially do not exist.
+Captain Mara Voss once commanded the celebrated exploration vessel *Resolute*. She now governs Aetherhaven's [Aerial Docks](../locations/The_Aerial_Docks.md) and oversees the smaller emergency landing platform near the Clockwork Gardens. She knows every reputable captain, unreliable smuggler, customs officer, dock mechanic, and airship worth knowing—and several vessels that officially do not exist.
 
 Blunt, fearless, and fiercely loyal, Mara treats Amelia Hawthorne as a genuine explorer rather than a child accompanying adults. She trusts Amelia with real responsibility, though she occasionally conspires with Elias to keep particularly dangerous information from her. Amelia has learned that Mara's silences usually conceal concern rather than distrust.
 
@@ -40,28 +40,28 @@ The *Resolute* disappeared during its final voyage and returned seven months lat
 
 Mara refuses to describe everything that happened during the voyage. She does, however, maintain a private black ledger of ships, passengers, and arrivals that official records forget, alter, or reject.
 
-She confiscated the Passenger of Dock Zero's future-coded ticket after repeated attempts to enter the reserved Morningstar berth. The damaged name field cannot confirm that the ticket belongs to him, but symbols within its transit code match markings Mara saw during the *Resolute's* final voyage.
+She confiscated [the Passenger of Dock Zero](The_Passenger_of_Dock_Zero.md)'s future-coded ticket after repeated attempts to enter the reserved Morningstar berth. The damaged name field cannot confirm that the ticket belongs to him, but symbols within its transit code match markings Mara saw during the *Resolute's* final voyage.
 
-She has not told the Passenger that the Morningstar may not arrive for forty-seven years.
+She has not told [the Passenger](The_Passenger_of_Dock_Zero.md) that the Morningstar may not arrive for forty-seven years.
 
-She has also not told the High Council that the *Resolute's* backward chronometer has begun counting toward the same date.
+She has also not told [the High Council](../organizations/The_High_Council_of_Aetherhaven.md) that the *Resolute's* backward chronometer has begun counting toward the same date.
 
-Each night, before leaving her office, Mara looks toward the empty reserved berth—not to see whether the Passenger is still waiting, but to make certain the Morningstar has not arrived early.
+Each night, before leaving her office, Mara looks toward the empty reserved berth—not to see whether [the Passenger](The_Passenger_of_Dock_Zero.md) is still waiting, but to make certain the Morningstar has not arrived early.
 
 ## Public Role
 
-Mara has practical authority over Aetherhaven's incoming and outgoing air traffic. The High Council may issue regulations, but Mara determines whether a damaged vessel may land, whether suspicious cargo is isolated, and whether a traveler without proper records is treated as a threat, a fraud, or someone who needs help.
+Mara has practical authority over Aetherhaven's incoming and outgoing air traffic. [The High Council](../organizations/The_High_Council_of_Aetherhaven.md) may issue regulations, but Mara determines whether a damaged vessel may land, whether suspicious cargo is isolated, and whether a traveler without proper records is treated as a threat, a fraud, or someone who needs help.
 
 Her jurisdiction includes:
 
-- The commercial Aerial Docks.
+- The commercial [Aerial Docks](../locations/The_Aerial_Docks.md).
 - Emergency and experimental landing platforms.
 - Customs inspection and quarantine decisions.
 - Restricted docking incidents.
 - The permanently reserved Morningstar berth near the Clockwork Gardens.
-- Coordination with the Brass Watch during dockside investigations.
+- Coordination with [the Brass Watch](../organizations/The_Brass_Watch.md) during dockside investigations.
 
-Mara's authority is strengthened by the loyalty of the Aerial Mariners' Union. She refuses its formal leadership, but the Union is likely to support her over the High Council in disputes involving dock autonomy or flight safety.
+Mara's authority is strengthened by the loyalty of [the Aerial Mariners' Union](../organizations/The_Aerial_Mariners_Union.md). She refuses its formal leadership, but [the Union](../organizations/The_Aerial_Mariners_Union.md) is likely to support her over [the High Council](../organizations/The_High_Council_of_Aetherhaven.md) in disputes involving dock autonomy or flight safety.
 
 ## Character Function
 
@@ -144,29 +144,29 @@ Mara may become one of the first adults to realize Amelia notices temporal discr
 
 ## Relationship with Chancellor Octavia Vale
 
-Octavia considers Mara difficult but indispensable. Mara distrusts political secrecy, while Octavia believes some truths must be controlled for public safety.
+[Octavia](Chancellor_Octavia_Vale.md) considers Mara difficult but indispensable. Mara distrusts political secrecy, while [Octavia](Chancellor_Octavia_Vale.md) believes some truths must be controlled for public safety.
 
 They share cautious respect.
 
-Octavia sometimes provides Mara with classified information because she knows Mara will act decisively. Mara sometimes withholds information from Octavia because she suspects the Council's records may adjust—or may already have been altered.
+[Octavia](Chancellor_Octavia_Vale.md) sometimes provides Mara with classified information because she knows Mara will act decisively. Mara sometimes withholds information from [Octavia](Chancellor_Octavia_Vale.md) because she suspects [the Council](../organizations/The_High_Council_of_Aetherhaven.md)'s records may adjust—or may already have been altered.
 
 ## Relationship with Chief Inspector Beatrice Thorne
 
-Mara and Thorne frequently clash over jurisdiction.
+Mara and [Thorne](Chief_Inspector_Beatrice_Thorne.md) frequently clash over jurisdiction.
 
 - Mara controls dock operations.
-- Thorne controls criminal investigations.
+- [Thorne](Chief_Inspector_Beatrice_Thorne.md) controls criminal investigations.
 - Neither appreciates the other entering her territory without warning.
 
 Despite the conflict, they trust one another in genuine emergencies. Both value evidence, competence, and innocent lives above foolish instructions.
 
 ## Relationship with the Passenger of Dock Zero
 
-Mara confiscated the Passenger's ticket after repeated attempts to access the reserved Morningstar berth.
+Mara confiscated [the Passenger](The_Passenger_of_Dock_Zero.md)'s ticket after repeated attempts to access the reserved Morningstar berth.
 
 The ticket was found in his possession. Its damaged passenger field contains traces of a name, but not enough to verify that it was issued to him. It may have been his, inherited, entrusted to him, or carried from another chronology.
 
-The Passenger is secretive, impatient, confused, and persistent, but not violent or belligerent. Mara has no lawful reason to imprison him.
+[The Passenger](The_Passenger_of_Dock_Zero.md) is secretive, impatient, confused, and persistent, but not violent or belligerent. Mara has no lawful reason to imprison him.
 
 She believes at least part of his claim.
 
@@ -178,7 +178,7 @@ She does not know whether he is:
 - unable to remember his purpose,
 - or withholding details because disclosure would alter the outcome.
 
-The old transit symbols on the ticket match notations seen during the *Resolute's* final voyage. Mara has not disclosed that fact to the Council.
+The old transit symbols on the ticket match notations seen during the *Resolute's* final voyage. Mara has not disclosed that fact to [the Council](../organizations/The_High_Council_of_Aetherhaven.md).
 
 ## The Final Voyage of the Resolute
 
@@ -235,7 +235,7 @@ The Morningstar berth is permanently reserved despite the absence of a vessel re
 
 Attempts to remove or reassign the berth have failed:
 
-- The order disappears from revised plans.
+- [The order](../organizations/The_Order_of_the_Closed_Eye.md) disappears from revised plans.
 - Replacement signs are removed or relocated.
 - The original plaque returns.
 - Assigned vessels experience instrument failure.
@@ -275,7 +275,7 @@ Mara does not remember writing it.
 
 A heavy brass clock recovered from the *Resolute*. Its hands move backward, but it does not measure ordinary time. Its face sometimes displays dates, coordinates, or unfamiliar constellations.
 
-It accelerates when the Passenger approaches Dock Zero.
+It accelerates when [the Passenger](The_Passenger_of_Dock_Zero.md) approaches Dock Zero.
 
 It has begun counting toward the same interpreted window as the Morningstar ticket.
 
@@ -331,7 +331,7 @@ Dockworkers report seeing the *Resolute* moored at an abandoned platform while t
 
 ### The Morningstar Hearing
 
-The High Council orders the Passenger removed and the berth reassigned. Mara refuses, creating conflict among the Council, Brass Watch, Aerial Mariners' Union, and Harbormaster's Office.
+[The High Council](../organizations/The_High_Council_of_Aetherhaven.md) orders [the Passenger](The_Passenger_of_Dock_Zero.md) removed and the berth reassigned. Mara refuses, creating conflict among [the Council](../organizations/The_High_Council_of_Aetherhaven.md), [Brass Watch](../organizations/The_Brass_Watch.md), [Aerial Mariners' Union](../organizations/The_Aerial_Mariners_Union.md), and Harbormaster's Office.
 
 ### The Names the City Forgot
 
@@ -352,7 +352,7 @@ A distress signal arrives through obsolete dock equipment. The transmission is i
 - Mara says only nineteen days passed.
 - The clocks returned running backward.
 - Mara keeps a private ledger.
-- Mara confiscated the Passenger's ticket.
+- Mara confiscated [the Passenger](The_Passenger_of_Dock_Zero.md)'s ticket.
 - She takes the Morningstar mystery seriously.
 
 ### Hold for Later
@@ -369,13 +369,13 @@ A distress signal arrives through obsolete dock equipment. The transmission is i
 
 - Mara must not be reduced to a generic stern authority figure.
 - She is protective of Amelia but respects her agency and competence.
-- She has no evidence sufficient to imprison the Passenger and would oppose unjust detention.
+- She has no evidence sufficient to imprison [the Passenger](The_Passenger_of_Dock_Zero.md) and would oppose unjust detention.
 - She takes strange evidence seriously while demanding practical verification.
 - The *Resolute* mystery must remain unresolved across early volumes.
 - Her missing crew remain emotionally important, not merely a plot device.
 - Temporal contradictions surrounding Mara should leave physical or documentary residue.
 - Her loyalty to Elias does not prevent her from challenging him.
-- Her connection to smugglers and the Underclock is pragmatic, not criminal allegiance.
+- Her connection to smugglers and [the Underclock](../organizations/The_Underclock.md) is pragmatic, not criminal allegiance.
 - The Morningstar berth remains reserved and physically persistent.
 
 ## Open Canon Questions
@@ -387,6 +387,6 @@ These are intentionally unresolved:
 3. Why do records increasingly describe Mara as a passenger?
 4. Who wrote the first entry in the black ledger?
 5. Is the Morningstar berth preserving the future—or causing it?
-6. Why does the backward chronometer respond to the Passenger?
+6. Why does the backward chronometer respond to [the Passenger](The_Passenger_of_Dock_Zero.md)?
 7. Is the older Mara still alive in another chronology?
 8. Why must a future version of Mara not board the Morningstar?

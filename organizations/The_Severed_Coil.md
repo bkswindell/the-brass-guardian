@@ -37,7 +37,7 @@ temporal_relevance: High
 
 ## Canonical Summary
 
-The Severed Coil is the violent extremist splinter of the Unwound.
+The Severed Coil is the violent extremist splinter of [the Unwound](The_Unwound.md).
 
 Where the broader Unwound argues that Aetherhaven must reduce its dependence on the Heart Engine, the Severed Coil believes the city must first be made to fail.
 
@@ -75,7 +75,7 @@ It reaches a monstrous conclusion:
 
 > Therefore, the city must be forced to suffer until dependence becomes impossible.
 
-The faction believes gradual reform is a lie maintained by comfortable people who benefit from the current system. It regards petitions, public debate, and community resilience as distractions that allow the High Council and Engine Complex to preserve control.
+The faction believes gradual reform is a lie maintained by comfortable people who benefit from the current system. It regards petitions, public debate, and community resilience as distractions that allow [the High Council](The_High_Council_of_Aetherhaven.md) and Engine Complex to preserve control.
 
 Its doctrine is commonly summarized in three statements:
 
@@ -146,7 +146,7 @@ The Inner Coil may be:
 - a constructed myth used to coordinate otherwise independent cells,
 - or an outside organization manipulating the movement.
 
-The Brass Watch does not know which possibility is true.
+[The Brass Watch](The_Brass_Watch.md) does not know which possibility is true.
 
 ### Recruitment
 
@@ -179,7 +179,7 @@ The Severed Coil favors attacks that are symbolic, disruptive, and difficult to 
 Its goals are often not limited to physical destruction. Operations are designed to:
 
 - create fear,
-- discredit the High Council,
+- discredit [the High Council](The_High_Council_of_Aetherhaven.md),
 - provoke harsh Watch responses,
 - expose dependence on the Heart Engine,
 - and make peaceful Unwound reformers appear complicit.
@@ -201,7 +201,7 @@ Operational details should remain impressionistic in stories. The faction's thre
 
 ## Public Reputation
 
-Most citizens do not distinguish carefully between the Severed Coil and the larger Unwound movement.
+Most citizens do not distinguish carefully between the Severed Coil and the larger [Unwound movement](The_Unwound.md).
 
 This is one of the faction's greatest strategic successes.
 
@@ -214,7 +214,7 @@ After every attack:
 
 Some citizens fear the Coil as terrorists.
 
-Some secretly admire its willingness to strike at the Council.
+Some secretly admire its willingness to strike at [the Council](The_High_Council_of_Aetherhaven.md).
 
 Most simply fear being nearby when it decides to make a point.
 
@@ -249,17 +249,17 @@ The broader movement cannot reliably identify every infiltrator.
 
 This creates genuine fear inside Unwound communities.
 
-Some organizers cooperate quietly with the Brass Watch to expose Coil cells.
+Some organizers cooperate quietly with [the Brass Watch](The_Brass_Watch.md) to expose Coil cells.
 
-Others refuse, believing the Watch will use the information to dismantle the entire movement.
+Others refuse, believing [the Watch](The_Brass_Watch.md) will use the information to dismantle the entire movement.
 
 The Severed Coil benefits from both reactions.
 
 ## Relationship with the Brass Watch
 
-The Severed Coil is one of the Brass Watch's highest-priority internal threats.
+The Severed Coil is one of [the Brass Watch](The_Brass_Watch.md)'s highest-priority internal threats.
 
-It keeps the Watch occupied through:
+It keeps [the Watch](The_Brass_Watch.md) occupied through:
 
 - active sabotage investigations,
 - protection of critical infrastructure,
@@ -277,16 +277,16 @@ A successful Coil operation may be designed to produce two outcomes:
 
 ### Chief Inspector Thorne
 
-Thorne insists on distinguishing Coil operatives from lawful Unwound members.
+[Thorne](../characters/Chief_Inspector_Beatrice_Thorne.md) insists on distinguishing Coil operatives from lawful Unwound members.
 
 This makes investigations slower and politically difficult, but she believes collective punishment would:
 
 - create new recruits,
 - destroy useful witnesses,
 - validate extremist propaganda,
-- and turn the Watch into the instrument the Coil claims it already is.
+- and turn [the Watch](The_Brass_Watch.md) into the instrument the Coil claims it already is.
 
-Thorne is especially interested in the faction because some attacks contain temporal inconsistencies.
+[Thorne](../characters/Chief_Inspector_Beatrice_Thorne.md) is especially interested in the faction because some attacks contain temporal inconsistencies.
 
 Evidence has appeared to show:
 
@@ -308,17 +308,17 @@ The Second Watch is increasingly involved when Coil attacks affect:
 
 This raises a disturbing possibility:
 
-The Severed Coil may understand more about Aetherhaven's temporal systems than the Watch does.
+The Severed Coil may understand more about Aetherhaven's temporal systems than [the Watch](The_Brass_Watch.md) does.
 
 ## Relationship with Captain Mara Voss
 
-Mara knows smugglers, fugitives, Underclock runners, and unregistered captains.
+[Mara](../characters/Captain_Mara_Voss.md) knows smugglers, fugitives, Underclock runners, and unregistered captains.
 
 Some Coil operatives have attempted to use those networks.
 
-This gives Thorne another reason to scrutinize Mara's contacts.
+This gives [Thorne](../characters/Chief_Inspector_Beatrice_Thorne.md) another reason to scrutinize [Mara](../characters/Captain_Mara_Voss.md)'s contacts.
 
-Mara despises the Severed Coil because its members:
+[Mara](../characters/Captain_Mara_Voss.md) despises the Severed Coil because its members:
 
 - endanger crews,
 - sabotage escape routes,
@@ -329,9 +329,9 @@ She may work with criminals.
 
 She will not knowingly work with the Coil.
 
-Mara's private code draws a hard line at deliberate public endangerment.
+[Mara](../characters/Captain_Mara_Voss.md)'s private code draws a hard line at deliberate public endangerment.
 
-The faction may attempt to frame one of her trusted contacts, use Dock Zero as a symbolic target, or exploit the Morningstar panic to create chaos at the Aerial Docks.
+The faction may attempt to frame one of her trusted contacts, use Dock Zero as a symbolic target, or exploit the Morningstar panic to create chaos at [the Aerial Docks](../locations/The_Aerial_Docks.md).
 
 ## Relationship with Professor Elias Hawthorne
 
@@ -398,13 +398,13 @@ Any faction that denies Amelia's agency while claiming to free her has reproduce
 
 ## Relationship with the High Council
 
-The High Council publicly condemns the Severed Coil.
+[The High Council](The_High_Council_of_Aetherhaven.md) publicly condemns the Severed Coil.
 
 Some officials genuinely fear its violence.
 
 Others benefit politically from its existence.
 
-The Coil allows the Council to justify:
+The Coil allows [the Council](The_High_Council_of_Aetherhaven.md) to justify:
 
 - expanded surveillance,
 - restrictions on Unwound assemblies,
@@ -412,7 +412,7 @@ The Coil allows the Council to justify:
 - sentinel deployment,
 - and suppression of inconvenient investigations.
 
-This does not mean the Council created the faction.
+This does not mean [the Council](The_High_Council_of_Aetherhaven.md) created the faction.
 
 However, future stories may reveal that individual officials:
 
@@ -426,7 +426,7 @@ The faction's existence creates opportunities for authoritarian control even whe
 
 ## Relationship with the Ninth Guild
 
-The Ninth Guild is the most plausible outside force manipulating the Severed Coil.
+[The Ninth Guild](The_Ninth_Guild.md) is the most plausible outside force manipulating the Severed Coil.
 
 Possible connections include:
 
@@ -436,7 +436,7 @@ Possible connections include:
 - directing attacks toward ancient access points,
 - and using ideological radicals to retrieve components.
 
-The Ninth Guild wants access and experimentation.
+[The Ninth Guild](The_Ninth_Guild.md) wants access and experimentation.
 
 The Coil wants collapse and liberation.
 
@@ -444,7 +444,7 @@ Their interests may overlap temporarily.
 
 Neither side fully trusts the other.
 
-A future revelation may establish that several of the Coil's most devastating operations were designed by Ninth Guild engineers who cared nothing for Unwound ideology.
+A future revelation may establish that several of the Coil's most devastating operations were designed by [Ninth Guild](The_Ninth_Guild.md) engineers who cared nothing for Unwound ideology.
 
 ## Temporal Significance
 
@@ -487,7 +487,7 @@ It may appear:
 
 Not every appearance is genuine.
 
-The Brass Watch classifies marks by tool pattern, residue, and placement to distinguish:
+[The Brass Watch](The_Brass_Watch.md) classifies marks by tool pattern, residue, and placement to distinguish:
 
 - authentic Coil signatures,
 - imitators,
@@ -517,7 +517,7 @@ The Hawthornes encounter a disrupted canal, damaged regulator, burned archive ro
 
 ### Stage Three: Pattern
 
-Thorne connects incidents across districts. Amelia notices that the attacks form a map, sequence, or mechanical pattern.
+[Thorne](../characters/Chief_Inspector_Beatrice_Thorne.md) connects incidents across districts. Amelia notices that the attacks form a map, sequence, or mechanical pattern.
 
 ### Stage Four: Voice
 
@@ -529,7 +529,7 @@ A sympathetic secondary character is recruited, coerced, or revealed as a former
 
 ### Stage Six: First Encounter
 
-Only after the faction has become a sustained threat should Amelia, Elias, or Thorne meet a confirmed operative face to face.
+Only after the faction has become a sustained threat should Amelia, Elias, or [Thorne](../characters/Chief_Inspector_Beatrice_Thorne.md) meet a confirmed operative face to face.
 
 The encounter should reveal that the Severed Coil is more disciplined, divided, and dangerous than public rumor suggested.
 
@@ -541,7 +541,7 @@ A coordinated failure darkens the Starlight Walkways during a public gathering. 
 
 ### The Sentinel with the Broken Command
 
-A stolen sentinel returns carrying a Coil symbol and an ancient directive the Watch cannot override.
+A stolen sentinel returns carrying a Coil symbol and an ancient directive [the Watch](The_Brass_Watch.md) cannot override.
 
 ### Ash in the Archive
 
@@ -553,7 +553,7 @@ The Second Watch finds a Coil safehouse abandoned before it was constructed acco
 
 ### The False Cell
 
-Thorne raids an alleged Severed Coil workshop and discovers it was staged to justify arrests of peaceful Unwound organizers.
+[Thorne](../characters/Chief_Inspector_Beatrice_Thorne.md) raids an alleged Severed Coil workshop and discovers it was staged to justify arrests of peaceful Unwound organizers.
 
 ### The Child of the Coil
 
@@ -571,13 +571,13 @@ A captured operative claims the Inner Coil has already met Amelia—just not in 
 
 ### Safe for Early Volumes
 
-- The Severed Coil is a violent extremist faction descended from or associated with the Unwound.
+- The Severed Coil is a violent extremist faction descended from or associated with [the Unwound](The_Unwound.md).
 - It attacks infrastructure and creates public chaos.
 - It is deeply underground and cell-based.
 - Citizens fear it.
 - Its actions undermine peaceful Unwound credibility.
-- The Brass Watch treats it as a priority threat.
-- Thorne insists on distinguishing extremists from lawful reformers.
+- [The Brass Watch](The_Brass_Watch.md) treats it as a priority threat.
+- [Thorne](../characters/Chief_Inspector_Beatrice_Thorne.md) insists on distinguishing extremists from lawful reformers.
 - The Hawthornes initially encounter aftermath rather than members.
 - The faction uses a black severed-spring symbol.
 - It is willing to endanger civilians.
@@ -586,7 +586,7 @@ A captured operative claims the Inner Coil has already met Amelia—just not in 
 
 - The identity of the Inner Coil.
 - Whether the faction has chronal technology.
-- Whether the Ninth Guild supplies or directs attacks.
+- Whether [the Ninth Guild](The_Ninth_Guild.md) supplies or directs attacks.
 - Whether Council officials have staged or enabled Coil incidents.
 - The movement's true founding disaster.
 - Whether some cells are receiving instructions from another chronology.
@@ -599,17 +599,17 @@ A captured operative claims the Inner Coil has already met Amelia—just not in 
 
 - The Severed Coil must remain distinct from the broader Unwound.
 - It is violent, dangerous, and willing to harm civilians.
-- Its existence must create legitimate work and pressure for the Brass Watch.
+- Its existence must create legitimate work and pressure for [the Brass Watch](The_Brass_Watch.md).
 - It should undermine peaceful reformers through association.
 - It must remain mostly unseen in early stories.
 - Early presence should be conveyed through aftermath, symbols, fear, messages, and escalating patterns.
 - The faction should contain both true believers and malicious opportunists.
 - Its ideology must arise from legitimate grievances but cross a clear moral line.
-- Thorne must not use the threat as justification for indiscriminate repression.
+- [Thorne](../characters/Chief_Inspector_Beatrice_Thorne.md) must not use the threat as justification for indiscriminate repression.
 - Moderate Unwound members may fear the Coil as much as the public does.
-- Mara may cooperate with criminals but must reject the Coil's deliberate endangerment.
+- [Mara](../characters/Captain_Mara_Voss.md) may cooperate with criminals but must reject the Coil's deliberate endangerment.
 - Amelia's autonomy must remain central if the faction claims it wants to free her.
-- The Ninth Guild connection should remain plausible but unconfirmed in early volumes.
+- [The Ninth Guild](The_Ninth_Guild.md) connection should remain plausible but unconfirmed in early volumes.
 - The faction's temporal knowledge should grow gradually.
 - Not every attack bearing the symbol should be genuine.
 
@@ -620,7 +620,7 @@ A captured operative claims the Inner Coil has already met Amelia—just not in 
 3. What event created the first Severed Coil cell?
 4. How many cells operate in Aetherhaven?
 5. Who funds them?
-6. Has the Ninth Guild infiltrated or created cells?
+6. Has [the Ninth Guild](The_Ninth_Guild.md) infiltrated or created cells?
 7. Have Council officials staged attacks under the Coil symbol?
 8. Does the faction possess chronal technology?
 9. Why are some warnings recorded before the attacks they predict?

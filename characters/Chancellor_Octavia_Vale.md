@@ -24,7 +24,7 @@ temporal_relevance: Critical
 
 ## Canonical Summary
 
-Chancellor Octavia Vale is the disciplined, politically cautious, and highly capable presiding officer of the High Council of Aetherhaven.
+Chancellor Octavia Vale is the disciplined, politically cautious, and highly capable presiding officer of [the High Council of Aetherhaven](../organizations/The_High_Council_of_Aetherhaven.md).
 
 She is neither a ceremonial leader nor an unquestioned ruler.
 
@@ -34,17 +34,17 @@ Her power depends upon:
 - information,
 - appointments,
 - public legitimacy,
-- and her ability to persuade twelve deeply divided Council Delegates to act before disagreement becomes disaster.
+- and her ability to persuade [twelve](../organizations/The_High_Council_of_Aetherhaven.md) deeply divided Council Delegates to act before disagreement becomes disaster.
 
 Octavia sincerely believes the Heart Engine must continue operating.
 
 She also suspects that Aetherhaven's dependence upon it has been used to justify too much secrecy, too many emergency powers, and too little preparation for alternatives.
 
-She knows the Order of the Closed Eye exists.
+She knows [the Order of the Closed Eye](../organizations/The_Order_of_the_Closed_Eye.md) exists.
 
 She believes it is a narrowly constrained emergency institution.
 
-She does not yet understand how much of her Council, staff, archives, and inherited authority the Order has already shaped.
+She does not yet understand how much of her Council, staff, archives, and inherited authority [the Order](../organizations/The_Order_of_the_Closed_Eye.md) has already shaped.
 
 ## Public Reputation
 
@@ -86,7 +86,7 @@ This places her in tension with both:
 
 ## Relationship with the High Council
 
-Octavia presides over the Twelve without occupying one of their seats.
+Octavia presides over [the Twelve](../organizations/The_High_Council_of_Aetherhaven.md) without occupying one of their seats.
 
 She must balance:
 
@@ -111,7 +111,7 @@ For complete organization canon, see [The High Council of Aetherhaven](../organi
 
 ## Relationship with the Order of the Closed Eye
 
-Octavia knows the Order exists.
+Octavia knows [the Order](../organizations/The_Order_of_the_Closed_Eye.md) exists.
 
 She has inherited:
 
@@ -120,7 +120,7 @@ She has inherited:
 - emergency conditions,
 - and instructions for transferring dangerous artifacts.
 
-She believes the Order answers to a limited ancient mandate.
+She believes [the Order](../organizations/The_Order_of_the_Closed_Eye.md) answers to a limited ancient mandate.
 
 In reality, it influences:
 
@@ -132,7 +132,7 @@ In reality, it influences:
 
 Octavia is not a willing puppet.
 
-The Order's control works because she does not know when the choices presented to her have already been narrowed.
+[The Order](../organizations/The_Order_of_the_Closed_Eye.md)'s control works because she does not know when the choices presented to her have already been narrowed.
 
 Her eventual discovery must threaten:
 
@@ -142,7 +142,7 @@ Her eventual discovery must threaten:
 
 ## Relationship with Chief Inspector Beatrice Thorne
 
-Octavia and Thorne share mutual respect.
+Octavia and [Thorne](Chief_Inspector_Beatrice_Thorne.md) share mutual respect.
 
 Both value:
 
@@ -150,15 +150,15 @@ Both value:
 - procedure,
 - and responsibility.
 
-Their conflict arises when Octavia asks Thorne to preserve public stability while facts remain incomplete.
+Their conflict arises when Octavia asks [Thorne](Chief_Inspector_Beatrice_Thorne.md) to preserve public stability while facts remain incomplete.
 
-Thorne refuses to call uncertainty a resolution.
+[Thorne](Chief_Inspector_Beatrice_Thorne.md) refuses to call uncertainty a resolution.
 
 Octavia refuses to release information she believes could cause uncontrolled harm.
 
-The Order has exploited that difference.
+[The Order](../organizations/The_Order_of_the_Closed_Eye.md) has exploited that difference.
 
-Octavia may eventually rely upon Thorne to investigate the Council itself.
+Octavia may eventually rely upon [Thorne](Chief_Inspector_Beatrice_Thorne.md) to investigate [the Council](../organizations/The_High_Council_of_Aetherhaven.md) itself.
 
 That request would place both women in grave political danger.
 
@@ -200,9 +200,9 @@ Its exact origin remains unresolved.
 
 ## Relationship with Captain Mara Voss
 
-Octavia relies on Mara for honest assessments of aerial danger.
+Octavia relies on [Mara](Captain_Mara_Voss.md) for honest assessments of aerial danger.
 
-Mara does not soften reports for political convenience.
+[Mara](Captain_Mara_Voss.md) does not soften reports for political convenience.
 
 Octavia values this and dislikes it in equal measure.
 
@@ -212,9 +212,9 @@ Their disputes often concern:
 - unsafe departures,
 - politically important cargo,
 - Closed Sky negotiations,
-- and vessels carrying information the Council would prefer contained.
+- and vessels carrying information [the Council](../organizations/The_High_Council_of_Aetherhaven.md) would prefer contained.
 
-Mara will obey lawful authority.
+[Mara](Captain_Mara_Voss.md) will obey lawful authority.
 
 She will not sacrifice a crew to preserve Octavia's timetable.
 
@@ -279,7 +279,7 @@ Her authority comes from discipline and attention rather than spectacle.
 
 ### The Curated Choice
 
-Octavia discovers that all twelve Council briefing packets omit the same witness.
+Octavia discovers that all [twelve](../organizations/The_High_Council_of_Aetherhaven.md) Council briefing packets omit the same witness.
 
 ### The Letter to Amelia
 
@@ -287,7 +287,7 @@ A sealed document bearing Chancellor authority was written decades before Amelia
 
 ### The Investigation of the Council
 
-Octavia privately asks Thorne to identify which seats are controlled by the Order.
+Octavia privately asks [Thorne](Chief_Inspector_Beatrice_Thorne.md) to identify which seats are controlled by [the Order](../organizations/The_Order_of_the_Closed_Eye.md).
 
 ### The Continuance Vote
 
@@ -299,7 +299,7 @@ The Thirteenth Chair reacts during a session Octavia is presiding over.
 
 ### The Public Truth
 
-Octavia learns a fact that may destabilize the city if released and strengthen the Order if concealed.
+Octavia learns a fact that may destabilize the city if released and strengthen [the Order](../organizations/The_Order_of_the_Closed_Eye.md) if concealed.
 
 ## Staged Revelations
 
@@ -308,12 +308,12 @@ Octavia learns a fact that may destabilize the city if released and strengthen t
 - Octavia is Chancellor.
 - She is intelligent, cautious, and committed to public safety.
 - She believes the Heart Engine must continue.
-- She respects Thorne, Elias, Amelia, and Mara while frequently disagreeing with them.
+- She respects [Thorne](Chief_Inspector_Beatrice_Thorne.md), Elias, Amelia, and [Mara](Captain_Mara_Voss.md) while frequently disagreeing with them.
 - She knows some ancient emergency authority exists.
 
 ### Mid-Series
 
-- Octavia knows the Order of the Closed Eye exists.
+- Octavia knows [the Order of the Closed Eye](../organizations/The_Order_of_the_Closed_Eye.md) exists.
 - She has underestimated its reach.
 - Her office receives contradictory records.
 - She privately doubts aspects of the Doctrine of Continuance.
@@ -325,7 +325,7 @@ Octavia learns a fact that may destabilize the city if released and strengthen t
 - Octavia's family relationship to prior Chancellors or founding officials.
 - Whether any of her memories have been Veiled.
 - Who placed the letter in her custody.
-- Whether she will publicly expose the Order.
+- Whether she will publicly expose [the Order](../organizations/The_Order_of_the_Closed_Eye.md).
 - Whether she remains Chancellor after the Thirteenth Chair opens.
 - What decision could make her reject Continuance doctrine.
 
@@ -337,11 +337,11 @@ Octavia learns a fact that may destabilize the city if released and strengthen t
 - She should sometimes oppose the Hawthornes for understandable reasons.
 - She must recognize Amelia's personhood.
 - Her caution can cause harm without making her cowardly or malicious.
-- Her office is politically powerful but structurally constrained by the Twelve.
-- She knows the Order exists but not its full control.
+- Her office is politically powerful but structurally constrained by [the Twelve](../organizations/The_High_Council_of_Aetherhaven.md).
+- She knows [the Order](../organizations/The_Order_of_the_Closed_Eye.md) exists but not its full control.
 - She must remain distinct from the Closed Council.
 - The Thirteenth Chair threatens her constitutional authority.
-- Her eventual response to the Order should require courage and sacrifice.
+- Her eventual response to [the Order](../organizations/The_Order_of_the_Closed_Eye.md) should require courage and sacrifice.
 
 ## Open Canon Questions
 

@@ -27,7 +27,7 @@ The thirteenth canal should pass beneath locations that should not physically co
 
 ## Intended Form
 
-Water-damaged lockkeeper’s map with twelve official canals and a hand-drawn thirteenth route.
+Water-damaged lockkeeper’s map with [twelve](../organizations/The_High_Council_of_Aetherhaven.md) official canals and a hand-drawn thirteenth route.
 
 ## Related Canon
 

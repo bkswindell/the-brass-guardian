@@ -28,7 +28,7 @@ The thirteenth position is reserved for the First Mechanist.
 
 ## Intended Form
 
-Formal seating chart showing twelve named officials and one sealed position.
+Formal seating chart showing [twelve](../organizations/The_High_Council_of_Aetherhaven.md) named officials and one sealed position.
 
 ## Related Canon
 

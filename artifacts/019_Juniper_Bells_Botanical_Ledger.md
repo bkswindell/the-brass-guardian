@@ -23,7 +23,7 @@ canonical_images:
 
 ## Canonical Purpose
 
-Suggests Juniper understands the Gardens as one living intelligence. Dates in the ledger span more than two centuries.
+Suggests [Juniper](../characters/Juniper_Bell.md) understands the Gardens as one living intelligence. Dates in the ledger span more than two centuries.
 
 ## Intended Form
 

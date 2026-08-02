@@ -40,21 +40,21 @@ temporal_relevance: Critical
 
 This profile contains major long-range spoilers.
 
-Silas Rook's existence, identity, former relationship with Captain Mara Voss, and leadership of the Severed Coil must remain unknown to readers and nearly every character during the early volumes.
+Silas Rook's existence, identity, former relationship with [Captain Mara Voss](Captain_Mara_Voss.md), and leadership of [the Severed Coil](../organizations/The_Severed_Coil.md) must remain unknown to readers and nearly every character during the early volumes.
 
 The first revelation should be his **name**, not his face.
 
 The second should be his connection to the *Resolute*.
 
-Only later should the story confirm that he is the Stillmaker and hidden architect of the Coil.
+Only later should the story confirm that he is the Stillmaker and [hidden architect](The_Hidden_Architect_Unassigned.md) of [the Coil](../organizations/The_Severed_Coil.md).
 
 ## Canonical Summary
 
-Silas Rook is the shadow leader behind the Severed Coil, known in its deepest coded records as **the Stillmaker**.
+Silas Rook is the shadow leader behind [the Severed Coil](../organizations/The_Severed_Coil.md), known in its deepest coded records as **the Stillmaker**.
 
-Most Coil members do not know that he exists.
+Most [Coil](../organizations/The_Severed_Coil.md) members do not know that he exists.
 
-They believe the **Inner Coil** is:
+They believe the **Inner [Coil](../organizations/The_Severed_Coil.md)** is:
 
 - a distributed council,
 - a sequence of anonymous handlers,
@@ -63,9 +63,9 @@ They believe the **Inner Coil** is:
 
 In reality, Rook has shaped the faction for years through temporally coded orders, dead drops, altered manifests, predated instructions, and intermediaries who have never knowingly met him.
 
-Before his disappearance, Silas Rook served as chief chronometric navigator and first officer aboard Captain Mara Voss's exploration vessel, the *Resolute*.
+Before his disappearance, Silas Rook served as chief chronometric navigator and first officer aboard [Captain Mara Voss](Captain_Mara_Voss.md)'s exploration vessel, the *Resolute*.
 
-Mara once trusted him with:
+[Mara](Captain_Mara_Voss.md) once trusted him with:
 
 - the vessel's course,
 - its transit clocks,
@@ -74,7 +74,7 @@ Mara once trusted him with:
 
 The *Resolute* disappeared for seven civic months.
 
-Mara insists only nineteen days passed aboard.
+[Mara](Captain_Mara_Voss.md) insists only nineteen days passed aboard.
 
 Rook did not return with her.
 
@@ -86,7 +86,7 @@ He concluded that Aetherhaven could not be saved through reform.
 
 It had to be deliberately unwound before it broke on its own.
 
-That belief became the foundation of the Severed Coil.
+That belief became the foundation of [the Severed Coil](../organizations/The_Severed_Coil.md).
 
 ## The Central Tragedy
 
@@ -98,7 +98,7 @@ He has seen—or remembers seeing—a future in which:
 
 - districts exist in incompatible years,
 - families remember different children,
-- the Brass Watch enforces laws from timelines that never occurred,
+- [the Brass Watch](../organizations/The_Brass_Watch.md) enforces laws from timelines that never occurred,
 - the Morningstar arrives to a city that cannot agree it exists,
 - and the Heart Engine consumes increasingly large portions of lived time to hold Aetherhaven together.
 
@@ -123,7 +123,7 @@ This places him in direct philosophical opposition to Amelia.
 
 The future Rook is trying to prevent may not be inevitable.
 
-It may be the future created by the Severed Coil.
+It may be the future created by [the Severed Coil](../organizations/The_Severed_Coil.md).
 
 His sabotage of Golden Veins, civic clocks, archives, and ancient regulators may cause the instability he remembers.
 
@@ -147,11 +147,11 @@ She must prove that the future is not a command.
 
 No public record identifies the Stillmaker.
 
-The Brass Watch does not know the Severed Coil has one leader.
+[The Brass Watch](../organizations/The_Brass_Watch.md) does not know [the Severed Coil](../organizations/The_Severed_Coil.md) has one leader.
 
 The broader Unwound believes the name is extremist folklore.
 
-Most Coil operatives receive orders through:
+Most [Coil](../organizations/The_Severed_Coil.md) operatives receive orders through:
 
 - coded clock faces,
 - mechanical message cylinders,
@@ -176,15 +176,15 @@ The name **Silas Rook** should first appear in evidence connected to the *Resolu
 Possible discovery sequence:
 
 1. Amelia finds a partially erased crew manifest.
-2. Thorne's lens reveals one additional line beneath the official six names.
-3. Mara's black ledger contains an empty space she has recopied for years without understanding why.
+2. [Thorne](Chief_Inspector_Beatrice_Thorne.md)'s lens reveals one additional line beneath the official six names.
+3. [Mara](Captain_Mara_Voss.md)'s black ledger contains an empty space she has recopied for years without understanding why.
 4. A backward chronometer briefly displays the initials **S.R.**
-5. A Severed Coil instruction uses the same navigational notation as a surviving Rook entry.
-6. Mara hears the name and experiences a sudden return of memory.
+5. A [Severed Coil](../organizations/The_Severed_Coil.md) instruction uses the same navigational notation as a surviving Rook entry.
+6. [Mara](Captain_Mara_Voss.md) hears the name and experiences a sudden return of memory.
 
 The name should initially create more questions than answers.
 
-Mara may remember:
+[Mara](Captain_Mara_Voss.md) may remember:
 
 - his voice,
 - his hand on the navigation controls,
@@ -195,13 +195,13 @@ She should not immediately remember how he disappeared.
 
 ## Relationship with Captain Mara Voss
 
-Silas Rook was once one of Mara's most trusted officers.
+Silas Rook was once one of [Mara](Captain_Mara_Voss.md)'s most trusted officers.
 
 He was calm, precise, patient, and able to understand route systems that confused even experienced navigators.
 
-Mara trusted him because he never treated a strange instrument reading as superstition.
+[Mara](Captain_Mara_Voss.md) trusted him because he never treated a strange instrument reading as superstition.
 
-Rook trusted Mara because she would abandon a mission before sacrificing her crew merely to complete it.
+Rook trusted [Mara](Captain_Mara_Voss.md) because she would abandon a mission before sacrificing her crew merely to complete it.
 
 That trust broke during the final voyage.
 
@@ -209,7 +209,7 @@ That trust broke during the final voyage.
 
 Rook concluded that the vessel had entered a chronal convergence and that turning back would lock the catastrophe into place.
 
-Mara ordered retreat.
+[Mara](Captain_Mara_Voss.md) ordered retreat.
 
 Rook may have attempted to hold the course.
 
@@ -218,13 +218,13 @@ Whether this was:
 - mutiny,
 - sacrifice,
 - desperation,
-- or the only reason Mara escaped
+- or the only reason [Mara](Captain_Mara_Voss.md) escaped
 
 should remain unresolved until later.
 
 ### Mara's Emotional Stakes
 
-The reveal devastates Mara because Rook is not an abstract enemy.
+The reveal devastates [Mara](Captain_Mara_Voss.md) because Rook is not an abstract enemy.
 
 He is:
 
@@ -233,7 +233,7 @@ He is:
 - someone she may have abandoned,
 - and someone now using their shared knowledge to endanger Aetherhaven.
 
-Mara's guilt makes her vulnerable to his arguments.
+[Mara](Captain_Mara_Voss.md)'s guilt makes her vulnerable to his arguments.
 
 Rook may sincerely believe she will eventually understand and join him.
 
@@ -241,7 +241,7 @@ He may have preserved her life because he still sees her as the captain who must
 
 ## Relationship with the Severed Coil
 
-Rook does not openly command the Coil.
+Rook does not openly command [the Coil](../organizations/The_Severed_Coil.md).
 
 He designed it to survive without visible leadership.
 
@@ -250,13 +250,13 @@ His cell structure ensures:
 - no arrest exposes the whole network,
 - false leaders can be sacrificed,
 - contradictory instructions appear intentional,
-- and even senior members debate whether the Inner Coil exists.
+- and even senior members debate whether the Inner [Coil](../organizations/The_Severed_Coil.md) exists.
 
 Rook sees the faction as a machine with replaceable parts.
 
-This contradicts the Unwound principle that no person should be treated as a component.
+This contradicts [the Unwound](../organizations/The_Unwound.md) principle that no person should be treated as a component.
 
-Some Severed Coil members are true believers.
+Some [Severed Coil](../organizations/The_Severed_Coil.md) members are true believers.
 
 Others are useful pressure points.
 
@@ -266,7 +266,7 @@ He is capable of sacrificing his own followers as readily as civilians.
 
 ## Relationship with the Hawthornes
 
-Rook initially does not know the Hawthornes are disrupting Coil operations.
+Rook initially does not know the Hawthornes are disrupting [Coil](../organizations/The_Severed_Coil.md) operations.
 
 Their early interference appears as unrelated failure.
 
@@ -300,7 +300,7 @@ This uncertainty makes him cautious.
 Later, he identifies her as the only person capable of:
 
 - stabilizing the Heart Engine,
-- defeating the Coil's temporal plan,
+- defeating [the Coil](../organizations/The_Severed_Coil.md)'s temporal plan,
 - or completing it.
 
 Rook may attempt to persuade Amelia before trying to destroy or capture her.
@@ -311,7 +311,7 @@ It is that he has seen what happens if she refuses him.
 
 ## Relationship with Chief Inspector Beatrice Thorne
 
-Thorne is the first investigator capable of proving that the Coil's orders are not merely anonymous.
+[Thorne](Chief_Inspector_Beatrice_Thorne.md) is the first investigator capable of proving that [the Coil](../organizations/The_Severed_Coil.md)'s orders are not merely anonymous.
 
 Her lens can detect:
 
@@ -320,13 +320,13 @@ Her lens can detect:
 - chronal residue,
 - and messages produced by the same hand years apart.
 
-Rook may know of Thorne through a future investigation.
+Rook may know of [Thorne](Chief_Inspector_Beatrice_Thorne.md) through a future investigation.
 
 He may plant evidence specifically designed for her lens.
 
 This creates a disturbing possibility:
 
-Thorne is not merely tracking him.
+[Thorne](Chief_Inspector_Beatrice_Thorne.md) is not merely tracking him.
 
 He is teaching her how to find him.
 
@@ -403,23 +403,23 @@ He should look controlled, exhausted, and absolutely certain.
 
 ### The Seventh Name
 
-Thorne's lens reveals Silas Rook on a *Resolute* crew manifest. Mara insists she has never heard the name—then unconsciously describes his handwriting.
+[Thorne](Chief_Inspector_Beatrice_Thorne.md)'s lens reveals Silas Rook on a *Resolute* crew manifest. [Mara](Captain_Mara_Voss.md) insists she has never heard the name—then unconsciously describes his handwriting.
 
 ### The Message Before the Fire
 
-The Watch receives instructions signed **S. Rook** warning of a Coil attack that has not yet been planned.
+[The Watch](../organizations/The_Brass_Watch.md) receives instructions signed **S. Rook** warning of a [Coil](../organizations/The_Severed_Coil.md) attack that has not yet been planned.
 
 ### The Captain's Missing Officer
 
-Mara begins remembering a first officer no surviving record acknowledges.
+[Mara](Captain_Mara_Voss.md) begins remembering a first officer no surviving record acknowledges.
 
 ### The Man in the Other Resolute
 
-A recovered image shows Rook standing beside the older Mara aboard the second vessel.
+A recovered image shows Rook standing beside the older [Mara](Captain_Mara_Voss.md) aboard the second vessel.
 
 ### The Stillmaker's Courtesy
 
-The Hawthornes receive a warning that saves their lives. It is also proof that the Coil has been watching them.
+The Hawthornes receive a warning that saves their lives. It is also proof that [the Coil](../organizations/The_Severed_Coil.md) has been watching them.
 
 ### The Future He Remembers
 
@@ -427,28 +427,28 @@ Rook shows Amelia evidence of fractured Aetherhaven. Every image appears authent
 
 ### The Cause of the Future
 
-Amelia discovers that the earliest event in Rook's catastrophe occurred because of a Coil operation he ordered.
+Amelia discovers that the earliest event in Rook's catastrophe occurred because of a [Coil](../organizations/The_Severed_Coil.md) operation he ordered.
 
 ### The Final Course
 
-Rook attempts to force Aetherhaven into a controlled temporal shutdown, believing Mara must navigate the city through the collapse as she once navigated the *Resolute*.
+Rook attempts to force Aetherhaven into a controlled temporal shutdown, believing [Mara](Captain_Mara_Voss.md) must navigate the city through the collapse as she once navigated the *Resolute*.
 
 ## Staged Revelations
 
 ### Safe for Early Volumes
 
 - None of Rook's identity should be explicit.
-- Coil orders occasionally seem too coordinated for isolated cells.
+- [Coil](../organizations/The_Severed_Coil.md) orders occasionally seem too coordinated for isolated cells.
 - Some messages arrive before they should exist.
-- The Inner Coil may be mentioned as rumor.
-- Mara's records contain an unexplained blank or missing crew position.
+- The Inner [Coil](../organizations/The_Severed_Coil.md) may be mentioned as rumor.
+- [Mara](Captain_Mara_Voss.md)'s records contain an unexplained blank or missing crew position.
 - A repeated set of initials may appear without interpretation.
 
 ### Mid-Series Revelations
 
 - The name Silas Rook appears in a contradictory *Resolute* record.
-- Mara begins recovering memories of him.
-- His navigational notation matches Coil instructions.
+- [Mara](Captain_Mara_Voss.md) begins recovering memories of him.
+- His navigational notation matches [Coil](../organizations/The_Severed_Coil.md) instructions.
 - Evidence suggests one intelligence coordinates multiple cells.
 - The Stillmaker is named, but not yet identified.
 
@@ -457,7 +457,7 @@ Rook attempts to force Aetherhaven into a controlled temporal shutdown, believin
 - Silas Rook is the Stillmaker.
 - He served aboard the *Resolute*.
 - He returned out of sequence.
-- He founded or shaped the Severed Coil.
+- He founded or shaped [the Severed Coil](../organizations/The_Severed_Coil.md).
 - He believes he is preventing a future temporal collapse.
 - His campaign may be creating that future.
 - He has known about Amelia longer than she has known about him.
@@ -465,9 +465,9 @@ Rook attempts to force Aetherhaven into a controlled temporal shutdown, believin
 ## Continuity Constraints
 
 - Rook must not be revealed directly in early volumes.
-- Most Severed Coil members must not know he exists.
+- Most [Severed Coil](../organizations/The_Severed_Coil.md) members must not know he exists.
 - The first major reveal should be his name in a contradictory record.
-- His connection to Mara must carry genuine emotional weight.
+- His connection to [Mara](Captain_Mara_Voss.md) must carry genuine emotional weight.
 - He must be intelligent, patient, and strategically formidable.
 - He must not become a generic cackling villain.
 - His motive must arise from a future catastrophe he sincerely believes is real.
@@ -476,24 +476,24 @@ Rook attempts to force Aetherhaven into a controlled temporal shutdown, believin
 - The causal-loop twist must be foreshadowed before confirmation.
 - Amelia should defeat his certainty as much as his machinery.
 - The broader Unwound must not be blamed for secretly accepting his leadership.
-- His existence should reframe earlier Coil incidents without making every mystery his doing.
-- Some Coil operations should remain independent, opportunistic, or manipulated by other forces.
+- His existence should reframe earlier [Coil](../organizations/The_Severed_Coil.md) incidents without making every mystery his doing.
+- Some [Coil](../organizations/The_Severed_Coil.md) operations should remain independent, opportunistic, or manipulated by other forces.
 - His apparent age and chronology may vary, but his visual identity must remain recognizable after reveal.
 
 ## Open Canon Questions
 
 1. When did Rook first emerge from the *Resolute* anomaly?
 2. Did he arrive before he originally departed?
-3. Did Mara abandon him, or did he remain by choice?
-4. Was he the figure beside the older Mara?
-5. Did he found the Severed Coil or take control of an existing faction?
-6. Is the Inner Coil entirely his invention?
+3. Did [Mara](Captain_Mara_Voss.md) abandon him, or did he remain by choice?
+4. Was he the figure beside the older [Mara](Captain_Mara_Voss.md)?
+5. Did he found [the Severed Coil](../organizations/The_Severed_Coil.md) or take control of an existing faction?
+6. Is the Inner [Coil](../organizations/The_Severed_Coil.md) entirely his invention?
 7. How much of the future he remembers is authentic?
-8. Which Coil actions created the future he fears?
+8. Which [Coil](../organizations/The_Severed_Coil.md) actions created the future he fears?
 9. Has he met an older Amelia?
-10. Why does he believe Mara must complete the final course?
+10. Why does he believe [Mara](Captain_Mara_Voss.md) must complete the final course?
 11. Can he still move between chronologies?
 12. Is his body aging normally?
-13. Does the Passenger of Dock Zero know his name?
+13. Does [the Passenger of Dock Zero](The_Passenger_of_Dock_Zero.md) know his name?
 14. Is Rook trying to prevent the Morningstar's arrival—or ensure it?
 15. What would make him admit that his certainty is the true danger?

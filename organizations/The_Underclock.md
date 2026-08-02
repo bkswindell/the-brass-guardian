@@ -82,7 +82,7 @@ without knowing:
 - what the package contains,
 - or why the route matters.
 
-This protects the network from the Brass Watch.
+This protects the network from [the Brass Watch](The_Brass_Watch.md).
 
 It also makes the Underclock vulnerable to sophisticated deception.
 
@@ -106,29 +106,29 @@ Many are both, depending on who tells the story.
 
 ## Relationship with the Brass Watch
 
-The Brass Watch views the Underclock as:
+[The Brass Watch](The_Brass_Watch.md) views the Underclock as:
 
 - a smuggling network,
 - obstruction of justice,
 - evidence tampering,
 - and a refuge for fugitives.
 
-Chief Inspector Thorne also knows the network occasionally:
+[Chief Inspector Thorne](../characters/Chief_Inspector_Beatrice_Thorne.md) also knows the network occasionally:
 
 - protects witnesses,
 - moves endangered people,
 - preserves records,
-- and reaches places the Watch cannot.
+- and reaches places [the Watch](The_Brass_Watch.md) cannot.
 
-Thorne distrusts it.
+[Thorne](../characters/Chief_Inspector_Beatrice_Thorne.md) distrusts it.
 
 She may still negotiate with it.
 
-The Underclock sees the Watch as capable of justice in individual cases but structurally vulnerable to Council misuse and Order manipulation.
+The Underclock sees [the Watch](The_Brass_Watch.md) as capable of justice in individual cases but structurally vulnerable to Council misuse and Order manipulation.
 
 ## Relationship with Captain Mara Voss
 
-Mara maintains selective Underclock contacts.
+[Mara](../characters/Captain_Mara_Voss.md) maintains selective Underclock contacts.
 
 She uses them for:
 
@@ -137,15 +137,15 @@ She uses them for:
 - missing-person information,
 - and access to people who will not speak with uniformed officers.
 
-This reinforces Thorne's suspicion that Mara works outside lawful channels.
+This reinforces [Thorne](../characters/Chief_Inspector_Beatrice_Thorne.md)'s suspicion that [Mara](../characters/Captain_Mara_Voss.md) works outside lawful channels.
 
-Mara's rule remains:
+[Mara](../characters/Captain_Mara_Voss.md)'s rule remains:
 
 > She may work with criminals. She will not knowingly help anyone harm the city.
 
 ## Relationship with Tamsin Pike
 
-Tamsin Pike may already be connected to the Underclock through canal routes, family knowledge, or inherited obligations.
+[Tamsin Pike](../characters/Tamsin_Pike.md) may already be connected to the Underclock through canal routes, family knowledge, or inherited obligations.
 
 Her brass key and familiarity with unmarked locks make her valuable to the network.
 
@@ -160,17 +160,17 @@ remains unresolved.
 
 ## Relationship with the Cauldron
 
-The Underclock connects the Cauldron to:
+The Underclock connects [the Cauldron](../locations/The_Cauldron.md) to:
 
 - the Canal District,
 - Old City,
-- Entertainment District,
+- [Entertainment District](../locations/The_Entertainment_District.md),
 - industrial service corridors,
 - and forgotten maintenance routes.
 
-Cauldron crews rely on the network for covert transport.
+[Cauldron](../locations/The_Cauldron.md) crews rely on the network for covert transport.
 
-The Underclock relies on Cauldron markets, safe houses, and tunnel access.
+The Underclock relies on [Cauldron](../locations/The_Cauldron.md) markets, safe houses, and tunnel access.
 
 The Cinder Regent tolerates the network because it provides routes beyond official control.
 
@@ -183,13 +183,13 @@ The broader Unwound and Underclock cooperate when:
 - manual equipment must be moved,
 - or people face unjust detention.
 
-The Underclock is not subordinate to the Unwound.
+The Underclock is not subordinate to [the Unwound](The_Unwound.md).
 
 It may transport people whose goals directly conflict with Unwound beliefs.
 
 ## Relationship with the Order of the Closed Eye
 
-The Underclock distrusts the Order's methods even before knowing its name.
+The Underclock distrusts [the Order](The_Order_of_the_Closed_Eye.md)'s methods even before knowing its name.
 
 Closure resembles:
 
@@ -199,7 +199,7 @@ Closure resembles:
 - missing witnesses,
 - and altered memories.
 
-The Order regards the Underclock as dangerous because it preserves:
+[The Order](The_Order_of_the_Closed_Eye.md) regards the Underclock as dangerous because it preserves:
 
 - unauthorized movement,
 - oral route knowledge,
@@ -216,7 +216,7 @@ It did not know:
 
 - the true identity of the artifact,
 - the identity of the client,
-- or the larger struggle between the Order and Ninth Guild.
+- or the larger struggle between [the Order](The_Order_of_the_Closed_Eye.md) and [Ninth Guild](The_Ninth_Guild.md).
 
 ### The False Rescue
 
@@ -225,7 +225,7 @@ A client presented evidence suggesting a conscious captive was being moved for p
 The evidence may have included:
 
 - forged Closure orders,
-- authentic fragments stolen from the Order,
+- authentic fragments stolen from [the Order](The_Order_of_the_Closed_Eye.md),
 - a manufactured witness statement,
 - or a message apparently sent by the captive.
 
@@ -244,23 +244,23 @@ The crew believed it was rescuing a person or conscious machine from unlawful di
 
 ### The Handoff
 
-The intended recipient was a Ninth Guild front.
+The intended recipient was a [Ninth Guild](The_Ninth_Guild.md) front.
 
 The handoff failed or changed unexpectedly.
 
 Possible causes include:
 
 - Prototype I awakening,
-- a courier recognizing the Black Lacuna,
+- a courier recognizing [the Black Lacuna](The_Ninth_Guild.md),
 - Order pursuit,
 - betrayal by the client,
 - or the subject refusing transfer.
 
 ### The Aftermath
 
-The Order blamed the Underclock.
+[The Order](The_Order_of_the_Closed_Eye.md) blamed the Underclock.
 
-The Ninth Guild recorded the accession as incomplete.
+[The Ninth Guild](The_Ninth_Guild.md) recorded the accession as incomplete.
 
 Some Underclock members later realized they had been used.
 
@@ -276,13 +276,13 @@ This evidence could reveal where Prototype I went next.
 
 ## Relationship with the Ninth Guild
 
-The Underclock does not trust the Ninth Guild.
+The Underclock does not trust [the Ninth Guild](The_Ninth_Guild.md).
 
-The Guild's use of false rescue claims violated the sanctuary code and turned the network into an unwilling participant in an artifact conflict it did not understand.
+[The Guild](The_Mechanists_Guild.md)'s use of false rescue claims violated the sanctuary code and turned the network into an unwilling participant in an artifact conflict it did not understand.
 
 Some Underclock members want revenge.
 
-Others fear the Ninth Guild still has agents inside the network.
+Others fear [the Ninth Guild](The_Ninth_Guild.md) still has agents inside the network.
 
 A few may believe Prototype I truly needed rescue and that the extraction was morally right despite the deception.
 
@@ -318,11 +318,11 @@ An old Underclock courier remembers moving a sealed case but cannot recall the c
 
 ### The False Sanctuary Mark
 
-Someone uses Underclock protection symbols to move a Ninth Guild accession.
+Someone uses Underclock protection symbols to move a [Ninth Guild](The_Ninth_Guild.md) accession.
 
 ### The Route Token
 
-Tamsin discovers a token connected to the Prototype I extraction.
+[Tamsin](../characters/Tamsin_Pike.md) discovers a token connected to the Prototype I extraction.
 
 ### The Closed Tunnel
 
@@ -339,16 +339,16 @@ Amelia reconstructs the last known route of Prototype I through fragments preser
 - The Underclock moves people, information, and objects through hidden routes.
 - It protects some fugitives and forbidden texts.
 - It is morally mixed but not inherently malicious.
-- Mara has contacts within it.
-- Tamsin may be connected.
-- The Brass Watch treats it as an illicit network.
+- [Mara](../characters/Captain_Mara_Voss.md) has contacts within it.
+- [Tamsin](../characters/Tamsin_Pike.md) may be connected.
+- [The Brass Watch](The_Brass_Watch.md) treats it as an illicit network.
 
 ### Mid-Series
 
 - The Underclock unknowingly participated in the Prototype I extraction.
 - It believed it was performing a rescue.
-- The client was a Ninth Guild front.
-- The Order blamed the network.
+- The client was a [Ninth Guild](The_Ninth_Guild.md) front.
+- [The Order](The_Order_of_the_Closed_Eye.md) blamed the network.
 - Some members preserved evidence.
 
 ### Hold for Later
@@ -358,19 +358,19 @@ Amelia reconstructs the last known route of Prototype I through fragments preser
 - Whether Prototype I communicated with the crew.
 - What happened at the broken handoff.
 - Where the last route ended.
-- Whether someone inside the Underclock knowingly aided the Ninth Guild.
+- Whether someone inside the Underclock knowingly aided [the Ninth Guild](The_Ninth_Guild.md).
 
 ## Continuity Constraints
 
-- The Underclock must not be treated as secretly complicit in the Ninth Guild's plan.
+- The Underclock must not be treated as secretly complicit in [the Ninth Guild](The_Ninth_Guild.md)'s plan.
 - It was manipulated through its sanctuary principles.
 - The network remains morally mixed but capable of genuine protection.
 - Its compartmentalization must be both strength and vulnerability.
 - The broader Unwound is not responsible for the theft.
-- The Order blames the Underclock, creating lasting hostility.
+- [The Order](The_Order_of_the_Closed_Eye.md) blames the Underclock, creating lasting hostility.
 - Some Underclock evidence must survive the operation.
-- Tamsin's possible connection remains unresolved until explicitly developed.
-- The network must remain independent of Mara, the Unwound, and Cauldron government.
+- [Tamsin](../characters/Tamsin_Pike.md)'s possible connection remains unresolved until explicitly developed.
+- The network must remain independent of [Mara](../characters/Captain_Mara_Voss.md), [the Unwound](The_Unwound.md), and [Cauldron](../locations/The_Cauldron.md) government.
 
 ## Open Canon Questions
 
@@ -381,6 +381,6 @@ Amelia reconstructs the last known route of Prototype I through fragments preser
 5. Which courier changed the route?
 6. Where did the handoff fail?
 7. What evidence did the network preserve?
-8. Does the Order know the Underclock was manipulated?
-9. Which Ninth Guild faction arranged the operation?
+8. Does [the Order](The_Order_of_the_Closed_Eye.md) know the Underclock was manipulated?
+9. Which [Ninth Guild](The_Ninth_Guild.md) faction arranged the operation?
 10. Is an Order or Guild agent still embedded within the network?

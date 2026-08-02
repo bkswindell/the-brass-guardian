@@ -63,9 +63,9 @@ It is said to contain:
 - children who have not yet been born,
 - and an enormous silver flower that opens once each century.
 
-The Conservancy does not confirm these stories.
+[The Conservancy](../organizations/The_Conservancy_of_Living_Mechanisms.md) does not confirm these stories.
 
-Juniper Bell usually responds:
+[Juniper Bell](../characters/Juniper_Bell.md) usually responds:
 
 > **Every garden is a rumor until it lets you in.**
 
@@ -85,11 +85,11 @@ The Gardens must:
 - permit the route,
 - or accept an invitation offered through one of their trusted caretakers.
 
-Juniper Bell pays particular attention to the Moon Garden and to other hidden gardens nested within the Clockwork Gardens. She can ask the Gardens to reveal or conceal their paths, but she does not command them.
+[Juniper Bell](../characters/Juniper_Bell.md) pays particular attention to the Moon Garden and to other hidden gardens nested within the Clockwork Gardens. She can ask the Gardens to reveal or conceal their paths, but she does not command them.
 
 During Amelia's earliest recorded visit, the Keeper of Dreams invited her to enter and discover the Moon Garden's secrets.
 
-Whether Juniper chose Amelia because the Garden needed help—or whether the Garden instructed Juniper to summon her—remains unknown.
+Whether [Juniper](../characters/Juniper_Bell.md) chose Amelia because the Garden needed help—or whether the Garden instructed [Juniper](../characters/Juniper_Bell.md) to summon her—remains unknown.
 
 What is known is that the Moon Garden accepted Amelia.
 
@@ -97,7 +97,7 @@ What is known is that the Moon Garden accepted Amelia.
 
 The Clockwork Gardens contain more space, history, and living structure than their visible paths can explain.
 
-The Conservancy uses the term **hidden gardens** for protected layers that:
+[The Conservancy](../organizations/The_Conservancy_of_Living_Mechanisms.md) uses the term **hidden gardens** for protected layers that:
 
 - appear only under particular conditions,
 - serve specialized living systems,
@@ -140,7 +140,7 @@ Its emergence may be preceded by:
 - a brass sparrow tapping three times,
 - silver pollen moving against the wind,
 - a reflection showing flowers absent from the physical path,
-- or a single bell sounding from somewhere beneath the roots.
+- or a single [bell](../characters/Juniper_Bell.md) sounding from somewhere beneath the roots.
 
 When the hidden layer fully opens, the transition may be so gentle that visitors do not realize they have crossed a boundary.
 
@@ -156,7 +156,7 @@ The person may enter without understanding why.
 
 ### Keeper's Invitation
 
-Juniper Bell—or the figure known as the Keeper of Dreams—invites a person and asks the Gardens to provide a path.
+[Juniper Bell](../characters/Juniper_Bell.md)—or the figure known as the Keeper of Dreams—invites a person and asks the Gardens to provide a path.
 
 The invitation is not an order.
 
@@ -184,7 +184,7 @@ The Gardens distinguish between:
 
 ## Juniper Bell's Stewardship
 
-Juniper pays special attention to the Moon Garden and the other hidden gardens.
+[Juniper](../characters/Juniper_Bell.md) pays special attention to the Moon Garden and the other hidden gardens.
 
 This does not mean she constantly resides within them.
 
@@ -196,7 +196,7 @@ Her stewardship includes:
 - deciding when to request help,
 - and asking the Gardens to limit access.
 
-Juniper can work with the Gardens to:
+[Juniper](../characters/Juniper_Bell.md) can work with the Gardens to:
 
 - move an entrance,
 - close a path,
@@ -228,7 +228,7 @@ This event establishes that:
 
 The reason for the invitation remains unresolved.
 
-Juniper may have chosen Amelia because she understood Amelia's character.
+[Juniper](../characters/Juniper_Bell.md) may have chosen Amelia because she understood Amelia's character.
 
 The Garden may have asked for Amelia specifically.
 
@@ -263,7 +263,7 @@ The Dream Engine responds to relationship.
 
 Perfect gears are insufficient when the beings around it are suffering.
 
-Juniper tends the Engine as an elder living system rather than civic equipment.
+[Juniper](../characters/Juniper_Bell.md) tends the Engine as an elder living system rather than civic equipment.
 
 ## Secret Gardens
 
@@ -281,11 +281,11 @@ Possible functions include:
 - seasonal transition,
 - and containment of living systems that should not be disturbed.
 
-Juniper's title as Keeper of the Clockwork Gardens may include responsibility for all such layers.
+[Juniper](../characters/Juniper_Bell.md)'s title as [Keeper of the Clockwork Gardens](../characters/Juniper_Bell.md) may include responsibility for all such layers.
 
-The First Tender manages the Conservancy.
+The First Tender manages [the Conservancy](../organizations/The_Conservancy_of_Living_Mechanisms.md).
 
-Juniper listens for hidden gardens that require attention.
+[Juniper](../characters/Juniper_Bell.md) listens for hidden gardens that require attention.
 
 No official inventory should exist.
 
@@ -293,7 +293,7 @@ A complete list would make concealment impossible.
 
 ## Relationship with Pip
 
-The brass sparrow that delivered the invitation to the Moon Garden closely resembles Pip, Amelia's companion aboard the *Wayfinder*.
+The brass sparrow that delivered the invitation to the Moon Garden closely resembles [Pip](../characters/Pip.md), Amelia's companion aboard the *Wayfinder*.
 
 The resemblance is deliberate canon.
 
@@ -301,16 +301,16 @@ The exact relationship is not yet resolved.
 
 Possibilities include:
 
-- the messenger and Pip are the same sparrow,
-- Pip remained with Amelia after completing the Keeper's message,
-- Pip was built from the same living pattern,
-- the Moon Garden created an echo of Pip before Amelia formally met him,
-- Pip can move between the *Wayfinder* and hidden gardens without revealing every journey,
+- the messenger and [Pip](../characters/Pip.md) are the same sparrow,
+- [Pip](../characters/Pip.md) remained with Amelia after completing the Keeper's message,
+- [Pip](../characters/Pip.md) was built from the same living pattern,
+- the Moon Garden created an echo of [Pip](../characters/Pip.md) before Amelia formally met him,
+- [Pip](../characters/Pip.md) can move between the *Wayfinder* and hidden gardens without revealing every journey,
 - or the Gardens selected a form they knew Amelia would trust.
 
-Pip may display small clues:
+[Pip](../characters/Pip.md) may display small clues:
 
-- recognition of Juniper,
+- recognition of [Juniper](../characters/Juniper_Bell.md),
 - comfort around the silver flower,
 - knowledge of a route no one taught him,
 - attraction to blue ribbon,
@@ -330,7 +330,7 @@ A senior official cannot demand entry merely because they hold authority.
 
 A young New Hand might be admitted while carrying an injured creature the Garden recognizes as needing care.
 
-The Conservancy protects the location through:
+[The Conservancy](../organizations/The_Conservancy_of_Living_Mechanisms.md) protects the location through:
 
 - discretion,
 - Garden-guided access,
@@ -341,11 +341,11 @@ This secrecy is ethically different from Order Closure because the protected loc
 
 ## Relationship with the Order of the Closed Eye
 
-The Order knows persistent rumors of the Moon Garden exist.
+[The Order](../organizations/The_Order_of_the_Closed_Eye.md) knows persistent rumors of the Moon Garden exist.
 
 It does not possess a reliable route.
 
-The Order may believe the Dream Engine is:
+[The Order](../organizations/The_Order_of_the_Closed_Eye.md) may believe the Dream Engine is:
 
 - an activation hazard,
 - a temporal communications system,
@@ -359,13 +359,13 @@ Attempts to map or close the Moon Garden have failed because:
 - witnesses remember different entrances,
 - and the Gardens respond to surveillance by concealing the layer more deeply.
 
-The Order fears a system that can carry knowledge through dreams beyond ordinary redaction.
+[The Order](../organizations/The_Order_of_the_Closed_Eye.md) fears a system that can carry knowledge through dreams beyond ordinary redaction.
 
-Juniper opposes attempts to erase the Moon Garden's living memory.
+[Juniper](../characters/Juniper_Bell.md) opposes attempts to erase the Moon Garden's living memory.
 
 ## Relationship with the Ninth Guild
 
-The Ninth Guild covets the Dream Engine and the Moon Garden's ability to preserve:
+[The Ninth Guild](../organizations/The_Ninth_Guild.md) covets the Dream Engine and the Moon Garden's ability to preserve:
 
 - emotional memory,
 - identity,
@@ -397,7 +397,7 @@ Possible evidence includes:
 - paths remembering an earlier Garden layout,
 - dreams containing events later removed from records,
 - silver seeds appearing before they are released,
-- and Pip or the messenger sparrow arriving before the invitation is written.
+- and [Pip](../characters/Pip.md) or the messenger sparrow arriving before the invitation is written.
 
 The Garden should not become an unrestricted time-travel device.
 
@@ -442,15 +442,15 @@ Amelia discovers the Keeper did not write the original invitation—the Garden d
 
 ### Pip's Three Taps
 
-Pip repeats the messenger's exact tapping pattern and opens a route Juniper believed closed.
+[Pip](../characters/Pip.md) repeats the messenger's exact tapping pattern and opens a route [Juniper](../characters/Juniper_Bell.md) believed closed.
 
 ### The False Moon Garden
 
-The Ninth Guild creates a convincing imitation designed to attract Amelia.
+[The Ninth Guild](../organizations/The_Ninth_Guild.md) creates a convincing imitation designed to attract Amelia.
 
 ### The Missing Secret Garden
 
-Juniper realizes an entire hidden layer has stopped answering.
+[Juniper](../characters/Juniper_Bell.md) realizes an entire hidden layer has stopped answering.
 
 ### The Visitor the Garden Refuses
 
@@ -458,7 +458,7 @@ A trusted public figure receives every sign of being recognized as an intruder.
 
 ### The Unsent Message
 
-Amelia finds the blue-ribbon invitation still unwritten in Juniper's pocket after the adventure has already occurred.
+Amelia finds the blue-ribbon invitation still unwritten in [Juniper](../characters/Juniper_Bell.md)'s pocket after the adventure has already occurred.
 
 ### The Dream Engine's Warning
 
@@ -470,8 +470,8 @@ Children across Aetherhaven share a dream of a path beneath the Heart Engine.
 
 - Rumors of the Moon Garden exist.
 - The rumors contradict one another.
-- Juniper pays unusual attention to certain nocturnal paths.
-- Pip resembles the messenger sparrow.
+- [Juniper](../characters/Juniper_Bell.md) pays unusual attention to certain nocturnal paths.
+- [Pip](../characters/Pip.md) resembles the messenger sparrow.
 - Silver flowers and hidden paths appear after sunset.
 - Amelia possesses a silver flower connected to an early adventure.
 
@@ -479,22 +479,22 @@ Children across Aetherhaven share a dream of a path beneath the Heart Engine.
 
 - The Moon Garden is a hidden nocturnal layer of the Clockwork Gardens.
 - Access depends upon invitation or recognition.
-- Juniper can ask the Gardens to reveal or conceal it.
+- [Juniper](../characters/Juniper_Bell.md) can ask the Gardens to reveal or conceal it.
 - The Dream Engine is a living mechanism.
 - Amelia was deliberately invited.
-- Pip knows more about the route than an ordinary companion should.
+- [Pip](../characters/Pip.md) knows more about the route than an ordinary companion should.
 - Other hidden gardens exist.
 
 ### Hold for Later
 
-- Whether Juniper or the Garden initiated Amelia's invitation.
-- Whether Pip and the messenger are the same sparrow.
+- Whether [Juniper](../characters/Juniper_Bell.md) or the Garden initiated Amelia's invitation.
+- Whether [Pip](../characters/Pip.md) and the messenger are the same sparrow.
 - How many secret gardens exist.
 - Whether the Moon Garden exists in more than one chronology.
 - The full purpose of the Dream Engine.
 - Why the Gardens recognized Amelia before her formal introduction.
 - Whether a hidden garden can permanently disappear.
-- What the Order already removed from Moon Garden history.
+- What [the Order](../organizations/The_Order_of_the_Closed_Eye.md) already removed from Moon Garden history.
 
 ## Continuity Constraints
 
@@ -502,25 +502,25 @@ Children across Aetherhaven share a dream of a path beneath the Heart Engine.
 - It is not generally known to the public.
 - Public rumors must remain varied, contradictory, and partly inaccurate.
 - The location cannot be reliably mapped or accessed by ordinary authority.
-- Juniper can work with the Gardens to limit access but does not command them.
+- [Juniper](../characters/Juniper_Bell.md) can work with the Gardens to limit access but does not command them.
 - Amelia entered by invitation.
-- It remains unresolved whether Juniper initiated the invitation or the Garden instructed her.
+- It remains unresolved whether [Juniper](../characters/Juniper_Bell.md) initiated the invitation or the Garden instructed her.
 - The emotional and physical events of the bedtime adventure remain canon.
 - The Dream Engine is a living mechanism, not a simple dream-manufacturing device.
 - Other secret gardens exist, but no complete list should be established early.
-- Pip's resemblance to the messenger sparrow is deliberate but unresolved.
+- [Pip](../characters/Pip.md)'s resemblance to the messenger sparrow is deliberate but unresolved.
 - The Moon Garden must not become an easy route for solving every mystery or traveling through time.
 - Access must remain relational, rare, and story-significant.
 
 ## Open Canon Questions
 
-1. Did Juniper summon Amelia, or did the Garden ask Juniper to do so?
-2. Is Pip the same sparrow that carried the blue-ribbon message?
+1. Did [Juniper](../characters/Juniper_Bell.md) summon Amelia, or did the Garden ask [Juniper](../characters/Juniper_Bell.md) to do so?
+2. Is [Pip](../characters/Pip.md) the same sparrow that carried the blue-ribbon message?
 3. When did the Moon Garden first recognize Amelia?
 4. How many hidden gardens exist?
 5. Does each hidden garden have a distinct Keeper?
 6. What does the Dream Engine truly send into sleeping minds?
-7. Can the Order of the Closed Eye enter through a dream rather than a path?
+7. Can [the Order of the Closed Eye](../organizations/The_Order_of_the_Closed_Eye.md) enter through a dream rather than a path?
 8. Why do some rumors describe locations outside the visible Gardens?
-9. What happens when the Moon Garden refuses Juniper?
-10. Can a visitor be invited by the Garden without Juniper's knowledge?
+9. What happens when the Moon Garden refuses [Juniper](../characters/Juniper_Bell.md)?
+10. Can a visitor be invited by the Garden without [Juniper](../characters/Juniper_Bell.md)'s knowledge?

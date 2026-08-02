@@ -15,7 +15,7 @@ canonical_images:
 
 # Keeper Thirteen Witness Sketches
 
-> **Artifact Image Slate #32** · The Bell Beneath the Clocktower · [Artifact standard](../CANON_MARKDOWN_STANDARD.md)
+> **Artifact Image Slate #32** · The [Bell](../characters/Juniper_Bell.md) Beneath the Clocktower · [Artifact standard](../CANON_MARKDOWN_STANDARD.md)
 
 ## Visual Reference
 

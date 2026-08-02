@@ -14,7 +14,7 @@ canonical_images:
 
 # The Bellmaker’s Mark
 
-> **Artifact Image Slate #29** · The Bell Beneath the Clocktower · [Artifact standard](../CANON_MARKDOWN_STANDARD.md)
+> **Artifact Image Slate #29** · The [Bell](../characters/Juniper_Bell.md) Beneath the Clocktower · [Artifact standard](../CANON_MARKDOWN_STANDARD.md)
 
 ## Visual Reference
 

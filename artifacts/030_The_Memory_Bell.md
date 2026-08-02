@@ -15,7 +15,7 @@ canonical_images:
 
 # The Memory Bell
 
-> **Artifact Image Slate #30** · The Bell Beneath the Clocktower · [Artifact standard](../CANON_MARKDOWN_STANDARD.md)
+> **Artifact Image Slate #30** · The [Bell](../characters/Juniper_Bell.md) Beneath the Clocktower · [Artifact standard](../CANON_MARKDOWN_STANDARD.md)
 
 ## Visual Reference
 
@@ -23,11 +23,11 @@ canonical_images:
 
 ## Canonical Purpose
 
-The bell rings when an important memory is removed or returned.
+The [bell](../characters/Juniper_Bell.md) rings when an important memory is removed or returned.
 
 ## Intended Form
 
-Dark photographic study of a small bell beside notes from affected witnesses.
+Dark photographic study of a small [bell](../characters/Juniper_Bell.md) beside notes from affected witnesses.
 
 ## Related Canon
 

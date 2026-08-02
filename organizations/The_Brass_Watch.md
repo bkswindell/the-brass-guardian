@@ -45,7 +45,7 @@ The Watch knows how to manage the visible consequences of Aetherhaven's shifting
 
 It does not mean the mystery was solved.
 
-Chief Inspector Beatrice Thorne increasingly understands this distinction. She has seen evidence that survives official correction, records that change after filing, and structures that exist in one chronology but not another. She suspects the Watch has spent generations closing cases that were never truly closed.
+[Chief Inspector Beatrice Thorne](../characters/Chief_Inspector_Beatrice_Thorne.md) increasingly understands this distinction. She has seen evidence that survives official correction, records that change after filing, and structures that exist in one chronology but not another. She suspects the Watch has spent generations closing cases that were never truly closed.
 
 The organization is waiting for breakthroughs it does not yet know it needs.
 
@@ -166,7 +166,7 @@ A case may be marked:
 
 The label **resolved** does not guarantee explanation.
 
-Thorne has begun adding a private notation to certain files:
+[Thorne](../characters/Chief_Inspector_Beatrice_Thorne.md) has begun adding a private notation to certain files:
 
 > Stable is not solved.
 
@@ -176,7 +176,7 @@ The Brass Watch's methods have several fundamental weaknesses.
 
 ### Dependence on Official Time
 
-Watch procedures rely on High Council harmonized calendars and civic clocks. If those standards are themselves adjusting, the Watch may use a moving reference point to measure the anomaly.
+Watch procedures rely on [High Council](The_High_Council_of_Aetherhaven.md) harmonized calendars and civic clocks. If those standards are themselves adjusting, the Watch may use a moving reference point to measure the anomaly.
 
 ### Incomplete Ancient Knowledge
 
@@ -251,7 +251,7 @@ Attempts to override the restriction produce one of three results:
 
 - the sentinel shuts down,
 - the sentinel walks backward to the district boundary,
-- or its command log records that the order was obeyed even though it never entered.
+- or its command log records that [the order](The_Order_of_the_Closed_Eye.md) was obeyed even though it never entered.
 
 The Watch compensates by assigning human patrols to the Old City after midnight.
 
@@ -264,7 +264,7 @@ Those officers report:
 
 Officially, the restriction is classified as an inherited command conflict.
 
-Thorne believes it is evidence that some authority older than the High Council remains active beneath Aetherhaven.
+[Thorne](../characters/Chief_Inspector_Beatrice_Thorne.md) believes it is evidence that some authority older than [the High Council](The_High_Council_of_Aetherhaven.md) remains active beneath Aetherhaven.
 
 ## Organizational Culture
 
@@ -285,7 +285,7 @@ The Watch contains several broad viewpoints:
 
 ### Traditionalists
 
-Believe the Watch should contain anomalies, preserve order, and leave ancient mysteries to the Council and Academy.
+Believe the Watch should contain anomalies, preserve order, and leave ancient mysteries to [the Council](The_High_Council_of_Aetherhaven.md) and Academy.
 
 ### Reformers
 
@@ -299,11 +299,11 @@ Treat restricted orders as necessary for civic survival. Some are honorable; oth
 
 Judge each event by immediate danger. These officers are often most willing to cooperate with the Hawthornes.
 
-Thorne increasingly pulls the organization toward evidence-based reform.
+[Thorne](../characters/Chief_Inspector_Beatrice_Thorne.md) increasingly pulls the organization toward evidence-based reform.
 
 ## Relationship with Chief Inspector Beatrice Thorne
 
-Thorne is the Watch's strongest investigator and its most significant internal critic.
+[Thorne](../characters/Chief_Inspector_Beatrice_Thorne.md) is the Watch's strongest investigator and its most significant internal critic.
 
 She believes the organization is honorable but incomplete.
 
@@ -322,7 +322,7 @@ She has quietly begun changing Watch practice:
 - maintaining anchor-object inventories,
 - and comparing sentinel logs before and after Lost Seconds.
 
-Thorne has not yet publicly declared that Aetherhaven's chronology is fluid.
+[Thorne](../characters/Chief_Inspector_Beatrice_Thorne.md) has not yet publicly declared that Aetherhaven's chronology is fluid.
 
 She lacks proof strong enough to survive Council scrutiny.
 
@@ -361,7 +361,7 @@ Her presence may reveal:
 
 The Watch is uneasy about relying on a child.
 
-Thorne is especially determined that Amelia not become a tool used by the Council or the Watch. If Amelia assists, it must be because she understands the risk and chooses to help.
+[Thorne](../characters/Chief_Inspector_Beatrice_Thorne.md) is especially determined that Amelia not become a tool used by [the Council](The_High_Council_of_Aetherhaven.md) or the Watch. If Amelia assists, it must be because she understands the risk and chooses to help.
 
 ### Future Dependence
 
@@ -391,7 +391,7 @@ Together, they become capable of moving from containment toward discovery.
 
 The Watch and the Harbormaster's Office cooperate constantly and distrust one another regularly.
 
-Thorne suspects Mara of:
+[Thorne](../characters/Chief_Inspector_Beatrice_Thorne.md) suspects [Mara](../characters/Captain_Mara_Voss.md) of:
 
 - protecting smugglers,
 - using Underclock routes,
@@ -399,21 +399,21 @@ Thorne suspects Mara of:
 - sheltering unregistered travelers,
 - and granting unusual freedom to the Hawthornes.
 
-Mara believes the Watch can be manipulated by Council orders, rigid procedure, and unstable official records.
+[Mara](../characters/Captain_Mara_Voss.md) believes the Watch can be manipulated by Council orders, rigid procedure, and unstable official records.
 
-The Watch sees Mara's personal moral code as unaccountable.
+The Watch sees [Mara](../characters/Captain_Mara_Voss.md)'s personal moral code as unaccountable.
 
-Mara sees Watch procedure as potentially unjust when the system itself is compromised.
+[Mara](../characters/Captain_Mara_Voss.md) sees Watch procedure as potentially unjust when the system itself is compromised.
 
 Despite this conflict, the two organizations need one another.
 
 The Watch controls criminal investigations and civic authority.
 
-Mara controls vessels, crews, berths, flight safety, and the informal relationships that often reveal what official manifests conceal.
+[Mara](../characters/Captain_Mara_Voss.md) controls vessels, crews, berths, flight safety, and the informal relationships that often reveal what official manifests conceal.
 
 ## Relationship with the High Council
 
-The Brass Watch is legally accountable to the High Council, but its duty is to Aetherhaven's citizens.
+The Brass Watch is legally accountable to [the High Council](The_High_Council_of_Aetherhaven.md), but its duty is to Aetherhaven's citizens.
 
 Council influence can include:
 
@@ -427,15 +427,15 @@ Most such orders are framed as public-safety measures.
 
 Some are legitimate.
 
-Others protect political stability or conceal discoveries that challenge the Council's authority.
+Others protect political stability or conceal discoveries that challenge [the Council](The_High_Council_of_Aetherhaven.md)'s authority.
 
 A central institutional arc is whether the Watch remains an instrument of civic protection or becomes an instrument of managed ignorance.
 
-Thorne intends to prevent the latter.
+[Thorne](../characters/Chief_Inspector_Beatrice_Thorne.md) intends to prevent the latter.
 
 ## Relationship with the Underclock
 
-The Watch officially considers the Underclock an illicit network involved in smuggling, restricted passage, and obstruction of civic authority.
+The Watch officially considers [the Underclock](The_Underclock.md) an illicit network involved in smuggling, restricted passage, and obstruction of civic authority.
 
 The reality is more complicated.
 
@@ -453,9 +453,9 @@ Others perform functions the city refuses to provide.
 
 The Watch's inability to distinguish those groups creates recurring conflict.
 
-Mara's selective cooperation with the Underclock intensifies Thorne's concern.
+[Mara](../characters/Captain_Mara_Voss.md)'s selective cooperation with [the Underclock](The_Underclock.md) intensifies [Thorne](../characters/Chief_Inspector_Beatrice_Thorne.md)'s concern.
 
-Amelia may eventually become the person who helps the Watch recognize that the Underclock is not a single unified enemy.
+Amelia may eventually become the person who helps the Watch recognize that [the Underclock](The_Underclock.md) is not a single unified enemy.
 
 ## Watch Equipment and Evidence Tools
 
@@ -495,7 +495,7 @@ The entire Watch headquarters loses sixty seconds rather than one. Only the sent
 
 ### Occupied by a Higher Authority
 
-A child disappears into the Old City after midnight. The sentinels refuse entry, forcing Thorne, Amelia, and a human patrol to cross the boundary.
+A child disappears into the Old City after midnight. The sentinels refuse entry, forcing [Thorne](../characters/Chief_Inspector_Beatrice_Thorne.md), Amelia, and a human patrol to cross the boundary.
 
 ### The Resolved Cases
 
@@ -515,7 +515,7 @@ A records chamber appears inside Watch headquarters containing cases no current 
 
 ### The Second Watch
 
-A sequence of minor anomalies overwhelms the specialist division. Thorne reluctantly asks Elias and Amelia to help identify which incidents are symptoms of the same deeper event.
+A sequence of minor anomalies overwhelms the specialist division. [Thorne](../characters/Chief_Inspector_Beatrice_Thorne.md) reluctantly asks Elias and Amelia to help identify which incidents are symptoms of the same deeper event.
 
 ### The Higher Command
 
@@ -533,15 +533,15 @@ Sentinels throughout the city receive an ancient command that overrides the Bras
 - Their systems report: **Occupied by a higher authority.**
 - Most officers are honorable.
 - Council officials sometimes misuse Watch authority.
-- Thorne recognizes limitations in current Watch methods.
+- [Thorne](../characters/Chief_Inspector_Beatrice_Thorne.md) recognizes limitations in current Watch methods.
 - The Hawthornes are initially considered disruptive civilians.
 
 ### Hold for Later
 
 - The Watch has generations of contradictory chronal case files.
-- Some sentinel directives predate the High Council.
+- Some sentinel directives predate [the High Council](The_High_Council_of_Aetherhaven.md).
 - The "higher authority" may be an active ancient command structure.
-- Thorne has begun preserving evidence outside standard channels.
+- [Thorne](../characters/Chief_Inspector_Beatrice_Thorne.md) has begun preserving evidence outside standard channels.
 - Certain resolved cases form a deliberate pattern.
 - Lost Seconds may be reconciliation events rather than simple failures.
 - Amelia's Aether Heart can read command layers the Watch cannot detect.
@@ -557,7 +557,7 @@ Sentinels throughout the city receive an ancient command that overrides the Bras
 - The Hawthornes provide breakthroughs, not the first awareness that anomalies exist.
 - The Watch should become increasingly reliant on Elias and Amelia without losing its own agency or importance.
 - Amelia must not be treated merely as equipment or a key.
-- Thorne should protect Amelia from institutional exploitation.
+- [Thorne](../characters/Chief_Inspector_Beatrice_Thorne.md) should protect Amelia from institutional exploitation.
 - Sentinels must retain ancient command limitations that modern officials cannot simply override.
 - "Resolved" should often mean safe or stable, not explained.
 - Council misuse should be specific and politically motivated, not proof that every Council action is malicious.
