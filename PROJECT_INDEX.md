@@ -38,6 +38,7 @@ A file marked **Canonical working profile** is authoritative for future story an
 | [README.md](README.md) | Public, spoiler-light description of *The Brass Guardian* series |
 | [PROJECT_INDEX.md](PROJECT_INDEX.md) | Internal project inventory, canon index, audit notes, and development backlog |
 | [PLACEHOLDER_PROFILE_INDEX.md](PLACEHOLDER_PROFILE_INDEX.md) | Index of source-grounded placeholder records awaiting full development |
+| [CANON_DEVELOPMENT_TODO.md](CANON_DEVELOPMENT_TODO.md) | Prioritized operational queue for profile expansion, image generation, artifact production, and repository QA |
 | [The_Brass_Guardian.pdf](The_Brass_Guardian.pdf) | Compiled illustrated manuscript in PDF format |
 | [The_Brass_Guardian.docx](The_Brass_Guardian.docx) | Editable compiled manuscript |
 | [Character_Profile_Template.md](Character_Profile_Template.md) | Standard structure for new character profiles |
@@ -134,6 +135,8 @@ The `unused/` directory is private owner storage. It is outside the project cano
 
 
 ## Placeholder Expansion Backlog
+
+The complete prioritized work order, including status and direct links to every affected file, is maintained in [CANON_DEVELOPMENT_TODO.md](CANON_DEVELOPMENT_TODO.md).
 
 Every currently identified person, organization, and location now has a dedicated Markdown record. Completed profiles remain authoritative. Files marked **Source-grounded placeholder** preserve the supplied PDF/DOCX material and current Markdown references until they receive full development.
 
