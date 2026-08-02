@@ -28,6 +28,7 @@ key_connections:
   - The Clockwork Jungle Expedition
   - The Six Aether Keys
   - The Heart Engine
+  - The Institute of Vital Mechanics
 temporal_relevance: High
 source_basis:
   - Aetherhaven.pdf
@@ -372,6 +373,18 @@ The Order may have:
 These remain possibilities, not confirmed facts.
 
 Elias may recognize patterns of obstruction before he understands the organization responsible.
+
+## Relationship with the Institute of Vital Mechanics
+
+Elias has a complicated relationship with [the Institute of Vital Mechanics](../organizations/The_Institute_of_Vital_Mechanics.md).
+
+His field engineering and emergency actions may have been essential to keeping Amelia alive after the Clockwork Jungle disaster. They did not replace the need for trained medical, surgical, rehabilitative, and prosthetic care.
+
+The Institute may have provided an expedition medic, recovery team, surgery, infection control, rehabilitation, implant monitoring, or collaboration while Elias built the mechanical framework of the Aether Gauntlet. The exact sequence and practitioners remain unresolved.
+
+Elias respects medical expertise but may resist institutional caution when it delays a repair or investigation he considers necessary. He becomes especially protective when researchers discuss Amelia's arm as a rare interface rather than part of his daughter's body.
+
+The Institute should be capable of challenging Elias when guilt convinces him that he alone must make every decision about Amelia's care.
 
 ## The Clockwork Jungle Expedition
 

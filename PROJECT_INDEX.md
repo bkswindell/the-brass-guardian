@@ -10,8 +10,8 @@
 The repository currently contains:
 
 - **13** completed canonical character profiles and **15** source-grounded character placeholders
-- **12** completed canonical organization profiles and **23** source-grounded organization placeholders
-- **5** completed canonical location profiles and **48** source-grounded location placeholders
+- **12** completed canonical organization profiles and **24** organization placeholders
+- **5** completed canonical location profiles and **50** location placeholders
 - **7** long-range or hidden story-arc profiles
 - **16** historical-event records
 - **64** artifact image-slate records
@@ -133,6 +133,21 @@ See the [Historical Events Index](historical_events/README.md).
 | The Great Garden Rearrangement | Historical placeholder | [The_Great_Garden_Rearrangement.md](historical_events/The_Great_Garden_Rearrangement.md) |
 | The Night of Silent Clocks | Historical placeholder | [The_Night_of_Silent_Clocks.md](historical_events/The_Night_of_Silent_Clocks.md) |
 | The Last Morningstar Manifest | Historical placeholder | [The_Last_Morningstar_Manifest.md](historical_events/The_Last_Morningstar_Manifest.md) |
+
+## Distributed Medical Infrastructure
+
+Aetherhaven's medical, surgical, rehabilitative, prosthetic, implant, and field-response infrastructure is represented by [the Institute of Vital Mechanics](organizations/The_Institute_of_Vital_Mechanics.md).
+
+The Institute is not a separate map district. Its known presence includes:
+
+- [the Hall of Vital Mechanics](locations/The_Hall_of_Vital_Mechanics.md) in the Government District;
+- clinical and research collaboration at the Academy of Invention;
+- prosthetics and implant work in the Great Workshops;
+- [the Cauldron Recovery House](locations/The_Cauldron_Recovery_House.md);
+- field medics supporting Brass Watch emergencies;
+- and possible expeditionary medical support.
+
+The institution is intentionally a placeholder. Its final name, leadership, staffing, and exact role in Amelia Hawthorne's survival remain unresolved.
 
 ## Artifact Image Slate
 

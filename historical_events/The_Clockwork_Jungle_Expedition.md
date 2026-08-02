@@ -22,6 +22,7 @@ participants:
 organizations:
   - Society of Explorers, possible sponsor or record-holder
   - Academy of Invention, possible research connection
+  - The Institute of Vital Mechanics, possible medical support
 related_artifacts:
   - The Aether Gauntlet: Exterior Study
   - Professor Hawthorne's Field Journal
@@ -106,6 +107,7 @@ No single explanation is yet canonical.
 - [Amelia Hawthorne](../characters/Amelia_Hawthorne.md)
 - additional expedition members whose identities, survival, and roles remain unresolved
 - possible recovery personnel or rescuers not yet identified
+- an Institute field medic, expedition-certified practitioner, or later recovery team whose exact role remains unresolved
 
 ## Timeline
 
@@ -115,13 +117,15 @@ No single explanation is yet canonical.
 4. A dormant machine awakens.
 5. An explosion destroys much of the expedition.
 6. Amelia sustains catastrophic injury to her right arm.
-7. Elias and Amelia are recovered or escape; the exact method remains unresolved.
-8. Elias constructs the mechanical framework of Amelia's new arm.
-9. The Aether Heart becomes visibly integrated with the gauntlet at an unresolved point.
-10. Elias spends years studying Ancient engineering and blaming himself.
-11. The main series begins after Amelia has already resumed a capable life aboard the *Wayfinder*.
-12. Clues discovered in Aetherhaven gradually challenge the surviving account.
-13. A later story may return Elias and Amelia to the original site.
+7. Elias performs or assists with emergency stabilization, but the exact medical personnel and methods remain unresolved.
+8. Elias and Amelia are recovered or escape; the exact method remains unresolved.
+9. Trained medical, surgical, rehabilitative, and prosthetic care supports Amelia's survival and recovery.
+10. Elias constructs the mechanical framework of Amelia's new arm.
+11. The Aether Heart becomes visibly integrated with the gauntlet at an unresolved point.
+12. Elias spends years studying Ancient engineering and blaming himself.
+13. The main series begins after Amelia has already resumed a capable life aboard the *Wayfinder*.
+14. Clues discovered in Aetherhaven gradually challenge the surviving account.
+15. A later story may return Elias and Amelia to the original site.
 
 ## Institutional Responses
 
@@ -148,6 +152,16 @@ No final jurisdiction is established.
 The [Order of the Closed Eye](../organizations/The_Order_of_the_Closed_Eye.md) may have monitored, sealed, altered, or suppressed records connected to the site or Aether Heart.
 
 Direct involvement remains unconfirmed.
+
+## Institute of Vital Mechanics
+
+The [Institute of Vital Mechanics](../organizations/The_Institute_of_Vital_Mechanics.md) may have supported the expedition, the recovery, Amelia's surgery, rehabilitation, prosthetic integration, or later monitoring.
+
+The exact role remains unresolved.
+
+The historical record must not imply that Elias single-handedly provided every form of medical care required to keep Amelia alive. His emergency engineering and stabilization may have been essential, while trained medical practitioners provided other critical care.
+
+Whether an Institute medic accompanied the expedition or became involved only after evacuation remains an open question.
 
 ## Conflicting Accounts
 
@@ -237,6 +251,7 @@ The aftermath-first approach is canonical working structure.
 - Elias later built the mechanical framework of the Aether Gauntlet.
 - The Aether Heart is visibly integrated with Amelia's arm by the main series.
 - Elias sincerely blames himself, but final responsibility remains unresolved.
+- Elias's emergency actions were important, but Amelia's survival and recovery also required medical expertise whose personnel and sequence remain unresolved.
 - The exact trigger, roster, casualties, recovery, and Heart origin remain open.
 - Amelia's incomplete memory must not be dismissed as false.
 - The event is revealed gradually rather than fully shown at the opening.
@@ -265,6 +280,7 @@ The aftermath-first approach is canonical working structure.
 18. Did the Order of the Closed Eye intervene?
 19. Why do systems in Aetherhaven resemble the Jungle machine?
 20. What will the site reveal when Amelia returns?
+21. What exact medical personnel, field support, surgery, and rehabilitation kept Amelia alive?
 
 ## Development Checklist
 

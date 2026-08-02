@@ -13,8 +13,11 @@ access_status: []
 map_reference_category: numbered
 map_number: 11
 parent_location: 
-primary_connections: []
-points_of_interest: []
+primary_connections:
+  - The Hall of Vital Mechanics
+  - The Institute of Vital Mechanics
+points_of_interest:
+  - The Hall of Vital Mechanics
 temporal_relevance: Unresolved
 source_basis:
   - Aetherhaven v3.pdf
@@ -30,11 +33,11 @@ Canonical map reference: 11.
 
 ## Public Map Reference
 
-The formal civic quarter containing [the High Chamber](The_High_Chamber.md), council offices, courts, public petition spaces, and institutions responsible for [Aetherhaven](Aetherhaven.md)'s laws and administration.
+The formal civic quarter containing [the High Chamber](The_High_Chamber.md), council offices, courts, public petition spaces, and institutions responsible for [Aetherhaven](Aetherhaven.md)'s laws and administration. The district also contains [the Hall of Vital Mechanics](The_Hall_of_Vital_Mechanics.md), Aetherhaven's central civic hospital and headquarters for advanced medical and rehabilitative care.
 
 ## Canonical Summary
 
-The formal civic quarter containing [the High Chamber](The_High_Chamber.md), council offices, courts, public petition spaces, and institutions responsible for [Aetherhaven](Aetherhaven.md)'s laws and administration.
+The formal civic quarter containing [the High Chamber](The_High_Chamber.md), council offices, courts, public petition spaces, and institutions responsible for [Aetherhaven](Aetherhaven.md)'s laws and administration. The district also contains [the Hall of Vital Mechanics](The_Hall_of_Vital_Mechanics.md), Aetherhaven's central civic hospital and headquarters for advanced medical and rehabilitative care.
 
 ## Source Notes
 

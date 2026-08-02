@@ -29,6 +29,7 @@ key_relationships:
   - The Brass Watch
   - The Aerial Mariners' Union
   - The Ninth Guild
+  - The Institute of Vital Mechanics
 temporal_relevance: High
 ---
 
@@ -455,6 +456,16 @@ The guildmasters summon [Amelia](../characters/Amelia_Hawthorne.md) to explain t
 - Which current guildmaster knows the truth.
 - Whether a ninth discipline was erased.
 - How the oldest medallions interact with [Amelia](../characters/Amelia_Hawthorne.md)'s Aether Heart.
+
+## Medical Devices, Prosthetics, and Implants
+
+The Guild works with [the Institute of Vital Mechanics](The_Institute_of_Vital_Mechanics.md) wherever a certified machine becomes part of medical treatment, rehabilitation, mobility, sensory support, or a person's embodied life.
+
+The Guild governs engineering standards and professional mechanical responsibility. The Institute governs medical care, consent, and biological safety.
+
+Neither institution may claim ownership of a patient or assert that certification grants authority over a device after it becomes integrated with that person's body.
+
+Ancient components such as Amelia's Aether Heart create an unresolved conflict because they cannot be certified under known standards and cannot be separated from the patient merely to satisfy professional review.
 
 ## Continuity Constraints
 

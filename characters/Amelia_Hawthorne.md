@@ -36,6 +36,7 @@ key_connections:
   - The Six Aether Keys
   - The Heart Engine
   - The Clockwork Jungle Expedition
+  - The Institute of Vital Mechanics
 temporal_relevance: Very high
 source_basis:
   - Aetherhaven.pdf
@@ -65,7 +66,7 @@ Amelia Hawthorne is the young **Clockwork Explorer**, a mechanically gifted chil
 
 She lives and travels with her father, [Professor Elias Hawthorne](Professor_Elias_Hawthorne.md), aboard the *Wayfinder*. She repairs real machinery, studies diagrams, keeps her own notes, asks questions adults often avoid, and notices relationships between people, places, and mechanisms that more experienced observers overlook.
 
-Amelia lost the ordinary use of her right arm during [the Clockwork Jungle Expedition](../historical_events/The_Clockwork_Jungle_Expedition.md), when a dormant Ancient machine awakened and an explosion destroyed much of the expedition. Elias later constructed the mechanical framework that became Amelia's [Aether Gauntlet](../artifacts/009_The_Aether_Gauntlet_Exterior_Study.md).
+Amelia lost the ordinary use of her right arm during [the Clockwork Jungle Expedition](../historical_events/The_Clockwork_Jungle_Expedition.md), when a dormant Ancient machine awakened and an explosion destroyed much of the expedition. After emergency stabilization and later medical care whose exact participants remain unresolved, Elias constructed the mechanical framework that became Amelia's [Aether Gauntlet](../artifacts/009_The_Aether_Gauntlet_Exterior_Study.md).
 
 Within the gauntlet rests the visible [Aether Heart](../artifacts/009_The_Aether_Gauntlet_Exterior_Study.md), a glowing Ancient component or living mechanism whose full nature remains unresolved. Ancient machines respond to Amelia in ways they do not respond to anyone else. Some inscriptions or systems recognize her as **the Bearer of the Living Key**.
 
@@ -515,6 +516,25 @@ Amelia does not begin knowing whether the machines are:
 Her unusual sensitivity does not guarantee that every machine is benevolent or truthful.
 
 Learning when not to answer may become as important as learning how to listen.
+
+## Relationship with the Institute of Vital Mechanics
+
+[The Institute of Vital Mechanics](../organizations/The_Institute_of_Vital_Mechanics.md) may have participated in Amelia's emergency treatment, surgery, rehabilitation, prosthetic fitting, implant monitoring, and long-term care after the Clockwork Jungle disaster.
+
+The exact clinicians and sequence remain unresolved.
+
+Amelia may feel gratitude toward individual caregivers while remaining wary of institutional researchers interested in the Aether Heart. Previous medical care does not grant the Institute ownership of her records, gauntlet, body, or future choices.
+
+This relationship can support stories about:
+
+- rehabilitation and adaptation;
+- ordinary maintenance and physical limits;
+- informed consent;
+- medical privacy;
+- disagreement between Elias and clinicians;
+- and Amelia learning to speak for herself in decisions adults once made during an emergency.
+
+The Institute must include compassionate practitioners and institutional tensions rather than functioning only as a threat or exposition source.
 
 ## The Clockwork Jungle Expedition
 
