@@ -51,52 +51,52 @@ A file marked **Canonical working profile** is authoritative for future story an
 
 | Character | Current role | Canon status | File |
 |---|---|---|---|
-| Captain Mara Voss | Harbormaster of the Aerial Docks and former captain of the *Resolute* | Canonical working profile | [Captain_Mara_Voss.md](characters/Captain_Mara_Voss.md) |
-| Chancellor Octavia Vale | First Voice of the High Council and guardian of civic stability | Canonical working profile | [Chancellor_Octavia_Vale.md](characters/Chancellor_Octavia_Vale.md) |
-| Chief Inspector Beatrice Thorne | Commander of the Brass Watch | Canonical working profile | [Chief_Inspector_Beatrice_Thorne.md](characters/Chief_Inspector_Beatrice_Thorne.md) |
-| Juniper Bell | Keeper of the Clockwork Gardens and possible Keeper of Dreams | Canonical working profile | [Juniper_Bell.md](characters/Juniper_Bell.md) |
-| Pip | Amelia's brass sparrow companion and possible Moon Garden messenger | Canonical working profile | [Pip.md](characters/Pip.md) |
-| Silas Rook / The Stillmaker | Operational commander and concealed second-in-command of the Severed Coil | Canonical hidden profile | [Silas_Rook_The_Stillmaker.md](characters/Silas_Rook_The_Stillmaker.md) |
-| Tamsin Pike | Young canal guide, locksmith, and possible Underclock route heir | Canonical working profile | [Tamsin_Pike.md](characters/Tamsin_Pike.md) |
-| The Hidden Architect | True leader of the Severed Coil; identity deliberately unassigned | Canonical concealed role | [The_Hidden_Architect_Unassigned.md](characters/The_Hidden_Architect_Unassigned.md) |
-| The Passenger of Dock Zero | Unverified Morningstar passenger | Canonical working profile | [The_Passenger_of_Dock_Zero.md](characters/The_Passenger_of_Dock_Zero.md) |
+| [Captain Mara Voss](characters/Captain_Mara_Voss.md) | Harbormaster of [the Aerial Docks](locations/The_Aerial_Docks.md) and former captain of the *Resolute* | Canonical working profile | [Captain_Mara_Voss.md](characters/Captain_Mara_Voss.md) |
+| [Chancellor Octavia Vale](characters/Chancellor_Octavia_Vale.md) | First Voice of [the High Council](organizations/The_High_Council_of_Aetherhaven.md) and guardian of civic stability | Canonical working profile | [Chancellor_Octavia_Vale.md](characters/Chancellor_Octavia_Vale.md) |
+| [Chief Inspector Beatrice Thorne](characters/Chief_Inspector_Beatrice_Thorne.md) | Commander of [the Brass Watch](organizations/The_Brass_Watch.md) | Canonical working profile | [Chief_Inspector_Beatrice_Thorne.md](characters/Chief_Inspector_Beatrice_Thorne.md) |
+| [Juniper Bell](characters/Juniper_Bell.md) | Keeper of the Clockwork Gardens and possible Keeper of Dreams | Canonical working profile | [Juniper_Bell.md](characters/Juniper_Bell.md) |
+| [Pip](characters/Pip.md) | Amelia's brass sparrow companion and possible [Moon Garden](locations/The_Moon_Garden.md) messenger | Canonical working profile | [Pip.md](characters/Pip.md) |
+| [Silas Rook](characters/Silas_Rook_The_Stillmaker.md) / [The Stillmaker](characters/Silas_Rook_The_Stillmaker.md) | Operational commander and concealed second-in-command of [the Severed Coil](organizations/The_Severed_Coil.md) | Canonical hidden profile | [Silas_Rook_The_Stillmaker.md](characters/Silas_Rook_The_Stillmaker.md) |
+| [Tamsin Pike](characters/Tamsin_Pike.md) | Young canal guide, locksmith, and possible [Underclock](organizations/The_Underclock.md) route heir | Canonical working profile | [Tamsin_Pike.md](characters/Tamsin_Pike.md) |
+| [The Hidden Architect](characters/The_Hidden_Architect_Unassigned.md) | True leader of [the Severed Coil](organizations/The_Severed_Coil.md); identity deliberately unassigned | Canonical concealed role | [The_Hidden_Architect_Unassigned.md](characters/The_Hidden_Architect_Unassigned.md) |
+| [The Passenger of Dock Zero](characters/The_Passenger_of_Dock_Zero.md) | Unverified Morningstar passenger | Canonical working profile | [The_Passenger_of_Dock_Zero.md](characters/The_Passenger_of_Dock_Zero.md) |
 
 ## Canonical Organization Profiles
 
 | Organization | Current role | Canon status | File |
 |---|---|---|---|
-| The Aerial Mariners' Union | Airship labor union, route authority, mutual-aid society, and keeper of private navigation knowledge | Canonical working profile | [The_Aerial_Mariners_Union.md](organizations/The_Aerial_Mariners_Union.md) |
-| The Brass Watch | Constabulary, emergency service, and anomalous-incident authority | Canonical working profile | [The_Brass_Watch.md](organizations/The_Brass_Watch.md) |
-| The Conservancy of Living Mechanisms | Pacifist stewards and guardians of the Clockwork Gardens and living machines | Canonical working profile | [The_Conservancy_of_Living_Mechanisms.md](organizations/The_Conservancy_of_Living_Mechanisms.md) |
-| The Eight Founding Engineering Guilds | Foundational engineering orders and the Conclave of Eight | Canonical working profile | [The_Eight_Founding_Engineering_Guilds.md](organizations/The_Eight_Founding_Engineering_Guilds.md) |
-| The High Council of Aetherhaven | Central government of twelve active seats and the sealed Thirteenth Chair | Canonical working profile | [The_High_Council_of_Aetherhaven.md](organizations/The_High_Council_of_Aetherhaven.md) |
-| The Lamplighters' Fellowship | Civic lighting service and informal working-class witness network | Canonical working profile | [The_Lamplighters_Fellowship.md](organizations/The_Lamplighters_Fellowship.md) |
-| The Mechanists' Guild | Professional engineering federation, certification authority, and civic safety order | Canonical working profile | [The_Mechanists_Guild.md](organizations/The_Mechanists_Guild.md) |
-| The Ninth Guild | Forbidden research network, revision society, and distributed counter-archive | Canonical working profile | [The_Ninth_Guild.md](organizations/The_Ninth_Guild.md) |
-| The Order of the Closed Eye | Secret containment cabal and information-control network | Canonical hidden profile | [The_Order_of_the_Closed_Eye.md](organizations/The_Order_of_the_Closed_Eye.md) |
-| The Severed Coil | Violent extremist faction and clandestine sabotage network | Canonical working profile | [The_Severed_Coil.md](organizations/The_Severed_Coil.md) |
-| The Underclock | Decentralized sanctuary, smuggling, tunnel-route, and information network | Canonical working profile | [The_Underclock.md](organizations/The_Underclock.md) |
-| The Unwound | Reform movement opposing unexamined dependence on the Heart Engine | Canonical working profile | [The_Unwound.md](organizations/The_Unwound.md) |
+| [The Aerial Mariners' Union](organizations/The_Aerial_Mariners_Union.md) | Airship labor union, route authority, mutual-aid society, and keeper of private navigation knowledge | Canonical working profile | [The_Aerial_Mariners_Union.md](organizations/The_Aerial_Mariners_Union.md) |
+| [The Brass Watch](organizations/The_Brass_Watch.md) | Constabulary, emergency service, and anomalous-incident authority | Canonical working profile | [The_Brass_Watch.md](organizations/The_Brass_Watch.md) |
+| [The Conservancy of Living Mechanisms](organizations/The_Conservancy_of_Living_Mechanisms.md) | Pacifist stewards and guardians of the Clockwork Gardens and living machines | Canonical working profile | [The_Conservancy_of_Living_Mechanisms.md](organizations/The_Conservancy_of_Living_Mechanisms.md) |
+| [The Eight Founding Engineering Guilds](organizations/The_Eight_Founding_Engineering_Guilds.md) | Foundational engineering orders and the Conclave of Eight | Canonical working profile | [The_Eight_Founding_Engineering_Guilds.md](organizations/The_Eight_Founding_Engineering_Guilds.md) |
+| [The High Council of Aetherhaven](organizations/The_High_Council_of_Aetherhaven.md) | Central government of twelve active seats and the sealed Thirteenth Chair | Canonical working profile | [The_High_Council_of_Aetherhaven.md](organizations/The_High_Council_of_Aetherhaven.md) |
+| [The Lamplighters' Fellowship](organizations/The_Lamplighters_Fellowship.md) | Civic lighting service and informal working-class witness network | Canonical working profile | [The_Lamplighters_Fellowship.md](organizations/The_Lamplighters_Fellowship.md) |
+| [The Mechanists' Guild](organizations/The_Mechanists_Guild.md) | Professional engineering federation, certification authority, and civic safety order | Canonical working profile | [The_Mechanists_Guild.md](organizations/The_Mechanists_Guild.md) |
+| [The Ninth Guild](organizations/The_Ninth_Guild.md) | Forbidden research network, revision society, and distributed counter-archive | Canonical working profile | [The_Ninth_Guild.md](organizations/The_Ninth_Guild.md) |
+| [The Order of the Closed Eye](organizations/The_Order_of_the_Closed_Eye.md) | Secret containment cabal and information-control network | Canonical hidden profile | [The_Order_of_the_Closed_Eye.md](organizations/The_Order_of_the_Closed_Eye.md) |
+| [The Severed Coil](organizations/The_Severed_Coil.md) | Violent extremist faction and clandestine sabotage network | Canonical working profile | [The_Severed_Coil.md](organizations/The_Severed_Coil.md) |
+| [The Underclock](organizations/The_Underclock.md) | Decentralized sanctuary, smuggling, tunnel-route, and information network | Canonical working profile | [The_Underclock.md](organizations/The_Underclock.md) |
+| [The Unwound](organizations/The_Unwound.md) | Reform movement opposing unexamined dependence on the Heart Engine | Canonical working profile | [The_Unwound.md](organizations/The_Unwound.md) |
 
 ## Canonical Location Profiles
 
 | Location | Map status and role | Canon status | File |
 |---|---|---|---|
-| The Aerial Docks | Location #19; primary commercial airship port and site of Dock Zero | Canonical working profile | [The_Aerial_Docks.md](locations/The_Aerial_Docks.md) |
-| The Cauldron | Restricted Area E; industrial exile district and illicit trade ecosystem | Canonical working profile | [The_Cauldron.md](locations/The_Cauldron.md) |
-| The Entertainment District | Location #17; public nightlife district and frontier with the Cauldron | Canonical working profile | [The_Entertainment_District.md](locations/The_Entertainment_District.md) |
-| The Gardens Airship Landing | Location #8; explorer, courier, official, and emergency platform within the Clockwork Gardens | Canonical working profile | [The_Gardens_Airship_Landing.md](locations/The_Gardens_Airship_Landing.md) |
-| The Moon Garden | Hidden nocturnal layer of the Clockwork Gardens and home of the Dream Engine | Canonical hidden location | [The_Moon_Garden.md](locations/The_Moon_Garden.md) |
+| [The Aerial Docks](locations/The_Aerial_Docks.md) | Location #19; primary commercial airship port and site of Dock Zero | Canonical working profile | [The_Aerial_Docks.md](locations/The_Aerial_Docks.md) |
+| [The Cauldron](locations/The_Cauldron.md) | Restricted Area E; industrial exile district and illicit trade ecosystem | Canonical working profile | [The_Cauldron.md](locations/The_Cauldron.md) |
+| [The Entertainment District](locations/The_Entertainment_District.md) | Location #17; public nightlife district and frontier with [the Cauldron](locations/The_Cauldron.md) | Canonical working profile | [The_Entertainment_District.md](locations/The_Entertainment_District.md) |
+| [The Gardens Airship Landing](locations/The_Gardens_Airship_Landing.md) | Location #8; explorer, courier, official, and emergency platform within the Clockwork Gardens | Canonical working profile | [The_Gardens_Airship_Landing.md](locations/The_Gardens_Airship_Landing.md) |
+| [The Moon Garden](locations/The_Moon_Garden.md) | Hidden nocturnal layer of the Clockwork Gardens and home of the Dream Engine | Canonical hidden location | [The_Moon_Garden.md](locations/The_Moon_Garden.md) |
 
 ## Canonical Story Arcs
 
 | Story arc | Scope | Canon status | File |
 |---|---|---|---|
-| The Black Catalogue Arc | Ninth Guild, Prototype I, memory, identity, ownership, and consent | Canonical long-range arc | [The_Black_Catalogue_Arc.md](story_arcs/The_Black_Catalogue_Arc.md) |
-| The Disappearance of Prototype I | Closure, the Underclock extraction, and unresolved accession | Canonical hidden arc | [The_Disappearance_of_Prototype_I.md](story_arcs/The_Disappearance_of_Prototype_I.md) |
-| The Keeper of Dreams | Juniper Bell, the Moon Garden, the Dream Engine, Pip, and teaser continuity | Canonical delayed-reveal arc | [The_Keeper_of_Dreams.md](story_arcs/The_Keeper_of_Dreams.md) |
-| The Severed Coil Conflict | Long-range escalation from unnoticed interference to direct civic conflict | Canonical long-range arc | [The_Severed_Coil_Conflict.md](story_arcs/The_Severed_Coil_Conflict.md) |
-| The Thirteenth Chair | High Council, First Mechanist, Continuance, and constitutional authority | Canonical long-range arc | [The_Thirteenth_Chair.md](story_arcs/The_Thirteenth_Chair.md) |
+| The Black Catalogue Arc | [Ninth Guild](organizations/The_Ninth_Guild.md), Prototype I, memory, identity, ownership, and consent | Canonical long-range arc | [The_Black_Catalogue_Arc.md](story_arcs/The_Black_Catalogue_Arc.md) |
+| The Disappearance of Prototype I | Closure, [the Underclock](organizations/The_Underclock.md) extraction, and unresolved accession | Canonical hidden arc | [The_Disappearance_of_Prototype_I.md](story_arcs/The_Disappearance_of_Prototype_I.md) |
+| The Keeper of Dreams | [Juniper Bell](characters/Juniper_Bell.md), [the Moon Garden](locations/The_Moon_Garden.md), the Dream Engine, [Pip](characters/Pip.md), and teaser continuity | Canonical delayed-reveal arc | [The_Keeper_of_Dreams.md](story_arcs/The_Keeper_of_Dreams.md) |
+| [The Severed Coil](organizations/The_Severed_Coil.md) Conflict | Long-range escalation from unnoticed interference to direct civic conflict | Canonical long-range arc | [The_Severed_Coil_Conflict.md](story_arcs/The_Severed_Coil_Conflict.md) |
+| The Thirteenth Chair | [High Council](organizations/The_High_Council_of_Aetherhaven.md), First Mechanist, Continuance, and constitutional authority | Canonical long-range arc | [The_Thirteenth_Chair.md](story_arcs/The_Thirteenth_Chair.md) |
 
 ## Artifact Image Slate
 
@@ -164,7 +164,7 @@ The August 2, 2026 audit identified the following housekeeping and continuity it
 
 1. The former root `README.md` was an internal canon index rather than a public repository introduction. Its indexing function belongs in this file.
 2. The old index title, “Aetherhaven Canonical Character Memory,” no longer reflected the repository's broader scope.
-3. The Moon Garden entry had been appended below the Working Rule instead of appearing in the location table.
+3. [The Moon Garden](locations/The_Moon_Garden.md) entry had been appended below the Working Rule instead of appearing in the location table.
 4. Several completed character profiles remained listed as planned work.
 5. Artifact numbering inconsistencies and the two Society of Explorers seal variants are known, accepted development conditions. They may be normalized later but should not be treated as current canon conflicts.
 6. `art/AH-X-YYY.png` remains an unassigned active-art placeholder and should be interpreted only when its intended purpose is explicitly established.

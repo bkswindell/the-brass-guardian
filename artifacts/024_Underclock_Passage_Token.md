@@ -13,7 +13,7 @@ canonical_images:
   - null
 ---
 
-# Underclock Passage Token
+# [Underclock](../organizations/The_Underclock.md) Passage Token
 
 > **Artifact Image Slate #24** · The Thirteenth Canal · [Artifact standard](../CANON_MARKDOWN_STANDARD.md)
 
@@ -23,7 +23,7 @@ canonical_images:
 
 ## Canonical Purpose
 
-Introduces the Underclock without fully explaining the organization.
+Introduces [the Underclock](../organizations/The_Underclock.md) without fully explaining the organization.
 
 ## Intended Form
 

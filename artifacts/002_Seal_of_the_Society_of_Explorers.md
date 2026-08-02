@@ -100,7 +100,7 @@ Beneath the embossed impression:
 > **Prof. Elias Hawthorne**  
 > for the pursuit of knowledge  
 > and the betterment of all.  
-> By authority of the Council,  
+> By authority of [the Council](../organizations/The_High_Council_of_Aetherhaven.md),
 > **Society of Explorers.**
 
 A red stamp across the charter reads **APPROVED**.
@@ -114,7 +114,7 @@ A red stamp across the charter reads **APPROVED**.
 
 ### Archivist notes
 
-> Several authenticated records bear subtle differences in the inner ring and globe orientation. Whether due to hand crafting or deeper meaning unknown. Further comparison with High Council archives recommended.
+> Several authenticated records bear subtle differences in the inner ring and globe orientation. Whether due to hand crafting or deeper meaning unknown. Further comparison with [High Council](../organizations/The_High_Council_of_Aetherhaven.md) archives recommended.
 
 ### Classification and control fields
 
@@ -158,7 +158,7 @@ A red stamp across the charter reads **APPROVED**.
 
 ### Founding Charter quotation
 
-> The Council grants this seal only to those who venture where maps end.  
+> [The Council](../organizations/The_High_Council_of_Aetherhaven.md) grants this seal only to those who venture where maps end.
 > — Founding Charter, Article I
 
 ### Historical photograph caption

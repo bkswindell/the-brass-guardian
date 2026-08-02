@@ -38,7 +38,7 @@ It is not a factory that manufactures endless machines.
 
 It is a place where forbidden ideas, stolen components, desperate people, illegal buyers, damaged inventions, and unwanted citizens can disappear.
 
-Ordinary Aetherhaven residents are warned—and in many cases legally prohibited—from entering. The Brass Watch does not exercise normal patrol authority within the district. The High Council publicly describes the Cauldron as a restricted hazard zone.
+Ordinary Aetherhaven residents are warned—and in many cases legally prohibited—from entering. [The Brass Watch](../organizations/The_Brass_Watch.md) does not exercise normal patrol authority within the district. [The High Council](../organizations/The_High_Council_of_Aetherhaven.md) publicly describes the Cauldron as a restricted hazard zone.
 
 In practice, it functions as an operational exile.
 
@@ -48,7 +48,7 @@ The district is lawless only by Aetherhaven's definition.
 
 It has rules.
 
-They are simply not the Council's rules.
+They are simply not [the Council](../organizations/The_High_Council_of_Aetherhaven.md)'s rules.
 
 ## Geography and Isolation
 
@@ -108,7 +108,7 @@ Those that do may:
 - refuse local instructions,
 - or become targets for stripping and resale.
 
-The Brass Watch therefore enters only under exceptional circumstances, negotiated operations, urgent rescue, or direct threat to the city.
+[The Brass Watch](../organizations/The_Brass_Watch.md) therefore enters only under exceptional circumstances, negotiated operations, urgent rescue, or direct threat to the city.
 
 ## Governance Without Government
 
@@ -134,7 +134,7 @@ Mutual-aid groups that maintain water, heat, food distribution, and local defens
 
 ### Quiet Powers
 
-Figures or organizations whose influence is known but rarely named, including Ninth Guild researchers, Underclock intermediaries, and old families who predate the district's formal isolation.
+Figures or organizations whose influence is known but rarely named, including [Ninth Guild](../organizations/The_Ninth_Guild.md) researchers, [Underclock](../organizations/The_Underclock.md) intermediaries, and old families who predate the district's formal isolation.
 
 The Cauldron's order is unstable but real.
 
@@ -148,7 +148,7 @@ No authenticated copy has been found.
 
 The arrangement is believed to include several unwritten terms:
 
-- The High Council does not attempt full occupation.
+- [The High Council](../organizations/The_High_Council_of_Aetherhaven.md) does not attempt full occupation.
 - The Cauldron does not openly expand beyond the Ash Line.
 - Dangerous waste and illicit trade remain contained within the basin.
 - Essential salvage and components continue flowing into Aetherhaven.
@@ -179,7 +179,7 @@ The district provides:
 
 When a civic machine requires a component no certified workshop can reproduce, that component often comes from the Cauldron.
 
-When the Council needs an object disposed of without a record, it often passes through the Cauldron.
+When [the Council](../organizations/The_High_Council_of_Aetherhaven.md) needs an object disposed of without a record, it often passes through the Cauldron.
 
 When the city suffers a shortage, officially prohibited goods begin appearing in legitimate markets through intermediaries.
 
@@ -213,9 +213,9 @@ The district should never be portrayed as uniformly evil.
 
 It is capable of producing villains, allies, victims, opportunists, and communities with fierce loyalty.
 
-## Relationship with the High Council
+## Relationship with [the High Council](../organizations/The_High_Council_of_Aetherhaven.md)
 
-The Cauldron is openly hostile to the High Council.
+The Cauldron is openly hostile to [the High Council](../organizations/The_High_Council_of_Aetherhaven.md).
 
 Council agents are viewed as:
 
@@ -225,7 +225,7 @@ Council agents are viewed as:
 - confiscators,
 - and representatives of a city that profits from the district while denying its people citizenship and protection.
 
-The High Council maintains the district's restricted status because:
+[The High Council](../organizations/The_High_Council_of_Aetherhaven.md) maintains the district's restricted status because:
 
 - occupation would be costly,
 - destruction would disrupt essential trade,
@@ -241,13 +241,13 @@ Some Council officials secretly maintain:
 - disposal contracts,
 - and hidden accounts tied to Cauldron trade.
 
-## Relationship with the Brass Watch
+## Relationship with [the Brass Watch](../organizations/The_Brass_Watch.md)
 
-The Brass Watch does not normally govern the Cauldron.
+[The Brass Watch](../organizations/The_Brass_Watch.md) does not normally govern the Cauldron.
 
 Its jurisdiction effectively stops at the Ash Line.
 
-Chief Inspector Beatrice Thorne considers this arrangement dangerous because it creates:
+[Chief Inspector Beatrice Thorne](../characters/Chief_Inspector_Beatrice_Thorne.md) considers this arrangement dangerous because it creates:
 
 - a refuge for violent criminals,
 - an evidence gap,
@@ -259,47 +259,47 @@ She also recognizes that a full Watch occupation would:
 - cause civilian casualties,
 - destroy informant networks,
 - provoke district-wide resistance,
-- and allow the High Council to use law enforcement as political conquest.
+- and allow [the High Council](../organizations/The_High_Council_of_Aetherhaven.md) to use law enforcement as political conquest.
 
-Thorne therefore favors limited, evidence-based operations.
+[Thorne](../characters/Chief_Inspector_Beatrice_Thorne.md) therefore favors limited, evidence-based operations.
 
 Watch entry may require:
 
 - negotiation with local brokers,
 - a guide,
 - agreement on the scope of the search,
-- or cooperation from Captain Mara Voss, the Underclock, or another trusted intermediary.
+- or cooperation from [Captain Mara Voss](../characters/Captain_Mara_Voss.md), [the Underclock](../organizations/The_Underclock.md), or another trusted intermediary.
 
-The Cauldron fears Thorne more than most Watch officers because she cannot be easily bought and does not confuse lawlessness with lack of evidence.
+The Cauldron fears [Thorne](../characters/Chief_Inspector_Beatrice_Thorne.md) more than most Watch officers because she cannot be easily bought and does not confuse lawlessness with lack of evidence.
 
-Some residents also respect her because she distinguishes between dangerous offenders and people merely unwanted by the Council.
+Some residents also respect her because she distinguishes between dangerous offenders and people merely unwanted by [the Council](../organizations/The_High_Council_of_Aetherhaven.md).
 
-## Relationship with Captain Mara Voss
+## Relationship with [Captain Mara Voss](../characters/Captain_Mara_Voss.md)
 
-Mara has long-standing contacts in the Cauldron.
+[Mara](../characters/Captain_Mara_Voss.md) has long-standing contacts in the Cauldron.
 
 She uses them for:
 
 - emergency parts,
 - unofficial transport,
 - information,
-- and access to people who will not speak with the Watch.
+- and access to people who will not speak with [the Watch](../organizations/The_Brass_Watch.md).
 
-This reinforces Thorne's suspicion that Mara works too closely with criminals.
+This reinforces [Thorne](../characters/Chief_Inspector_Beatrice_Thorne.md)'s suspicion that [Mara](../characters/Captain_Mara_Voss.md) works too closely with criminals.
 
-Mara's position is simple:
+[Mara](../characters/Captain_Mara_Voss.md)'s position is simple:
 
 The Cauldron contains people who break laws, people harmed by laws, and people for whom no lawful path remains.
 
 She deals with each according to her own moral code.
 
-She will not knowingly assist Severed Coil attacks, human trafficking, forced labor, or threats to Aetherhaven.
+She will not knowingly assist [Severed Coil](../organizations/The_Severed_Coil.md) attacks, human trafficking, forced labor, or threats to Aetherhaven.
 
-She may still buy an unregistered regulator from someone Thorne wants arrested.
+She may still buy an unregistered regulator from someone [Thorne](../characters/Chief_Inspector_Beatrice_Thorne.md) wants arrested.
 
-## Relationship with the Ninth Guild
+## Relationship with [the Ninth Guild](../organizations/The_Ninth_Guild.md)
 
-The Ninth Guild uses the Cauldron as an ecosystem, not a headquarters.
+[The Ninth Guild](../organizations/The_Ninth_Guild.md) uses the Cauldron as an ecosystem, not a headquarters.
 
 Its hidden **Ninth Rooms** may be established inside:
 
@@ -310,33 +310,33 @@ Its hidden **Ninth Rooms** may be established inside:
 - salvage warehouses,
 - or rooms rented by people who do not know the true purpose.
 
-Forbidden devices bearing the **Black Lacuna** often surface in the district's markets.
+Forbidden devices bearing the **[Black Lacuna](../organizations/The_Ninth_Guild.md)** often surface in the district's markets.
 
 No two are alike.
 
-The Brass Watch has never found the factory producing them because no such factory exists.
+[The Brass Watch](../organizations/The_Brass_Watch.md) has never found the factory producing them because no such factory exists.
 
-The Guild revises, grafts, restores, and transforms existing machines, memories, and prototypes in temporary laboratories that can disappear overnight.
+[The Guild](../organizations/The_Mechanists_Guild.md) revises, grafts, restores, and transforms existing machines, memories, and prototypes in temporary laboratories that can disappear overnight.
 
 Most Cauldron residents are not Guild members.
 
-Many resent the Ninth Guild because its experiments bring Watch attention, dangerous failures, and predatory buyers into already vulnerable neighborhoods.
+Many resent [the Ninth Guild](../organizations/The_Ninth_Guild.md) because its experiments bring Watch attention, dangerous failures, and predatory buyers into already vulnerable neighborhoods.
 
 Others depend on Guild money or protection.
 
-## Relationship with the Unwound and Severed Coil
+## Relationship with [the Unwound](../organizations/The_Unwound.md) and [Severed Coil](../organizations/The_Severed_Coil.md)
 
-Moderate Unwound circles operate repair halls and mutual-aid networks in the Cauldron.
+Moderate [Unwound](../organizations/The_Unwound.md) circles operate repair halls and mutual-aid networks in the Cauldron.
 
 Their manual systems are often more reliable than official infrastructure.
 
-The Severed Coil also uses the district's tunnels, abandoned workshops, and hostility to the Watch.
+[The Severed Coil](../organizations/The_Severed_Coil.md) also uses the district's tunnels, abandoned workshops, and hostility to [the Watch](../organizations/The_Brass_Watch.md).
 
 This creates a constant struggle inside the district.
 
-Moderate organizers fear that Coil violence will give the High Council an excuse for invasion.
+Moderate organizers fear that [Coil](../organizations/The_Severed_Coil.md) violence will give [the High Council](../organizations/The_High_Council_of_Aetherhaven.md) an excuse for invasion.
 
-The Coil views the Cauldron as proof that Aetherhaven has already abandoned part of its own population.
+[The Coil](../organizations/The_Severed_Coil.md) views the Cauldron as proof that Aetherhaven has already abandoned part of its own population.
 
 ## Relationship with the Hawthornes
 
@@ -392,9 +392,9 @@ It should not resemble a clean automated machine-manufacturing complex.
 
 The Hawthornes must enter the Cauldron to find a component no legal workshop admits exists.
 
-### The Watch Cannot Follow
+### [The Watch](../organizations/The_Brass_Watch.md) Cannot Follow
 
-Thorne must investigate a crime beyond her jurisdiction and negotiate with people she has previously arrested.
+[Thorne](../characters/Chief_Inspector_Beatrice_Thorne.md) must investigate a crime beyond her jurisdiction and negotiate with people she has previously arrested.
 
 ### The Ninth Room
 
@@ -414,9 +414,9 @@ Aetherhaven suffers a critical shortage, forcing officials to admit that the Cau
 
 ### The Wrong Criminal
 
-The Watch pursues a dangerous suspect into the district, only to discover local residents are hiding someone else from the High Council.
+[The Watch](../organizations/The_Brass_Watch.md) pursues a dangerous suspect into the district, only to discover local residents are hiding someone else from [the High Council](../organizations/The_High_Council_of_Aetherhaven.md).
 
-### Black Lacuna
+### [Black Lacuna](../organizations/The_Ninth_Guild.md)
 
 A forbidden device appears in the market carrying memories from someone Amelia knows.
 
@@ -426,11 +426,11 @@ A forbidden device appears in the market carrying memories from someone Amelia k
 
 - The Cauldron is restricted and dangerous.
 - Ordinary citizens are warned not to enter.
-- The Brass Watch does not normally patrol inside.
-- The district is hostile to the High Council.
+- [The Brass Watch](../organizations/The_Brass_Watch.md) does not normally patrol inside.
+- The district is hostile to [the High Council](../organizations/The_High_Council_of_Aetherhaven.md).
 - Criminals and unwanted people often disappear there.
 - Aetherhaven depends on its trade.
-- The Ninth Guild operates hidden rooms within it.
+- [The Ninth Guild](../organizations/The_Ninth_Guild.md) operates hidden rooms within it.
 - The district is not controlled by one organization.
 
 ### Hold for Later
@@ -440,7 +440,7 @@ A forbidden device appears in the market carrying memories from someone Amelia k
 - Whether the district was intentionally created as an exile zone.
 - Which old families control its deepest routes.
 - Whether some structures predate Aetherhaven's current city plan.
-- Whether the High Council has secretly used the Cauldron for forbidden disposal and research.
+- Whether [the High Council](../organizations/The_High_Council_of_Aetherhaven.md) has secretly used the Cauldron for forbidden disposal and research.
 - Which trusted Aetherhaven figures maintain hidden Cauldron identities or alliances.
 
 ## Continuity Constraints
@@ -448,11 +448,11 @@ A forbidden device appears in the market carrying memories from someone Amelia k
 - The Cauldron is a district, not an automated machine foundry.
 - Its name comes from geography, heat, smoke, and industrial atmosphere.
 - It must remain isolated from ordinary Aetherhaven.
-- The Brass Watch does not have routine jurisdiction within it.
-- The High Council publicly condemns and privately depends on it.
+- [The Brass Watch](../organizations/The_Brass_Watch.md) does not have routine jurisdiction within it.
+- [The High Council](../organizations/The_High_Council_of_Aetherhaven.md) publicly condemns and privately depends on it.
 - The district functions as operational exile but contains many noncriminal residents.
 - It has local order even though it lacks civic law.
-- The Ninth Guild uses it but does not own or define it.
+- [The Ninth Guild](../organizations/The_Ninth_Guild.md) uses it but does not own or define it.
 - The district must remain dangerous without becoming culturally or morally uniform.
 - The Hawthornes should enter with caution and consequences.
 - Trade with the Cauldron is essential to Aetherhaven's hidden economy.

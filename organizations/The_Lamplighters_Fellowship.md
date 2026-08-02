@@ -43,7 +43,7 @@ The Lamplighters' Fellowship maintains Aetherhaven's thousands of streetlamps, b
 Its members are ordinary working people:
 
 - lamp tenders,
-- wick cutters,
+- wick [cutters](The_Severed_Coil.md),
 - fuel carriers,
 - beacon keepers,
 - glass cleaners,
@@ -65,7 +65,7 @@ The Fellowship does not consider itself an intelligence service.
 
 Its members rarely investigate what they witness and often have little interest in explaining it. They record practical details, remember what happened, finish their routes, and continue serving the city.
 
-They hold no formal allegiance to the High Council, Brass Watch, Underclock, Society of Explorers, or any other faction.
+They hold no formal allegiance to [the High Council](The_High_Council_of_Aetherhaven.md), [Brass Watch](The_Brass_Watch.md), [Underclock](The_Underclock.md), Society of Explorers, or any other faction.
 
 A Lamplighter may share what they saw when approached respectfully, especially if someone is missing, endangered, or trying to find the way home.
 
@@ -182,7 +182,7 @@ A Lamplighter may remember:
 - which lamp went out,
 - and which direction everyone departed,
 
-while having no idea the event involved the Ninth Guild, the Order of the Closed Eye, or a High Council conspiracy.
+while having no idea the event involved [the Ninth Guild](The_Ninth_Guild.md), [the Order of the Closed Eye](The_Order_of_the_Closed_Eye.md), or a [High Council](The_High_Council_of_Aetherhaven.md) conspiracy.
 
 Their lack of interpretation is not ignorance.
 
@@ -218,7 +218,7 @@ Specialists responsible for:
 - dock signals,
 - and emergency navigation illumination.
 
-They work closely with the Aerial Mariners' Union and Harbormaster's Office.
+They work closely with [the Aerial Mariners' Union](The_Aerial_Mariners_Union.md) and Harbormaster's Office.
 
 ### Route Stewards
 
@@ -389,10 +389,10 @@ Its members may encounter:
 
 - Council officials,
 - Watch patrols,
-- Underclock couriers,
+- [Underclock](The_Underclock.md) couriers,
 - Academy researchers,
-- Unwound organizers,
-- Ninth Guild Procurers,
+- [Unwound](The_Unwound.md) organizers,
+- [Ninth Guild](The_Ninth_Guild.md) Procurers,
 - Order Wardens,
 - smugglers,
 - and ordinary residents
@@ -419,8 +419,8 @@ Lamplighters usually respond best to specific, practical questions.
 Poor questions include:
 
 - “Did you see anything suspicious?”
-- “What does the Order want?”
-- “Who controls the Council?”
+- “What does [the Order](The_Order_of_the_Closed_Eye.md) want?”
+- “Who controls [the Council](The_High_Council_of_Aetherhaven.md)?”
 
 Useful questions include:
 
@@ -447,9 +447,9 @@ Bribery may work on individuals.
 
 It is less reliable than respect.
 
-## Relationship with the Brass Watch
+## Relationship with [the Brass Watch](The_Brass_Watch.md)
 
-The Fellowship works with the Brass Watch routinely.
+The Fellowship works with [the Brass Watch](The_Brass_Watch.md) routinely.
 
 Lamplighters report:
 
@@ -470,11 +470,11 @@ Watch investigators value them because they often remember exact:
 - directions,
 - and changes in light.
 
-Chief Inspector Thorne understands the correct way to interview them:
+[Chief Inspector Thorne](../characters/Chief_Inspector_Beatrice_Thorne.md) understands the correct way to interview them:
 
 > **Ask what they saw. Do not ask them to solve it for you.**
 
-The Watch sometimes orders:
+[The Watch](The_Brass_Watch.md) sometimes orders:
 
 - pages sealed,
 - names withheld,
@@ -487,9 +487,9 @@ This should not be mistaken for loyalty or forgetfulness.
 
 They may still remember the original event years later.
 
-## Relationship with the Order of the Closed Eye
+## Relationship with [the Order of the Closed Eye](The_Order_of_the_Closed_Eye.md)
 
-The Order has censored Lamplighter records for generations.
+[The Order](The_Order_of_the_Closed_Eye.md) has censored Lamplighter records for generations.
 
 It may:
 
@@ -504,7 +504,7 @@ Most Lamplighters accept these directives as official safety business.
 
 They have lamps to tend.
 
-The Order often underestimates them because they ask few questions.
+[The Order](The_Order_of_the_Closed_Eye.md) often underestimates them because they ask few questions.
 
 This is a mistake.
 
@@ -515,13 +515,13 @@ A Redactor may remove a written entry while failing to account for:
 - the Route Steward who changed the schedule,
 - and the retired Lamplighter who still remembers the blue light.
 
-The Fellowship is not deliberately opposed to the Order.
+The Fellowship is not deliberately opposed to [the Order](The_Order_of_the_Closed_Eye.md).
 
 It is naturally resistant to complete erasure.
 
 For full hidden canon, see [The Order of the Closed Eye](The_Order_of_the_Closed_Eye.md).
 
-## Relationship with the Ninth Guild
+## Relationship with [the Ninth Guild](The_Ninth_Guild.md)
 
 Lamplighters sometimes notice Ninth Rooms before investigators do.
 
@@ -534,31 +534,31 @@ Signs may include:
 - shadows moving against the direction of the flame,
 - or a building drawing power despite being disconnected.
 
-The Ninth Guild may:
+[The Ninth Guild](The_Ninth_Guild.md) may:
 
 - bribe an individual Lamplighter,
 - temporarily reroute a street,
 - replace a public lamp with a modified device,
 - or use false maintenance orders to conceal activity.
 
-The Fellowship does not understand the Guild as a coherent organization early in the series.
+The Fellowship does not understand [the Guild](The_Mechanists_Guild.md) as a coherent organization early in the series.
 
 It simply knows that some “private workshops” use lamps no honest lamp shop would certify.
 
-## Relationship with the Underclock
+## Relationship with [the Underclock](The_Underclock.md)
 
-The Underclock uses darkness, forgotten routes, and changing service passages.
+[The Underclock](The_Underclock.md) uses darkness, forgotten routes, and changing service passages.
 
 The Fellowship maintains many of the lights near those routes.
 
-Some Underclock signs may involve:
+Some [Underclock](The_Underclock.md) signs may involve:
 
 - a lamp left unlit,
 - a shutter turned sideways,
 - a specific sequence of relighting,
 - or a maintenance mark copied from older Fellowship practice.
 
-The Fellowship does not formally assist the Underclock.
+The Fellowship does not formally assist [the Underclock](The_Underclock.md).
 
 Individual Lamplighters may:
 
@@ -567,16 +567,16 @@ Individual Lamplighters may:
 - warn someone that a Watch patrol is approaching,
 - or report dangerous tunnel conditions.
 
-The Underclock generally avoids harming Lamplighters because they are:
+[The Underclock](The_Underclock.md) generally avoids harming Lamplighters because they are:
 
 - useful,
 - widely known,
 - difficult to replace,
 - and protected by working-class loyalty across several districts.
 
-## Relationship with the Aerial Mariners' Union
+## Relationship with [the Aerial Mariners' Union](The_Aerial_Mariners_Union.md)
 
-Beacon Keepers work closely with the Union to maintain:
+Beacon Keepers work closely with [the Union](The_Aerial_Mariners_Union.md) to maintain:
 
 - aerial approach lights,
 - storm warnings,
@@ -584,7 +584,7 @@ Beacon Keepers work closely with the Union to maintain:
 - emergency descent paths,
 - and night-navigation beacons.
 
-The Union respects the Fellowship because a single failed beacon can cost an entire crew.
+[The Union](The_Aerial_Mariners_Union.md) respects the Fellowship because a single failed beacon can cost an entire crew.
 
 Lamplighters may notice:
 
@@ -598,19 +598,19 @@ Some believe it resembles the light reported near temporally displaced vessels.
 
 The Fellowship has reached no such conclusion.
 
-## Relationship with Captain Mara Voss
+## Relationship with [Captain Mara Voss](../characters/Captain_Mara_Voss.md)
 
-Mara knows many senior Lamplighters by name.
+[Mara](../characters/Captain_Mara_Voss.md) knows many senior Lamplighters by name.
 
 She trusts their practical observations and does not demand interpretations.
 
-A Lamplighter who tells Mara:
+A Lamplighter who tells [Mara](../characters/Captain_Mara_Voss.md):
 
 > “Dock Zero lit itself three minutes before the storm bell”
 
 will be believed.
 
-Mara also understands that intimidating a Lamplighter produces worse information than sharing tea and asking one precise question.
+[Mara](../characters/Captain_Mara_Voss.md) also understands that intimidating a Lamplighter produces worse information than sharing tea and asking one precise question.
 
 She may occasionally protect the Fellowship from:
 
@@ -765,7 +765,7 @@ A retired Lamplighter casually remembers a clandestine meeting that proves two p
 
 ### The Missing Night Book Page
 
-The Order removes an entry, but four workers remember different parts of the same route.
+[The Order](The_Order_of_the_Closed_Eye.md) removes an entry, but four workers remember different parts of the same route.
 
 ### The Lamp That Knows Amelia
 
@@ -791,7 +791,7 @@ A Lamplighter refuses to abandon a route because someone who vanished years ago 
 ### Mid-Series
 
 - Night Books contain evidence contradicting official maps and Watch records.
-- The Order has repeatedly censored Fellowship records.
+- [The Order](The_Order_of_the_Closed_Eye.md) has repeatedly censored Fellowship records.
 - Some erased incidents survive through oral route memory.
 - Lamplighters observed events connected to Prototype I, the Shrouded Vaults, or the original expedition.
 - The Homecoming Flame responds to temporal or aetheric conditions.
@@ -814,7 +814,7 @@ A Lamplighter refuses to abandon a route because someone who vanished years ago 
 - They hold no formal allegiance to any major faction.
 - Individual members may be persuaded to share information, but the Fellowship does not advertise or sell intelligence as its purpose.
 - Lamplighters should usually report facts without understanding their larger significance.
-- The Brass Watch and Order may censor their records, but complete erasure is difficult.
+- [The Brass Watch](The_Brass_Watch.md) and Order may censor their records, but complete erasure is difficult.
 - The Fellowship generally responds to censorship by returning to work rather than launching political resistance.
 - Their neutrality must not become indifference to people in danger.
 - The greeting must remain: “Keep a light for those still coming home.”
@@ -832,7 +832,7 @@ A Lamplighter refuses to abandon a route because someone who vanished years ago 
 5. Which Night Book contains the first impossible street report?
 6. Did a Lamplighter witness the Quiet Transfer of Prototype I?
 7. Which current public figure once worked as a Lamp Hand?
-8. Has the Order ever placed a full member inside the Fellowship?
+8. Has [the Order](The_Order_of_the_Closed_Eye.md) ever placed a full member inside the Fellowship?
 9. What route is missing from the official city map but still maintained by tradition?
 10. Why do some lamps respond to Amelia's Aether Heart?
 11. Has the Homecoming Flame ever changed color before?

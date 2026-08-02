@@ -44,7 +44,7 @@ The High Council of Aetherhaven is the city's central governing body, responsibl
 
 The Council's twelve active seats are divided between:
 
-- one delegate from each of the Eight Founding Engineering Guilds,
+- one delegate from each of [the Eight Founding Engineering Guilds](The_Eight_Founding_Engineering_Guilds.md),
 - and four civic representatives speaking for Aetherhaven's historic district quarters.
 
 The Chancellor presides over the Council, administers its decisions, and serves as the public voice of the city.
@@ -91,11 +91,11 @@ The Council does not directly operate every civic system.
 
 It depends upon:
 
-- the Brass Watch for enforcement and emergency response,
-- the Mechanists' Guild for certification,
+- [the Brass Watch](The_Brass_Watch.md) for enforcement and emergency response,
+- [the Mechanists' Guild](The_Mechanists_Guild.md) for certification,
 - the founding guilds for infrastructure,
-- the Aerial Mariners' Union for air traffic,
-- the Conservancy for the Clockwork Gardens,
+- [the Aerial Mariners' Union](The_Aerial_Mariners_Union.md) for air traffic,
+- [the Conservancy](The_Conservancy_of_Living_Mechanisms.md) for the Clockwork Gardens,
 - district administrations for local services,
 - and countless workers who can make Council policy either real or impossible.
 
@@ -115,7 +115,7 @@ This arrangement gives engineering institutions enormous political influence and
 
 ### The Eight Guild Seats
 
-Each of the Eight Founding Engineering Guilds appoints one **Council Delegate**:
+Each of [the Eight Founding Engineering Guilds](The_Eight_Founding_Engineering_Guilds.md) appoints one **Council Delegate**:
 
 1. The Framewright Seat
 2. The Enginewright Seat
@@ -131,7 +131,7 @@ A Council Delegate is not automatically the guildmaster.
 The distinction is intentional:
 
 - the guildmaster leads the professional order and sits in the Conclave of Eight,
-- the Council Delegate represents the guild in civic government.
+- the Council Delegate represents [the guild](The_Mechanists_Guild.md) in civic government.
 
 Some guilds prohibit one person from holding both positions.
 
@@ -176,9 +176,9 @@ The Forge Seat is expected to represent both industrial owners and laboring resi
 
 In practice, those interests frequently conflict.
 
-The High Council also claims the Cauldron falls within the Forge Seat's jurisdiction.
+The High Council also claims [the Cauldron](../locations/The_Cauldron.md) falls within the Forge Seat's jurisdiction.
 
-The Cauldron rejects that claim.
+[The Cauldron](../locations/The_Cauldron.md) rejects that claim.
 
 #### The Canal Seat
 
@@ -187,7 +187,7 @@ Represents districts shaped by water, trade, and older streets, including:
 - Old City,
 - Canal District,
 - Southern Docks,
-- and much of the Entertainment District.
+- and much of [the Entertainment District](../locations/The_Entertainment_District.md).
 
 The Canal Seat often deals with:
 
@@ -203,7 +203,7 @@ Represents the elevated, exploratory, and inventive quarter, including:
 
 - Inventors' District,
 - Academy of Invention,
-- Aerial Docks,
+- [Aerial Docks](../locations/The_Aerial_Docks.md),
 - Clockwork Gardens,
 - Observatory,
 - and nearby upper-city institutions.
@@ -227,10 +227,10 @@ The Four Civic Seats must speak for districts with very different needs, while t
 This creates recurring criticism:
 
 - workers share one seat with industrial leadership,
-- the Cauldron has no recognized independent voice,
-- the Entertainment District is represented through older canal interests,
-- the Aerial Mariners' Union has no permanent seat despite controlling aerial trade,
-- the Conservancy has stewardship authority but no vote,
+- [the Cauldron](../locations/The_Cauldron.md) has no recognized independent voice,
+- [the Entertainment District](../locations/The_Entertainment_District.md) is represented through older canal interests,
+- [the Aerial Mariners' Union](The_Aerial_Mariners_Union.md) has no permanent seat despite controlling aerial trade,
+- [the Conservancy](The_Conservancy_of_Living_Mechanisms.md) has stewardship authority but no vote,
 - and modern civic movements must lobby guild delegates whose professions may benefit from the current system.
 
 Supporters argue that the founding structure prevents sudden political decisions from destroying systems the city depends upon.
@@ -263,11 +263,11 @@ The office is therefore strongest through:
 - appointment power,
 - and control of the Council's agenda.
 
-The current Chancellor is **Octavia Vale**.
+The current Chancellor is **[Octavia](../characters/Chancellor_Octavia_Vale.md) Vale**.
 
 She is intelligent, disciplined, politically cautious, and sincerely committed to Aetherhaven's survival.
 
-She knows the Order of the Closed Eye exists.
+She knows [the Order of the Closed Eye](The_Order_of_the_Closed_Eye.md) exists.
 
 She does not understand how thoroughly it has shaped the institution she leads.
 
@@ -278,7 +278,7 @@ The Chancellor is elected by the Twelve from among qualified civic candidates.
 A successful candidate must obtain support from both:
 
 - the civic representatives,
-- and the guild delegation.
+- and [the guild](The_Mechanists_Guild.md) delegation.
 
 This requirement is intended to prevent either bloc from controlling the government alone.
 
@@ -341,11 +341,11 @@ It is enclosed by twelve interlocking brass shutters.
 
 Each shutter bears one of the recognized civic or guild seals.
 
-At the center is the **First Mechanist's Mark**.
+At the center is the **[First Mechanist's Mark](../artifacts/004_The_First_Mechanists_Mark.md)**.
 
 The patterns beneath the chair's public decoration resemble:
 
-- hidden symbols beneath old Mechanists' Guild medallions,
+- hidden symbols beneath old [Mechanists' Guild](The_Mechanists_Guild.md) medallions,
 - access geometry inside the Heart Engine,
 - and architectural forms predating modern Aetherhaven.
 
@@ -370,7 +370,7 @@ The same charter does not clearly explain:
 
 No living citizen has seen the chair occupied.
 
-The Order of the Closed Eye has suppressed several historical inquiries into the office.
+[The Order of the Closed Eye](The_Order_of_the_Closed_Eye.md) has suppressed several historical inquiries into the office.
 
 ## The First Mechanist
 
@@ -386,7 +386,7 @@ The title may have represented:
 - guardian of emergency access,
 - or a person recognized directly by ancient systems.
 
-The First Mechanist is not simply the head of the Mechanists' Guild.
+The First Mechanist is not simply the head of [the Mechanists' Guild](The_Mechanists_Guild.md).
 
 The modern Guild did not exist in its current form when the office was created.
 
@@ -423,7 +423,7 @@ Because the Heart must continue:
 - ancient systems may remain active without understanding,
 - and dissent may be treated as an existential threat.
 
-The Unwound argues that the doctrine transformed dependence into law.
+[The Unwound](The_Unwound.md) argues that the doctrine transformed dependence into law.
 
 The Council argues that idealism does not keep the city alive.
 
@@ -448,10 +448,10 @@ Once invoked, it concentrates enormous authority in:
 
 - the Chancellor,
 - selected Guild Delegates,
-- the Brass Watch,
+- [the Brass Watch](The_Brass_Watch.md),
 - and technical committees.
 
-The Order of the Closed Eye has repeatedly used Continuance procedures to give Closure the appearance of lawful necessity.
+[The Order of the Closed Eye](The_Order_of_the_Closed_Eye.md) has repeatedly used Continuance procedures to give Closure the appearance of lawful necessity.
 
 ## Council Committees
 
@@ -481,19 +481,19 @@ Oversees:
 - tariffs,
 - and transport law.
 
-It negotiates with the Aerial Mariners' Union during Closed Sky disputes.
+It negotiates with [the Aerial Mariners' Union](The_Aerial_Mariners_Union.md) during Closed Sky disputes.
 
 ### Committee of Civic Order
 
 Oversees:
 
 - law,
-- Brass Watch funding,
+- [Brass Watch](The_Brass_Watch.md) funding,
 - emergency procedure,
 - detention standards,
 - and district security.
 
-Chief Inspector Thorne frequently appears before it.
+[Chief Inspector Thorne](../characters/Chief_Inspector_Beatrice_Thorne.md) frequently appears before it.
 
 ### Committee of Record and Measure
 
@@ -506,7 +506,7 @@ Oversees:
 - civic surveys,
 - and public chronometry.
 
-The Order of the Closed Eye considers this committee strategically essential.
+[The Order of the Closed Eye](The_Order_of_the_Closed_Eye.md) considers this committee strategically essential.
 
 ### Committee of Charters and Petitions
 
@@ -548,7 +548,7 @@ Sealed sessions justified by:
 
 Records from Closed Bell sessions may be delayed, redacted, or withheld.
 
-The Order frequently operates through the boundary between legitimate secrecy and deliberate erasure.
+[The Order](The_Order_of_the_Closed_Eye.md) frequently operates through the boundary between legitimate secrecy and deliberate erasure.
 
 ## Political Blocs
 
@@ -595,7 +595,7 @@ Favors:
 - restricted excavation,
 - and preservation of existing stability.
 
-The Order of the Closed Eye influences parts of the Caution Bloc without controlling every cautious member.
+[The Order of the Closed Eye](The_Order_of_the_Closed_Eye.md) influences parts of the Caution Bloc without controlling every cautious member.
 
 ### The Independence Bloc
 
@@ -608,9 +608,9 @@ Resists control by:
 
 Its members may agree on little else.
 
-## The Order of the Closed Eye
+## [The Order of the Closed Eye](The_Order_of_the_Closed_Eye.md)
 
-The Order exercises more control over the High Council than the Council realizes.
+[The Order](The_Order_of_the_Closed_Eye.md) exercises more control over the High Council than the Council realizes.
 
 At any given time, multiple seats may be:
 
@@ -621,7 +621,7 @@ At any given time, multiple seats may be:
 
 The exact number remains unknown.
 
-The Order's greatest power is not commanding votes.
+[The Order](The_Order_of_the_Closed_Eye.md)'s greatest power is not commanding votes.
 
 It determines:
 
@@ -631,24 +631,24 @@ It determines:
 - which crises receive Continuance classification,
 - and which choices seem possible.
 
-Chancellor Octavia Vale believes the Order is a constrained emergency society.
+[Chancellor Octavia Vale](../characters/Chancellor_Octavia_Vale.md) believes [the Order](The_Order_of_the_Closed_Eye.md) is a constrained emergency society.
 
 She does not know how much of the Council's institutional memory belongs to it.
 
 For complete hidden canon, see [The Order of the Closed Eye](The_Order_of_the_Closed_Eye.md).
 
-## Relationship with the Mechanists' Guild
+## Relationship with [the Mechanists' Guild](The_Mechanists_Guild.md)
 
 The High Council's eight Guild Seats are held by delegates from the founding orders.
 
-The Mechanists' Guild provides:
+[The Mechanists' Guild](The_Mechanists_Guild.md) provides:
 
 - shared standards,
 - certification,
 - professional discipline,
 - and the framework through which those delegates coordinate.
 
-The Guild does not own the seats.
+[The Guild](The_Mechanists_Guild.md) does not own the seats.
 
 Each founding order retains the right to appoint its own delegate.
 
@@ -665,9 +665,9 @@ For complete guild canon, see:
 - [The Mechanists' Guild](The_Mechanists_Guild.md)
 - [The Eight Founding Engineering Guilds](The_Eight_Founding_Engineering_Guilds.md)
 
-## Relationship with the Brass Watch
+## Relationship with [the Brass Watch](The_Brass_Watch.md)
 
-The Brass Watch enforces Council law and responds to civic emergencies.
+[The Brass Watch](The_Brass_Watch.md) enforces Council law and responds to civic emergencies.
 
 It is funded and overseen by the Council but retains operational independence under its charter.
 
@@ -687,13 +687,13 @@ It should not dictate:
 
 In practice, officials sometimes try.
 
-Chief Inspector Thorne's refusal to turn procedure into political theater creates recurring conflict with Council committees.
+[Chief Inspector Thorne](../characters/Chief_Inspector_Beatrice_Thorne.md)'s refusal to turn procedure into political theater creates recurring conflict with Council committees.
 
-The Order's sealed directives complicate the relationship by appearing to carry authority beyond ordinary Council review.
+[The Order](The_Order_of_the_Closed_Eye.md)'s sealed directives complicate the relationship by appearing to carry authority beyond ordinary Council review.
 
-## Relationship with the Aerial Mariners' Union
+## Relationship with [the Aerial Mariners' Union](The_Aerial_Mariners_Union.md)
 
-The Aerial Mariners' Union has no permanent Council seat.
+[The Aerial Mariners' Union](The_Aerial_Mariners_Union.md) has no permanent Council seat.
 
 This omission is a recurring political grievance.
 
@@ -701,7 +701,7 @@ The Skywright Seat represents vessel engineering.
 
 It does not represent the captains, navigators, engineers, and dockworkers who operate the routes.
 
-The Union therefore relies upon:
+[The Union](The_Aerial_Mariners_Union.md) therefore relies upon:
 
 - public testimony,
 - negotiation,
@@ -710,11 +710,11 @@ The Union therefore relies upon:
 
 A Closed Sky declaration can force the Council to negotiate more effectively than any formal petition.
 
-The Council depends on the Union and resents that dependence.
+The Council depends on [the Union](The_Aerial_Mariners_Union.md) and resents that dependence.
 
-## Relationship with the Conservancy of Living Mechanisms
+## Relationship with [the Conservancy of Living Mechanisms](The_Conservancy_of_Living_Mechanisms.md)
 
-The Conservancy has no voting seat.
+[The Conservancy](The_Conservancy_of_Living_Mechanisms.md) has no voting seat.
 
 It operates under a special stewardship charter granting authority over:
 
@@ -725,7 +725,7 @@ It operates under a special stewardship charter granting authority over:
 
 The Spire Seat claims to represent the Gardens politically.
 
-The Conservancy does not accept that representation as ownership.
+[The Conservancy](The_Conservancy_of_Living_Mechanisms.md) does not accept that representation as ownership.
 
 It rarely seeks ordinary power.
 
@@ -747,7 +747,7 @@ The Academy resents Guild control over certification.
 
 The Council fears innovation it cannot regulate and covets innovation that increases trade or Continuance.
 
-The Order maintains deep influence within the Academy-Council relationship.
+[The Order](The_Order_of_the_Closed_Eye.md) maintains deep influence within the Academy-Council relationship.
 
 ## Relationship with the Society of Explorers
 
@@ -770,11 +770,11 @@ The Council funds discoveries and then determines:
 
 This makes the Society both partner and victim of Council secrecy.
 
-## Relationship with the Cauldron
+## Relationship with [the Cauldron](../locations/The_Cauldron.md)
 
-The High Council claims the Cauldron is legally part of Aetherhaven and nominally represented through the Forge Seat.
+The High Council claims [the Cauldron](../locations/The_Cauldron.md) is legally part of Aetherhaven and nominally represented through the Forge Seat.
 
-The Cauldron rejects both claims.
+[The Cauldron](../locations/The_Cauldron.md) rejects both claims.
 
 The Cinder Regent and Furnace Court argue that:
 
@@ -784,7 +784,7 @@ The Cinder Regent and Furnace Court argue that:
 
 The Ash Compact exists because neither side can fully impose its preferred reality.
 
-The Council condemns the Cauldron publicly while depending on its:
+The Council condemns [the Cauldron](../locations/The_Cauldron.md) publicly while depending on its:
 
 - salvage,
 - repair,
@@ -792,9 +792,9 @@ The Council condemns the Cauldron publicly while depending on its:
 - forbidden expertise,
 - and gray trade.
 
-## Relationship with the Unwound
+## Relationship with [the Unwound](The_Unwound.md)
 
-The broader Unwound sees the Council as structurally dependent upon the systems it is supposed to govern.
+The broader [Unwound](The_Unwound.md) sees the Council as structurally dependent upon the systems it is supposed to govern.
 
 Its main criticisms include:
 
@@ -803,20 +803,20 @@ Its main criticisms include:
 - emergency powers becoming permanent habits,
 - and citizens being denied knowledge required for meaningful consent.
 
-Moderate Unwound groups petition for:
+Moderate [Unwound](The_Unwound.md) groups petition for:
 
 - manual backups,
 - transparent records,
 - district representation,
 - and limits on Heart Engine dependence.
 
-The Severed Coil treats the Council as proof the city cannot reform peacefully.
+[The Severed Coil](The_Severed_Coil.md) treats the Council as proof the city cannot reform peacefully.
 
 The Council's treatment of moderate reformers can either isolate or strengthen the extremists.
 
-## Relationship with the Underclock
+## Relationship with [the Underclock](The_Underclock.md)
 
-The Council publicly treats the Underclock as an illicit smuggling and sanctuary network.
+The Council publicly treats [the Underclock](The_Underclock.md) as an illicit smuggling and sanctuary network.
 
 Individual councillors, staff members, and political families privately use it for:
 
@@ -825,15 +825,15 @@ Individual councillors, staff members, and political families privately use it f
 - forbidden records,
 - and emergency escape.
 
-The Underclock exists partly because citizens do not trust Council systems to protect them fairly.
+[The Underclock](The_Underclock.md) exists partly because citizens do not trust Council systems to protect them fairly.
 
 That makes it both a criminal problem and evidence of civic failure.
 
-## Relationship with the Ninth Guild
+## Relationship with [the Ninth Guild](The_Ninth_Guild.md)
 
-The Council publicly denies that the Ninth Guild exists as a coherent institution.
+The Council publicly denies that [the Ninth Guild](The_Ninth_Guild.md) exists as a coherent institution.
 
-Black Lacuna devices are classified as:
+[Black Lacuna](The_Ninth_Guild.md) devices are classified as:
 
 - isolated criminal inventions,
 - contraband,
@@ -847,13 +847,13 @@ Privately, some councillors have:
 - sought memory revision,
 - or traded confiscated artifacts for information.
 
-The Council does not control the Ninth Guild.
+The Council does not control [the Ninth Guild](The_Ninth_Guild.md).
 
-Its hypocrisy helps the Guild survive.
+Its hypocrisy helps [the Guild](The_Mechanists_Guild.md) survive.
 
-## Relationship with the Lamplighters' Fellowship
+## Relationship with [the Lamplighters' Fellowship](The_Lamplighters_Fellowship.md)
 
-The Council funds portions of the city's public lighting system and treats the Fellowship as a dependable civic service.
+The Council funds portions of the city's public lighting system and treats [the Fellowship](The_Lamplighters_Fellowship.md) as a dependable civic service.
 
 Lamplighter testimony occasionally appears before Council committees.
 
@@ -865,7 +865,7 @@ Their Night Books can contradict:
 
 Council officials may order entries sealed.
 
-The Lamplighters generally return to work and continue remembering what they saw.
+[The Lamplighters](The_Lamplighters_Fellowship.md) generally return to work and continue remembering what they saw.
 
 ## Relationship with Elias Hawthorne
 
@@ -904,7 +904,7 @@ She may be viewed as:
 - a link to ancient machinery,
 - or an individual whose rights are threatened by every institution seeking access.
 
-Octavia Vale insists Amelia must be addressed as a person rather than a device.
+[Octavia](../characters/Chancellor_Octavia_Vale.md) Vale insists Amelia must be addressed as a person rather than a device.
 
 Not every councillor agrees privately.
 
@@ -935,7 +935,7 @@ Council records may contain:
 
 The Committee of Record and Measure treats most contradictions as clerical error.
 
-The Order of the Closed Eye knows better.
+[The Order of the Closed Eye](The_Order_of_the_Closed_Eye.md) knows better.
 
 The sealed Thirteenth Chair may be one of the city's strongest temporal anchors.
 
@@ -965,7 +965,7 @@ Every formal session begins:
 
 > **The Twelve are called. The Thirteenth remains sealed.**
 
-### The First Mechanist's Mark
+### [The First Mechanist's Mark](../artifacts/004_The_First_Mechanists_Mark.md)
 
 Displayed upon the sealed chair and connected to hidden guild and Heart Engine geometry.
 
@@ -995,7 +995,7 @@ The Thirteenth Chair should appear ancient, restrained, and more technologically
 
 ### The Vote That Was Decided Before Debate
 
-Octavia discovers that every briefing packet omitted the same critical evidence.
+[Octavia](../characters/Chancellor_Octavia_Vale.md) discovers that every briefing packet omitted the same critical evidence.
 
 ### The Thirteenth Assents
 
@@ -1005,13 +1005,13 @@ No one saw the chair open.
 
 ### The Closed Sky Hearing
 
-The Union halts aerial trade and forces the Council to choose between public shortage and acknowledging an impossible route.
+[The Union](The_Aerial_Mariners_Union.md) halts aerial trade and forces the Council to choose between public shortage and acknowledging an impossible route.
 
 ### The Living Petition
 
-A conscious automaton petitions the Council for legal personhood while the Mechanists' Guild and Conservancy disagree over procedure.
+A conscious automaton petitions the Council for legal personhood while [the Mechanists' Guild](The_Mechanists_Guild.md) and Conservancy disagree over procedure.
 
-### The Cauldron Seat
+### [The Cauldron](../locations/The_Cauldron.md) Seat
 
 A representative of the Furnace Court enters the Petition Floor and demands recognition as a thirteenth political voice.
 
@@ -1021,7 +1021,7 @@ The Council invokes emergency authority to seize an artifact connected to Amelia
 
 ### The Chair Opens One Shutter
 
-The First Mechanist's Mark responds during Amelia's testimony.
+[The First Mechanist's Mark](../artifacts/004_The_First_Mechanists_Mark.md) responds during Amelia's testimony.
 
 ### The Missing Councilor
 
@@ -1029,7 +1029,7 @@ A Council Seat remains occupied in every official record despite no one remember
 
 ### The Chancellor's Choice
 
-Octavia must choose between the Order's warning and evidence supplied by the Hawthornes.
+[Octavia](../characters/Chancellor_Octavia_Vale.md) must choose between [the Order](The_Order_of_the_Closed_Eye.md)'s warning and evidence supplied by the Hawthornes.
 
 ## Staged Revelations
 
@@ -1037,7 +1037,7 @@ Octavia must choose between the Order's warning and evidence supplied by the Haw
 
 - The High Council governs Aetherhaven.
 - Twelve active seats represent the founding guilds and civic quarters.
-- Octavia Vale is Chancellor.
+- [Octavia](../characters/Chancellor_Octavia_Vale.md) Vale is Chancellor.
 - Council members disagree frequently.
 - All uphold the Doctrine of Continuance.
 - The sealed Thirteenth Chair belongs to the First Mechanist.
@@ -1048,11 +1048,11 @@ Octavia must choose between the Order's warning and evidence supplied by the Haw
 
 - The eight Guild Seats structurally outweigh the four Civic Seats.
 - Several modern districts lack meaningful direct representation.
-- The Order influences multiple Council seats and committees.
+- [The Order](The_Order_of_the_Closed_Eye.md) influences multiple Council seats and committees.
 - Closed Bell records have been altered.
-- The First Mechanist's Mark matches Heart Engine architecture and old guild medallions.
+- [The First Mechanist's Mark](../artifacts/004_The_First_Mechanists_Mark.md) matches Heart Engine architecture and old guild medallions.
 - The Council's emergency powers enabled major historical Closures.
-- Octavia knows of the Order but underestimated its reach.
+- [Octavia](../characters/Chancellor_Octavia_Vale.md) knows of [the Order](The_Order_of_the_Closed_Eye.md) but underestimated its reach.
 
 ### Hold for Later
 
@@ -1072,16 +1072,16 @@ Octavia must choose between the Order's warning and evidence supplied by the Haw
 - The High Council must contain sincere public servants, self-interested politicians, experts, reformers, and compromised figures rather than functioning as a uniformly corrupt body.
 - The Council has twelve active seats: eight founding-guild delegates and four civic-quarter representatives.
 - The Chancellor presides separately from the Twelve.
-- The current Chancellor is Octavia Vale.
+- The current Chancellor is [Octavia](../characters/Chancellor_Octavia_Vale.md) Vale.
 - The Doctrine of Continuance unites otherwise divided members.
 - The Heart Engine's continued operation must be treated as both a legitimate survival concern and a source of institutional blindness.
 - The Thirteenth Chair is reserved for the First Mechanist.
 - No living citizen has seen the chair occupied.
 - The First Mechanist's authority supposedly exceeds that of the Chancellor.
-- The First Mechanist is not simply the modern head of the Mechanists' Guild.
-- The Order of the Closed Eye influences multiple seats and the information reaching the Council, but does not control every member or outcome.
-- The Aerial Mariners' Union, Conservancy, Academy, Society of Explorers, and Brass Watch do not possess ordinary voting seats.
-- The Cauldron rejects representation through the Forge Seat.
+- The First Mechanist is not simply the modern head of [the Mechanists' Guild](The_Mechanists_Guild.md).
+- [The Order of the Closed Eye](The_Order_of_the_Closed_Eye.md) influences multiple seats and the information reaching the Council, but does not control every member or outcome.
+- [The Aerial Mariners' Union](The_Aerial_Mariners_Union.md), Conservancy, Academy, Society of Explorers, and [Brass Watch](The_Brass_Watch.md) do not possess ordinary voting seats.
+- [The Cauldron](../locations/The_Cauldron.md) rejects representation through the Forge Seat.
 - Amelia must never become civic property.
 - A response from the Thirteenth Chair must not automatically identify Amelia as the First Mechanist.
 - The Council should be capable of courage, compromise, cowardice, and genuine reform.
@@ -1090,17 +1090,17 @@ Octavia must choose between the Order's warning and evidence supplied by the Haw
 ## Open Canon Questions
 
 1. Who currently occupies each of the Twelve Seats?
-2. How many are Open, Bound, Guided, or Unbound to the Order?
+2. How many are Open, Bound, Guided, or Unbound to [the Order](The_Order_of_the_Closed_Eye.md)?
 3. Who was the last verified First Mechanist?
 4. How does the Thirteenth Chair open?
 5. Does the chair authenticate its occupant?
 6. Why did the office disappear?
 7. What authority would survive if the chair opened?
-8. Which Council Delegate will first expose the Order?
+8. Which Council Delegate will first expose [the Order](The_Order_of_the_Closed_Eye.md)?
 9. Can the civic representation system be reformed without destabilizing the guilds?
-10. Will the Cauldron ever receive recognized representation?
+10. Will [the Cauldron](../locations/The_Cauldron.md) ever receive recognized representation?
 11. What does the Continuance Dial truly measure?
 12. Has the Thirteenth Chair cast a vote while sealed?
 13. Why was a letter addressed to Amelia before her birth?
-14. What truth would cause Octavia to reject the Doctrine of Continuance?
+14. What truth would cause [Octavia](../characters/Chancellor_Octavia_Vale.md) to reject the Doctrine of Continuance?
 15. What happens when the Council learns Aetherhaven may be feeding the Heart Engine rather than merely receiving power from it?

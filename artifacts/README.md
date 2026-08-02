@@ -77,7 +77,7 @@ Completed records: `001`, `002`, `003`, `004`, `007`, `009`, `011`, `012`, `015`
 | 23 | [Pike Bridge Lock Inscription](023_Pike_Bridge_Lock_Inscription.md) | `planned-artifact-concept` | `image-needed` |
 | 24 | [Underclock Passage Token](024_Underclock_Passage_Token.md) | `planned-artifact-concept` | `image-needed` |
 
-## The Passenger of Dock Zero
+## [The Passenger of Dock Zero](../characters/The_Passenger_of_Dock_Zero.md)
 
 | No. | Artifact | Canon status | Image status |
 |---:|---|---|---|

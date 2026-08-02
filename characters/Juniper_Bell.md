@@ -56,7 +56,7 @@ She dresses in layered green coats whose many pockets contain:
 
 Juniper seems to know when the Gardens' pathways will shift, which mechanical flowers may safely be touched, and which quiet clearings should be left entirely alone. She speaks to the Gardens as though they are one living creature and listens as though they answer.
 
-She is one of the Conservancy of Living Mechanisms' most visible members, although she is not its First Tender and holds no ordinary administrative rank.
+She is one of [the Conservancy of Living Mechanisms](../organizations/The_Conservancy_of_Living_Mechanisms.md)' most visible members, although she is not its First Tender and holds no ordinary administrative rank.
 
 When asked how long she has worked in the Gardens, Juniper gives a different answer each time.
 
@@ -92,11 +92,11 @@ Her answer often proves relevant several hours later.
 
 ## Keeper of the Clockwork Gardens
 
-**Keeper of the Clockwork Gardens** is not the same office as **First Tender of the Conservancy**.
+**Keeper of the Clockwork Gardens** is not the same office as **First Tender of [the Conservancy](../organizations/The_Conservancy_of_Living_Mechanisms.md)**.
 
 The First Tender:
 
-- coordinates the Conservancy,
+- coordinates [the Conservancy](../organizations/The_Conservancy_of_Living_Mechanisms.md),
 - represents it in civic matters,
 - manages sanctuary decisions,
 - and oversees its practical organization.
@@ -108,7 +108,7 @@ The Keeper:
 - recognizes paths the Gardens are preparing to alter,
 - and acts as the most public intermediary between the Gardens and Aetherhaven.
 
-The title appears in records older than the Conservancy's current structure.
+The title appears in records older than [the Conservancy](../organizations/The_Conservancy_of_Living_Mechanisms.md)'s current structure.
 
 No surviving charter explains who appoints the Keeper.
 
@@ -167,7 +167,7 @@ She often uses plural language when discussing the Gardens:
 
 It is rarely clear whether “we” means:
 
-- Juniper and the Conservancy,
+- Juniper and [the Conservancy](../organizations/The_Conservancy_of_Living_Mechanisms.md),
 - Juniper and the Gardens,
 - or every living thing currently listening.
 
@@ -263,7 +263,7 @@ These names and functions may be used consistently but should not turn Juniper i
 
 Juniper's public title is Keeper of the Clockwork Gardens, but her care extends beyond the paths visible to ordinary visitors.
 
-The Clockwork Gardens contain protected layers known among the Conservancy as **hidden gardens**.
+The Clockwork Gardens contain protected layers known among [the Conservancy](../organizations/The_Conservancy_of_Living_Mechanisms.md) as **hidden gardens**.
 
 These may appear only:
 
@@ -273,7 +273,7 @@ These may appear only:
 - to an invited person,
 - or when the Gardens decide a sanctuary must be reachable.
 
-The Moon Garden is the most widely rumored.
+[The Moon Garden](../locations/The_Moon_Garden.md) is the most widely rumored.
 
 Juniper pays special attention to all such layers.
 
@@ -291,9 +291,9 @@ Her role is closer to relationship, advocacy, and guardianship than control.
 
 For complete location canon, see [The Moon Garden](../locations/The_Moon_Garden.md).
 
-## Relationship with the Conservancy of Living Mechanisms
+## Relationship with [the Conservancy of Living Mechanisms](../organizations/The_Conservancy_of_Living_Mechanisms.md)
 
-Juniper is one of the Conservancy's most public members and most private mysteries.
+Juniper is one of [the Conservancy](../organizations/The_Conservancy_of_Living_Mechanisms.md)'s most public members and most private mysteries.
 
 Conservancy members variously regard her as:
 
@@ -302,13 +302,13 @@ Conservancy members variously regard her as:
 - a former Pathkeeper,
 - a permanent resident,
 - a Garden messenger,
-- or someone the Gardens accepted before the Conservancy existed.
+- or someone the Gardens accepted before [the Conservancy](../organizations/The_Conservancy_of_Living_Mechanisms.md) existed.
 
 No surviving record clearly documents her admission.
 
 One early register appears to contain her name before the register's paper was manufactured.
 
-The First Tender manages the Conservancy.
+The First Tender manages [the Conservancy](../organizations/The_Conservancy_of_Living_Mechanisms.md).
 
 Juniper does not challenge that authority.
 
@@ -324,17 +324,17 @@ The distinction matters.
 
 For complete organization canon, see [The Conservancy of Living Mechanisms](../organizations/The_Conservancy_of_Living_Mechanisms.md).
 
-## Relationship with the Guild of Verdant Mechanists
+## Relationship with [the Guild](../organizations/The_Mechanists_Guild.md) of Verdant Mechanists
 
 Some Verdant Mechanist histories imply Juniper helped establish their earliest methods.
 
 Other records describe her as a gardener consulted by the founders.
 
-When asked whether she founded the guild, Juniper answers:
+When asked whether she founded [the guild](../organizations/The_Mechanists_Guild.md), Juniper answers:
 
 > **No. I only showed them where the roots were.**
 
-The Guild respects her knowledge and finds her refusal to document it frustrating.
+[The Guild](../organizations/The_Mechanists_Guild.md) respects her knowledge and finds her refusal to document it frustrating.
 
 Juniper believes written standards are useful for:
 
@@ -361,7 +361,7 @@ It is not a recognized civic rank, royal claim, guild office, or statement that 
 To Juniper, the phrase may be:
 
 - a private term of affection,
-- a title used within the Moon Garden,
+- a title used within [the Moon Garden](../locations/The_Moon_Garden.md),
 - a name the Gardens recognize,
 - a memory from an earlier chronology,
 - or a role connected to Amelia's relationship with living mechanisms and the Aether Heart.
@@ -405,7 +405,7 @@ She is affectionate without being patronizing.
 
 She does not answer every question Amelia asks.
 
-Unlike the Order of the Closed Eye, she does not claim secrecy is for Amelia's own good merely because the truth is uncomfortable.
+Unlike [the Order of the Closed Eye](../organizations/The_Order_of_the_Closed_Eye.md), she does not claim secrecy is for Amelia's own good merely because the truth is uncomfortable.
 
 She may say:
 
@@ -453,11 +453,11 @@ She may reference:
 
 This connection should deepen the mystery of memory and Closure without making Juniper responsible for Elias's missing recollections.
 
-## Relationship with Chancellor Octavia Vale
+## Relationship with [Chancellor Octavia Vale](Chancellor_Octavia_Vale.md)
 
-Octavia treats Juniper with formal respect.
+[Octavia](Chancellor_Octavia_Vale.md) treats Juniper with formal respect.
 
-Juniper addresses her as “Octavia,” including during public ceremonies.
+Juniper addresses her as “[Octavia](Chancellor_Octavia_Vale.md),” including during public ceremonies.
 
 The Chancellor has unsuccessfully attempted to establish:
 
@@ -468,43 +468,43 @@ The Chancellor has unsuccessfully attempted to establish:
 
 Juniper cooperates with practical safety questions and ignores questions she considers incorrectly framed.
 
-Octavia understands that removing Juniper from her role is:
+[Octavia](Chancellor_Octavia_Vale.md) understands that removing Juniper from her role is:
 
 - politically unwise,
 - practically impossible,
 - and perhaps something the Gardens would refuse.
 
-Juniper sees Octavia as a good person carrying too many sealed boxes.
+Juniper sees [Octavia](Chancellor_Octavia_Vale.md) as a good person carrying too many sealed boxes.
 
 She may know about the letter addressed to Amelia without knowing—or admitting—its contents.
 
-## Relationship with Chief Inspector Beatrice Thorne
+## Relationship with [Chief Inspector Beatrice Thorne](Chief_Inspector_Beatrice_Thorne.md)
 
-Thorne initially finds Juniper unreliable because her answers resist ordinary chronology.
+[Thorne](Chief_Inspector_Beatrice_Thorne.md) initially finds Juniper unreliable because her answers resist ordinary chronology.
 
-Juniper finds Thorne reassuring because she asks what happened rather than what ought to have happened.
+Juniper finds [Thorne](Chief_Inspector_Beatrice_Thorne.md) reassuring because she asks what happened rather than what ought to have happened.
 
-Their relationship improves when Thorne learns to separate:
+Their relationship improves when [Thorne](Chief_Inspector_Beatrice_Thorne.md) learns to separate:
 
 - Juniper's metaphors,
 - Juniper's jokes,
 - and Juniper's exact observations.
 
-Juniper never mocks Thorne's mechanical eye.
+Juniper never mocks [Thorne](Chief_Inspector_Beatrice_Thorne.md)'s mechanical eye.
 
 She may speak to the lens as though it has preferences of its own.
 
 The lens occasionally detects Juniper's outline in places where she is not physically standing.
 
-Thorne records this as an unresolved optical anomaly.
+[Thorne](Chief_Inspector_Beatrice_Thorne.md) records this as an unresolved optical anomaly.
 
 Juniper calls it:
 
 > **Remembering ahead.**
 
-## Relationship with the Order of the Closed Eye
+## Relationship with [the Order of the Closed Eye](../organizations/The_Order_of_the_Closed_Eye.md)
 
-The Order of the Closed Eye considers Juniper a containment problem.
+[The Order of the Closed Eye](../organizations/The_Order_of_the_Closed_Eye.md) considers Juniper a containment problem.
 
 She preserves dangerous information through:
 
@@ -517,7 +517,7 @@ She preserves dangerous information through:
 
 These forms are difficult to redact without damaging living systems.
 
-The Order may have attempted to:
+[The Order](../organizations/The_Order_of_the_Closed_Eye.md) may have attempted to:
 
 - remove Juniper from paintings,
 - alter Garden registers,
@@ -530,22 +530,22 @@ In some paintings, Juniper reappears after restoration.
 
 In others, an empty space remains beside the Aetherium while every surrounding figure appears to be looking at someone.
 
-The Order is uncertain whether Juniper:
+[The Order](../organizations/The_Order_of_the_Closed_Eye.md) is uncertain whether Juniper:
 
 - resists Closure,
 - is restored by the Gardens,
 - exists outside ordinary chronology,
 - or is repeatedly recreated from memory.
 
-Juniper does not openly oppose the Order in every case.
+Juniper does not openly oppose [the Order](../organizations/The_Order_of_the_Closed_Eye.md) in every case.
 
 She agrees that some knowledge can wound.
 
 She rejects the belief that healing requires ownership of everyone else's memory.
 
-## Relationship with the Ninth Guild
+## Relationship with [the Ninth Guild](../organizations/The_Ninth_Guild.md)
 
-The Ninth Guild is intensely interested in Juniper.
+[The Ninth Guild](../organizations/The_Ninth_Guild.md) is intensely interested in Juniper.
 
 Its possible questions include:
 
@@ -573,7 +573,7 @@ Ninth Rooms established near the Gardens may find:
 
 Juniper's gentleness should never disguise the fact that she considers nonconsensual revision a profound violation.
 
-## Relationship with the High Council
+## Relationship with [the High Council](../organizations/The_High_Council_of_Aetherhaven.md)
 
 Juniper has no Council seat and appears before committees only when she chooses.
 
@@ -596,7 +596,7 @@ The title **Keeper of Dreams** appears in the early bedtime adventure *The Brass
 In that account:
 
 - a brass sparrow delivers a message tied with blue ribbon,
-- the Moon Garden has stopped blooming,
+- [the Moon Garden](../locations/The_Moon_Garden.md) has stopped blooming,
 - the ancient Dream Engine cannot awaken,
 - Amelia frees a trapped mechanical firefly,
 - silver flowers open,
@@ -613,7 +613,7 @@ Possible clues include:
 - Juniper repeats the Keeper's phrase about choosing kindness over hurry.
 - A silver flower blooms from one of Juniper's pockets.
 - Juniper knows that Amelia placed the flower beside her bed.
-- The Moon Garden opens only after Juniper rings her Introduction Bell.
+- [The Moon Garden](../locations/The_Moon_Garden.md) opens only after Juniper rings her Introduction Bell.
 - Juniper is seen wearing the same silhouette the Keeper formed in stardust.
 
 ### Restricted Working Canon
@@ -624,16 +624,16 @@ This is not yet an early-volume public fact.
 
 The “Keeper of Dreams” may be:
 
-- Juniper's role within the Moon Garden,
+- Juniper's role within [the Moon Garden](../locations/The_Moon_Garden.md),
 - a dream-aspect through which the Gardens communicate,
 - an older title she no longer uses publicly,
 - or a version of Juniper encountered outside ordinary chronology.
 
 The distinction should remain unresolved until Juniper is established in the main storyline as a trusted recurring character.
 
-## The Moon Garden
+## [The Moon Garden](../locations/The_Moon_Garden.md)
 
-The Moon Garden is a rare and hidden nocturnal layer of the Clockwork Gardens.
+[The Moon Garden](../locations/The_Moon_Garden.md) is a rare and hidden nocturnal layer of the Clockwork Gardens.
 
 It is not generally known to the public.
 
@@ -647,7 +647,7 @@ Rumors describe it as:
 
 The rumors vary because the Garden cannot be reached by one fixed public route.
 
-Juniper can work with the Clockwork Gardens to reveal or conceal access, but she does not command the Moon Garden.
+Juniper can work with the Clockwork Gardens to reveal or conceal access, but she does not command [the Moon Garden](../locations/The_Moon_Garden.md).
 
 In Amelia's earliest adventure, the Keeper of Dreams invited Amelia to enter and allowed her to discover the Dream Engine and the Garden's inner need.
 
@@ -657,7 +657,7 @@ It remains unknown whether:
 - the Garden instructed Juniper to summon her,
 - or the invitation was a decision they made together.
 
-Juniper knows that the Moon Garden accepted Amelia.
+Juniper knows that [the Moon Garden](../locations/The_Moon_Garden.md) accepted Amelia.
 
 That fact matters more to her than proving who sent the first request.
 
@@ -699,19 +699,19 @@ Possible properties include:
 - retaining memories from events later dismissed as dreams,
 - recognizing Juniper,
 - surviving temporal adjustments,
-- and opening a path to the Moon Garden.
+- and opening a path to [the Moon Garden](../locations/The_Moon_Garden.md).
 
 The flower must not become a universal solution.
 
 Its importance is emotional, evidentiary, and relational.
 
-## Relationship with Pip
+## Relationship with [Pip](Pip.md)
 
-Juniper's brass messenger sparrow closely resembles **Pip**, Amelia's companion aboard the Wayfinder.
+Juniper's brass messenger sparrow closely resembles **[Pip](Pip.md)**, Amelia's companion aboard the Wayfinder.
 
 The resemblance is deliberate but unexplained.
 
-Juniper behaves as though she already knows Pip.
+Juniper behaves as though she already knows [Pip](Pip.md).
 
 She may:
 
@@ -720,14 +720,14 @@ She may:
 - carry the type of seed he prefers,
 - or ask whether he delivered a message Amelia has not yet received.
 
-Pip appears comfortable around Juniper and the hidden Garden paths.
+[Pip](Pip.md) appears comfortable around Juniper and the hidden Garden paths.
 
 Possible explanations include:
 
-- Pip was the original messenger and remained with Amelia,
+- [Pip](Pip.md) was the original messenger and remained with Amelia,
 - Juniper tends several sparrows made from the same living pattern,
-- the Garden created a temporary echo of Pip,
-- or Pip's own chronology does not begin where Amelia remembers it beginning.
+- the Garden created a temporary echo of [Pip](Pip.md),
+- or [Pip](Pip.md)'s own chronology does not begin where Amelia remembers it beginning.
 
 Juniper refuses to settle the question casually.
 
@@ -770,7 +770,7 @@ Different people have carried the identity and memories of Juniper Bell.
 
 ### Dream Embodiment
 
-Juniper is a stable waking form of a being whose fuller existence belongs to the Moon Garden or collective dream.
+Juniper is a stable waking form of a being whose fuller existence belongs to [the Moon Garden](../locations/The_Moon_Garden.md) or collective dream.
 
 ### Chronological Rooting
 
@@ -853,7 +853,7 @@ She may know that an event belongs to Amelia without knowing whether it has happ
 
 Her secrecy is sometimes protective and sometimes frustrating.
 
-Unlike the Order, she must remain willing to acknowledge that withholding information carries moral cost.
+Unlike [the Order](../organizations/The_Order_of_the_Closed_Eye.md), she must remain willing to acknowledge that withholding information carries moral cost.
 
 ## Visual Continuity
 
@@ -897,7 +897,7 @@ When appearing as the Keeper of Dreams, the same silhouette should remain recogn
 Juniper provides:
 
 - a gentle bridge between Amelia and the Gardens,
-- a public face for the Conservancy,
+- a public face for [the Conservancy](../organizations/The_Conservancy_of_Living_Mechanisms.md),
 - evidence that Aetherhaven's temporal mysteries affect living continuity,
 - a mentor who teaches listening rather than control,
 - a trusted adult whose mystery does not automatically make her dangerous,
@@ -927,7 +927,7 @@ For the first time, the Gardens treat Juniper as unfamiliar.
 
 ### The Dream Engine Wakes
 
-Children across Aetherhaven share the same unfinished dream, and Juniper asks Amelia to help restore the Moon Garden.
+Children across Aetherhaven share the same unfinished dream, and Juniper asks Amelia to help restore [the Moon Garden](../locations/The_Moon_Garden.md).
 
 ### Rosemary Too Tall
 
@@ -950,7 +950,7 @@ Juniper disappears, leaving her coat walking the Gardens through the movements o
 ### Safe for Early Volumes
 
 - Juniper is the gentle, eccentric Keeper of the Clockwork Gardens.
-- She is a public member of the Conservancy.
+- She is a public member of [the Conservancy](../organizations/The_Conservancy_of_Living_Mechanisms.md).
 - She knows when paths will shift.
 - She speaks to the Gardens as a single living creature.
 - She gives inconsistent answers about how long she has served.
@@ -962,9 +962,9 @@ Juniper disappears, leaving her coat walking the Gardens through the movements o
 
 - Juniper's name predates current Conservancy records.
 - She remembers events official history has erased.
-- The Order has tried unsuccessfully to remove her from records.
+- [The Order](../organizations/The_Order_of_the_Closed_Eye.md) has tried unsuccessfully to remove her from records.
 - She can guide dream-linked Garden paths.
-- She knows the Dream Engine and Moon Garden.
+- She knows the Dream Engine and [Moon Garden](../locations/The_Moon_Garden.md).
 - The silver flower recognizes her.
 - Juniper is strongly connected to the Keeper of Dreams from Amelia's early bedtime adventure.
 - She knew Elias earlier than he remembers.
@@ -988,15 +988,15 @@ Juniper disappears, leaving her coat walking the Gardens through the movements o
 - The title does not make Amelia literal royalty or confer political authority.
 - The title is a clue connecting Juniper to the Keeper of Dreams and should remain unexplained early.
 
-- The Moon Garden is a hidden nocturnal layer of the Clockwork Gardens.
+- [The Moon Garden](../locations/The_Moon_Garden.md) is a hidden nocturnal layer of the Clockwork Gardens.
 - Juniper can request access or concealment but does not command the hidden gardens.
-- Amelia entered the Moon Garden by invitation.
+- Amelia entered [the Moon Garden](../locations/The_Moon_Garden.md) by invitation.
 - Whether Juniper or the Garden initiated that invitation remains unresolved.
-- Pip's resemblance to the messenger sparrow is deliberate but unresolved.
+- [Pip](Pip.md)'s resemblance to the messenger sparrow is deliberate but unresolved.
 
 - Juniper must remain gentle, eccentric, perceptive, and deeply protective.
-- She is one of the Conservancy's most public members but is not the First Tender.
-- Her title of Keeper predates or exists outside the Conservancy's ordinary hierarchy.
+- She is one of [the Conservancy](../organizations/The_Conservancy_of_Living_Mechanisms.md)'s most public members but is not the First Tender.
+- Her title of Keeper predates or exists outside [the Conservancy](../organizations/The_Conservancy_of_Living_Mechanisms.md)'s ordinary hierarchy.
 - Her relationship with the Gardens is cooperative, not ownership or command.
 - She should not casually solve every Garden mystery.
 - Her age and nature must remain unresolved until explicitly developed.
@@ -1008,10 +1008,10 @@ Juniper disappears, leaving her coat walking the Gardens through the movements o
 - Juniper must treat Amelia as a person and never as a tool.
 - Her affection for Amelia and loyalty to living systems are genuine.
 - Her mystery should not automatically imply villainy.
-- Juniper should not be selected as the Hidden Architect without an explicit future canon revision reconciling her pacifism, loyalties, and established behavior.
+- Juniper should not be selected as [the Hidden Architect](The_Hidden_Architect_Unassigned.md) without an explicit future canon revision reconciling her pacifism, loyalties, and established behavior.
 - Her powers should remain relational, subtle, and limited.
 - The Gardens may refuse or surprise her.
-- She can withhold information but must remain ethically distinct from the Order of the Closed Eye.
+- She can withhold information but must remain ethically distinct from [the Order of the Closed Eye](../organizations/The_Order_of_the_Closed_Eye.md).
 
 ## Open Canon Questions
 
@@ -1021,16 +1021,16 @@ Juniper disappears, leaving her coat walking the Gardens through the movements o
 4. Who painted her beside the Aetherium?
 5. What did she do during the earliest years of the Gardens?
 6. Did she help establish the Verdant Mechanists or Conservancy?
-7. What is the Moon Garden's true location?
+7. What is [the Moon Garden](../locations/The_Moon_Garden.md)'s true location?
 8. What does the Dream Engine actually distribute?
 9. Why does the silver flower recognize her?
 10. What childhood encounter with Elias has been forgotten?
-11. Can the Order successfully Veil Juniper?
+11. Can [the Order](../organizations/The_Order_of_the_Closed_Eye.md) successfully Veil Juniper?
 12. Does the Gardens' memory reconstruct her after temporal changes?
 13. What would make the Gardens reject her?
 14. Does Juniper remember the First Mechanist?
 15. Which of her contradictory answers about her age is the most accurate?
-16. Is Pip the original messenger sparrow?
+16. Is [Pip](Pip.md) the original messenger sparrow?
 17. Did Juniper invite Amelia, or did the Garden instruct her?
 18. How many hidden gardens does Juniper tend?
 19. What does Juniper mean by “the Clockwork Princess”?

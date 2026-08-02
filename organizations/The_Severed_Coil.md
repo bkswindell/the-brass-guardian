@@ -37,9 +37,9 @@ temporal_relevance: High
 
 ## Canonical Summary
 
-The Severed Coil is the violent extremist splinter of the Unwound.
+The Severed Coil is the violent extremist splinter of [the Unwound](The_Unwound.md).
 
-Where the broader Unwound argues that Aetherhaven must reduce its dependence on the Heart Engine, the Severed Coil believes the city must first be made to fail.
+Where the broader [Unwound](The_Unwound.md) argues that Aetherhaven must reduce its dependence on the Heart Engine, the Severed Coil believes the city must first be made to fail.
 
 Its members attack Golden Veins, destroy civic machinery, sabotage power regulators, burn records, steal or corrupt clockwork sentinels, and create public disruption intended to prove that Aetherhaven cannot survive without systems its citizens do not understand.
 
@@ -75,12 +75,12 @@ It reaches a monstrous conclusion:
 
 > Therefore, the city must be forced to suffer until dependence becomes impossible.
 
-The faction believes gradual reform is a lie maintained by comfortable people who benefit from the current system. It regards petitions, public debate, and community resilience as distractions that allow the High Council and Engine Complex to preserve control.
+The faction believes gradual reform is a lie maintained by comfortable people who benefit from the current system. It regards petitions, public debate, and community resilience as distractions that allow [the High Council](The_High_Council_of_Aetherhaven.md) and Engine Complex to preserve control.
 
 Its doctrine is commonly summarized in three statements:
 
 1. **A system that cannot be stopped cannot be trusted.**
-2. **A city that cannot survive unwound deserves to stop.**
+2. **A city that cannot survive [unwound](The_Unwound.md) deserves to stop.**
 3. **Pain reveals what comfort conceals.**
 
 The third principle marks the faction's moral collapse.
@@ -91,9 +91,9 @@ The faction therefore contains both the completely misguided and the inherently 
 
 ## Historical Origin
 
-The Severed Coil claims descent from early Unwound organizers who warned that the Heart Engine would eventually consume the city.
+The Severed Coil claims descent from early [Unwound](The_Unwound.md) organizers who warned that the Heart Engine would eventually consume the city.
 
-The broader Unwound disputes this version of history.
+The broader [Unwound](The_Unwound.md) disputes this version of history.
 
 The most likely origin is a fractured coalition formed after a major industrial or Golden Vein disaster in which:
 
@@ -146,7 +146,7 @@ The Inner Coil may be:
 - a constructed myth used to coordinate otherwise independent cells,
 - or an outside organization manipulating the movement.
 
-The Brass Watch does not know which possibility is true.
+[The Brass Watch](The_Brass_Watch.md) does not know which possibility is true.
 
 ### Recruitment
 
@@ -179,10 +179,10 @@ The Severed Coil favors attacks that are symbolic, disruptive, and difficult to 
 Its goals are often not limited to physical destruction. Operations are designed to:
 
 - create fear,
-- discredit the High Council,
+- discredit [the High Council](The_High_Council_of_Aetherhaven.md),
 - provoke harsh Watch responses,
 - expose dependence on the Heart Engine,
-- and make peaceful Unwound reformers appear complicit.
+- and make peaceful [Unwound](The_Unwound.md) reformers appear complicit.
 
 Known or suspected methods include:
 
@@ -195,13 +195,13 @@ Known or suspected methods include:
 - tampering with canal locks,
 - release of restricted machinery,
 - destruction of archive records,
-- and staged incidents bearing Unwound symbols.
+- and staged incidents bearing [Unwound](The_Unwound.md) symbols.
 
 Operational details should remain impressionistic in stories. The faction's threat comes from planning, reach, and moral indifference rather than technical instruction.
 
 ## Public Reputation
 
-Most citizens do not distinguish carefully between the Severed Coil and the larger Unwound movement.
+Most citizens do not distinguish carefully between the Severed Coil and the larger [Unwound movement](The_Unwound.md).
 
 This is one of the faction's greatest strategic successes.
 
@@ -209,12 +209,12 @@ After every attack:
 
 - peaceful organizers face suspicion,
 - repair halls are searched,
-- Unwound meetings lose public support,
+- [Unwound](The_Unwound.md) meetings lose public support,
 - and Council officials call for broader restrictions.
 
 Some citizens fear the Coil as terrorists.
 
-Some secretly admire its willingness to strike at the Council.
+Some secretly admire its willingness to strike at [the Council](The_High_Council_of_Aetherhaven.md).
 
 Most simply fear being nearby when it decides to make a point.
 
@@ -226,9 +226,9 @@ Dock crews refuse cargo bearing blackened spring symbols.
 
 Even false reports create panic.
 
-## Relationship with the Broader Unwound
+## Relationship with the Broader [Unwound](The_Unwound.md)
 
-The broader Unwound publicly rejects the Severed Coil.
+The broader [Unwound](The_Unwound.md) publicly rejects the Severed Coil.
 
 Moderate leaders insist:
 
@@ -236,30 +236,30 @@ Moderate leaders insist:
 - no reform justifies deliberate harm to civilians,
 - and destroying manual alternatives or public infrastructure strengthens dependence rather than reducing it.
 
-The Severed Coil considers moderate Unwound members cowards, collaborators, or useful shields.
+The Severed Coil considers moderate [Unwound](The_Unwound.md) members cowards, collaborators, or useful shields.
 
 It exploits the association by:
 
-- using historic Unwound symbols,
+- using historic [Unwound](The_Unwound.md) symbols,
 - recruiting from legitimate meetings,
 - hiding among decentralized circles,
 - and claiming responsibility in language borrowed from peaceful broadsides.
 
 The broader movement cannot reliably identify every infiltrator.
 
-This creates genuine fear inside Unwound communities.
+This creates genuine fear inside [Unwound](The_Unwound.md) communities.
 
-Some organizers cooperate quietly with the Brass Watch to expose Coil cells.
+Some organizers cooperate quietly with [the Brass Watch](The_Brass_Watch.md) to expose Coil cells.
 
-Others refuse, believing the Watch will use the information to dismantle the entire movement.
+Others refuse, believing [the Watch](The_Brass_Watch.md) will use the information to dismantle the entire movement.
 
 The Severed Coil benefits from both reactions.
 
-## Relationship with the Brass Watch
+## Relationship with [the Brass Watch](The_Brass_Watch.md)
 
-The Severed Coil is one of the Brass Watch's highest-priority internal threats.
+The Severed Coil is one of [the Brass Watch](The_Brass_Watch.md)'s highest-priority internal threats.
 
-It keeps the Watch occupied through:
+It keeps [the Watch](The_Brass_Watch.md) occupied through:
 
 - active sabotage investigations,
 - protection of critical infrastructure,
@@ -275,18 +275,18 @@ A successful Coil operation may be designed to produce two outcomes:
 1. physical disruption, and
 2. an excessive Watch response that alienates the public.
 
-### Chief Inspector Thorne
+### [Chief Inspector Thorne](../characters/Chief_Inspector_Beatrice_Thorne.md)
 
-Thorne insists on distinguishing Coil operatives from lawful Unwound members.
+[Thorne](../characters/Chief_Inspector_Beatrice_Thorne.md) insists on distinguishing Coil operatives from lawful [Unwound](The_Unwound.md) members.
 
 This makes investigations slower and politically difficult, but she believes collective punishment would:
 
 - create new recruits,
 - destroy useful witnesses,
 - validate extremist propaganda,
-- and turn the Watch into the instrument the Coil claims it already is.
+- and turn [the Watch](The_Brass_Watch.md) into the instrument the Coil claims it already is.
 
-Thorne is especially interested in the faction because some attacks contain temporal inconsistencies.
+[Thorne](../characters/Chief_Inspector_Beatrice_Thorne.md) is especially interested in the faction because some attacks contain temporal inconsistencies.
 
 Evidence has appeared to show:
 
@@ -308,17 +308,17 @@ The Second Watch is increasingly involved when Coil attacks affect:
 
 This raises a disturbing possibility:
 
-The Severed Coil may understand more about Aetherhaven's temporal systems than the Watch does.
+The Severed Coil may understand more about Aetherhaven's temporal systems than [the Watch](The_Brass_Watch.md) does.
 
-## Relationship with Captain Mara Voss
+## Relationship with [Captain Mara Voss](../characters/Captain_Mara_Voss.md)
 
-Mara knows smugglers, fugitives, Underclock runners, and unregistered captains.
+[Mara](../characters/Captain_Mara_Voss.md) knows smugglers, fugitives, [Underclock](The_Underclock.md) runners, and unregistered captains.
 
 Some Coil operatives have attempted to use those networks.
 
-This gives Thorne another reason to scrutinize Mara's contacts.
+This gives [Thorne](../characters/Chief_Inspector_Beatrice_Thorne.md) another reason to scrutinize [Mara](../characters/Captain_Mara_Voss.md)'s contacts.
 
-Mara despises the Severed Coil because its members:
+[Mara](../characters/Captain_Mara_Voss.md) despises the Severed Coil because its members:
 
 - endanger crews,
 - sabotage escape routes,
@@ -329,9 +329,9 @@ She may work with criminals.
 
 She will not knowingly work with the Coil.
 
-Mara's private code draws a hard line at deliberate public endangerment.
+[Mara](../characters/Captain_Mara_Voss.md)'s private code draws a hard line at deliberate public endangerment.
 
-The faction may attempt to frame one of her trusted contacts, use Dock Zero as a symbolic target, or exploit the Morningstar panic to create chaos at the Aerial Docks.
+The faction may attempt to frame one of her trusted contacts, use Dock Zero as a symbolic target, or exploit the Morningstar panic to create chaos at [the Aerial Docks](../locations/The_Aerial_Docks.md).
 
 ## Relationship with Professor Elias Hawthorne
 
@@ -386,7 +386,7 @@ Instead, she encounters its effects:
 - frightened workers,
 - injured sentinels,
 - erased evidence,
-- and moderate Unwound members blamed for violence they opposed.
+- and moderate [Unwound](The_Unwound.md) members blamed for violence they opposed.
 
 This allows Amelia to understand the human cost before she understands the perpetrators.
 
@@ -396,23 +396,23 @@ The moral line must remain clear:
 
 Any faction that denies Amelia's agency while claiming to free her has reproduced the very system it condemns.
 
-## Relationship with the High Council
+## Relationship with [the High Council](The_High_Council_of_Aetherhaven.md)
 
-The High Council publicly condemns the Severed Coil.
+[The High Council](The_High_Council_of_Aetherhaven.md) publicly condemns the Severed Coil.
 
 Some officials genuinely fear its violence.
 
 Others benefit politically from its existence.
 
-The Coil allows the Council to justify:
+The Coil allows [the Council](The_High_Council_of_Aetherhaven.md) to justify:
 
 - expanded surveillance,
-- restrictions on Unwound assemblies,
+- restrictions on [Unwound](The_Unwound.md) assemblies,
 - sealed infrastructure plans,
 - sentinel deployment,
 - and suppression of inconvenient investigations.
 
-This does not mean the Council created the faction.
+This does not mean [the Council](The_High_Council_of_Aetherhaven.md) created the faction.
 
 However, future stories may reveal that individual officials:
 
@@ -424,9 +424,9 @@ However, future stories may reveal that individual officials:
 
 The faction's existence creates opportunities for authoritarian control even when the threat itself is real.
 
-## Relationship with the Ninth Guild
+## Relationship with [the Ninth Guild](The_Ninth_Guild.md)
 
-The Ninth Guild is the most plausible outside force manipulating the Severed Coil.
+[The Ninth Guild](The_Ninth_Guild.md) is the most plausible outside force manipulating the Severed Coil.
 
 Possible connections include:
 
@@ -436,7 +436,7 @@ Possible connections include:
 - directing attacks toward ancient access points,
 - and using ideological radicals to retrieve components.
 
-The Ninth Guild wants access and experimentation.
+[The Ninth Guild](The_Ninth_Guild.md) wants access and experimentation.
 
 The Coil wants collapse and liberation.
 
@@ -444,7 +444,7 @@ Their interests may overlap temporarily.
 
 Neither side fully trusts the other.
 
-A future revelation may establish that several of the Coil's most devastating operations were designed by Ninth Guild engineers who cared nothing for Unwound ideology.
+A future revelation may establish that several of the Coil's most devastating operations were designed by [Ninth Guild](The_Ninth_Guild.md) engineers who cared nothing for [Unwound](The_Unwound.md) ideology.
 
 ## Temporal Significance
 
@@ -481,13 +481,13 @@ The Severed Coil's most recognizable mark is a black spiral spring cut through t
 It may appear:
 
 - burned into wood,
-- painted beneath ordinary Unwound symbols,
+- painted beneath ordinary [Unwound](The_Unwound.md) symbols,
 - etched into severed conduits,
 - or stamped on anonymous warnings.
 
 Not every appearance is genuine.
 
-The Brass Watch classifies marks by tool pattern, residue, and placement to distinguish:
+[The Brass Watch](The_Brass_Watch.md) classifies marks by tool pattern, residue, and placement to distinguish:
 
 - authentic Coil signatures,
 - imitators,
@@ -509,7 +509,7 @@ The Severed Coil should be introduced gradually.
 
 ### Stage One: Rumor and Association
 
-Citizens mention the Coil with fear. Moderate Unwound organizers are blamed for anonymous vandalism. No member appears directly.
+Citizens mention the Coil with fear. Moderate [Unwound](The_Unwound.md) organizers are blamed for anonymous vandalism. No member appears directly.
 
 ### Stage Two: Aftermath
 
@@ -517,7 +517,7 @@ The Hawthornes encounter a disrupted canal, damaged regulator, burned archive ro
 
 ### Stage Three: Pattern
 
-Thorne connects incidents across districts. Amelia notices that the attacks form a map, sequence, or mechanical pattern.
+[Thorne](../characters/Chief_Inspector_Beatrice_Thorne.md) connects incidents across districts. Amelia notices that the attacks form a map, sequence, or mechanical pattern.
 
 ### Stage Four: Voice
 
@@ -529,7 +529,7 @@ A sympathetic secondary character is recruited, coerced, or revealed as a former
 
 ### Stage Six: First Encounter
 
-Only after the faction has become a sustained threat should Amelia, Elias, or Thorne meet a confirmed operative face to face.
+Only after the faction has become a sustained threat should Amelia, Elias, or [Thorne](../characters/Chief_Inspector_Beatrice_Thorne.md) meet a confirmed operative face to face.
 
 The encounter should reveal that the Severed Coil is more disciplined, divided, and dangerous than public rumor suggested.
 
@@ -537,11 +537,11 @@ The encounter should reveal that the Severed Coil is more disciplined, divided, 
 
 ### The Blackout at Starlight Walk
 
-A coordinated failure darkens the Starlight Walkways during a public gathering. Manual Unwound crews save lives while the public blames them for the attack.
+A coordinated failure darkens the Starlight Walkways during a public gathering. Manual [Unwound](The_Unwound.md) crews save lives while the public blames them for the attack.
 
 ### The Sentinel with the Broken Command
 
-A stolen sentinel returns carrying a Coil symbol and an ancient directive the Watch cannot override.
+A stolen sentinel returns carrying a Coil symbol and an ancient directive [the Watch](The_Brass_Watch.md) cannot override.
 
 ### Ash in the Archive
 
@@ -553,7 +553,7 @@ The Second Watch finds a Coil safehouse abandoned before it was constructed acco
 
 ### The False Cell
 
-Thorne raids an alleged Severed Coil workshop and discovers it was staged to justify arrests of peaceful Unwound organizers.
+[Thorne](../characters/Chief_Inspector_Beatrice_Thorne.md) raids an alleged Severed Coil workshop and discovers it was staged to justify arrests of peaceful [Unwound](The_Unwound.md) organizers.
 
 ### The Child of the Coil
 
@@ -571,13 +571,13 @@ A captured operative claims the Inner Coil has already met Amelia—just not in 
 
 ### Safe for Early Volumes
 
-- The Severed Coil is a violent extremist faction descended from or associated with the Unwound.
+- The Severed Coil is a violent extremist faction descended from or associated with [the Unwound](The_Unwound.md).
 - It attacks infrastructure and creates public chaos.
 - It is deeply underground and cell-based.
 - Citizens fear it.
-- Its actions undermine peaceful Unwound credibility.
-- The Brass Watch treats it as a priority threat.
-- Thorne insists on distinguishing extremists from lawful reformers.
+- Its actions undermine peaceful [Unwound](The_Unwound.md) credibility.
+- [The Brass Watch](The_Brass_Watch.md) treats it as a priority threat.
+- [Thorne](../characters/Chief_Inspector_Beatrice_Thorne.md) insists on distinguishing extremists from lawful reformers.
 - The Hawthornes initially encounter aftermath rather than members.
 - The faction uses a black severed-spring symbol.
 - It is willing to endanger civilians.
@@ -586,7 +586,7 @@ A captured operative claims the Inner Coil has already met Amelia—just not in 
 
 - The identity of the Inner Coil.
 - Whether the faction has chronal technology.
-- Whether the Ninth Guild supplies or directs attacks.
+- Whether [the Ninth Guild](The_Ninth_Guild.md) supplies or directs attacks.
 - Whether Council officials have staged or enabled Coil incidents.
 - The movement's true founding disaster.
 - Whether some cells are receiving instructions from another chronology.
@@ -597,19 +597,19 @@ A captured operative claims the Inner Coil has already met Amelia—just not in 
 
 ## Continuity Constraints
 
-- The Severed Coil must remain distinct from the broader Unwound.
+- The Severed Coil must remain distinct from the broader [Unwound](The_Unwound.md).
 - It is violent, dangerous, and willing to harm civilians.
-- Its existence must create legitimate work and pressure for the Brass Watch.
+- Its existence must create legitimate work and pressure for [the Brass Watch](The_Brass_Watch.md).
 - It should undermine peaceful reformers through association.
 - It must remain mostly unseen in early stories.
 - Early presence should be conveyed through aftermath, symbols, fear, messages, and escalating patterns.
 - The faction should contain both true believers and malicious opportunists.
 - Its ideology must arise from legitimate grievances but cross a clear moral line.
-- Thorne must not use the threat as justification for indiscriminate repression.
-- Moderate Unwound members may fear the Coil as much as the public does.
-- Mara may cooperate with criminals but must reject the Coil's deliberate endangerment.
+- [Thorne](../characters/Chief_Inspector_Beatrice_Thorne.md) must not use the threat as justification for indiscriminate repression.
+- Moderate [Unwound](The_Unwound.md) members may fear the Coil as much as the public does.
+- [Mara](../characters/Captain_Mara_Voss.md) may cooperate with criminals but must reject the Coil's deliberate endangerment.
 - Amelia's autonomy must remain central if the faction claims it wants to free her.
-- The Ninth Guild connection should remain plausible but unconfirmed in early volumes.
+- [The Ninth Guild](The_Ninth_Guild.md) connection should remain plausible but unconfirmed in early volumes.
 - The faction's temporal knowledge should grow gradually.
 - Not every attack bearing the symbol should be genuine.
 
@@ -620,7 +620,7 @@ A captured operative claims the Inner Coil has already met Amelia—just not in 
 3. What event created the first Severed Coil cell?
 4. How many cells operate in Aetherhaven?
 5. Who funds them?
-6. Has the Ninth Guild infiltrated or created cells?
+6. Has [the Ninth Guild](The_Ninth_Guild.md) infiltrated or created cells?
 7. Have Council officials staged attacks under the Coil symbol?
 8. Does the faction possess chronal technology?
 9. Why are some warnings recorded before the attacks they predict?
@@ -628,5 +628,5 @@ A captured operative claims the Inner Coil has already met Amelia—just not in 
 11. Is the faction attempting to stop the Heart Engine or trigger it?
 12. What would happen if every Golden Vein were severed?
 13. Does the Coil know Amelia is the Bearer of the Living Key?
-14. Will a moderate Unwound leader become its target?
+14. Will a moderate [Unwound](The_Unwound.md) leader become its target?
 15. What is the first confirmed Severed Coil operative the Hawthornes will meet?

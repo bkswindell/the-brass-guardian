@@ -18,13 +18,13 @@ supporting_factions:
 temporal_relevance: High
 ---
 
-# The Severed Coil Conflict
+# [The Severed Coil](../organizations/The_Severed_Coil.md) Conflict
 
 ## Arc Premise
 
-The Hawthornes begin disrupting Severed Coil operations without knowing the faction exists.
+The Hawthornes begin disrupting [Severed Coil](../organizations/The_Severed_Coil.md) operations without knowing the faction exists.
 
-At first, the Coil does not recognize them as enemies.
+At first, [the Coil](../organizations/The_Severed_Coil.md) does not recognize them as enemies.
 
 Over time, repeated failures reveal a pattern. The faction begins investigating Elias and Amelia, eventually concluding that their knowledge, relationships, and access to ancient systems threaten its plan to forcibly unwind Aetherhaven.
 
@@ -34,21 +34,21 @@ The conflict develops slowly across standalone adventures before becoming an exp
 
 ### 1. Incidental Interference
 
-The Hawthornes resolve local mysteries that happen to obstruct Coil operations.
+The Hawthornes resolve local mysteries that happen to obstruct [Coil](../organizations/The_Severed_Coil.md) operations.
 
-Neither the Hawthornes nor Coil leadership understands the pattern.
+Neither the Hawthornes nor [Coil](../organizations/The_Severed_Coil.md) leadership understands the pattern.
 
 ### 2. Recurring Evidence
 
 Readers and investigators begin noticing shared symbols, materials, timing discrepancies, and operational methods.
 
-### 3. Coil Suspicion
+### 3. [Coil](../organizations/The_Severed_Coil.md) Suspicion
 
 The faction identifies a recurring connection to the Hawthornes and begins studying them.
 
 ### 4. Surveillance
 
-The Coil gathers information about:
+[The Coil](../organizations/The_Severed_Coil.md) gathers information about:
 
 - Elias's research,
 - Amelia's Aether Heart,
@@ -58,13 +58,13 @@ The Coil gathers information about:
 
 ### 5. Indirect Pressure
 
-The Coil attacks evidence, reputation, allies, and mobility rather than the Hawthornes directly.
+[The Coil](../organizations/The_Severed_Coil.md) attacks evidence, reputation, allies, and mobility rather than the Hawthornes directly.
 
 ### 6. Target Identification
 
 Amelia disrupts an operation in a way only the Bearer of the Living Key could have accomplished.
 
-The Coil recognizes her as a direct threat.
+[The Coil](../organizations/The_Severed_Coil.md) recognizes her as a direct threat.
 
 ### 7. Personal Attacks
 
@@ -76,11 +76,11 @@ Confirmed operatives finally confront them face to face.
 
 ### 9. Civic Crisis
 
-The Severed Coil attempts to forcibly unwind Aetherhaven through Golden Vein severance, temporal fragmentation, or misuse of ancient shutdown systems.
+[The Severed Coil](../organizations/The_Severed_Coil.md) attempts to forcibly unwind Aetherhaven through Golden Vein severance, temporal fragmentation, or misuse of ancient shutdown systems.
 
 ### 10. Resolution
 
-The Hawthornes, Brass Watch, moderate Unwound, and other allies form an uneasy coalition.
+The Hawthornes, [Brass Watch](../organizations/The_Brass_Watch.md), moderate [Unwound](../organizations/The_Unwound.md), and other allies form an uneasy coalition.
 
 The immediate extremist plan is defeated or transformed, but the valid political and technological concerns that produced the movement remain unresolved.
 
@@ -99,14 +99,14 @@ These clues should remain secondary to the main story.
 
 ## Mid-Arc Pressure
 
-The Coil may:
+[The Coil](../organizations/The_Severed_Coil.md) may:
 
 - plant evidence against Elias,
 - portray Amelia as a dangerous living component,
 - compromise the Wayfinder,
-- threaten Tamsin Pike or another young ally,
-- manipulate the Brass Watch into restricting the Hawthornes,
-- or stage an attack using peaceful Unwound symbols.
+- threaten [Tamsin Pike](../characters/Tamsin_Pike.md) or another young ally,
+- manipulate [the Brass Watch](../organizations/The_Brass_Watch.md) into restricting the Hawthornes,
+- or stage an attack using peaceful [Unwound](../organizations/The_Unwound.md) symbols.
 
 ## Climax Principles
 
@@ -117,17 +117,17 @@ It should require the heroes to address:
 - a genuine infrastructure danger,
 - public fear,
 - temporal instability,
-- the Coil's violent plan,
+- [the Coil](../organizations/The_Severed_Coil.md)'s violent plan,
 - and the legitimate grievances of peaceful reformers.
 
 Amelia's role should center on choice, understanding, and agency—not merely functioning as a key.
 
 ## Resolution Requirements
 
-- The Coil's immediate violent campaign is stopped.
-- The broader Unwound is not destroyed or discredited beyond repair.
-- The Brass Watch changes how it investigates political and temporal threats.
+- [The Coil](../organizations/The_Severed_Coil.md)'s immediate violent campaign is stopped.
+- The broader [Unwound](../organizations/The_Unwound.md) is not destroyed or discredited beyond repair.
+- [The Brass Watch](../organizations/The_Brass_Watch.md) changes how it investigates political and temporal threats.
 - Elias accepts that discovery requires stronger public safeguards.
 - Amelia rejects attempts by every faction to define her solely by the Aether Heart.
 - Aetherhaven begins confronting its dependence rather than returning unchanged to the status quo.
-- At least one Coil mystery remains unresolved for future volumes.
+- At least one [Coil](../organizations/The_Severed_Coil.md) mystery remains unresolved for future volumes.
