@@ -7,6 +7,7 @@ on:
       - scripts/build_historical_event_library.py
       - scripts/finalize_historical_event_migration.py
       - scripts/normalize_historical_event_output.py
+      - scripts/refine_orin_amelia_watchmans_regret.py
       - .github/workflows/build-historical-event-library.yml
 
 permissions:
@@ -37,6 +38,7 @@ jobs:
           python scripts/build_historical_event_library.py
           python scripts/normalize_historical_event_output.py
           python scripts/finalize_historical_event_migration.py
+          python scripts/refine_orin_amelia_watchmans_regret.py
 
       - name: Refresh development TODO
         run: |
@@ -51,6 +53,7 @@ jobs:
           python scripts/build_historical_event_library.py
           python scripts/normalize_historical_event_output.py
           python scripts/finalize_historical_event_migration.py
+          python scripts/refine_orin_amelia_watchmans_regret.py
           python scripts/build_canon_development_todo.py
           python scripts/link_canon_development_todo.py
           find . -type f -name '*.md' -not -path './.git/*' -not -path './unused/*' -print0 \
@@ -70,5 +73,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add -- '*.md' '**/*.md' scripts/link_markdown_references.py scripts/build_canon_development_todo.py
-          git commit -m "Finalize historical event canon architecture"
+          git commit -m "Refine Amelia and Orin relationship arc"
           git push origin HEAD:${{ github.event.pull_request.head.ref || github.ref_name }}
