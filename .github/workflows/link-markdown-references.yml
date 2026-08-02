@@ -8,6 +8,7 @@ on:
       - scripts/link_markdown_references.py
       - scripts/normalize_generated_markdown.py
       - scripts/run_cached_linker.py
+      - scripts/update_project_index_for_placeholders.py
       - .github/workflows/link-markdown-references.yml
       - Location_Profile_Template.md
       - Character_Profile_Template.md
@@ -39,6 +40,9 @@ jobs:
       - name: Create missing placeholder profiles
         run: python scripts/create_placeholder_profiles.py
 
+      - name: Update project index
+        run: python scripts/update_project_index_for_placeholders.py
+
       - name: Link canonical references
         run: python scripts/run_cached_linker.py
 
@@ -69,5 +73,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add -- '*.md' '**/*.md'
-          git commit -m "Normalize canon placeholder cross-links"
+          git commit -m "Finalize canon placeholder profiles and cross-links"
           git push origin HEAD:${{ github.event.pull_request.head.ref || github.ref_name }}
