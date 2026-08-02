@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Finalize indexes and minor link cleanup after the historical-event migration."""
+"""Finalize indexes, standards, and minor link cleanup after the historical-event migration."""
 
 from pathlib import Path
 
@@ -53,14 +53,6 @@ def update_project_index() -> None:
     if arc_row not in text and arc_marker in text:
         text = text.replace(arc_marker, arc_marker + arc_row)
 
-    text = "\n".join(
-        line for line in text.splitlines()
-        if "[Master Gideon Brasswell](characters/Master_Gideon_Brasswell.md)" not in line
-        or "Canonical working profile" in line
-        if True
-    )
-    # The comprehension above preserves the canonical row and removes stale backlog
-    # bullets only when they do not identify a canonical table entry.
     lines = []
     for line in text.splitlines():
         if line.strip() == "- [Master Gideon Brasswell](characters/Master_Gideon_Brasswell.md)":
@@ -86,12 +78,49 @@ def update_readme() -> None:
     path.write_text(text.rstrip() + "\n", encoding="utf-8")
 
 
+def update_standard() -> None:
+    path = ROOT / "CANON_MARKDOWN_STANDARD.md"
+    text = path.read_text(encoding="utf-8")
+    text = text.replace(
+        "another character, location, organization, artifact, or story arc",
+        "another character, location, organization, artifact, historical event, or story arc",
+    )
+    text = text.replace(
+        "Use character, location, organization, and arc files as the authoritative sources for their broader subjects.",
+        "Use character, location, organization, historical-event, and arc files as the authoritative sources for their broader subjects.",
+    )
+
+    historical_visual = """### Historical Events
+
+- Link the event's public and restricted evidence, involved profiles, related story arcs, and authoritative artifact records.
+- Include a canonical historical illustration, evidence collage, photograph, document, map, or artifact set when one exists.
+- Do not depict an unresolved witness account, mediator identity, chronology, or disputed action as settled fact.
+- Treat the historical-event file as the authoritative owner of the event chronology.
+
+"""
+    marker = "### Story Arcs\n"
+    if historical_visual not in text and marker in text:
+        text = text.replace(marker, historical_visual + marker, 1)
+
+    checklist_marker = "- [x] Transcribe and fully describe every completed active artifact plate currently available.\n"
+    checklist_addition = (
+        checklist_marker
+        + "- [x] Create the historical-event template and `historical_events/` index.\n"
+        + "- [x] Separate objective historical events from story arcs that reveal or revisit them.\n"
+    )
+    if "Create the historical-event template" not in text:
+        text = text.replace(checklist_marker, checklist_addition)
+
+    path.write_text(text.rstrip() + "\n", encoding="utf-8")
+
+
 def main() -> int:
     update_orin()
     update_placeholder_index()
     update_project_index()
     update_readme()
-    print("Finalized historical-event migration indexes and links.")
+    update_standard()
+    print("Finalized historical-event migration indexes, standards, and links.")
     return 0
 
 
