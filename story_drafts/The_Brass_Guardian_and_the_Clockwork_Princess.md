@@ -26,8 +26,10 @@ primary_connections:
   - The Dream Engine
   - The silver dream flower
 source_basis:
-  - Aetherhaven v3.pdf, pages 5-7
+  - The_Brass_Guardian.pdf
 last_updated: 2026-08-03
+artwork:
+  cover_image: ../art/Clockwork_Gardens_at_Night.png
 ---
 
 # The Brass Guardian and the Clockwork Princess
@@ -35,6 +37,8 @@ last_updated: 2026-08-03
 ## A Bedtime Adventure for Amelia
 
 > **Canonical story draft with a working title.** The story's emotional events, character bond, and role as an early invitation into the series are canon. The final title, exact Book One placement, and some fairy-tale explanatory language remain open to revision.
+
+![Cover illustration for *The Brass Guardian and the Clockwork Princess*](../art/Clockwork_Gardens_at_Night.png)
 
 ## Intended Role in Book One
 
@@ -337,6 +341,7 @@ ready for tomorrow's adventure.
 - [x] Establish the story as an early Book One candidate.
 - [x] Preserve the no-accident-exposition rule.
 - [x] Link the Keeper of Dreams continuity.
+- [x] Add the PDF cover artwork reference.
 - [ ] Select the final title.
 - [ ] Select exact placement in Book One.
 - [ ] Review terminology against final opening baseline.
