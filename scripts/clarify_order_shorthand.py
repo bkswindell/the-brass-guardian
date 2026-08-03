@@ -59,8 +59,10 @@ def hand_shorthand(text: str) -> str:
 
     text = re.sub(r"\bThe Order's\b", "The Hand's", text)
     text = re.sub(r"\bthe Order's\b", "the Hand's", text)
+    text = re.sub(r"\bOrder's\b", "Hand's", text)
     text = re.sub(r"\bThe Order\b", "The Hand", text)
     text = re.sub(r"\bthe Order\b", "the Hand", text)
+    text = re.sub(r"\bOrder\b", "Hand", text)
 
     for phrase, token in tokens.items():
         text = text.replace(token, phrase)
@@ -82,8 +84,10 @@ def closed_eye_shorthand(text: str) -> str:
 
     text = re.sub(r"\bThe Order's\b", "The Closed Eye's", text)
     text = re.sub(r"\bthe Order's\b", "the Closed Eye's", text)
+    text = re.sub(r"\bOrder's\b", "Closed Eye's", text)
     text = re.sub(r"\bThe Order\b", "The Closed Eye", text)
     text = re.sub(r"\bthe Order\b", "the Closed Eye", text)
+    text = re.sub(r"\bOrder\b", "Closed Eye", text)
 
     for phrase, token in tokens.items():
         text = text.replace(token, phrase)
@@ -92,6 +96,7 @@ def closed_eye_shorthand(text: str) -> str:
 
 def refine_mended_hand() -> None:
     text = MENDED.read_text(encoding="utf-8")
+    text = hand_shorthand(text)
 
     text = re.sub(
         r"^aliases:\n(?:  - .*\n)+",
@@ -100,8 +105,6 @@ def refine_mended_hand() -> None:
         count=1,
         flags=re.MULTILINE,
     )
-
-    text = hand_shorthand(text)
 
     body = """
 The formal name is **The Order of the Mended Hand**.
@@ -133,6 +136,7 @@ The word **Order** in the formal name reflects the Mended Hand's age, chartered 
 
 def refine_closed_eye() -> None:
     text = CLOSED.read_text(encoding="utf-8")
+    text = closed_eye_shorthand(text)
 
     text = re.sub(
         r"^aliases:\n(?:  - .*\n)+",
@@ -141,8 +145,6 @@ def refine_closed_eye() -> None:
         count=1,
         flags=re.MULTILINE,
     )
-
-    text = closed_eye_shorthand(text)
 
     body = """
 The formal name is **The Order of the Closed Eye**.
