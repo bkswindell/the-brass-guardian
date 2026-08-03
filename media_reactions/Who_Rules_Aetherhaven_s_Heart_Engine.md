@@ -23,6 +23,8 @@ primary_connections:
 
 > **Non-canonical audience evidence.** The editorial metadata and interpretation audit may be updated as canon develops. The source transcript below is preserved exactly and must not be edited, corrected, normalized, or silently incorporated into canon.
 
+- [Podcast Link](https://www.spreaker.com/episode/who-rules-aetherhaven-s-heart-engine--73392945)  
+
 ## Editorial Reaction Summary
 
 The debate understands the central political question correctly: protection and oppression may be produced by the same machinery. Neither speaker can dismiss the need for Continuance or the cost of secrecy. That moral tension is one of the strongest audience responses in the folder.
