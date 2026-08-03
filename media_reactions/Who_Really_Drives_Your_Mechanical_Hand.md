@@ -1,3 +1,83 @@
+---
+reaction_id: AH-REACTION-006
+title: "Who Really Drives Your Mechanical Hand?"
+record_type: Non-canonical public reaction
+canon_status: Non-canonical audience evidence
+media_type: "Audio podcast dialogue transcript"
+source_file: "Who_Really_Drives_Your_Mechanical_Hand.m4a"
+source_content_policy: Immutable
+source_sha256: aca6fa634e3be9a150e4ff3b7e8aea712ce52f50eb9a6ac12ddece4df0cbeb13
+audience_scope: Limited test audience
+overall_sentiment: "Powerfully affected, disturbed, and philosophically engaged"
+canon_alignment: "Excellent thematic resonance; major overstatement of unresolved medical history"
+last_metadata_review: 2026-08-03
+primary_connections:
+  - "../organizations/The_Order_of_the_Mended_Hand.md"
+  - "../locations/The_Cauldron_Recovery_House.md"
+  - "../characters/Amelia_Hawthorne.md"
+  - "../characters/Professor_Elias_Hawthorne.md"
+  - "../historical_events/The_Clockwork_Jungle_Expedition.md"
+  - "../characters/Master_Gideon_Brasswell.md"
+---
+
+# Public Reaction Record: Who Really Drives Your Mechanical Hand?
+
+> **Non-canonical audience evidence.** The editorial metadata and interpretation audit may be updated as canon develops. The source transcript below is preserved exactly and must not be edited, corrected, normalized, or silently incorporated into canon.
+
+## Editorial Reaction Summary
+
+This reaction strongly understands the intended bodily-autonomy theme. The Hand is perceived as necessary, skilled, feared, and capable of treating a successful mechanism as more important than the person. Mechanical limbs also read as interfaces with memory and power. However, the transcript converts many deliberately unresolved possibilities about Amelia's treatment and the Recovery House into confirmed abuse.
+
+**Overall sentiment:** Powerfully affected, disturbed, and philosophically engaged
+**Canon alignment:** Excellent thematic resonance; major overstatement of unresolved medical history
+
+## What Appears to Be Landing
+
+- The Hand's public shorthand is understood without confusion with the Closed Eye.
+- The necessary-evil medical model produces exactly the intended discomfort.
+- Replacement versus preservation is perceived as an ethical philosophy, not merely a visual detail.
+- Bodily autonomy, consent, institutional ownership, and mechanical memory generate strong adult-level thematic engagement.
+- Amelia's personhood is understood as threatened by institutions that may value the Aether Heart more than her choices.
+
+## Interpretation Audit
+
+### Aligned with Current Canonical Intent
+
+- Medical ability does not automatically confer moral authority.
+- Individual practitioners may save lives while the wider institution remains dangerous.
+- A prosthetic can be part of embodied identity while still raising questions about memory, control, and outside access.
+
+### Misinterpretations, Overreach, or Continuity Risks
+
+- It treats aggressive amputation as the Hand's universal default rather than one possible bias among branches and practitioners.
+- It portrays the Cauldron Recovery House as a trusted safer alternative, conflicting with current canon that it may exploit vulnerable patients and conceal deaths or disappearances.
+- It states that the Closed Eye uses wards as holding cells and that Academy researchers experiment on anesthetized patients as confirmed institutional practice; active canon leaves exact abuses unresolved.
+- It invents a settled Amelia recovery sequence in which the Hand demanded higher amputation, surrender of the Aether Heart, confinement, and Elias smuggled her out. Those decisions remain open canon questions.
+- It repeatedly shifts from the possibility that Amelia could be treated as property to stating that she was civic property; canon requires person-first framing.
+- It uses Ether rather than Aether in several names.
+
+## Development Use
+
+- The Hand concept is resonating strongly and can sustain serious story material.
+- Revise shared summaries of the Recovery House so its weak oversight, disappearances, and possible exploitation are unmistakable.
+- Keep Amelia's medical history unresolved until the story earns those revelations; do not let reaction material become accidental canon.
+- Balance institutional horror with compassionate Hand practitioners so the organization remains dangerous rather than uniformly evil.
+
+## Primary Canon Connections
+
+- [The Order of the Mended Hand](../organizations/The_Order_of_the_Mended_Hand.md)
+- [The Cauldron Recovery House](../locations/The_Cauldron_Recovery_House.md)
+- [Amelia Hawthorne](../characters/Amelia_Hawthorne.md)
+- [Professor Elias Hawthorne](../characters/Professor_Elias_Hawthorne.md)
+- [The Clockwork Jungle Expedition](../historical_events/The_Clockwork_Jungle_Expedition.md)
+- [Master Gideon Brasswell](../characters/Master_Gideon_Brasswell.md)
+
+## Immutable Source Transcript
+
+**Source integrity:** SHA-256 `aca6fa634e3be9a150e4ff3b7e8aea712ce52f50eb9a6ac12ddece4df0cbeb13`
+**Editing rule:** Do not alter anything between the source markers. Corrections belong in the editorial metadata above.
+
+<!-- SOURCE CONTENT START: IMMUTABLE PUBLIC REACTION -->
 # Audio Transcript: Who Really Drives Your Mechanical Hand?
 
 **File:** Who_Really_Drives_Your_Mechanical_Hand.m4a
@@ -475,3 +555,4 @@
 **Host 2:** If the city itself is the sovereign, then every citizen with a replacement limb isn't just a patient—they are a potential puppet.
 
 **Host 1:** Next time you allow a massive system to fix you, just make sure you know who is really holding the wrench.
+<!-- SOURCE CONTENT END: IMMUTABLE PUBLIC REACTION -->

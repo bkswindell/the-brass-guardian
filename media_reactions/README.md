@@ -1,30 +1,49 @@
-# Public Reaction
+# Public Reactions to The Brass Guardian
+
+> **Non-Canonical Public Reactions:** This folder contains reactions from a limited test audience. These records are evidence of how the work is being understood, felt, remembered, and reinterpreted. They are not sources of canon and cannot resolve an open canon question.
 
 ## Purpose
 
-> **Non-Canonical Public Reactions:** This folder contains public reactions to The Brass Guardian series.  This should not be taken as canon but will be used to indenfiy if the story is resonating with our audience or if the canon is being understood or interperted correctly.  This file and the markdown files assoicated can be updated but the source content should not be modified such as the actauly transriptions, blogs, or articles.  You may however update all the metadata assoicated with the markdown files.
+The folder exists to help determine:
 
+- whether characters and settings are creating emotional attachment;
+- which mysteries generate curiosity;
+- whether moral and institutional ambiguity is being understood;
+- where terminology or chronology is confusing;
+- where metaphor is being mistaken for literal mechanics;
+- and where audience interpretation is drifting away from established canon.
 
-## Podcasts
+## Source-Integrity Rule
 
-| Podcast | Topic | Primary connections |
-|---|---|---|
-| [Podcast 1](An_Introduction_to_Aetherhaven.md) | ... | ... |
-| [Podcast 2](How_Kindness_Powers_Aetherhaven’s_Heart_Engine.md) | ... | ... |
-| [Podcast 3](Aetherhaven_and_the_Heart_Engine.md) | ... | ... |
-| [Podcast 4](Who_Rules_Aetherhaven_s_Heart_Engine.md) | ... | ... |
-| [Podcast 5](Policing_the_Lost_Seconds_of_Aetherhaven.md) | ... | ... |
-| [Podcast 6](Who_Really_Drives_Your_Mechanical_Hand.md) | ... | ... |
+Each reaction file contains two distinct layers:
 
-## Blogs
+1. **Editorial metadata and analysis**, which may be corrected and updated.
+2. **Immutable source content**, enclosed by explicit source markers and protected by a SHA-256 checksum.
 
-| Blog | Author | Topic | Primary connections |
+Do not edit, spell-correct, normalize, or rewrite the source transcript, blog, article, or review. Name errors and inaccurate interpretations are themselves useful audience evidence. Record corrections only in the editorial metadata.
+
+## Current Reaction Records
+
+| Reaction | Media type | Audience response | Canon alignment |
 |---|---|---|---|
+| [An Introduction to Aetherhaven](An_Introduction_to_Aetherhaven.md) | Audio podcast dialogue transcript | Highly enthusiastic, intellectually curious, and mystery-driven | Mixed: strong thematic understanding with several literalized or outdated lore claims |
+| [How Kindness Powers Aetherhaven's Heart Engine](How_Kindness_Powers_Aetherhaven’s_Heart_Engine.md) | Audio podcast dialogue transcript | Warm, delighted, accessible, and strongly attached to Amelia's everyday life | Emotionally strong; technically over-literal |
+| [Traveler's Guide to Aetherhaven](Aetherhaven_and_the_Heart_Engine.md) | Audio podcast dialogue transcript | Fascinated, unsettled, and eager to explore the city's systems | Strong thematic reading; mixed factual precision |
+| [Who Rules Aetherhaven's Heart Engine?](Who_Rules_Aetherhaven_s_Heart_Engine.md) | Audio debate transcript | Deeply engaged and genuinely divided rather than seeking a simple villain | Thematically strong with several institutional claims stated too confidently |
+| [Policing the Lost Seconds of Aetherhaven](Policing_the_Lost_Seconds_of_Aetherhaven.md) | Audio podcast dialogue transcript | Highly engaged with procedure, moral injury, institutional limits, and local expertise | Strong institutional themes; significant invented or conflicting event detail |
+| [Who Really Drives Your Mechanical Hand?](Who_Really_Drives_Your_Mechanical_Hand.md) | Audio podcast dialogue transcript | Powerfully affected, disturbed, and philosophically engaged | Excellent thematic resonance; major overstatement of unresolved medical history |
 
-## Reviews
+## Current Cross-Reaction Synthesis
 
-TBD
+See [Audience Response Synthesis](AUDIENCE_RESPONSE_SYNTHESIS.md) for the aggregate interpretation audit and development recommendations.
 
-## Other Media
+## Canon Separation
 
-TBD
+Material in this directory may inspire a question, reveal a communication problem, or identify a successful theme. It must never be copied into a canonical profile merely because a listener stated it confidently.
+
+When a reaction conflicts with canon:
+
+- preserve the reaction exactly;
+- document the conflict in metadata;
+- link to the authoritative active Markdown;
+- and decide separately whether the reaction reveals a problem in the story, the shared source package, or the audience's inference.

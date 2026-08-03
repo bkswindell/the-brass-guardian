@@ -1,3 +1,80 @@
+---
+reaction_id: AH-REACTION-003
+title: "Traveler's Guide to Aetherhaven"
+record_type: Non-canonical public reaction
+canon_status: Non-canonical audience evidence
+media_type: "Audio podcast dialogue transcript"
+source_file: "Aetherhaven_and_the_Heart_Engine.m4a"
+source_content_policy: Immutable
+source_sha256: 9f91331eea00f56e2ca32400572f703f8e2d7bbb5f22c7705fd95bcbe7ccec4f
+audience_scope: Limited test audience
+overall_sentiment: "Fascinated, unsettled, and eager to explore the city's systems"
+canon_alignment: "Strong thematic reading; mixed factual precision"
+last_metadata_review: 2026-08-03
+primary_connections:
+  - "../locations/Aetherhaven.md"
+  - "../locations/The_Aerial_Docks.md"
+  - "../locations/The_Cauldron.md"
+  - "../characters/Amelia_Hawthorne.md"
+  - "../organizations/The_Aerial_Mariners_Union.md"
+---
+
+# Public Reaction Record: Traveler's Guide to Aetherhaven
+
+> **Non-canonical audience evidence.** The editorial metadata and interpretation audit may be updated as canon develops. The source transcript below is preserved exactly and must not be edited, corrected, normalized, or silently incorporated into canon.
+
+## Editorial Reaction Summary
+
+The reaction treats Aetherhaven itself as the main attraction: a city whose geography, time, infrastructure, and government cannot be separated. It is especially engaged by working-class knowledge, institutional hypocrisy, Dock Zero, the Cauldron, and Amelia's ability to listen. It also invents confident technical explanations for mysteries intentionally left open.
+
+**Overall sentiment:** Fascinated, unsettled, and eager to explore the city's systems
+**Canon alignment:** Strong thematic reading; mixed factual precision
+
+## What Appears to Be Landing
+
+- Temporal displacement at the Aerial Docks is an excellent entry hook.
+- Living charts and working-class expertise are perceived as more trustworthy than official abstractions.
+- Dock Zero and the future-dated ticket produce sympathy as well as mystery.
+- The Cauldron reads as structural hypocrisy, not merely a dangerous neighborhood.
+- Amelia is understood as someone who listens to the city rather than conquers it.
+
+## Interpretation Audit
+
+### Aligned with Current Canonical Intent
+
+- Modern institutions are trying to govern systems older than their authority.
+- The Council, unions, Watch, Cauldron, Unwound, and Coil are connected by dependence rather than simple good-versus-evil roles.
+- The city's mutable geography and missing time feel purposeful rather than random spectacle.
+
+### Misinterpretations, Overreach, or Continuity Risks
+
+- It supplies unconfirmed physics for condensed aether and describes the Aetherium as a miniature black hole.
+- It claims the Wayfinder surfs temporal waves through a specific ancient conduit mechanism not established as settled canon.
+- It describes Mara Voss as entirely ignoring Council mandates, which is more absolute than her canonical practical independence.
+- It treats Prototype I as a full-scale Heart Engine iteration loose in the undercity; active canon does not establish that description.
+- It makes several interpretations of Thorne, the Council, and Amelia's Living Key status sound like confirmed facts.
+- It uses Hawthorn, Thorn, Ether, and Morning Star where current canon uses Hawthorne, Thorne, Aether, and Morningstar.
+
+## Development Use
+
+- The city has enough identity to function as a character and a reason to keep reading.
+- Public-facing files need clearer separation among observed evidence, institutional belief, and audience theory.
+- Preserve the working-class and infrastructure perspective; it makes the world feel inhabited rather than merely ornate.
+
+## Primary Canon Connections
+
+- [Aetherhaven](../locations/Aetherhaven.md)
+- [The Aerial Docks](../locations/The_Aerial_Docks.md)
+- [The Cauldron](../locations/The_Cauldron.md)
+- [Amelia Hawthorne](../characters/Amelia_Hawthorne.md)
+- [The Aerial Mariners Union](../organizations/The_Aerial_Mariners_Union.md)
+
+## Immutable Source Transcript
+
+**Source integrity:** SHA-256 `9f91331eea00f56e2ca32400572f703f8e2d7bbb5f22c7705fd95bcbe7ccec4f`
+**Editing rule:** Do not alter anything between the source markers. Corrections belong in the editorial metadata above.
+
+<!-- SOURCE CONTENT START: IMMUTABLE PUBLIC REACTION -->
 # Audio Transcript: Traveler's Guide to Aetherhaven
 
 **File:** Aetherhaven_and_the_Heart_Engine.m4a
@@ -275,3 +352,4 @@
 **Host 2:** Just one second.
 
 **Host 1:** Think about the sheer scale of that. Over years, over decades, over centuries of a sprawling metropolis ticking away—where are all those missing seconds going? What exactly is the Heart Engine doing with the time it is stealing from the citizens of Aetherhaven?
+<!-- SOURCE CONTENT END: IMMUTABLE PUBLIC REACTION -->

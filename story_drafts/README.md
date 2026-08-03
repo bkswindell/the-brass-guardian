@@ -40,6 +40,14 @@ Those questions belong to later discovery. The early goal is attachment: readers
 | *The Brass Guardian and the Clockwork Princess — A Bedtime Adventure for Amelia* | Preface, teaser, or short opening vignette; introduces wonder, kindness, the Moon Garden, and the emotional bond between Amelia and Elias | Canonical story draft; working title | [The_Brass_Guardian_and_the_Clockwork_Princess.md](The_Brass_Guardian_and_the_Clockwork_Princess.md) |
 | *The Brass Guardian and the Clockwork Explorer — A Day Aboard the Wayfinder* | Potential opening story or first chapter; introduces ordinary life aboard the *Wayfinder* before the main plot begins | Canonical story draft; working title | [The_Brass_Guardian_and_the_Clockwork_Explorer.md](The_Brass_Guardian_and_the_Clockwork_Explorer.md) |
 
+## Limited Audience Testing
+
+Selected story and canon materials are being shared with a limited test audience. Reactions are preserved in the non-canonical [`media_reactions/`](../media_reactions/README.md) directory.
+
+The current [Audience Response Synthesis](../media_reactions/AUDIENCE_RESPONSE_SYNTHESIS.md) supports the decision to introduce Amelia, Elias, Pip, and the Wayfinder through warmth and ordinary life before revealing the heavier Clockwork Jungle and institutional history.
+
+Audience reactions may guide clarity, pacing, terminology, and emphasis. They do not determine canon.
+
 ## Placement Decision Still Open
 
 The final opening sequence has not been selected.

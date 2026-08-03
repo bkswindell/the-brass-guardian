@@ -13,6 +13,7 @@ The repository currently contains:
 - **12** completed canonical organization profiles and **24** organization placeholders
 - **5** completed canonical location profiles and **50** location placeholders
 - **2** canonical prose story drafts in `story_drafts/`
+- **6** non-canonical public reaction records in `media_reactions/`
 - **7** long-range or hidden story-arc profiles
 - **16** historical-event records
 - **64** artifact image-slate records
@@ -30,6 +31,7 @@ When sources disagree, use the following order:
 3. The compiled manuscript exports, which represent an assembled project snapshot and may lag newer canon development.
 4. Artwork in `art/`, interpreted together with the corresponding written canon.
 5. The `unused/` directory is outside the project canon and must never be used as a story, art, continuity, or reference source unless the project owner explicitly restores a specific item to active canon.
+6. `media_reactions/` contains non-canonical evidence of audience interpretation. It may identify communication problems but cannot establish or resolve canon.
 
 A file marked **Canonical working profile** is authoritative for future story and art development unless explicitly revised.
 
@@ -50,6 +52,7 @@ A file marked **Canonical working profile** is authoritative for future story an
 | [CANON_MARKDOWN_STANDARD.md](CANON_MARKDOWN_STANDARD.md) | Required visual, hyperlinking, TODO, and AI-ingestion standards for Markdown files |
 | [Artifact_Profile_Template.md](Artifact_Profile_Template.md) | Standard structure for artifact records |
 | [story_drafts/README.md](story_drafts/README.md) | Index, canon rules, and Book One placement strategy for active prose story drafts |
+| [media_reactions/README.md](media_reactions/README.md) | Non-canonical limited-audience reactions, immutable source records, and interpretation audits |
 | [Story_Arc_Profile_Template.md](Story_Arc_Profile_Template.md) | Standard structure for story-arc records |
 | [Historical_Event_Profile_Template.md](Historical_Event_Profile_Template.md) | Standard structure for objective in-world historical-event records |
 
@@ -97,6 +100,14 @@ A file marked **Canonical working profile** is authoritative for future story an
 | [The Entertainment District](locations/The_Entertainment_District.md) | Location #17; public nightlife district and frontier with [the Cauldron](locations/The_Cauldron.md) | Canonical working profile | [The_Entertainment_District.md](locations/The_Entertainment_District.md) |
 | [The Gardens Airship Landing](locations/The_Gardens_Airship_Landing.md) | Location #8; explorer, courier, official, and emergency platform within [the Clockwork Gardens](locations/The_Clockwork_Gardens.md) | Canonical working profile | [The_Gardens_Airship_Landing.md](locations/The_Gardens_Airship_Landing.md) |
 | [The Moon Garden](locations/The_Moon_Garden.md) | Hidden nocturnal layer of [the Clockwork Gardens](locations/The_Clockwork_Gardens.md) and home of the Dream Engine | Canonical hidden location | [The_Moon_Garden.md](locations/The_Moon_Garden.md) |
+
+## Non-Canonical Public Reactions
+
+Limited-audience reactions are preserved in [`media_reactions/`](media_reactions/README.md). They are development evidence, not canon.
+
+The source transcripts are immutable. Editorial metadata may identify enthusiasm, confusion, factual drift, or useful audience theories without correcting the source text.
+
+See the current [Audience Response Synthesis](media_reactions/AUDIENCE_RESPONSE_SYNTHESIS.md).
 
 ## Canonical Story Drafts
 

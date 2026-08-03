@@ -1,3 +1,80 @@
+---
+reaction_id: AH-REACTION-005
+title: "Policing the Lost Seconds of Aetherhaven"
+record_type: Non-canonical public reaction
+canon_status: Non-canonical audience evidence
+media_type: "Audio podcast dialogue transcript"
+source_file: "Policing_the_Lost_Seconds_of_Aetherhaven.m4a"
+source_content_policy: Immutable
+source_sha256: d90083e9a3e258a84fc77dfc00aa86251073d9f0537916f4c526f8c2c9587af4
+audience_scope: Limited test audience
+overall_sentiment: "Highly engaged with procedure, moral injury, institutional limits, and local expertise"
+canon_alignment: "Strong institutional themes; significant invented or conflicting event detail"
+last_metadata_review: 2026-08-03
+primary_connections:
+  - "../organizations/The_Brass_Watch.md"
+  - "../characters/Chief_Inspector_Beatrice_Thorne.md"
+  - "../historical_events/The_Gearbreaker_Standoff.md"
+  - "../characters/Orin_Flint.md"
+  - "../story_arcs/The_Watchmans_Regret.md"
+---
+
+# Public Reaction Record: Policing the Lost Seconds of Aetherhaven
+
+> **Non-canonical audience evidence.** The editorial metadata and interpretation audit may be updated as canon develops. The source transcript below is preserved exactly and must not be edited, corrected, normalized, or silently incorporated into canon.
+
+## Editorial Reaction Summary
+
+The reaction sees the Brass Watch as honorable people operating inside a deliberately incomplete information system. Thorne's conflict, the value of physical evidence, and the need for Hawthorne expertise all resonate. The Gearbreaker retelling, however, adds actions and motivations that should not be imported back into canon.
+
+**Overall sentiment:** Highly engaged with procedure, moral injury, institutional limits, and local expertise
+**Canon alignment:** Strong institutional themes; significant invented or conflicting event detail
+
+## What Appears to Be Landing
+
+- The Watch's containment-first mentality feels practical, understandable, and insufficient.
+- Thorne is perceived as a strong character caught between truth, safety, and political command.
+- The distinction between honorable officers and a compromised information system is clear.
+- The Gearbreaker Standoff communicates the importance of local expertise and disciplined refusal.
+- A Watch/Hawthorne partnership feels narratively productive because each side supplies what the other lacks.
+
+## Interpretation Audit
+
+### Aligned with Current Canonical Intent
+
+- The Watch should be capable of bravery and institutional harm at the same time.
+- Gearbreaker is understood as a lesson against blind obedience and dismissal of workers' knowledge.
+- Thorne's value comes from recognizing that procedure can preserve safety without revealing truth.
+
+### Misinterpretations, Overreach, or Continuity Risks
+
+- It introduces detailed divisions, protocols, witness technology, and Sentinel behavior that may be audience extrapolation rather than settled canon.
+- The Gearbreaker account invents a shove, raised weapons, specific command actions, and a later career for the young constable.
+- It frames Vale as knowingly compelling miners into danger and Thorne as resolving consequences in ways that exceed active canon; Vale did not intend violence and Thorne did not order it.
+- The exact Gearbreaker choreography must remain the canonical disciplined, defensive standoff with no blood or blows.
+- It uses Oren, Hawthorne inconsistently, Thorn, Ether Gauntlet, and Ether Heart instead of Orin, Thorne, Aether Gauntlet, and Aether Heart.
+- The final temporal-bomb theory is an effective hook but remains audience speculation.
+
+## Development Use
+
+- The emotional meaning of Gearbreaker is landing, but the exact event needs a protected public-facing summary to prevent drift.
+- Keep Thorne morally serious and capable of opposing misuse without turning her into a simple rebel against the Council.
+- Procedural details are appealing; future canon can selectively formalize them without accepting the entire reaction account.
+
+## Primary Canon Connections
+
+- [The Brass Watch](../organizations/The_Brass_Watch.md)
+- [Chief Inspector Beatrice Thorne](../characters/Chief_Inspector_Beatrice_Thorne.md)
+- [The Gearbreaker Standoff](../historical_events/The_Gearbreaker_Standoff.md)
+- [Orin Flint](../characters/Orin_Flint.md)
+- [The Watchmans Regret](../story_arcs/The_Watchmans_Regret.md)
+
+## Immutable Source Transcript
+
+**Source integrity:** SHA-256 `d90083e9a3e258a84fc77dfc00aa86251073d9f0537916f4c526f8c2c9587af4`
+**Editing rule:** Do not alter anything between the source markers. Corrections belong in the editorial metadata above.
+
+<!-- SOURCE CONTENT START: IMMUTABLE PUBLIC REACTION -->
 # Audio Transcript: Policing the Lost Seconds of Aetherhaven
 
 **File:** Policing_the_Lost_Seconds_of_Aetherhaven.m4a
@@ -294,4 +371,4 @@
 
 **Host 2:** What happens on the day that every Sentinel in the city simultaneously receives a new command from that authority, and a century of compressed time hits the streets all at once?
 
-**Host 1:** If you were standing on that street, your shielded pocket watch wouldn't save you. Think about that the next time you feel a sudden jolt in your step. Maybe that second wasn't lost at all. Maybe it was just collected. Keep a close eye on your clocks, everyone.
+**Host 1:** If you were standing on that street, your shielded pocket watch wouldn't save you. Think about that the next time you feel a sudden jolt in your step. Maybe that second wasn't lost at all. Maybe it was just collected. Keep a close eye on your clocks, everyone.<!-- SOURCE CONTENT END: IMMUTABLE PUBLIC REACTION -->

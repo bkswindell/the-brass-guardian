@@ -42,6 +42,7 @@ Artifacts should link to relevant historical events through a **Related Historic
 3. Active artwork in `art/`, interpreted through its Markdown record.
 4. Owner-managed compiled manuscript only where active Markdown has a genuine gap.
 5. `unused/` is excluded and must never be consulted unless the project owner explicitly restores a named item.
+6. `media_reactions/` is non-canonical audience evidence and cannot override active canon.
 
 ## Required Structure
 
@@ -106,6 +107,18 @@ Every canonical Markdown file should contain:
 
 - Link to the involved characters, organizations, locations, and artifacts.
 - Use a representative canonical image only when it does not spoil more than the arc file already reveals.
+
+## Public Reaction Records
+
+Files in `media_reactions/` are non-canonical development evidence.
+
+- Preserve source transcripts, articles, blogs, and reviews exactly between `<!-- SOURCE CONTENT START: IMMUTABLE PUBLIC REACTION -->` and `<!-- SOURCE CONTENT END: IMMUTABLE PUBLIC REACTION -->`.
+- Store a SHA-256 checksum for each immutable source block.
+- Editorial metadata, interpretation audits, summaries, tags, and canon links may be updated.
+- Do not silently correct misspelled names, inaccurate claims, or speculative statements inside source content; those errors are useful evidence of audience understanding.
+- Never promote a reaction theory into canon without a separate explicit canon decision.
+- When a reaction conflicts with canon, link to the authoritative active Markdown and describe the conflict outside the source block.
+- Aggregate conclusions must identify the sample size and avoid treating a limited test audience as broad market evidence.
 
 ## Organization Naming Collision Rule
 
