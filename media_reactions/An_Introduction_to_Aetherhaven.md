@@ -23,7 +23,7 @@ primary_connections:
 
 > **Non-canonical audience evidence.** The editorial metadata and interpretation audit may be updated as canon develops. The source transcript below is preserved exactly and must not be edited, corrected, normalized, or silently incorporated into canon.
 
-- [Podcast](https://www.spreaker.com/episode/an-introduction-to-aetherhaven--73392842)  
+- [Podcast Link](https://www.spreaker.com/episode/an-introduction-to-aetherhaven--73392842)  
 
 ## Editorial Reaction Summary
 
