@@ -12,6 +12,8 @@ primary_protagonist:
 primary_locations:
   - Clockwork Gardens
   - Moon Garden
+related_story_drafts:
+  - ../story_drafts/The_Brass_Guardian_and_the_Clockwork_Princess.md
 primary_artifacts:
   - Silver dream flower
   - Dream Engine
@@ -23,7 +25,7 @@ temporal_relevance: High
 
 ## Arc Premise
 
-The early bedtime adventure presents the Keeper of Dreams as a luminous figure who asks [Amelia](../characters/Amelia_Hawthorne.md) and [Elias](../characters/Professor_Elias_Hawthorne.md) to restore [the Moon Garden](../locations/The_Moon_Garden.md) and Dream Engine.
+The canonical story draft [*The Brass Guardian and the Clockwork Princess — A Bedtime Adventure for Amelia*](../story_drafts/The_Brass_Guardian_and_the_Clockwork_Princess.md) presents the Keeper of Dreams as a luminous figure who asks [Amelia](../characters/Amelia_Hawthorne.md) and [Elias](../characters/Professor_Elias_Hawthorne.md) to restore [the Moon Garden](../locations/The_Moon_Garden.md) and Dream Engine.
 
 The main series later introduces [Juniper Bell](../characters/Juniper_Bell.md) as the eccentric [Keeper of the Clockwork Gardens](../characters/Juniper_Bell.md) without immediately identifying her as the same figure.
 

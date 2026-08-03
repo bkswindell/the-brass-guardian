@@ -12,6 +12,7 @@ The repository currently contains:
 - **13** completed canonical character profiles and **15** source-grounded character placeholders
 - **12** completed canonical organization profiles and **24** organization placeholders
 - **5** completed canonical location profiles and **50** location placeholders
+- **2** canonical prose story drafts in `story_drafts/`
 - **7** long-range or hidden story-arc profiles
 - **16** historical-event records
 - **64** artifact image-slate records
@@ -25,7 +26,7 @@ The repository currently contains:
 When sources disagree, use the following order:
 
 1. The latest explicit canon decision recorded in the active profile and story-arc files.
-2. Canonical Markdown profiles in `characters/`, `organizations/`, `locations/`, `historical_events/`, and `story_arcs/`.
+2. Canonical Markdown profiles and prose drafts in `characters/`, `organizations/`, `locations/`, `historical_events/`, `story_arcs/`, and `story_drafts/`.
 3. The compiled manuscript exports, which represent an assembled project snapshot and may lag newer canon development.
 4. Artwork in `art/`, interpreted together with the corresponding written canon.
 5. The `unused/` directory is outside the project canon and must never be used as a story, art, continuity, or reference source unless the project owner explicitly restores a specific item to active canon.
@@ -48,6 +49,7 @@ A file marked **Canonical working profile** is authoritative for future story an
 | [Map_Location_Reference_Style_Guide.md](Map_Location_Reference_Style_Guide.md) | Public-facing tone and continuity rules for numbered and restricted map locations |
 | [CANON_MARKDOWN_STANDARD.md](CANON_MARKDOWN_STANDARD.md) | Required visual, hyperlinking, TODO, and AI-ingestion standards for Markdown files |
 | [Artifact_Profile_Template.md](Artifact_Profile_Template.md) | Standard structure for artifact records |
+| [story_drafts/README.md](story_drafts/README.md) | Index, canon rules, and Book One placement strategy for active prose story drafts |
 | [Story_Arc_Profile_Template.md](Story_Arc_Profile_Template.md) | Standard structure for story-arc records |
 | [Historical_Event_Profile_Template.md](Historical_Event_Profile_Template.md) | Standard structure for objective in-world historical-event records |
 
@@ -95,6 +97,17 @@ A file marked **Canonical working profile** is authoritative for future story an
 | [The Entertainment District](locations/The_Entertainment_District.md) | Location #17; public nightlife district and frontier with [the Cauldron](locations/The_Cauldron.md) | Canonical working profile | [The_Entertainment_District.md](locations/The_Entertainment_District.md) |
 | [The Gardens Airship Landing](locations/The_Gardens_Airship_Landing.md) | Location #8; explorer, courier, official, and emergency platform within [the Clockwork Gardens](locations/The_Clockwork_Gardens.md) | Canonical working profile | [The_Gardens_Airship_Landing.md](locations/The_Gardens_Airship_Landing.md) |
 | [The Moon Garden](locations/The_Moon_Garden.md) | Hidden nocturnal layer of [the Clockwork Gardens](locations/The_Clockwork_Gardens.md) and home of the Dream Engine | Canonical hidden location | [The_Moon_Garden.md](locations/The_Moon_Garden.md) |
+
+## Canonical Story Drafts
+
+Story drafts contain active narrative prose. Their working titles and wording may be revised, but their canonical character relationships, events, emotional truths, and opening-role decisions remain authoritative unless explicitly changed.
+
+See the [Canonical Story Drafts Index](story_drafts/README.md).
+
+| Working title | Intended role | Canon status | File |
+|---|---|---|---|
+| *The Brass Guardian and the Clockwork Princess — A Bedtime Adventure for Amelia* | Preface, illustrated teaser, or short opening vignette introducing wonder, kindness, and the Hawthornes' bond | Canonical story draft; working title | [The_Brass_Guardian_and_the_Clockwork_Princess.md](story_drafts/The_Brass_Guardian_and_the_Clockwork_Princess.md) |
+| *The Brass Guardian and the Clockwork Explorer — A Day Aboard the Wayfinder* | Potential opening story or first full chapter establishing ordinary life aboard the *Wayfinder* | Canonical story draft; working title | [The_Brass_Guardian_and_the_Clockwork_Explorer.md](story_drafts/The_Brass_Guardian_and_the_Clockwork_Explorer.md) |
 
 ## Canonical Story Arcs
 

@@ -38,7 +38,7 @@ Artifacts should link to relevant historical events through a **Related Historic
 ## Source Priority
 
 1. Latest explicit canon decision in active Markdown.
-2. Canonical Markdown profiles and artifact files.
+2. Canonical Markdown profiles, story drafts, and artifact files.
 3. Active artwork in `art/`, interpreted through its Markdown record.
 4. Owner-managed compiled manuscript only where active Markdown has a genuine gap.
 5. `unused/` is excluded and must never be consulted unless the project owner explicitly restores a named item.
@@ -91,7 +91,18 @@ Every canonical Markdown file should contain:
 - Do not depict an unresolved witness account, mediator identity, chronology, or disputed action as settled fact.
 - Treat the historical-event file as the authoritative owner of the event chronology.
 
-### Story Arcs
+#### Story Drafts
+
+- Story prose belongs in `story_drafts/`; long-range plotting and reveal planning belong in `story_arcs/`.
+- A file marked **Canonical story draft** is authoritative for its character relationships, events, emotional truth, and explicitly stated continuity even while the title and wording remain under revision.
+- Preserve the current full prose before making structural revisions.
+- Separate exact draft text from editorial notes, continuity notes, placement options, and unresolved terminology.
+- Working titles may change without changing the story's canonical status.
+- Do not treat every fairy-tale explanation, metaphor, remembered detail, or narrator simplification as settled technical lore when the draft explicitly preserves that ambiguity.
+- Opening stories should avoid premature exposition when their purpose is to establish present-day character attachment, wonder, domestic life, or tone.
+- Link the draft to the character, location, artifact, historical-event, and story-arc records that own its deeper continuity.
+
+## Story Arcs
 
 - Link to the involved characters, organizations, locations, and artifacts.
 - Use a representative canonical image only when it does not spoil more than the arc file already reveals.
