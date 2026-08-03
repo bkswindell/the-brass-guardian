@@ -23,8 +23,19 @@ primary_connections:
   - Amelia and Elias relationship
   - Pip
 source_basis:
-  - Aetherhaven v3.pdf, pages 9-13
+  - The_Brass_Guardian.pdf
 last_updated: 2026-08-03
+artwork:
+  cover_image: ../art/Wayfinder_Above_the_Clouds.png
+  inline_images:
+    - placement: after "Professor Elias Hawthorne always woke before the sun."
+      file: ../art/Brass Dreams Above the Clouds.png
+    - placement: after "Which somehow made Amelia love it even more."
+      file: ../art/Clockwork Workshop in the Sky.png
+    - placement: after "Dinner was vegetable soup with warm bread."
+      file: ../art/Steampunk Airship Galley Feast.png
+    - placement: after the final Heart Engine hum
+      file: ../art/Guardians Over the Brass City.png
 ---
 
 # The Brass Guardian and the Clockwork Explorer
@@ -32,6 +43,8 @@ last_updated: 2026-08-03
 ## A Day Aboard the Wayfinder
 
 > **Canonical story draft with a working title.** The day-to-day relationship, domestic routines, tone, and present-day characterization are canon. Final Book One placement and a small number of technical terms remain open to revision.
+
+![Cover illustration for *The Brass Guardian and the Clockwork Explorer*](../art/Wayfinder_Above_the_Clouds.png)
 
 ## Intended Role in Book One
 
@@ -87,6 +100,8 @@ Her father was awake.
 That wasn't surprising.
 
 Professor Elias Hawthorne always woke before the sun.
+
+![Brass Dreams Above the Clouds](../art/Brass%20Dreams%20Above%20the%20Clouds.png)
 
 Amelia hurried up the narrow staircase and onto the main deck.
 
@@ -234,6 +249,8 @@ Even Elias admitted,
 
 Which somehow made Amelia love it even more.
 
+![Clockwork Workshop in the Sky](../art/Clockwork%20Workshop%20in%20the%20Sky.png)
+
 By lunchtime they had drifted beside a family of Cloud Whales.
 
 The enormous creatures floated lazily through the sky like living islands.
@@ -292,6 +309,8 @@ The engines settled into a slower rhythm.
 
 Dinner was vegetable soup with warm bread.
 
+![Steampunk Airship Galley Feast](../art/Steampunk%20Airship%20Galley%20Feast.png)
+
 Afterward, Elias read aloud from one of his favorite explorer journals while Amelia leaned comfortably against him.
 
 Sometimes she asked questions.
@@ -334,6 +353,8 @@ The Heart Engine gave one soft, happy hum.
 
 “Hmmmm...”
 
+![Guardians Over the Brass City](../art/Guardians%20Over%20the%20Brass%20City.png)
+
 Pip chirped.
 
 The lanterns flickered gently.
@@ -374,6 +395,7 @@ Ready for whatever tomorrow might bring.
 - [x] Establish the story as a potential Book One opening.
 - [x] Preserve the no-accident-exposition rule.
 - [x] Establish ordinary Wayfinder life as meaningful canon.
+- [x] Add the PDF cover and four inline artwork references, including the omitted galley image.
 - [ ] Select the final title and subtitle.
 - [ ] Select exact placement in Book One.
 - [ ] Resolve the vessel-engine terminology.

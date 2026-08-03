@@ -16,6 +16,7 @@ on:
       - scripts/clarify_order_shorthand.py
       - scripts/polish_order_shorthand_grammar.py
       - scripts/integrate_canonical_story_drafts.py
+      - scripts/add_story_draft_artwork.py
       - .github/workflows/build-historical-event-library.yml
 
 permissions:
@@ -54,6 +55,7 @@ jobs:
           python scripts/clarify_order_shorthand.py
           python scripts/polish_order_shorthand_grammar.py
           python scripts/integrate_canonical_story_drafts.py
+          python scripts/add_story_draft_artwork.py
 
       - name: Refresh development TODO
         run: |
@@ -76,6 +78,7 @@ jobs:
           python scripts/clarify_order_shorthand.py
           python scripts/polish_order_shorthand_grammar.py
           python scripts/integrate_canonical_story_drafts.py
+          python scripts/add_story_draft_artwork.py
           python scripts/build_canon_development_todo.py
           python scripts/link_canon_development_todo.py
           find . -type f -name '*.md' -not -path './.git/*' -not -path './unused/*' -print0 \
@@ -95,5 +98,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add -- '*.md' '**/*.md' scripts/*.py
-          git commit -m "Integrate canonical story drafts"
+          git commit -m "Add story draft artwork references"
           git push origin HEAD:${{ github.event.pull_request.head.ref || github.ref_name }}
