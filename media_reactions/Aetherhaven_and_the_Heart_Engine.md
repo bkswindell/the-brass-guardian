@@ -23,6 +23,8 @@ primary_connections:
 
 > **Non-canonical audience evidence.** The editorial metadata and interpretation audit may be updated as canon develops. The source transcript below is preserved exactly and must not be edited, corrected, normalized, or silently incorporated into canon.
 
+- [Podcast Link](https://www.spreaker.com/episode/traveler-s-guide-to-aetherhaven--73392917)  
+
 ## Editorial Reaction Summary
 
 The reaction treats Aetherhaven itself as the main attraction: a city whose geography, time, infrastructure, and government cannot be separated. It is especially engaged by working-class knowledge, institutional hypocrisy, Dock Zero, the Cauldron, and Amelia's ability to listen. It also invents confident technical explanations for mysteries intentionally left open.
