@@ -4,13 +4,13 @@ name: The Hall of Vital Mechanics
 type: Unlisted civic hospital, medical institute, and emergency-coordination center
 aliases:
   - Vital Hall
-  - The Central Institute, provisional
+  - The Central Order, provisional
 series: The Brass Guardian / The Aetherhaven Chronicles
 canon_status: Owner-directed canonical placeholder
 canonical_scope: Aetherhaven volumes
 last_updated: 2026-08-02
 jurisdiction:
-  - The Institute of Vital Mechanics
+  - The Order of the Mended Hand
   - Civic medical regulation and emergency coordination, exact authority unresolved
 access_status:
   - Public clinical areas
@@ -19,7 +19,7 @@ map_reference_category: unlisted
 map_number:
 parent_location: The Government District
 primary_connections:
-  - The Institute of Vital Mechanics
+  - The Order of the Mended Hand
   - The High Council of Aetherhaven
   - The Brass Watch
   - The Academy of Invention
@@ -46,7 +46,7 @@ A respected and feared civic hospital where Aetherhaven sends catastrophic injur
 
 ## Canonical Summary
 
-The Hall of Vital Mechanics is the central headquarters, principal hospital, teaching center, records authority, and research institution of [the Institute of Vital Mechanics](../organizations/The_Institute_of_Vital_Mechanics.md).
+The Hall of Vital Mechanics is the central headquarters, principal hospital, teaching center, records authority, and research institution of [the Order of the Mended Hand](../organizations/The_Order_of_the_Mended_Hand.md).
 
 It is the best-equipped place in Aetherhaven for injuries that cross the boundaries between flesh, machinery, aether, and public safety.
 
@@ -151,7 +151,7 @@ Avoid a gothic asylum caricature, but do not make the Hall reassuring by default
 ## Continuity Constraints
 
 - The Hall is an unnumbered point of interest within the Government District.
-- It is the central institution of the Institute of Vital Mechanics.
+- It is the central institution of the Order of the Mended Hand.
 - It is a last-resort hospital and research authority, not the ordinary first choice for common ailments.
 - Citizens may fear unnecessary amputation, experimentation, confinement, debt, or institutional reporting.
 - Public wards, training, administration, surgery, prosthetics, rehabilitation, records, and restricted research coexist.
@@ -180,7 +180,7 @@ Avoid a gothic asylum caricature, but do not make the Hall reassuring by default
 
 - [x] Institutional purpose established.
 - [x] Government District placement established.
-- [x] Relationship to the Institute established.
+- [x] Relationship to the Order established.
 - [ ] Approve final name and architecture.
 - [ ] Define departments and leadership.
 - [ ] Create representative art or an architectural artifact.

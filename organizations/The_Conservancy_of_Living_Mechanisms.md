@@ -873,15 +873,15 @@ A rescued [Ninth Guild](The_Ninth_Guild.md) organism begins growing a laboratory
 - The full capability of the Quiet Wardens.
 - What the Gardens remember about the Rising and [the Heart Engine](../locations/The_Aetherium.md).
 
-## Relationship with the Institute of Vital Mechanics
+## Relationship with the Order of the Mended Hand
 
-The Conservancy has no standing alliance with [the Institute of Vital Mechanics](The_Institute_of_Vital_Mechanics.md).
+The Conservancy has no standing alliance with [the Order of the Mended Hand](The_Order_of_the_Mended_Hand.md).
 
 Individual Tenders may occasionally provide herbs, responsive mosses, resins, living fibers, calming pollens, antifungal growths, or other rare materials when a particular patient requires them.
 
 The Conservancy distrusts an institution that may classify a living body as a failed mechanism and recommend cutting or replacement before understanding the relationship being damaged.
 
-Institute practitioners may distrust Conservancy remedies because dosage, growth, and response can vary between specimens.
+Order practitioners may distrust Conservancy remedies because dosage, growth, and response can vary between specimens.
 
 The exchange is practical, irregular, and often mediated through trusted individuals rather than formal offices.
 

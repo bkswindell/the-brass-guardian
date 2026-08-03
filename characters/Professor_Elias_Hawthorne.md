@@ -28,7 +28,7 @@ key_connections:
   - The Clockwork Jungle Expedition
   - The Six Aether Keys
   - The Heart Engine
-  - The Institute of Vital Mechanics
+  - The Order of the Mended Hand
 temporal_relevance: High
 source_basis:
   - Aetherhaven.pdf
@@ -374,21 +374,21 @@ These remain possibilities, not confirmed facts.
 
 Elias may recognize patterns of obstruction before he understands the organization responsible.
 
-## Relationship with the Institute of Vital Mechanics
+## Relationship with the Order of the Mended Hand
 
-Elias has a complicated relationship with [the Institute of Vital Mechanics](../organizations/The_Institute_of_Vital_Mechanics.md).
+Elias has a complicated relationship with [the Order of the Mended Hand](../organizations/The_Order_of_the_Mended_Hand.md).
 
 His field engineering and emergency actions may have been essential to keeping Amelia alive. They did not replace trained surgery, infection control, rehabilitation, or prosthetic care.
 
-He may owe particular Institute practitioners an unpayable debt while distrusting the institution as a whole.
+He may owe particular Order practitioners an unpayable debt while distrusting the institution as a whole.
 
-The Institute may have recommended interventions Elias accepted because Amelia would otherwise die. It may also have recommended amputation, standardized replacement, removal of the Aether Heart, prolonged observation, or experimental procedures he refused.
+The Order may have recommended interventions Elias accepted because Amelia would otherwise die. It may also have recommended amputation, standardized replacement, removal of the Aether Heart, prolonged observation, or experimental procedures he refused.
 
 The exact choices remain unresolved.
 
-Elias respects genuine expertise but does not accept an Institute title as proof of wisdom or morality. His guilt can make him too willing to accept dangerous recommendations—or too determined to oppose practitioners who may be correct.
+Elias respects genuine expertise but does not accept an Order title as proof of wisdom or morality. His guilt can make him too willing to accept dangerous recommendations—or too determined to oppose practitioners who may be correct.
 
-The Institute is one of the institutions capable of challenging Elias's belief that he alone must decide Amelia's care, while also giving him valid reasons to fear surrendering control.
+The Order is one of the institutions capable of challenging Elias's belief that he alone must decide Amelia's care, while also giving him valid reasons to fear surrendering control.
 
 ## The Clockwork Jungle Expedition
 

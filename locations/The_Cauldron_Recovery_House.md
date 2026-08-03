@@ -10,7 +10,7 @@ canon_status: Owner-directed canonical placeholder
 canonical_scope: Aetherhaven volumes
 last_updated: 2026-08-02
 jurisdiction:
-  - Local Cauldron compact and Institute affiliation, exact balance unresolved
+  - Local Cauldron compact and Order affiliation, exact balance unresolved
 access_status:
   - Community medical access
   - Neutral-care protections expected but not formally defined
@@ -18,7 +18,7 @@ map_reference_category: unlisted
 map_number:
 parent_location: The Cauldron
 primary_connections:
-  - The Institute of Vital Mechanics
+  - The Order of the Mended Hand
   - The Cauldron
   - Neighborhood Compacts
   - The Mechanists' Guild, limited technical support
@@ -31,7 +31,7 @@ source_basis:
 
 # The Cauldron Recovery House
 
-> **Canonical working placeholder.** A rehabilitation and community-care facility exists within the Cauldron. Its final name, exact founders, governance, staff, and relationship with the central Institute remain unresolved.
+> **Canonical working placeholder.** A rehabilitation and community-care facility exists within the Cauldron. Its final name, exact founders, governance, staff, and relationship with the central Order remain unresolved.
 
 ## Map Reference
 
@@ -47,9 +47,9 @@ A hard-won place of recovery inside the Cauldron, serving workers, families, dis
 
 The Cauldron Recovery House provides rehabilitation, adaptive-device care, industrial-injury treatment, long-term recovery, prosthetics maintenance, and community medicine within the Cauldron.
 
-It is affiliated with [the Institute of Vital Mechanics](../organizations/The_Institute_of_Vital_Mechanics.md), but it cannot function as a simple branch of Government District authority.
+It is affiliated with [the Order of the Mended Hand](../organizations/The_Order_of_the_Mended_Hand.md), but it cannot function as a simple branch of Government District authority.
 
-Residents often trust individual House practitioners more than the central Institute because those practitioners live with the consequences of their recommendations.
+Residents often trust individual House practitioners more than the central Order because those practitioners live with the consequences of their recommendations.
 
 That does not make the House automatically safe or medically correct.
 
@@ -63,7 +63,7 @@ It is expected not to function as a Brass Watch observation post, Council regist
 
 Those expectations have likely been tested and may have been violated in the past.
 
-Trust is attached to people, neighborhood compacts, and repeated conduct rather than the Institute seal on the door.
+Trust is attached to people, neighborhood compacts, and repeated conduct rather than the Order seal on the door.
 
 A practitioner who shares a patient's name or accepts an outside payment may make the entire House unsafe until the community answers the breach.
 
@@ -77,9 +77,9 @@ It is also more likely to use an untested remedy because no certified treatment 
 
 Patients may be transferred to the Hall for surgery or advanced intervention only after local options have failed—or when delay has made the situation worse.
 
-## Relationship with the Institute of Vital Mechanics
+## Relationship with the Order of the Mended Hand
 
-The central Institute may provide supplies, specialist rotations, difficult surgery, training, prosthetic components, and emergency transport.
+The central Order may provide supplies, specialist rotations, difficult surgery, training, prosthetic components, and emergency transport.
 
 It may also demand records, impose licensing requirements, reject local methods, recruit unusual patients, or threaten to withdraw support.
 
@@ -110,7 +110,7 @@ Avoid portraying it as morally pure merely because it opposes upper-city control
 ## Continuity Constraints
 
 - A rehabilitation and community-care facility exists in the Cauldron.
-- It is affiliated with the Institute but depends on local trust and partial autonomy.
+- It is affiliated with the Order but depends on local trust and partial autonomy.
 - It serves people neglected, priced out, undocumented, or endangered by ordinary civic systems.
 - It is not a disguised Watch or Council outpost, though its neutrality may be breached.
 - It may use herbs, household remedies, salvaged devices, unlicensed methods, and uncertified technology.
@@ -123,12 +123,12 @@ Avoid portraying it as morally pure merely because it opposes upper-city control
 
 1. Is **The Cauldron Recovery House** the final name?
 2. Who founded it?
-3. Is it locally governed, Institute controlled, or jointly chartered?
+3. Is it locally governed, Order controlled, or jointly chartered?
 4. What customary protection guards patient identity?
 5. When was that protection last broken?
 6. Which neighborhood compact protects the House?
 7. What herbs or remedies are unavailable in the upper city?
-8. Which local practices genuinely outperform Institute methods?
+8. Which local practices genuinely outperform Order methods?
 9. Which local practice has caused preventable harm?
 10. How are supplies moved across the Ash Line?
 11. Which services require transfer to the central Hall?
@@ -138,7 +138,7 @@ Avoid portraying it as morally pure merely because it opposes upper-city control
 ## Development Checklist
 
 - [x] Cauldron rehabilitation role established.
-- [x] Institute affiliation and local autonomy established.
+- [x] Order affiliation and local autonomy established.
 - [x] Neutral-care constraints established.
 - [ ] Approve final name and governance.
 - [ ] Define staff and neighborhood relationships.

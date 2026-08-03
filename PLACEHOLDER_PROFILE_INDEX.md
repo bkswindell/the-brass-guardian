@@ -52,7 +52,7 @@ Some entries are owner-directed canonical placeholders created from explicit can
 | [The Guild of Clockwrights](organizations/The_Guild_of_Clockwrights.md) | [The_Guild_of_Clockwrights.md](organizations/The_Guild_of_Clockwrights.md) |
 | [The Guild of Artificers](organizations/The_Guild_of_Artificers.md) | [The_Guild_of_Artificers.md](organizations/The_Guild_of_Artificers.md) |
 | [The Guild of Verdant Mechanists](organizations/The_Guild_of_Verdant_Mechanists.md) | [The_Guild_of_Verdant_Mechanists.md](organizations/The_Guild_of_Verdant_Mechanists.md) |
-| [The Institute of Vital Mechanics](organizations/The_Institute_of_Vital_Mechanics.md) | [The_Institute_of_Vital_Mechanics.md](organizations/The_Institute_of_Vital_Mechanics.md) |
+| [The Order of the Mended Hand](organizations/The_Order_of_the_Mended_Hand.md) | [The_Order_of_the_Mended_Hand.md](organizations/The_Order_of_the_Mended_Hand.md) |
 
 ## Location Placeholders
 

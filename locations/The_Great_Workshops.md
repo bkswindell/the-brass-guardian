@@ -14,10 +14,10 @@ map_reference_category: numbered
 map_number: 20
 parent_location: 
 primary_connections:
-  - The Institute of Vital Mechanics
+  - The Order of the Mended Hand
   - The Mechanists' Guild
 points_of_interest:
-  - Institute prosthetics and implant annex, final name unresolved
+  - Order prosthetics and implant annex, final name unresolved
 temporal_relevance: Unresolved
 source_basis:
   - Aetherhaven v3.pdf
@@ -53,7 +53,7 @@ Link parent districts, organizations, recurring characters, and artifacts only w
 
 ## Medical, Prosthetics, and Implant Work
 
-The Great Workshops include an Institute-supported prosthetics and implant annex where surgeons, prosthetists, therapists, and certified mechanists collaborate on adaptive devices, replacement limbs, braces, and medically integrated machinery.
+The Great Workshops include an Order-supported prosthetics and implant annex where surgeons, prosthetists, therapists, and certified mechanists collaborate on adaptive devices, replacement limbs, braces, and medically integrated machinery.
 
 The exact location, name, governance, and relationship to Elias's private workspace remain unresolved.
 
