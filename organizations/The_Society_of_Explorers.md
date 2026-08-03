@@ -12,7 +12,7 @@ last_updated: 2026-08-02
 headquarters: []
 known_leadership: []
 primary_connections:
-  - The Institute of Vital Mechanics
+  - The Order of the Mended Hand
   - Professor Elias Hawthorne
 temporal_relevance: Unresolved
 source_basis:
@@ -45,19 +45,19 @@ Add only relationships already established in the source or current canonical Ma
 
 ## Expedition Medical Support
 
-Dangerous expeditions may require Institute-certified medical planning, field kits, evacuation procedures, or a medical practitioner capable of treating trauma far from Aetherhaven.
+Dangerous expeditions may require Order-certified medical planning, field kits, evacuation procedures, or a medical practitioner capable of treating trauma far from Aetherhaven.
 
-Whether [the Institute of Vital Mechanics](The_Institute_of_Vital_Mechanics.md) supplied or certified a medic for the Clockwork Jungle expedition remains unresolved.
+Whether [the Order of the Mended Hand](The_Order_of_the_Mended_Hand.md) supplied or certified a medic for the Clockwork Jungle expedition remains unresolved.
 
-The Society and Institute may disagree over when medical caution becomes an unreasonable barrier to exploration and when an explorer's confidence becomes preventable risk.
+The Society and Order may disagree over when medical caution becomes an unreasonable barrier to exploration and when an explorer's confidence becomes preventable risk.
 
-## Relationship with the Institute of Vital Mechanics
+## Relationship with the Order of the Mended Hand
 
-The Society may rely on [the Institute of Vital Mechanics](The_Institute_of_Vital_Mechanics.md) for expedition medics, readiness review, medical equipment, and evacuation planning.
+The Society may rely on [the Order of the Mended Hand](The_Order_of_the_Mended_Hand.md) for expedition medics, readiness review, medical equipment, and evacuation planning.
 
 Field isolation gives expeditionary practitioners broad authority and weak oversight. A medic may save a life through necessary improvisation or perform a procedure that could not have been justified in the city.
 
-Whether an Institute practitioner accompanied the Clockwork Jungle expedition remains unresolved.
+Whether an Order practitioner accompanied the Clockwork Jungle expedition remains unresolved.
 
 ## Continuity Constraints
 

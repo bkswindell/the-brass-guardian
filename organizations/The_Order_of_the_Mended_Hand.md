@@ -1,11 +1,11 @@
 ---
 organization_id: AH-ORG-PLACEHOLDER-024
-name: The Institute of Vital Mechanics
-type: Distributed civic medical, surgical, rehabilitation, prosthetics, and field-response institution
+name: The Order of the Mended Hand
+type: Chartered hospitaller medical order, surgical network, rehabilitation authority, prosthetics service, and field-response organization
 aliases:
-  - The Vital Institute
-  - Institute of Vital Mechanics
-  - IVM, provisional abbreviation
+  - The Mended Hand
+  - The Hand
+  - The Order
 series: The Brass Guardian / The Aetherhaven Chronicles
 canon_status: Owner-directed canonical placeholder
 canonical_scope: Aetherhaven volumes
@@ -32,25 +32,25 @@ source_basis:
   - Owner canon decision recorded August 2, 2026
 ---
 
-# The Institute of Vital Mechanics
+# The Order of the Mended Hand
 
-> **Canonical working placeholder.** This institution exists throughout Aetherhaven and its expeditionary networks. Its exact final name, leadership, internal ranks, branch names, and historical role remain open for later development.
+> **Canonical working placeholder.** This institution exists throughout Aetherhaven and its expeditionary networks. Its formal name and common shorthand are canonical. Its leadership, internal ranks, branch names, founding history, and full historical role remain open for later development.
 
 ## Canonical Summary
 
-The Institute of Vital Mechanics is Aetherhaven's principal civic institution for severe medicine, emergency surgery, trauma care, rehabilitation, prosthetics, implants, mechanobiology, and the forced cooperation of living bodies with mechanical technology.
+The Order of the Mended Hand is Aetherhaven's principal civic institution for severe medicine, emergency surgery, trauma care, rehabilitation, prosthetics, implants, mechanobiology, and the forced cooperation of living bodies with mechanical technology.
 
 It is necessary.
 
 It is not automatically safe.
 
-The Institute exists because there are injuries, infections, aetheric exposures, industrial accidents, and mechanical integrations that neighborhood healers cannot reliably treat. Its practitioners can preserve lives that would otherwise be lost, replace function that cannot be restored, and keep explorers or workers alive long enough to return home.
+The Order exists because there are injuries, infections, aetheric exposures, industrial accidents, and mechanical integrations that neighborhood healers cannot reliably treat. Its practitioners can preserve lives that would otherwise be lost, replace function that cannot be restored, and keep explorers or workers alive long enough to return home.
 
 They can also recommend treatments more dangerous than the illness, value a successful mechanism above the person attached to it, and mistake the ability to perform a procedure for proof that the procedure should be performed.
 
-The Institute is not a separate medical district and does not replace private physicians, apothecaries, midwives, household remedies, workshop medics, herbalists, or community healers. Most citizens prefer those alternatives for ordinary ailments and approach the Institute only when the risk of avoiding it has become greater than the risk of submitting to its care.
+The Order is not a separate medical district and does not replace private physicians, apothecaries, midwives, household remedies, workshop medics, herbalists, or community healers. Most citizens prefer those alternatives for ordinary ailments and approach the Order only when the risk of avoiding it has become greater than the risk of submitting to its care.
 
-The Institute operates as a distributed network with:
+The Order operates as a distributed network with:
 
 - a central hospital and administrative institution in [the Government District](../locations/The_Government_District.md);
 - clinical and research staff embedded within [the Academy of Invention](The_Academy_of_Invention.md);
@@ -59,15 +59,25 @@ The Institute operates as a distributed network with:
 - field medics and emergency liaisons working beside [the Brass Watch](The_Brass_Watch.md);
 - and expeditionary practitioners who may accompany accredited explorers.
 
-The Institute supports biology with technology, but its understanding of biology is incomplete and uneven. Its mechanical skill often exceeds its knowledge of infection, rejection, pain, recovery, and the long-term consequences of intervention.
+The Order supports biology with technology, but its understanding of biology is incomplete and uneven. Its mechanical skill often exceeds its knowledge of infection, rejection, pain, recovery, and the long-term consequences of intervention.
 
 It can save a life.
 
 It may change that life permanently while doing so.
 
+## Name and Common Usage
+
+The formal name is **The Order of the Mended Hand**.
+
+In ordinary speech, citizens call it **the Hand**.
+
+The shorthand carries both reassurance and threat. A person may say, *Take them to the Hand*, when an injury has passed beyond household remedies. Another may answer, *Not unless there is no other choice.*
+
+The word **Order** reflects its age, chartered privileges, dispersed houses, field service, internal loyalties, and semi-autonomous authority. It does not make every member a knight, soldier, or moral exemplar. Exact ranks, vows, chapter titles, and the Order's founding Rule remain unresolved.
+
 ## Public Role
 
-The Institute's public responsibilities include catastrophic injury response, surgery, prosthetics, implants, rehabilitation, expedition medicine, industrial medicine, and the treatment of aetheric or mechanical trauma.
+The Order's public responsibilities include catastrophic injury response, surgery, prosthetics, implants, rehabilitation, expedition medicine, industrial medicine, and the treatment of aetheric or mechanical trauma.
 
 It is not where most citizens willingly go for a cough, fever, rash, infected cut, difficult pregnancy, or ordinary broken bone.
 
@@ -81,21 +91,21 @@ For common ailments, many residents first seek:
 - a Cauldron practitioner;
 - or an herbal treatment passed through generations.
 
-Some of those remedies are ineffective or dangerous. Some are better suited to the problem than the Institute's aggressive interventions.
+Some of those remedies are ineffective or dangerous. Some are better suited to the problem than the Order's aggressive interventions.
 
-The Institute is most trusted when the alternative is death, loss of a limb, irreversible aether exposure, or a condition no ordinary practitioner understands.
+The Order is most trusted when the alternative is death, loss of a limb, irreversible aether exposure, or a condition no ordinary practitioner understands.
 
 Its public reputation can be summarized as:
 
 > **They may save you. They may also decide that saving you requires becoming someone different.**
 
-Institute advice is respected, feared, questioned, and often taken only after a second opinion from someone the patient personally trusts.
+Order advice is respected, feared, questioned, and often taken only after a second opinion from someone the patient personally trusts.
 
 ## Distributed Presence
 
 ### The Hall of Vital Mechanics
 
-[The Hall of Vital Mechanics](../locations/The_Hall_of_Vital_Mechanics.md) is the Institute's central hospital, training center, records office, research authority, and emergency-coordination headquarters in the Government District.
+[The Hall of Vital Mechanics](../locations/The_Hall_of_Vital_Mechanics.md) is the Order's central hospital, training center, records office, research authority, and emergency-coordination headquarters in the Government District.
 
 It is both the best-equipped medical facility in Aetherhaven and the place many citizens most fear being taken.
 
@@ -103,7 +113,7 @@ Public wards coexist with restricted theatres, implant laboratories, anatomical 
 
 ### Academy Clinical and Research Annex
 
-The Institute maintains a presence within or beside the Academy of Invention for anatomy, physiology, mechanobiology, implant testing, medical-device development, and experimental treatment.
+The Order maintains a presence within or beside the Academy of Invention for anatomy, physiology, mechanobiology, implant testing, medical-device development, and experimental treatment.
 
 The annex has produced important discoveries and unethical recommendations.
 
@@ -113,7 +123,7 @@ The final formal name and oversight of the annex remain unresolved.
 
 ### Great Workshops Prosthetics and Implant Annex
 
-Institute surgeons, prosthetists, rehabilitation staff, and mechanobiologists work with certified engineers in the Great Workshops to create replacement limbs, braces, sensory aids, stabilization frames, adaptive tools, and interfaces between tissue and machinery.
+Order surgeons, prosthetists, rehabilitation staff, and mechanobiologists work with certified engineers in the Great Workshops to create replacement limbs, braces, sensory aids, stabilization frames, adaptive tools, and interfaces between tissue and machinery.
 
 The annex is often excellent at replacing damaged function.
 
@@ -129,21 +139,21 @@ Neither recommendation is automatically foolish. Neither is automatically right.
 
 [The Cauldron Recovery House](../locations/The_Cauldron_Recovery_House.md) provides rehabilitation, adaptive-device care, industrial-injury treatment, and community medicine inside the Cauldron.
 
-It is affiliated with the Institute but survives through local trust and partial independence. Residents may trust a particular healer or prosthetist there while distrusting the Institute as a whole.
+It is affiliated with the Order but survives through local trust and partial independence. Residents may trust a particular healer or prosthetist there while distrusting the Order as a whole.
 
 The House may use salvaged devices, household remedies, herbs, unlicensed methods, and practical knowledge rejected by the central Hall. Some of those practices work. Some carry their own risks.
 
 ### Brass Watch Medical Liaison
 
-The Institute trains or seconds field medics for fires, collapses, canal disasters, industrial explosions, hazardous machinery incidents, aetheric exposure, temporal disorientation, and mass-casualty evacuation.
+The Order trains or seconds field medics for fires, collapses, canal disasters, industrial explosions, hazardous machinery incidents, aetheric exposure, temporal disorientation, and mass-casualty evacuation.
 
-Field medics are often more trusted than central Institute officials because they work where people are injured rather than where research is conducted.
+Field medics are often more trusted than central Order officials because they work where people are injured rather than where research is conducted.
 
-That trust is not universal. Some medics are Watch officers. Some share information with investigators. Some answer first to the Institute, the Council, or another organization.
+That trust is not universal. Some medics are Watch officers. Some share information with investigators. Some answer first to the Order, the Council, or another organization.
 
 ### Expeditionary Medical Service
 
-Accredited expeditions may include an Institute surgeon, medic, prosthetics specialist, or expedition-certified practitioner.
+Accredited expeditions may include an Order surgeon, medic, prosthetics specialist, or expedition-certified practitioner.
 
 Expedition medics may carry broad emergency authority because delay can kill. The same isolation that makes decisive treatment necessary can also make oversight, consent, and later verification difficult.
 
@@ -155,11 +165,11 @@ The exact size, rules, and history of this service remain unresolved.
 
 ## Fields of Practice
 
-The Institute's disciplines may include surgery, emergency medicine, field medicine, prosthetics, rehabilitation, mechanobiology, implant medicine, industrial medicine, aetheric trauma, environmental medicine, and the treatment of unusual biological-mechanical conditions.
+The Order's disciplines may include surgery, emergency medicine, field medicine, prosthetics, rehabilitation, mechanobiology, implant medicine, industrial medicine, aetheric trauma, environmental medicine, and the treatment of unusual biological-mechanical conditions.
 
 Its capabilities should not be equated with a modern medical system.
 
-Institute practitioners may possess advanced mechanical techniques while lacking reliable answers about:
+Order practitioners may possess advanced mechanical techniques while lacking reliable answers about:
 
 - infection and contamination;
 - internal disease;
@@ -179,7 +189,7 @@ Final period-appropriate professional titles remain unresolved. Physician, surge
 
 ## Public Reputation and Avoidance
 
-The Institute is respected as a last resort rather than loved as a public service.
+The Order is respected as a last resort rather than loved as a public service.
 
 Citizens may delay seeking care because they fear:
 
@@ -197,13 +207,13 @@ Families often ask who is on duty before deciding whether to enter the Hall. Tru
 
 Some people die because they waited too long.
 
-Others survive because they refused an Institute recommendation and sought a less invasive treatment elsewhere.
+Others survive because they refused an Order recommendation and sought a less invasive treatment elsewhere.
 
 The risk runs in both directions.
 
 ## Experiments and Institutional Abuse
 
-Experiments have been performed under Institute authority.
+Experiments have been performed under Order authority.
 
 Not every experiment was cruel, and some produced treatments that later saved lives. The institution nevertheless possesses a history of practices that may include:
 
@@ -218,11 +228,11 @@ Not every experiment was cruel, and some produced treatments that later saved li
 
 The exact scandals, dates, victims, and reforms remain unresolved.
 
-These abuses do not make every practitioner malicious. They do mean that an Institute seal is not proof of moral authority.
+These abuses do not make every practitioner malicious. They do mean that an Order seal is not proof of moral authority.
 
 ## Internal Factions and Outside Allegiances
 
-The Institute is too large and politically valuable to remain ideologically neutral.
+The Order is too large and politically valuable to remain ideologically neutral.
 
 Individual practitioners, administrators, researchers, or record keepers may have loyalties to:
 
@@ -236,7 +246,7 @@ Individual practitioners, administrators, researchers, or record keepers may hav
 - merchant patrons;
 - or private research circles.
 
-No single outside organization is established as controlling the Institute.
+No single outside organization is established as controlling the Order.
 
 Affiliations may create genuine reform, quiet protection, divided loyalties, corruption, information leaks, concealed treatment, or deliberate harm.
 
@@ -246,7 +256,7 @@ It does not reveal whom that physician ultimately serves.
 
 ## Relationship with the Mechanists' Guild
 
-The Institute and [the Mechanists' Guild](The_Mechanists_Guild.md) share responsibility wherever machinery becomes medically necessary.
+The Order and [the Mechanists' Guild](The_Mechanists_Guild.md) share responsibility wherever machinery becomes medically necessary.
 
 Their cooperation has saved lives and accelerated the development of prosthetics, braces, implants, and adaptive tools.
 
@@ -270,11 +280,11 @@ It is not a universally enforced rule.
 
 ## Relationship with the Academy of Invention
 
-The Institute and [the Academy of Invention](The_Academy_of_Invention.md) collaborate on anatomy, mechanobiology, adaptive technology, implants, and experimental procedures.
+The Order and [the Academy of Invention](The_Academy_of_Invention.md) collaborate on anatomy, mechanobiology, adaptive technology, implants, and experimental procedures.
 
 The Academy supplies theories, laboratories, instruments, and ambitious researchers.
 
-The Institute supplies injuries, clinical access, treatment records, and living cases that theory alone cannot provide.
+The Order supplies injuries, clinical access, treatment records, and living cases that theory alone cannot provide.
 
 At their best, the institutions combine knowledge and practical care.
 
@@ -290,39 +300,39 @@ The boundary between treatment and experiment is especially unstable when:
 
 ## Relationship with the Brass Watch
 
-The Institute supports [the Brass Watch](The_Brass_Watch.md) during disasters, dangerous investigations, and anomalous incidents.
+The Order supports [the Brass Watch](The_Brass_Watch.md) during disasters, dangerous investigations, and anomalous incidents.
 
 Care, custody, and evidence can overlap.
 
-An Institute medic may protect a patient's privacy, record details for the Watch, identify an implant as dangerous evidence, or recommend confinement in a restricted ward.
+An Order medic may protect a patient's privacy, record details for the Watch, identify an implant as dangerous evidence, or recommend confinement in a restricted ward.
 
 Different practitioners make different choices.
 
 The Watch may genuinely need medical information to protect the city. It may also use medical authority to hold a person who has not committed a crime.
 
-No automatic rule makes Institute staff independent from Watch or Council pressure.
+No automatic rule makes Order staff independent from Watch or Council pressure.
 
 ## Relationship with the Society of Explorers
 
-The Institute may certify expedition readiness, train field medics, review evacuation plans, and maintain records of unusual injuries encountered beyond Aetherhaven.
+The Order may certify expedition readiness, train field medics, review evacuation plans, and maintain records of unusual injuries encountered beyond Aetherhaven.
 
 Explorers often view medical restrictions as obstacles imposed by people who have never entered the field.
 
-Institute practitioners often view explorers as people who rename preventable risk as courage.
+Order practitioners often view explorers as people who rename preventable risk as courage.
 
 Both criticisms can be true.
 
 Expeditionary medicine creates special danger because isolation gives a medic enormous authority, while sponsors may pressure that medic to keep an expedition moving, preserve a discovery, or collect samples before evacuation.
 
-Whether an Institute practitioner accompanied the original Clockwork Jungle expedition remains unresolved.
+Whether an Order practitioner accompanied the original Clockwork Jungle expedition remains unresolved.
 
 ## Relationship with the Cauldron
 
-The Institute's presence in the Cauldron exists because industrial injury, chemical exposure, disability, poverty, and lack of civic documentation do not remove a person's need for care.
+The Order's presence in the Cauldron exists because industrial injury, chemical exposure, disability, poverty, and lack of civic documentation do not remove a person's need for care.
 
-The central Institute is also one of the institutions Cauldron residents have reason to distrust.
+The central Order is also one of the institutions Cauldron residents have reason to distrust.
 
-The [Cauldron Recovery House](../locations/The_Cauldron_Recovery_House.md) may depend on local healers, herbal knowledge, neighborhood compacts, former Institute staff, salvaged equipment, and practitioners whose credentials are not recognized by the upper city.
+The [Cauldron Recovery House](../locations/The_Cauldron_Recovery_House.md) may depend on local healers, herbal knowledge, neighborhood compacts, former Order staff, salvaged equipment, and practitioners whose credentials are not recognized by the upper city.
 
 Central administrators may call those methods unsafe.
 
@@ -332,7 +342,7 @@ The Recovery House is not automatically morally superior. Its protection comes f
 
 ## Relationship with the Conservancy of Living Mechanisms
 
-The Institute has no standing alliance with [the Conservancy of Living Mechanisms](The_Conservancy_of_Living_Mechanisms.md).
+The Order has no standing alliance with [the Conservancy of Living Mechanisms](The_Conservancy_of_Living_Mechanisms.md).
 
 From time to time, individual practitioners or branches obtain:
 
@@ -346,11 +356,11 @@ From time to time, individual practitioners or branches obtain:
 
 The exchange is practical and often cautious.
 
-Conservancy members may distrust an institution inclined to cut, replace, classify, and experiment. Institute practitioners may dismiss Conservancy remedies as unmeasured, inconsistent, or superstitious.
+Conservancy members may distrust an institution inclined to cut, replace, classify, and experiment. Order practitioners may dismiss Conservancy remedies as unmeasured, inconsistent, or superstitious.
 
 Neither side possesses complete knowledge.
 
-A resource obtained from the Conservancy may save a patient whom Institute surgery could not. An invasive Institute procedure may save someone no herb can reach.
+A resource obtained from the Conservancy may save a patient whom Order surgery could not. An invasive Order procedure may save someone no herb can reach.
 
 No regular partnership, shared governance, or ideological closeness should be assumed.
 
@@ -360,7 +370,7 @@ No regular partnership, shared governance, or ideological closeness should be as
 
 His emergency actions may have been essential. Trained medical intervention was also necessary.
 
-The Institute may have contributed through an expedition medic, evacuation, surgery, infection control, pain management, rehabilitation, prosthetic fitting, implant monitoring, or collaboration while Elias built the mechanical framework of Amelia's arm.
+The Order may have contributed through an expedition medic, evacuation, surgery, infection control, pain management, rehabilitation, prosthetic fitting, implant monitoring, or collaboration while Elias built the mechanical framework of Amelia's arm.
 
 It may also have recommended procedures Elias rejected.
 
@@ -375,11 +385,11 @@ Possible unresolved recommendations include:
 
 None of these is yet established as the exact historical choice.
 
-Elias may owe individual Institute practitioners Amelia's life while distrusting the institution that employed them.
+Elias may owe individual Order practitioners Amelia's life while distrusting the institution that employed them.
 
 [Amelia Hawthorne](../characters/Amelia_Hawthorne.md) may remember kindness, pain, frightening procedures, missing time, or adults debating her future while she could not meaningfully participate.
 
-The Institute is not entitled to her trust merely because it helped keep her alive.
+The Order is not entitled to her trust merely because it helped keep her alive.
 
 ## Medical Ethics
 
@@ -400,11 +410,11 @@ Individual practitioners can be principled, compassionate, and courageous.
 
 Institutional ethics are inconsistent, contested, and vulnerable to pressure.
 
-No reader or character should assume that an Institute recommendation is morally correct simply because it is medical.
+No reader or character should assume that an Order recommendation is morally correct simply because it is medical.
 
 ## Political and Institutional Tensions
 
-The Institute is a necessary civic power with weakly bounded authority.
+The Order is a necessary civic power with weakly bounded authority.
 
 It faces pressure from the High Council, Academy, Mechanists' Guild, Brass Watch, Society of Explorers, merchants, patrons, the Cauldron, the Unwound, and hidden interests connected to the Order of the Closed Eye.
 
@@ -419,7 +429,7 @@ Corruption may take several forms:
 - dangerous discoveries concealed;
 - or practitioners using institutional access to serve another organization.
 
-The Institute should not be portrayed as uniformly benevolent or uniformly evil.
+The Order should not be portrayed as uniformly benevolent or uniformly evil.
 
 It contains healers who take extraordinary risks for patients, researchers who justify cruelty as progress, exhausted field medics, brilliant prosthetists, frightened administrators, political operatives, reformers, and people who move between those categories over time.
 
@@ -429,7 +439,7 @@ Its necessity also makes its abuses harder to confront.
 
 ## Visual Language
 
-The Institute's visual language should combine medicine, workshop engineering, and civic authority without resembling a modern hospital.
+The Order's visual language should combine medicine, workshop engineering, and civic authority without resembling a modern hospital.
 
 Possible elements include:
 
@@ -450,26 +460,26 @@ Avoid modern visual shorthand such as perfect sterility, effortless diagnostics,
 
 ## Continuity Constraints
 
-- The Institute exists as a distributed medical network rather than a separate map district.
+- The Order exists as a distributed medical network rather than a separate map district.
 - Its central institution is in the Government District.
 - It maintains Academy, Great Workshops, Cauldron, Brass Watch, and expeditionary presences.
 - It combines incomplete biological medicine with comparatively advanced mechanical intervention.
 - It is necessary for catastrophic and unusual cases but is not assumed safe, trustworthy, or morally neutral.
 - Ordinary citizens commonly prefer home remedies, apothecaries, midwives, neighborhood healers, or trusted local practitioners for ordinary ailments.
-- Institute advice may be questioned, refused, or balanced against another form of care.
+- Order advice may be questioned, refused, or balanced against another form of care.
 - No universal Hippocratic oath or consistently enforced consent code exists.
-- Experiments and unethical treatments have occurred under Institute authority.
+- Experiments and unethical treatments have occurred under Order authority.
 - Some practitioners may be connected to the Unwound, Order of the Closed Eye, Council, Watch, Academy, Guild, Cauldron factions, or private patrons.
-- The Institute has no standing alliance with the Conservancy, though herbs and other resources may occasionally pass between individual practitioners.
+- The Order has no standing alliance with the Conservancy, though herbs and other resources may occasionally pass between individual practitioners.
 - Mechanical replacement may be favored over slower biological treatment, including amputation and prosthetic replacement where another healer might attempt to preserve the limb.
-- The Institute is less medically sophisticated than a modern health system; diagnosis, infection control, anesthesia, recovery, and long-term implant knowledge remain incomplete.
+- The Order is less medically sophisticated than a modern health system; diagnosis, infection control, anesthesia, recovery, and long-term implant knowledge remain incomplete.
 - Elias's actions were important to Amelia's survival, but trained medical care was also required.
-- The Institute may have helped save Amelia while also frightening, studying, pressuring, or making contested recommendations about her.
+- The Order may have helped save Amelia while also frightening, studying, pressuring, or making contested recommendations about her.
 - The exact final name, leadership, ranks, scandals, and Clockwork Jungle personnel remain unresolved.
 
 ## Open Canon Questions
 
-1. Is **The Institute of Vital Mechanics** the final name?
+1. What event founded the Order and established its chartered privileges?
 2. Who leads it, and whom do they truly answer to?
 3. Is it Council-chartered, professionally self-governing, privately patronized, or a mixture?
 4. What competing medical schools or traditions exist inside it?
@@ -480,20 +490,20 @@ Avoid modern visual shorthand such as perfect sterility, effortless diagnostics,
 9. What worse scandal remains sealed?
 10. Which patients were treated as subjects without meaningful consent?
 11. How common is amputation and mechanical replacement compared with preservation and herbal treatment?
-12. Which Institute branch is considered most trustworthy?
+12. Which Order branch is considered most trustworthy?
 13. Which is considered most dangerous?
 14. Which members are connected to the Unwound?
 15. Which members are connected to the Order of the Closed Eye?
 16. What information is routinely shared with the Brass Watch or Council?
 17. What exact relationship exists with the Cauldron Recovery House?
 18. What resources are occasionally obtained from the Conservancy?
-19. Was an Institute medic present during the Clockwork Jungle expedition?
+19. Was an Order medic present during the Clockwork Jungle expedition?
 20. Who stabilized Amelia first?
 21. What procedures were performed during Amelia's survival and recovery?
 22. What recommendations did Elias accept or refuse?
-23. When did the Institute first encounter the Aether Heart?
+23. When did the Order first encounter the Aether Heart?
 24. Did anyone claim research, custody, or public-safety authority over Amelia?
-25. Which recurring physician, medic, healer, prosthetist, or researcher eventually represents the Institute in the story?
+25. Which recurring physician, medic, healer, prosthetist, or researcher eventually represents the Order in the story?
 
 ## Development Checklist
 
@@ -506,9 +516,9 @@ Avoid modern visual shorthand such as perfect sterility, effortless diagnostics,
 - [x] Possible Unwound, Order, and other outside allegiances preserved.
 - [x] Limited, non-allied Conservancy resource exchange established.
 - [x] Medical support for Amelia's survival established as necessary but unresolved.
-- [ ] Approve the final organization name.
+- [x] Formal name approved: **The Order of the Mended Hand**; common shorthand approved: **the Hand**.
 - [ ] Define governance, leadership, schools, and practitioner ranks.
 - [ ] Define at least one public scandal and one sealed scandal.
 - [ ] Select a recurring compassionate practitioner and a recurring morally compromised practitioner when stories require them.
-- [ ] Create the Institute seal and field-medical visual language.
+- [ ] Create the Order seal and field-medical visual language.
 - [ ] Resolve the exact Clockwork Jungle medical-response sequence only when the arc requires it.

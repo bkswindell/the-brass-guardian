@@ -15,7 +15,7 @@ map_number: 11
 parent_location: 
 primary_connections:
   - The Hall of Vital Mechanics
-  - The Institute of Vital Mechanics
+  - The Order of the Mended Hand
 points_of_interest:
   - The Hall of Vital Mechanics
 temporal_relevance: Unresolved

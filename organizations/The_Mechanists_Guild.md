@@ -29,7 +29,7 @@ key_relationships:
   - The Brass Watch
   - The Aerial Mariners' Union
   - The Ninth Guild
-  - The Institute of Vital Mechanics
+  - The Order of the Mended Hand
 temporal_relevance: High
 ---
 
@@ -459,17 +459,17 @@ The guildmasters summon [Amelia](../characters/Amelia_Hawthorne.md) to explain t
 
 ## Medical Devices, Prosthetics, and Implants
 
-The Guild works with [the Institute of Vital Mechanics](The_Institute_of_Vital_Mechanics.md) wherever a certified machine becomes part of medical treatment, rehabilitation, mobility, sensory support, or a person's embodied life.
+The Guild works with [the Order of the Mended Hand](The_Order_of_the_Mended_Hand.md) wherever a certified machine becomes part of medical treatment, rehabilitation, mobility, sensory support, or a person's embodied life.
 
-The Guild governs engineering standards and professional mechanical responsibility. The Institute governs medical care, consent, and biological safety.
+The Guild governs engineering standards and professional mechanical responsibility. The Order governs medical care, consent, and biological safety.
 
 Neither institution may claim ownership of a patient or assert that certification grants authority over a device after it becomes integrated with that person's body.
 
 Ancient components such as Amelia's Aether Heart create an unresolved conflict because they cannot be certified under known standards and cannot be separated from the patient merely to satisfy professional review.
 
-## Relationship with the Institute of Vital Mechanics
+## Relationship with the Order of the Mended Hand
 
-The Guild collaborates with [the Institute of Vital Mechanics](The_Institute_of_Vital_Mechanics.md) on prosthetics, braces, implants, and adaptive machinery.
+The Guild collaborates with [the Order of the Mended Hand](The_Order_of_the_Mended_Hand.md) on prosthetics, braces, implants, and adaptive machinery.
 
 This collaboration saves lives but can favor replacement over biological recovery. A damaged limb may be treated as an engineering problem before every medical or herbal option has been exhausted.
 

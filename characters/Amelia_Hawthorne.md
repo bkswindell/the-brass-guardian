@@ -36,7 +36,7 @@ key_connections:
   - The Six Aether Keys
   - The Heart Engine
   - The Clockwork Jungle Expedition
-  - The Institute of Vital Mechanics
+  - The Order of the Mended Hand
 temporal_relevance: Very high
 source_basis:
   - Aetherhaven.pdf
@@ -517,15 +517,15 @@ Her unusual sensitivity does not guarantee that every machine is benevolent or t
 
 Learning when not to answer may become as important as learning how to listen.
 
-## Relationship with the Institute of Vital Mechanics
+## Relationship with the Order of the Mended Hand
 
-[The Institute of Vital Mechanics](../organizations/The_Institute_of_Vital_Mechanics.md) may have participated in Amelia's emergency treatment, surgery, rehabilitation, prosthetic fitting, implant monitoring, or experimental care after the Clockwork Jungle disaster.
+[The Order of the Mended Hand](../organizations/The_Order_of_the_Mended_Hand.md) may have participated in Amelia's emergency treatment, surgery, rehabilitation, prosthetic fitting, implant monitoring, or experimental care after the Clockwork Jungle disaster.
 
 The exact clinicians and sequence remain unresolved.
 
 Amelia may remember individual caregivers with gratitude while distrusting the institution that employed them. She may also remember pain, frightening apparatus, missing time, adults arguing over amputation or replacement, or recommendations she was too young and injured to understand.
 
-The Institute's involvement does not make its later advice trustworthy by default.
+The Order's involvement does not make its later advice trustworthy by default.
 
 Some practitioners may want to preserve the gauntlet. Others may recommend removing the Aether Heart, replacing Elias's design, confining Amelia for observation, or studying her as a unique interface.
 

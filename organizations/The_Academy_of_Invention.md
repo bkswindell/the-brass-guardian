@@ -14,7 +14,7 @@ headquarters:
 known_leadership:
   - Doctor Elara Quill
 primary_connections:
-  - The Institute of Vital Mechanics
+  - The Order of the Mended Hand
   - Doctor Elara Quill
 temporal_relevance: Unresolved
 source_basis:
@@ -47,19 +47,19 @@ Add only relationships already established in the source or current canonical Ma
 
 ## Medical and Mechanobiology Collaboration
 
-The Academy hosts or works beside an Institute clinical and research annex supporting anatomy, physiology, mechanobiology, implants, adaptive devices, and ethical review of inventions that directly affect living bodies.
+The Academy hosts or works beside an Order clinical and research annex supporting anatomy, physiology, mechanobiology, implants, adaptive devices, and ethical review of inventions that directly affect living bodies.
 
-The Academy provides laboratories and theoretical research. [The Institute of Vital Mechanics](The_Institute_of_Vital_Mechanics.md) provides clinical care, patient consent standards, rehabilitation knowledge, and medical responsibility.
+The Academy provides laboratories and theoretical research. [The Order of the Mended Hand](The_Order_of_the_Mended_Hand.md) provides clinical care, patient consent standards, rehabilitation knowledge, and medical responsibility.
 
-The final boundaries between Academy research and Institute authority remain unresolved.
+The final boundaries between Academy research and Order authority remain unresolved.
 
-## Relationship with the Institute of Vital Mechanics
+## Relationship with the Order of the Mended Hand
 
-The Academy collaborates with [the Institute of Vital Mechanics](The_Institute_of_Vital_Mechanics.md) on mechanobiology, implants, adaptive devices, and experimental treatment.
+The Academy collaborates with [the Order of the Mended Hand](The_Order_of_the_Mended_Hand.md) on mechanobiology, implants, adaptive devices, and experimental treatment.
 
 The relationship produces real advances and creates access to vulnerable patients whose conditions can become academic opportunities.
 
-Neither Academy review nor Institute approval guarantees that an experiment is safe, consensual, or morally justified.
+Neither Academy review nor Order approval guarantees that an experiment is safe, consensual, or morally justified.
 
 ## Continuity Constraints
 

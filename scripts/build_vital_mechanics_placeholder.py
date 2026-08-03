@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Create and integrate the Institute of Vital Mechanics placeholder network.
+"""Create and integrate the Order of the Mended Hand placeholder network.
 
 This migration establishes a distributed civic medical institution without
 prematurely defining its leadership, every branch, or the exact medical team
@@ -73,12 +73,12 @@ def organization_profile() -> str:
     return f"""
 ---
 organization_id: AH-ORG-PLACEHOLDER-024
-name: The Institute of Vital Mechanics
+name: The Order of the Mended Hand
 type: Distributed civic medical, surgical, rehabilitation, prosthetics, and field-response institution
 aliases:
-  - The Vital Institute
-  - Institute of Vital Mechanics
-  - IVM, provisional abbreviation
+  - The Hand
+  - Order of the Mended Hand
+  - The Hand
 series: The Brass Guardian / The Aetherhaven Chronicles
 canon_status: Owner-directed canonical placeholder
 canonical_scope: Aetherhaven volumes
@@ -102,17 +102,17 @@ source_basis:
   - Owner canon decision recorded August 2, 2026
 ---
 
-# The Institute of Vital Mechanics
+# The Order of the Mended Hand
 
 > **Canonical working placeholder.** This institution exists throughout Aetherhaven and its expeditionary networks. Its exact final name, leadership, internal ranks, branch names, and historical role remain open for later development.
 
 ## Canonical Summary
 
-The Institute of Vital Mechanics is Aetherhaven's principal civic institution for advanced medicine, emergency surgery, trauma care, rehabilitation, prosthetics, implants, mechanobiology, and the safe integration of living bodies with mechanical technology.
+The Order of the Mended Hand is Aetherhaven's principal civic institution for advanced medicine, emergency surgery, trauma care, rehabilitation, prosthetics, implants, mechanobiology, and the safe integration of living bodies with mechanical technology.
 
 It is not a separate medical district and does not replace every neighborhood healer, private physician, apothecary, midwife, workshop medic, or community clinic.
 
-Instead, the Institute operates as a distributed medical network with:
+Instead, the Order operates as a distributed medical network with:
 
 - a central hospital and administrative institution in [the Government District](../locations/The_Government_District.md);
 - clinical and research staff embedded within [the Academy of Invention](The_Academy_of_Invention.md);
@@ -121,15 +121,15 @@ Instead, the Institute operates as a distributed medical network with:
 - field medics and emergency liaisons who work alongside [the Brass Watch](The_Brass_Watch.md);
 - and expeditionary medical staff who may accompany accredited explorers into remote or anomalous regions.
 
-The Institute supports biology with technology.
+The Order supports biology with technology.
 
 Its practitioners treat illness and injury, design braces and replacement limbs, develop implants, restore function, teach adaptation, study unusual biological-mechanical interfaces, and coordinate with certified mechanists when a medical device becomes part of a person's daily body.
 
-The Institute must never treat a patient as secondary to the mechanism keeping that patient alive.
+The Order must never treat a patient as secondary to the mechanism keeping that patient alive.
 
 ## Public Role
 
-The Institute's public responsibilities may include:
+The Order's public responsibilities may include:
 
 - emergency and surgical care;
 - severe industrial-injury response;
@@ -144,19 +144,19 @@ The Institute's public responsibilities may include:
 - medical ethics and consent review for experimental procedures;
 - and research into the boundary between living tissue and mechanical systems.
 
-Most citizens encounter the Institute through an emergency ward, specialist clinic, rehabilitation program, workplace medical station, or field responder rather than its central administration.
+Most citizens encounter the Order through an emergency ward, specialist clinic, rehabilitation program, workplace medical station, or field responder rather than its central administration.
 
 ## Distributed Presence
 
 ### The Hall of Vital Mechanics
 
-[The Hall of Vital Mechanics](../locations/The_Hall_of_Vital_Mechanics.md) is the Institute's central hospital, training center, records office, and emergency-coordination headquarters in the Government District.
+[The Hall of Vital Mechanics](../locations/The_Hall_of_Vital_Mechanics.md) is the Order's central hospital, training center, records office, and emergency-coordination headquarters in the Government District.
 
 Its exact internal departments remain unresolved.
 
 ### Academy Clinical and Research Annex
 
-The Institute maintains a presence within or beside the Academy of Invention for:
+The Order maintains a presence within or beside the Academy of Invention for:
 
 - anatomy and physiology education;
 - mechanobiology research;
@@ -169,7 +169,7 @@ The final formal name of this annex remains unresolved.
 
 ### Great Workshops Prosthetics and Implant Annex
 
-Institute surgeons, prosthetists, therapists, and mechanobiologists work with certified engineers in the Great Workshops to create and maintain:
+Order surgeons, prosthetists, therapists, and mechanobiologists work with certified engineers in the Great Workshops to create and maintain:
 
 - replacement limbs;
 - braces and mobility supports;
@@ -178,7 +178,7 @@ Institute surgeons, prosthetists, therapists, and mechanobiologists work with ce
 - adaptive tools;
 - and custom interfaces between tissue and machinery.
 
-The Institute governs the patient's medical care and consent.
+The Order governs the patient's medical care and consent.
 
 The Mechanists' Guild governs mechanical certification and engineering responsibility.
 
@@ -194,7 +194,7 @@ The facility cannot function as a disguised Brass Watch post, Council registry, 
 
 ### Brass Watch Medical Liaison
 
-The Institute trains or seconds field medics to support:
+The Order trains or seconds field medics to support:
 
 - fires;
 - collapses;
@@ -205,13 +205,13 @@ The Institute trains or seconds field medics to support:
 - temporal disorientation;
 - and mass-casualty evacuation.
 
-Some medics may be Watch officers with medical certification. Others remain Institute staff operating beside the Watch while retaining independent responsibility to patients.
+Some medics may be Watch officers with medical certification. Others remain Order staff operating beside the Watch while retaining independent responsibility to patients.
 
 ### Expeditionary Medical Service
 
-Accredited expeditions may include an Institute field physician, surgeon, medic, prosthetics specialist, or expedition-certified practitioner.
+Accredited expeditions may include an Order field physician, surgeon, medic, prosthetics specialist, or expedition-certified practitioner.
 
-The Institute may also provide:
+The Order may also provide:
 
 - portable surgical kits;
 - stabilization frames;
@@ -226,7 +226,7 @@ The exact size and authority of this service remain unresolved.
 
 ## Fields of Practice
 
-The Institute's working disciplines may include:
+The Order's working disciplines may include:
 
 - general medicine;
 - surgery;
@@ -249,7 +249,7 @@ Terms such as physician, surgeon, medic, therapist, prosthetist, mechanobiologis
 
 ## Relationship with the Mechanists' Guild
 
-The Institute and [the Mechanists' Guild](The_Mechanists_Guild.md) share responsibility wherever machinery becomes medically necessary.
+The Order and [the Mechanists' Guild](The_Mechanists_Guild.md) share responsibility wherever machinery becomes medically necessary.
 
 The relationship is cooperative but not simple.
 
@@ -275,17 +275,17 @@ Medical consent takes priority over professional curiosity.
 
 ## Relationship with the Academy of Invention
 
-The Institute supports Academy research involving biology, healing, adaptive technology, and medical devices.
+The Order supports Academy research involving biology, healing, adaptive technology, and medical devices.
 
 The Academy provides theoretical knowledge, laboratories, and experimental designs.
 
-The Institute provides clinical reality, patient care, ethics, and the reminder that a successful mechanism can still harm the person using it.
+The Order provides clinical reality, patient care, ethics, and the reminder that a successful mechanism can still harm the person using it.
 
 The institutions may disagree sharply over experimental procedures, access to rare cases, publication, and whether knowledge should be pursued before a safe clinical use exists.
 
 ## Relationship with the Brass Watch
 
-The Institute supports the Brass Watch during disasters and dangerous investigations.
+The Order supports the Brass Watch during disasters and dangerous investigations.
 
 Its medics do not become evidence officers merely because they enter a secured scene. Their primary duty remains care.
 
@@ -296,31 +296,31 @@ This creates useful tension when:
 - a temporal incident creates conflicting medical records;
 - or the Watch wants access to a device integrated into a person's body.
 
-The Institute can cooperate with Watch authority without surrendering patient autonomy.
+The Order can cooperate with Watch authority without surrendering patient autonomy.
 
 ## Relationship with the Society of Explorers
 
-The Institute may certify expedition medical readiness, train field medics, review evacuation plans, and maintain records of unusual injuries encountered beyond Aetherhaven.
+The Order may certify expedition medical readiness, train field medics, review evacuation plans, and maintain records of unusual injuries encountered beyond Aetherhaven.
 
-Whether an Institute medic accompanied the original Clockwork Jungle expedition remains unresolved.
+Whether an Order medic accompanied the original Clockwork Jungle expedition remains unresolved.
 
 The Society may sometimes view medical restrictions as barriers to discovery.
 
-The Institute may view explorers as people who describe preventable risk as unavoidable adventure.
+The Order may view explorers as people who describe preventable risk as unavoidable adventure.
 
 ## Relationship with the Cauldron
 
-The Institute's official presence in the Cauldron exists because industrial injury, chemical exposure, poverty, disability, and lack of civic documentation do not remove a person's need for care.
+The Order's official presence in the Cauldron exists because industrial injury, chemical exposure, poverty, disability, and lack of civic documentation do not remove a person's need for care.
 
 The Recovery House may depend on:
 
 - local healers;
 - neighborhood compacts;
-- former Institute staff;
+- former Order staff;
 - donated or salvaged equipment;
 - and negotiated supply routes.
 
-The central Institute may not fully control the facility in practice.
+The central Order may not fully control the facility in practice.
 
 That tension should remain available for later stories.
 
@@ -332,7 +332,7 @@ He should not be portrayed as having single-handedly performed every medical, su
 
 His emergency actions may have been essential. Trained medical care was also necessary.
 
-The Institute may have contributed through:
+The Order may have contributed through:
 
 - an expedition medic;
 - emergency evacuation;
@@ -346,13 +346,13 @@ The Institute may have contributed through:
 
 The exact practitioners, sequence, and institutional role remain unresolved.
 
-[Amelia Hawthorne](../characters/Amelia_Hawthorne.md) is a patient and person with authority over her own body. She is not a unique specimen owned by the Institute.
+[Amelia Hawthorne](../characters/Amelia_Hawthorne.md) is a patient and person with authority over her own body. She is not a unique specimen owned by the Order.
 
-Any Institute interest in the Aether Heart or Aether Gauntlet must be governed by Amelia's consent, safety, and age-appropriate participation in decisions.
+Any Order interest in the Aether Heart or Aether Gauntlet must be governed by Amelia's consent, safety, and age-appropriate participation in decisions.
 
 ## Medical Ethics
 
-The Institute's strongest canonical principles should include:
+The Order's strongest canonical principles should include:
 
 - treat the person before the mechanism;
 - obtain meaningful consent whenever circumstances permit;
@@ -366,7 +366,7 @@ The final official oath, code, and enforcement process remain unresolved.
 
 ## Political and Institutional Tensions
 
-The Institute may face pressure from:
+The Order may face pressure from:
 
 - the High Council during public-health or civic emergencies;
 - the Mechanists' Guild over device certification;
@@ -376,13 +376,13 @@ The Institute may face pressure from:
 - merchants over expensive treatment and patents;
 - and the Cauldron over surveillance, unequal access, and civic neglect.
 
-The Institute should not be portrayed as uniformly benevolent or corrupt.
+The Order should not be portrayed as uniformly benevolent or corrupt.
 
 It is a large institution containing skilled caregivers, cautious administrators, ambitious researchers, exhausted field medics, ethical conflicts, political compromise, and people capable of both extraordinary compassion and institutional failure.
 
 ## Visual Language
 
-The Institute's visual language should combine medicine and precise engineering without resembling the Mechanists' Guild.
+The Order's visual language should combine medicine and precise engineering without resembling the Mechanists' Guild.
 
 Possible elements include:
 
@@ -398,7 +398,7 @@ The final crest, uniforms, color system, and seal remain unresolved.
 
 ## Continuity Constraints
 
-- The Institute exists as a distributed medical network rather than a separate map district.
+- The Order exists as a distributed medical network rather than a separate map district.
 - Its central institution is in the Government District.
 - It maintains a clinical and research presence at the Academy.
 - It maintains prosthetics and implant collaboration in the Great Workshops.
@@ -408,31 +408,31 @@ The final crest, uniforms, color system, and seal remain unresolved.
 - It combines biological medicine with technology, implants, prosthetics, and rehabilitation.
 - It collaborates with the Mechanists' Guild without surrendering medical authority or patient autonomy.
 - Elias's actions were important to Amelia's survival, but he did not necessarily provide all required medical care alone.
-- Amelia must never be treated as an Institute asset, specimen, device platform, or compulsory research subject.
+- Amelia must never be treated as an Order asset, specimen, device platform, or compulsory research subject.
 - The exact final name, leadership, branch names, ranks, and Clockwork Jungle personnel remain unresolved.
 
 ## Open Canon Questions
 
-1. Is **The Institute of Vital Mechanics** the final name?
+1. Is **The Order of the Mended Hand** the final name?
 2. What is the central building's official name?
-3. Who leads the Institute?
+3. Who leads the Order?
 4. Is it governed by the Council, independently chartered, or professionally self-governing?
 5. What are its staff ranks and period-appropriate titles?
 6. Which services are public, charitable, fee-based, guild-funded, or Council-funded?
 7. How does it handle patients without civic records?
-8. What is the exact relationship between the central Institute and the Cauldron Recovery House?
+8. What is the exact relationship between the central Order and the Cauldron Recovery House?
 9. Does the Recovery House trust the central administration?
-10. What medical authority do Institute field medics possess during Watch operations?
-11. Does the Society of Explorers require an Institute-certified medic on dangerous expeditions?
-12. Was an Institute medic present during the Clockwork Jungle expedition?
+10. What medical authority do Order field medics possess during Watch operations?
+11. Does the Society of Explorers require an Order-certified medic on dangerous expeditions?
+12. Was an Order medic present during the Clockwork Jungle expedition?
 13. Who stabilized Amelia first?
 14. Who performed the surgery that allowed the Aether Gauntlet to be integrated safely?
-15. When did the Institute first encounter the Aether Heart?
+15. When did the Order first encounter the Aether Heart?
 16. Did anyone attempt to claim research authority over Amelia?
-17. What ethical failure or historical scandal shaped the Institute's current consent rules?
-18. Which Institute practitioner eventually becomes a recurring character?
-19. What is the Institute's seal, oath, and visual identity?
-20. How does the Institute respond when an implant appears conscious or refuses repair?
+17. What ethical failure or historical scandal shaped the Order's current consent rules?
+18. Which Order practitioner eventually becomes a recurring character?
+19. What is the Order's seal, oath, and visual identity?
+20. How does the Order respond when an implant appears conscious or refuses repair?
 
 ## Development Checklist
 
@@ -445,7 +445,7 @@ The final crest, uniforms, color system, and seal remain unresolved.
 - [ ] Define governance and leadership.
 - [ ] Define staff ranks and medical terminology.
 - [ ] Select a recurring physician, medic, therapist, or prosthetist when a story requires one.
-- [ ] Create the Institute seal and field-medical visual language.
+- [ ] Create the Order seal and field-medical visual language.
 - [ ] Resolve the exact Clockwork Jungle medical-response sequence only when the arc requires it.
 """
 
@@ -458,13 +458,13 @@ name: The Hall of Vital Mechanics
 type: Unlisted civic hospital, medical institute, and emergency-coordination center
 aliases:
   - Vital Hall
-  - The Central Institute, provisional
+  - The Central Order, provisional
 series: The Brass Guardian / The Aetherhaven Chronicles
 canon_status: Owner-directed canonical placeholder
 canonical_scope: Aetherhaven volumes
 last_updated: {TODAY}
 jurisdiction:
-  - The Institute of Vital Mechanics
+  - The Order of the Mended Hand
   - Civic medical regulation and emergency coordination, exact authority unresolved
 access_status:
   - Public clinical areas
@@ -473,7 +473,7 @@ map_reference_category: unlisted
 map_number:
 parent_location: The Government District
 primary_connections:
-  - The Institute of Vital Mechanics
+  - The Order of the Mended Hand
   - The High Council of Aetherhaven
   - The Brass Watch
   - The Academy of Invention
@@ -500,7 +500,7 @@ A major civic hospital and teaching institution where physicians, surgeons, medi
 
 ## Canonical Summary
 
-The Hall of Vital Mechanics is the central headquarters, principal hospital, training center, medical-records authority, and emergency-coordination site of [the Institute of Vital Mechanics](../organizations/The_Institute_of_Vital_Mechanics.md).
+The Hall of Vital Mechanics is the central headquarters, principal hospital, training center, medical-records authority, and emergency-coordination site of [the Order of the Mended Hand](../organizations/The_Order_of_the_Mended_Hand.md).
 
 It serves ordinary citizens as well as severe industrial, aetheric, mechanical, expeditionary, and anomalous injuries requiring specialized care.
 
@@ -528,7 +528,7 @@ Exact departments remain unresolved.
 
 The Hall's placement in the Government District gives it access to civic funding, emergency communication, legal authority, and coordination with the High Council and Brass Watch.
 
-It also exposes the Institute to political pressure.
+It also exposes the Order to political pressure.
 
 The Hall must not become a facility where the government can quietly seize unusual patients or integrated devices without due process and consent.
 
@@ -561,7 +561,7 @@ Avoid making the Hall a cold laboratory, gothic asylum, or fantastical machine f
 ## Continuity Constraints
 
 - The Hall is an unnumbered point of interest within the Government District.
-- It is the central institution of the Institute of Vital Mechanics.
+- It is the central institution of the Order of the Mended Hand.
 - It supports ordinary medicine as well as advanced mechanomedical care.
 - Public, clinical, administrative, training, and restricted research functions coexist.
 - The Hall may have participated in Amelia's post-accident treatment, but exact details remain unresolved.
@@ -584,7 +584,7 @@ Avoid making the Hall a cold laboratory, gothic asylum, or fantastical machine f
 
 - [x] Institutional purpose established.
 - [x] Government District placement established.
-- [x] Relationship to the Institute established.
+- [x] Relationship to the Order established.
 - [ ] Approve final name and architecture.
 - [ ] Define departments and leadership.
 - [ ] Create representative art or an architectural artifact.
@@ -606,7 +606,7 @@ canon_status: Owner-directed canonical placeholder
 canonical_scope: Aetherhaven volumes
 last_updated: {TODAY}
 jurisdiction:
-  - Local Cauldron compact and Institute affiliation, exact balance unresolved
+  - Local Cauldron compact and Order affiliation, exact balance unresolved
 access_status:
   - Community medical access
   - Neutral-care protections expected but not formally defined
@@ -614,7 +614,7 @@ map_reference_category: unlisted
 map_number:
 parent_location: The Cauldron
 primary_connections:
-  - The Institute of Vital Mechanics
+  - The Order of the Mended Hand
   - The Cauldron
   - Neighborhood Compacts
   - The Mechanists' Guild, limited technical support
@@ -627,7 +627,7 @@ source_basis:
 
 # The Cauldron Recovery House
 
-> **Canonical working placeholder.** A rehabilitation and community-care facility exists within the Cauldron. Its final name, exact founders, governance, staff, and relationship with the central Institute remain unresolved.
+> **Canonical working placeholder.** A rehabilitation and community-care facility exists within the Cauldron. Its final name, exact founders, governance, staff, and relationship with the central Order remain unresolved.
 
 ## Map Reference
 
@@ -643,13 +643,13 @@ A hard-won place of recovery inside the Cauldron, serving workers, families, dis
 
 The Cauldron Recovery House provides rehabilitation, adaptive-device care, industrial-injury treatment, long-term recovery, prosthetics maintenance, and community medicine within the Cauldron.
 
-It is affiliated with [the Institute of Vital Mechanics](../organizations/The_Institute_of_Vital_Mechanics.md), but it cannot function as a simple branch of Government District authority.
+It is affiliated with [the Order of the Mended Hand](../organizations/The_Order_of_the_Mended_Hand.md), but it cannot function as a simple branch of Government District authority.
 
 Its survival depends on local trust.
 
 The facility may be staffed by a mixture of:
 
-- Institute physicians and therapists;
+- Order physicians and therapists;
 - Cauldron healers;
 - former workshop medics;
 - prosthetists;
@@ -688,9 +688,9 @@ Possible services include:
 
 Exact services and technology remain open.
 
-## Relationship with the Institute of Vital Mechanics
+## Relationship with the Order of the Mended Hand
 
-The central Institute may provide:
+The central Order may provide:
 
 - supplies;
 - specialist rotations;
@@ -729,7 +729,7 @@ Avoid portraying it as filthy, hopeless, or secretly sinister merely because it 
 ## Continuity Constraints
 
 - A rehabilitation and community-care facility exists in the Cauldron.
-- It is affiliated with the Institute but depends on local trust and partial autonomy.
+- It is affiliated with the Order but depends on local trust and partial autonomy.
 - It serves people neglected or excluded by ordinary civic systems.
 - It is not a disguised Watch or Council outpost.
 - It may use salvaged, unofficial, or uncertified technology without being inherently negligent.
@@ -739,7 +739,7 @@ Avoid portraying it as filthy, hopeless, or secretly sinister merely because it 
 
 1. Is **The Cauldron Recovery House** the final name?
 2. Who founded it?
-3. Is it controlled by the Institute, locally governed, or jointly chartered?
+3. Is it controlled by the Order, locally governed, or jointly chartered?
 4. What neutral-care custom protects patients?
 5. Which neighborhood compact protects it?
 6. How are supplies moved across the Ash Line?
@@ -751,7 +751,7 @@ Avoid portraying it as filthy, hopeless, or secretly sinister merely because it 
 ## Development Checklist
 
 - [x] Cauldron rehabilitation role established.
-- [x] Institute affiliation and local autonomy established.
+- [x] Order affiliation and local autonomy established.
 - [x] Neutral-care constraints established.
 - [ ] Approve final name and governance.
 - [ ] Define staff and neighborhood relationships.
@@ -765,7 +765,7 @@ def update_government_district() -> None:
     text = replace_empty_yaml_list(
         text,
         "primary_connections",
-        ["The Hall of Vital Mechanics", "The Institute of Vital Mechanics"],
+        ["The Hall of Vital Mechanics", "The Order of the Mended Hand"],
     )
     text = replace_empty_yaml_list(text, "points_of_interest", ["The Hall of Vital Mechanics"])
 
@@ -785,16 +785,16 @@ def update_great_workshops() -> None:
     text = replace_empty_yaml_list(
         text,
         "primary_connections",
-        ["The Institute of Vital Mechanics", "The Mechanists' Guild"],
+        ["The Order of the Mended Hand", "The Mechanists' Guild"],
     )
     text = replace_empty_yaml_list(
         text,
         "points_of_interest",
-        ["Institute prosthetics and implant annex, final name unresolved"],
+        ["Order prosthetics and implant annex, final name unresolved"],
     )
 
     block = """
-The Great Workshops include an Institute-supported prosthetics and implant annex where surgeons, prosthetists, therapists, and certified mechanists collaborate on adaptive devices, replacement limbs, braces, and medically integrated machinery.
+The Great Workshops include an Order-supported prosthetics and implant annex where surgeons, prosthetists, therapists, and certified mechanists collaborate on adaptive devices, replacement limbs, braces, and medically integrated machinery.
 
 The exact location, name, governance, and relationship to Elias's private workspace remain unresolved.
 """
@@ -813,17 +813,17 @@ def update_academy() -> None:
     text = replace_empty_yaml_list(
         text,
         "primary_connections",
-        ["The Institute of Vital Mechanics", "Doctor Elara Quill"],
+        ["The Order of the Mended Hand", "Doctor Elara Quill"],
     )
     text = replace_empty_yaml_list(text, "headquarters", ["The Academy of Invention Campus"])
     text = replace_empty_yaml_list(text, "known_leadership", ["Doctor Elara Quill"])
 
     content = """
-The Academy hosts or works beside an Institute clinical and research annex supporting anatomy, physiology, mechanobiology, implants, adaptive devices, and ethical review of inventions that directly affect living bodies.
+The Academy hosts or works beside an Order clinical and research annex supporting anatomy, physiology, mechanobiology, implants, adaptive devices, and ethical review of inventions that directly affect living bodies.
 
-The Academy provides laboratories and theoretical research. [The Institute of Vital Mechanics](The_Institute_of_Vital_Mechanics.md) provides clinical care, patient consent standards, rehabilitation knowledge, and medical responsibility.
+The Academy provides laboratories and theoretical research. [The Order of the Mended Hand](The_Order_of_the_Mended_Hand.md) provides clinical care, patient consent standards, rehabilitation knowledge, and medical responsibility.
 
-The final boundaries between Academy research and Institute authority remain unresolved.
+The final boundaries between Academy research and Order authority remain unresolved.
 """
     text = insert_section_before(text, "Medical and Mechanobiology Collaboration", content, "Continuity Constraints")
     save(path, text)
@@ -832,12 +832,12 @@ The final boundaries between Academy research and Institute authority remain unr
 def update_brass_watch() -> None:
     path = "organizations/The_Brass_Watch.md"
     text = read(path)
-    text = add_yaml_item(text, "key_relationships", "The Institute of Vital Mechanics")
+    text = add_yaml_item(text, "key_relationships", "The Order of the Mended Hand")
 
     content = """
-The Brass Watch coordinates with [the Institute of Vital Mechanics](The_Institute_of_Vital_Mechanics.md) during fires, collapses, explosions, industrial disasters, aetheric exposure, temporal disorientation, and mass-casualty incidents.
+The Brass Watch coordinates with [the Order of the Mended Hand](The_Order_of_the_Mended_Hand.md) during fires, collapses, explosions, industrial disasters, aetheric exposure, temporal disorientation, and mass-casualty incidents.
 
-Medical support may come from Institute field medics, Watch officers with medical certification, or mixed emergency teams.
+Medical support may come from Order field medics, Watch officers with medical certification, or mixed emergency teams.
 
 Field medics remain responsible first to patient care. Watch authority does not automatically convert medical treatment into evidence collection, nor does it permit officers to inspect or seize an implant integrated into a person's body without lawful and ethical justification.
 
@@ -850,12 +850,12 @@ The exact structure of the Watch medical liaison remains unresolved.
 def update_mechanists_guild() -> None:
     path = "organizations/The_Mechanists_Guild.md"
     text = read(path)
-    text = add_yaml_item(text, "key_relationships", "The Institute of Vital Mechanics")
+    text = add_yaml_item(text, "key_relationships", "The Order of the Mended Hand")
 
     content = """
-The Guild works with [the Institute of Vital Mechanics](The_Institute_of_Vital_Mechanics.md) wherever a certified machine becomes part of medical treatment, rehabilitation, mobility, sensory support, or a person's embodied life.
+The Guild works with [the Order of the Mended Hand](The_Order_of_the_Mended_Hand.md) wherever a certified machine becomes part of medical treatment, rehabilitation, mobility, sensory support, or a person's embodied life.
 
-The Guild governs engineering standards and professional mechanical responsibility. The Institute governs medical care, consent, and biological safety.
+The Guild governs engineering standards and professional mechanical responsibility. The Order governs medical care, consent, and biological safety.
 
 Neither institution may claim ownership of a patient or assert that certification grants authority over a device after it becomes integrated with that person's body.
 
@@ -871,15 +871,15 @@ def update_society() -> None:
     text = replace_empty_yaml_list(
         text,
         "primary_connections",
-        ["The Institute of Vital Mechanics", "Professor Elias Hawthorne"],
+        ["The Order of the Mended Hand", "Professor Elias Hawthorne"],
     )
 
     content = """
-Dangerous expeditions may require Institute-certified medical planning, field kits, evacuation procedures, or a medical practitioner capable of treating trauma far from Aetherhaven.
+Dangerous expeditions may require Order-certified medical planning, field kits, evacuation procedures, or a medical practitioner capable of treating trauma far from Aetherhaven.
 
-Whether [the Institute of Vital Mechanics](The_Institute_of_Vital_Mechanics.md) supplied or certified a medic for the Clockwork Jungle expedition remains unresolved.
+Whether [the Order of the Mended Hand](The_Order_of_the_Mended_Hand.md) supplied or certified a medic for the Clockwork Jungle expedition remains unresolved.
 
-The Society and Institute may disagree over when medical caution becomes an unreasonable barrier to exploration and when an explorer's confidence becomes preventable risk.
+The Society and Order may disagree over when medical caution becomes an unreasonable barrier to exploration and when an explorer's confidence becomes preventable risk.
 """
     text = insert_section_before(text, "Expedition Medical Support", content, "Continuity Constraints")
     save(path, text)
@@ -888,15 +888,15 @@ The Society and Institute may disagree over when medical caution becomes an unre
 def update_cauldron() -> None:
     path = "locations/The_Cauldron.md"
     text = read(path)
-    text = add_yaml_item(text, "primary_connections", "The Institute of Vital Mechanics")
+    text = add_yaml_item(text, "primary_connections", "The Order of the Mended Hand")
     text = add_yaml_item(text, "primary_connections", "The Cauldron Recovery House")
 
     content = """
 [The Cauldron Recovery House](The_Cauldron_Recovery_House.md) provides rehabilitation, adaptive-device care, industrial-injury treatment, and community medicine inside the district.
 
-The facility is affiliated with [the Institute of Vital Mechanics](../organizations/The_Institute_of_Vital_Mechanics.md) but depends on local trust and partial autonomy. It cannot operate as a disguised Watch post, Council registry, or route for identifying undocumented residents.
+The facility is affiliated with [the Order of the Mended Hand](../organizations/The_Order_of_the_Mended_Hand.md) but depends on local trust and partial autonomy. It cannot operate as a disguised Watch post, Council registry, or route for identifying undocumented residents.
 
-Its staff may include Institute practitioners, Cauldron healers, workshop medics, prosthetists, therapists, and caregivers whose skill is recognized locally even when the upper city does not recognize their credentials.
+Its staff may include Order practitioners, Cauldron healers, workshop medics, prosthetists, therapists, and caregivers whose skill is recognized locally even when the upper city does not recognize their credentials.
 """
     text = insert_section_before(text, "The Cauldron Recovery House", content, "Relationship with the High Council")
     save(path, text)
@@ -905,20 +905,20 @@ Its staff may include Institute practitioners, Cauldron healers, workshop medics
 def update_elias() -> None:
     path = "characters/Professor_Elias_Hawthorne.md"
     text = read(path)
-    text = add_yaml_item(text, "key_connections", "The Institute of Vital Mechanics")
+    text = add_yaml_item(text, "key_connections", "The Order of the Mended Hand")
 
     content = """
-Elias has a complicated relationship with [the Institute of Vital Mechanics](../organizations/The_Institute_of_Vital_Mechanics.md).
+Elias has a complicated relationship with [the Order of the Mended Hand](../organizations/The_Order_of_the_Mended_Hand.md).
 
 His field engineering and emergency actions may have been essential to keeping Amelia alive after the Clockwork Jungle disaster. They did not replace the need for trained medical, surgical, rehabilitative, and prosthetic care.
 
-The Institute may have provided an expedition medic, recovery team, surgery, infection control, rehabilitation, implant monitoring, or collaboration while Elias built the mechanical framework of the Aether Gauntlet. The exact sequence and practitioners remain unresolved.
+The Order may have provided an expedition medic, recovery team, surgery, infection control, rehabilitation, implant monitoring, or collaboration while Elias built the mechanical framework of the Aether Gauntlet. The exact sequence and practitioners remain unresolved.
 
 Elias respects medical expertise but may resist institutional caution when it delays a repair or investigation he considers necessary. He becomes especially protective when researchers discuss Amelia's arm as a rare interface rather than part of his daughter's body.
 
-The Institute should be capable of challenging Elias when guilt convinces him that he alone must make every decision about Amelia's care.
+The Order should be capable of challenging Elias when guilt convinces him that he alone must make every decision about Amelia's care.
 """
-    text = insert_section_before(text, "Relationship with the Institute of Vital Mechanics", content, "The Clockwork Jungle Expedition")
+    text = insert_section_before(text, "Relationship with the Order of the Mended Hand", content, "The Clockwork Jungle Expedition")
 
     old = "Elias later constructed the mechanical structure that became Amelia's [Aether Gauntlet](../artifacts/009_The_Aether_Gauntlet_Exterior_Study.md)."
     new = "After emergency stabilization and later medical care whose exact participants remain unresolved, Elias constructed the mechanical structure that became Amelia's [Aether Gauntlet](../artifacts/009_The_Aether_Gauntlet_Exterior_Study.md)."
@@ -929,14 +929,14 @@ The Institute should be capable of challenging Elias when guilt convinces him th
 def update_amelia() -> None:
     path = "characters/Amelia_Hawthorne.md"
     text = read(path)
-    text = add_yaml_item(text, "key_connections", "The Institute of Vital Mechanics")
+    text = add_yaml_item(text, "key_connections", "The Order of the Mended Hand")
 
     content = """
-[The Institute of Vital Mechanics](../organizations/The_Institute_of_Vital_Mechanics.md) may have participated in Amelia's emergency treatment, surgery, rehabilitation, prosthetic fitting, implant monitoring, and long-term care after the Clockwork Jungle disaster.
+[The Order of the Mended Hand](../organizations/The_Order_of_the_Mended_Hand.md) may have participated in Amelia's emergency treatment, surgery, rehabilitation, prosthetic fitting, implant monitoring, and long-term care after the Clockwork Jungle disaster.
 
 The exact clinicians and sequence remain unresolved.
 
-Amelia may feel gratitude toward individual caregivers while remaining wary of institutional researchers interested in the Aether Heart. Previous medical care does not grant the Institute ownership of her records, gauntlet, body, or future choices.
+Amelia may feel gratitude toward individual caregivers while remaining wary of institutional researchers interested in the Aether Heart. Previous medical care does not grant the Order ownership of her records, gauntlet, body, or future choices.
 
 This relationship can support stories about:
 
@@ -947,9 +947,9 @@ This relationship can support stories about:
 - disagreement between Elias and clinicians;
 - and Amelia learning to speak for herself in decisions adults once made during an emergency.
 
-The Institute must include compassionate practitioners and institutional tensions rather than functioning only as a threat or exposition source.
+The Order must include compassionate practitioners and institutional tensions rather than functioning only as a threat or exposition source.
 """
-    text = insert_section_before(text, "Relationship with the Institute of Vital Mechanics", content, "The Clockwork Jungle Expedition")
+    text = insert_section_before(text, "Relationship with the Order of the Mended Hand", content, "The Clockwork Jungle Expedition")
 
     old = "Elias later constructed the mechanical framework that became Amelia's [Aether Gauntlet](../artifacts/009_The_Aether_Gauntlet_Exterior_Study.md)."
     new = "After emergency stabilization and later medical care whose exact participants remain unresolved, Elias constructed the mechanical framework that became Amelia's [Aether Gauntlet](../artifacts/009_The_Aether_Gauntlet_Exterior_Study.md)."
@@ -960,10 +960,10 @@ The Institute must include compassionate practitioners and institutional tension
 def update_expedition() -> None:
     path = "historical_events/The_Clockwork_Jungle_Expedition.md"
     text = read(path)
-    text = add_yaml_item(text, "organizations", "The Institute of Vital Mechanics, possible medical support")
+    text = add_yaml_item(text, "organizations", "The Order of the Mended Hand, possible medical support")
 
     known = "- possible recovery personnel or rescuers not yet identified"
-    addition = "- an Institute field medic, expedition-certified practitioner, or later recovery team whose exact role remains unresolved"
+    addition = "- an Order field medic, expedition-certified practitioner, or later recovery team whose exact role remains unresolved"
     if addition not in text and known in text:
         text = text.replace(known, known + "\n" + addition, 1)
 
@@ -978,15 +978,15 @@ def update_expedition() -> None:
         text = text.replace("13. A later story", "15. A later story", 1)
 
     institution_section = """
-The [Institute of Vital Mechanics](../organizations/The_Institute_of_Vital_Mechanics.md) may have supported the expedition, the recovery, Amelia's surgery, rehabilitation, prosthetic integration, or later monitoring.
+The [Order of the Mended Hand](../organizations/The_Order_of_the_Mended_Hand.md) may have supported the expedition, the recovery, Amelia's surgery, rehabilitation, prosthetic integration, or later monitoring.
 
 The exact role remains unresolved.
 
 The historical record must not imply that Elias single-handedly provided every form of medical care required to keep Amelia alive. His emergency engineering and stabilization may have been essential, while trained medical practitioners provided other critical care.
 
-Whether an Institute medic accompanied the expedition or became involved only after evacuation remains an open question.
+Whether an Order medic accompanied the expedition or became involved only after evacuation remains an open question.
 """
-    text = insert_section_before(text, "Institute of Vital Mechanics", institution_section, "Conflicting Accounts")
+    text = insert_section_before(text, "Order of the Mended Hand", institution_section, "Conflicting Accounts")
 
     constraint = "- Elias's emergency actions were important, but Amelia's survival and recovery also required medical expertise whose personnel and sequence remain unresolved."
     if constraint not in text:
@@ -1010,7 +1010,7 @@ def update_indexes() -> None:
     if note.strip() not in text:
         text = text.replace(marker, marker + note, 1)
 
-    org_row = "| [The Institute of Vital Mechanics](organizations/The_Institute_of_Vital_Mechanics.md) | [The_Institute_of_Vital_Mechanics.md](organizations/The_Institute_of_Vital_Mechanics.md) |"
+    org_row = "| [The Order of the Mended Hand](organizations/The_Order_of_the_Mended_Hand.md) | [The_Order_of_the_Mended_Hand.md](organizations/The_Order_of_the_Mended_Hand.md) |"
     if org_row not in text:
         marker = "| [The Guild of Verdant Mechanists](organizations/The_Guild_of_Verdant_Mechanists.md) | [The_Guild_of_Verdant_Mechanists.md](organizations/The_Guild_of_Verdant_Mechanists.md) |"
         text = text.replace(marker, marker + "\n" + org_row, 1)
@@ -1039,9 +1039,9 @@ def update_indexes() -> None:
     section = """
 ## Distributed Medical Infrastructure
 
-Aetherhaven's medical, surgical, rehabilitative, prosthetic, implant, and field-response infrastructure is represented by [the Institute of Vital Mechanics](organizations/The_Institute_of_Vital_Mechanics.md).
+Aetherhaven's medical, surgical, rehabilitative, prosthetic, implant, and field-response infrastructure is represented by [the Order of the Mended Hand](organizations/The_Order_of_the_Mended_Hand.md).
 
-The Institute is not a separate map district. Its known presence includes:
+The Order is not a separate map district. Its known presence includes:
 
 - [the Hall of Vital Mechanics](locations/The_Hall_of_Vital_Mechanics.md) in the Government District;
 - clinical and research collaboration at the Academy of Invention;
@@ -1059,7 +1059,7 @@ The institution is intentionally a placeholder. Its final name, leadership, staf
 
 
 def main() -> int:
-    write("organizations/The_Institute_of_Vital_Mechanics.md", organization_profile())
+    write("organizations/The_Order_of_the_Mended_Hand.md", organization_profile())
     write("locations/The_Hall_of_Vital_Mechanics.md", central_hall_profile())
     write("locations/The_Cauldron_Recovery_House.md", recovery_house_profile())
 
@@ -1075,7 +1075,7 @@ def main() -> int:
     update_expedition()
     update_indexes()
 
-    print("Created and integrated the Institute of Vital Mechanics placeholder network.")
+    print("Created and integrated the Order of the Mended Hand placeholder network.")
     return 0
 
 

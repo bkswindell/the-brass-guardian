@@ -136,9 +136,9 @@ See the [Historical Events Index](historical_events/README.md).
 
 ## Distributed Medical Infrastructure
 
-Aetherhaven's medical, surgical, rehabilitative, prosthetic, implant, and field-response infrastructure is represented by [the Institute of Vital Mechanics](organizations/The_Institute_of_Vital_Mechanics.md).
+Aetherhaven's medical, surgical, rehabilitative, prosthetic, implant, and field-response infrastructure is represented by [the Order of the Mended Hand](organizations/The_Order_of_the_Mended_Hand.md).
 
-The Institute is not a separate map district. Its known presence includes:
+The Order is not a separate map district. Its known presence includes:
 
 - [the Hall of Vital Mechanics](locations/The_Hall_of_Vital_Mechanics.md) in the Government District;
 - clinical and research collaboration at the Academy of Invention;

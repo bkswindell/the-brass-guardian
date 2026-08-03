@@ -26,7 +26,7 @@ key_relationships:
   - Professor Elias Hawthorne
   - Amelia Hawthorne
   - The Underclock
-  - The Institute of Vital Mechanics
+  - The Order of the Mended Hand
 temporal_relevance: Critical
 ---
 
@@ -563,19 +563,19 @@ The future story [The Watchman's Regret](../story_arcs/The_Watchmans_Regret.md) 
 
 ## Medical Response and Field Medics
 
-The Brass Watch coordinates with [the Institute of Vital Mechanics](The_Institute_of_Vital_Mechanics.md) during fires, collapses, explosions, industrial disasters, aetheric exposure, temporal disorientation, and mass-casualty incidents.
+The Brass Watch coordinates with [the Order of the Mended Hand](The_Order_of_the_Mended_Hand.md) during fires, collapses, explosions, industrial disasters, aetheric exposure, temporal disorientation, and mass-casualty incidents.
 
-Medical support may come from Institute field medics, Watch officers with medical certification, or mixed emergency teams.
+Medical support may come from Order field medics, Watch officers with medical certification, or mixed emergency teams.
 
 Field medics remain responsible first to patient care. Watch authority does not automatically convert medical treatment into evidence collection, nor does it permit officers to inspect or seize an implant integrated into a person's body without lawful and ethical justification.
 
 The exact structure of the Watch medical liaison remains unresolved.
 
-## Relationship with the Institute of Vital Mechanics
+## Relationship with the Order of the Mended Hand
 
-The Brass Watch relies on [the Institute of Vital Mechanics](The_Institute_of_Vital_Mechanics.md) for field medics, disaster response, aetheric trauma, and injuries involving implants or unusual mechanisms.
+The Brass Watch relies on [the Order of the Mended Hand](The_Order_of_the_Mended_Hand.md) for field medics, disaster response, aetheric trauma, and injuries involving implants or unusual mechanisms.
 
-Institute personnel do not possess uniform independence from Watch authority. Some protect patients, some share records, and some treat containment as part of care.
+Order personnel do not possess uniform independence from Watch authority. Some protect patients, some share records, and some treat containment as part of care.
 
 The boundary between medical transport and custody should remain a recurring institutional tension.
 

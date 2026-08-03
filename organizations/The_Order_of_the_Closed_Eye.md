@@ -901,9 +901,9 @@ A [High Council](The_High_Council_of_Aetherhaven.md) member discovers that their
 - The exact fate of Prototype I after the broken handoff.
 - Whether the Order's oldest Closure prevented—or caused—a major [Aetherhaven](../locations/Aetherhaven.md) mystery.
 
-## Relationship with the Institute of Vital Mechanics
+## Relationship with the Order of the Mended Hand
 
-The Order of the Closed Eye may maintain individual contacts within [the Institute of Vital Mechanics](The_Institute_of_Vital_Mechanics.md).
+The Order of the Closed Eye may maintain individual contacts within [the Order of the Mended Hand](The_Order_of_the_Mended_Hand.md).
 
 Medical records, anomalous implants, altered memories, unidentified patients, and Ancient biological-mechanical interfaces would all be valuable to the Order's containment work.
 

@@ -22,7 +22,7 @@ participants:
 organizations:
   - Society of Explorers, possible sponsor or record-holder
   - Academy of Invention, possible research connection
-  - The Institute of Vital Mechanics, possible medical support
+  - The Order of the Mended Hand, possible medical support
 related_artifacts:
   - The Aether Gauntlet: Exterior Study
   - Professor Hawthorne's Field Journal
@@ -107,7 +107,7 @@ No single explanation is yet canonical.
 - [Amelia Hawthorne](../characters/Amelia_Hawthorne.md)
 - additional expedition members whose identities, survival, and roles remain unresolved
 - possible recovery personnel or rescuers not yet identified
-- an Institute field medic, expedition-certified practitioner, or later recovery team whose exact role remains unresolved
+- an Order field medic, expedition-certified practitioner, or later recovery team whose exact role remains unresolved
 
 ## Timeline
 
@@ -153,19 +153,19 @@ The [Order of the Closed Eye](../organizations/The_Order_of_the_Closed_Eye.md) m
 
 Direct involvement remains unconfirmed.
 
-## Institute of Vital Mechanics
+## Order of the Mended Hand
 
-The [Institute of Vital Mechanics](../organizations/The_Institute_of_Vital_Mechanics.md) may have supported the expedition, recovery, surgery, rehabilitation, prosthetic integration, experimental treatment, or later monitoring.
+The [Order of the Mended Hand](../organizations/The_Order_of_the_Mended_Hand.md) may have supported the expedition, recovery, surgery, rehabilitation, prosthetic integration, experimental treatment, or later monitoring.
 
 The exact role remains unresolved.
 
 The historical record must not imply that Elias single-handedly provided every form of care required to keep Amelia alive. His emergency engineering and stabilization may have been essential, while trained practitioners provided other critical treatment.
 
-It must also not assume that every Institute recommendation was safe, ethical, or accepted.
+It must also not assume that every Order recommendation was safe, ethical, or accepted.
 
 The recovery may have involved disputed decisions concerning amputation, replacement, observation, the Aether Heart, or experimental integration. Elias may have accepted some measures under desperate circumstances and refused others.
 
-Whether an Institute medic accompanied the expedition or became involved only after evacuation remains open.
+Whether an Order medic accompanied the expedition or became involved only after evacuation remains open.
 
 ## Conflicting Accounts
 
@@ -286,7 +286,7 @@ The aftermath-first approach is canonical working structure.
 20. What will the site reveal when Amelia returns?
 21. What exact medical personnel, field support, surgery, and rehabilitation kept Amelia alive?
 22. What procedures or experiments were performed during Amelia's recovery?
-23. Which Institute recommendations did Elias accept or refuse?
+23. Which Order recommendations did Elias accept or refuse?
 
 ## Development Checklist
 
