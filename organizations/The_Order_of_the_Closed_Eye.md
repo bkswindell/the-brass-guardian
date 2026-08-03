@@ -201,7 +201,7 @@ A Bound Seat may genuinely believe they are making an independent decision.
 
 Council members whose aides, clerks, researchers, legal advisers, or agenda packets are controlled by the Closed Eye.
 
-The Council member may never meet an Closed Eye agent.
+The Council member may never meet a Closed Eye agent.
 
 They simply receive a carefully curated reality.
 
@@ -456,7 +456,7 @@ Instead, the Vaults taught her to distrust any institution that treats missing e
 
 ## [The Shrouded Vaults](../locations/The_Shrouded_Vaults.md) Expedition
 
-The expedition that cost [Thorne](../characters/Chief_Inspector_Beatrice_Thorne.md) her left eye was likely an Closed Eye-directed operation using [Brass Watch](The_Brass_Watch.md) personnel.
+The expedition that cost [Thorne](../characters/Chief_Inspector_Beatrice_Thorne.md) her left eye was likely a Closed Eye-directed operation using [Brass Watch](The_Brass_Watch.md) personnel.
 
 [Thorne](../characters/Chief_Inspector_Beatrice_Thorne.md) believed she was recovering a public-safety threat.
 
@@ -578,7 +578,7 @@ Both can treat people as secondary to doctrine.
 
 ## Relationship with [the Underclock](The_Underclock.md)
 
-[The Underclock](The_Underclock.md) is not an Closed Eye ally.
+[The Underclock](The_Underclock.md) is not a Closed Eye ally.
 
 Its tunnels, couriers, smugglers, sanctuary routes, and compartmentalized cells make it useful to anyone who can manipulate the right intermediary.
 
@@ -745,7 +745,7 @@ Prototype I was moved under Closed Eye custody toward a concealed repository.
 Possible destinations included:
 
 - a sealed Academy annex,
-- an Closed Eye-controlled archive,
+- a Closed Eye-controlled archive,
 - or an outer chamber of [the Shrouded Vaults](../locations/The_Shrouded_Vaults.md).
 
 The transfer did not appear in ordinary civic records.
@@ -777,7 +777,7 @@ Possible outcomes include:
 
 - Prototype I awakened,
 - an [Underclock](The_Underclock.md) courier changed the route,
-- an Closed Eye Warden interrupted the transfer,
+- a Closed Eye Warden interrupted the transfer,
 - a [Ninth Guild](The_Ninth_Guild.md) Custodian attempted premature accession,
 - or the artifact rejected transfer.
 
@@ -862,7 +862,7 @@ A redacted route reappears every time [Amelia](../characters/Amelia_Hawthorne.md
 
 ### The Warden's Mercy
 
-An Closed Eye Warden saves [Amelia](../characters/Amelia_Hawthorne.md) from [the Ninth Guild](The_Ninth_Guild.md) and then attempts to confiscate the evidence she recovered.
+A Closed Eye Warden saves [Amelia](../characters/Amelia_Hawthorne.md) from [the Ninth Guild](The_Ninth_Guild.md) and then attempts to confiscate the evidence she recovered.
 
 ### The Council Vote That Already Happened
 
@@ -878,11 +878,11 @@ An Closed Eye Warden saves [Amelia](../characters/Amelia_Hawthorne.md) from [the
 
 ### The Eye Beneath the Eye
 
-[Thorne](../characters/Chief_Inspector_Beatrice_Thorne.md)'s lens reveals an Closed Eye symbol hidden beneath an official [Brass Watch](The_Brass_Watch.md) command seal.
+[Thorne](../characters/Chief_Inspector_Beatrice_Thorne.md)'s lens reveals a Closed Eye symbol hidden beneath an official [Brass Watch](The_Brass_Watch.md) command seal.
 
 ### The Closed Seat
 
-A [High Council](The_High_Council_of_Aetherhaven.md) member discovers that their predecessor had been an Closed Eye member—and that some of their own memories are sealed.
+A [High Council](The_High_Council_of_Aetherhaven.md) member discovers that their predecessor had been a Closed Eye member—and that some of their own memories are sealed.
 
 ## Staged Revelations
 
@@ -943,7 +943,7 @@ No institution-wide control is established.
 - The Closed Eye and [Ninth Guild](The_Ninth_Guild.md) remain ideological mirror enemies.
 - The Closed Eye should sometimes help the Hawthornes and sometimes oppose them.
 - Its members may care sincerely for [Amelia](../characters/Amelia_Hawthorne.md) while denying her agency.
-- Not every [High Council](The_High_Council_of_Aetherhaven.md) member should be an Closed Eye pawn.
+- Not every [High Council](The_High_Council_of_Aetherhaven.md) member should be a Closed Eye pawn.
 - The Closed Eye's control must operate primarily through information, records, appointments, leverage, and memory rather than overt rule.
 
 ## Open Canon Questions
@@ -958,7 +958,7 @@ No institution-wide control is established.
 8. Who manipulated [the Underclock](The_Underclock.md) crew?
 9. Did Prototype I escape by choice?
 10. What evidence did [the Underclock](The_Underclock.md) preserve?
-11. Does [Octavia](../characters/Chancellor_Octavia_Vale.md)'s sealed letter contain an Closed Eye warning?
+11. Does [Octavia](../characters/Chancellor_Octavia_Vale.md)'s sealed letter contain a Closed Eye warning?
 12. Did the Closed Eye create [the Shrouded Vaults](../locations/The_Shrouded_Vaults.md) or merely inherit them?
 13. Which Closed Eye faction believes [Amelia](../characters/Amelia_Hawthorne.md) should undergo permanent Closure?
 14. Is the Book of Closures real?
