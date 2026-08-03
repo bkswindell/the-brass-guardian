@@ -24,7 +24,7 @@ primary_connections:
 
 > **Non-canonical audience evidence.** The editorial metadata and interpretation audit may be updated as canon develops. The source transcript below is preserved exactly and must not be edited, corrected, normalized, or silently incorporated into canon.
 
-- [Podcast Link](https://www.spreaker.com/episode/who-really-drives-your-mechanical-hand--73392980)
+- [Podcast Link](https://www.spreaker.com/episode/who-really-drives-your-mechanical-hand--73392980)  
 
 ## Editorial Reaction Summary
 
