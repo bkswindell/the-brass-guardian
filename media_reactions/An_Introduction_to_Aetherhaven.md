@@ -1,3 +1,79 @@
+---
+reaction_id: AH-REACTION-001
+title: "An Introduction to Aetherhaven"
+record_type: Non-canonical public reaction
+canon_status: Non-canonical audience evidence
+media_type: "Audio podcast dialogue transcript"
+source_file: "An_Introduction_to_Aetherhaven.m4a"
+source_content_policy: Immutable
+source_sha256: 12358e7c0287297b9eced3c10586da57a91daebbfdf39b15b85b10aa26ecf5bd
+audience_scope: Limited test audience
+overall_sentiment: "Highly enthusiastic, intellectually curious, and mystery-driven"
+canon_alignment: "Mixed: strong thematic understanding with several literalized or outdated lore claims"
+last_metadata_review: 2026-08-03
+primary_connections:
+  - "../locations/Aetherhaven.md"
+  - "../locations/The_Aetherium.md"
+  - "../characters/Amelia_Hawthorne.md"
+  - "../organizations/The_High_Council_of_Aetherhaven.md"
+  - "../organizations/The_Order_of_the_Closed_Eye.md"
+---
+
+# Public Reaction Record: An Introduction to Aetherhaven
+
+> **Non-canonical audience evidence.** The editorial metadata and interpretation audit may be updated as canon develops. The source transcript below is preserved exactly and must not be edited, corrected, normalized, or silently incorporated into canon.
+
+## Editorial Reaction Summary
+
+The reaction understands Aetherhaven as a living, shifting city whose institutions are built around technology they do not fully control. Amelia is recognized as central to the mystery, but the response frequently converts unresolved titles, metaphors, and speculative possibilities into settled mechanics.
+
+**Overall sentiment:** Highly enthusiastic, intellectually curious, and mystery-driven
+**Canon alignment:** Mixed: strong thematic understanding with several literalized or outdated lore claims
+
+## What Appears to Be Landing
+
+- The Heart Engine and the Lost Seconds are immediately memorable hooks.
+- The living-machine ecology of the Clockwork Gardens is understood as a core theme rather than decoration.
+- The political conflict between knowledge, secrecy, dependence, and reform is legible.
+- Amelia is perceived as the emotional and mechanical center of the larger mystery.
+
+## Interpretation Audit
+
+### Aligned with Current Canonical Intent
+
+- Aetherhaven feels alive and capable of reacting to its inhabitants.
+- The city depends on ancient systems no modern institution completely understands.
+- The Closed Eye, Ninth Guild, Unwound, and Severed Coil are read as competing philosophies rather than interchangeable villains.
+
+### Misinterpretations, Overreach, or Continuity Risks
+
+- The transcript repeatedly uses Hawthorn and Thorn instead of Hawthorne and Thorne.
+- It calls Amelia the Clockwork Prodigy rather than her canonical primary title, the Clockwork Explorer.
+- It treats Amelia's exact age as nine even though opening chronology remains unresolved.
+- It treats kindness as the literal technical fuel of the Aether Heart; current canon preserves that wording as bedtime-story framing.
+- It presents the Six Keys, Prototype II linkage, and Amelia's arm as a literal key component with more certainty than active canon supports.
+- It risks reducing Amelia from a person making choices to a component required by the city.
+
+## Development Use
+
+- Keep the Heart Engine, Lost Seconds, and living-city premise prominent in public-facing summaries.
+- Strengthen person-first language whenever Amelia is described as a Bearer or Living Key.
+- Label metaphor, rumor, and unresolved theory more clearly in material shared with test readers.
+
+## Primary Canon Connections
+
+- [Aetherhaven](../locations/Aetherhaven.md)
+- [The Aetherium](../locations/The_Aetherium.md)
+- [Amelia Hawthorne](../characters/Amelia_Hawthorne.md)
+- [The High Council of Aetherhaven](../organizations/The_High_Council_of_Aetherhaven.md)
+- [The Order of the Closed Eye](../organizations/The_Order_of_the_Closed_Eye.md)
+
+## Immutable Source Transcript
+
+**Source integrity:** SHA-256 `12358e7c0287297b9eced3c10586da57a91daebbfdf39b15b85b10aa26ecf5bd`
+**Editing rule:** Do not alter anything between the source markers. Corrections belong in the editorial metadata above.
+
+<!-- SOURCE CONTENT START: IMMUTABLE PUBLIC REACTION -->
 # Audio Transcript: An Introduction to Aetherhaven
 
 **File:** An_Introduction_to_Aetherhaven.m4a
@@ -147,3 +223,4 @@
 **Host 2:** And that's the real adventure: acknowledging that the strongest machines aren't powered by engines alone, but by the people who use them.
 
 **Host 1:** Exactly. The Heart Engine waits, the city shifts, and the story continues, inviting us all to consider what it means to be a key in a world of gears and dreams.
+<!-- SOURCE CONTENT END: IMMUTABLE PUBLIC REACTION -->

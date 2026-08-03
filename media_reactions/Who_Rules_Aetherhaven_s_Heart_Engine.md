@@ -1,3 +1,78 @@
+---
+reaction_id: AH-REACTION-004
+title: "Who Rules Aetherhaven's Heart Engine?"
+record_type: Non-canonical public reaction
+canon_status: Non-canonical audience evidence
+media_type: "Audio debate transcript"
+source_file: "Who_Rules_Aetherhaven_s_Heart_Engine.m4a"
+source_content_policy: Immutable
+source_sha256: 6b231152cd0d5a35783e4c29f1be1d023cdb3563ac9a5054907a6c5882bd0958
+audience_scope: Limited test audience
+overall_sentiment: "Deeply engaged and genuinely divided rather than seeking a simple villain"
+canon_alignment: "Thematically strong with several institutional claims stated too confidently"
+last_metadata_review: 2026-08-03
+primary_connections:
+  - "../organizations/The_High_Council_of_Aetherhaven.md"
+  - "../organizations/The_Unwound.md"
+  - "../organizations/The_Severed_Coil.md"
+  - "../locations/The_Cauldron.md"
+  - "../organizations/The_Order_of_the_Closed_Eye.md"
+---
+
+# Public Reaction Record: Who Rules Aetherhaven's Heart Engine?
+
+> **Non-canonical audience evidence.** The editorial metadata and interpretation audit may be updated as canon develops. The source transcript below is preserved exactly and must not be edited, corrected, normalized, or silently incorporated into canon.
+
+## Editorial Reaction Summary
+
+The debate understands the central political question correctly: protection and oppression may be produced by the same machinery. Neither speaker can dismiss the need for Continuance or the cost of secrecy. That moral tension is one of the strongest audience responses in the folder.
+
+**Overall sentiment:** Deeply engaged and genuinely divided rather than seeking a simple villain
+**Canon alignment:** Thematically strong with several institutional claims stated too confidently
+
+## What Appears to Be Landing
+
+- The Doctrine of Continuance works as both a credible survival principle and a possible instrument of control.
+- The distinction between the peaceful Unwound and violent Severed Coil is understood and defended.
+- The Cauldron is interpreted as the hidden cost of upper-city stability.
+- The Council is not reduced to a cartoon villain; its necessity remains arguable.
+
+## Interpretation Audit
+
+### Aligned with Current Canonical Intent
+
+- Aetherhaven's government is morally compromised without being functionally unnecessary.
+- Information control can be protective in motive and oppressive in effect.
+- The central conflict invites readers to decide rather than supplying a single approved political answer.
+
+### Misinterpretations, Overreach, or Continuity Risks
+
+- It describes the Closed Eye as a conventional deep-state intelligence agency, which flattens its stranger containment doctrine.
+- It presents retroactive clock editing and specific committees as settled mechanisms rather than interpretations requiring source verification.
+- It interprets the Thirteenth Chair as either proof of limits or authoritarian theater; both are useful readings, not established truth.
+- It describes the Cauldron as an unregulated toxic sweatshop in language more absolute than active canon.
+- It uses Thorn instead of Thorne.
+
+## Development Use
+
+- The Council's ambiguity is landing exactly as intended and should not be simplified.
+- Future stories should show individual Council decisions and consequences rather than resolving the institution as wholly protective or wholly corrupt.
+- The Unwound/Severed Coil distinction is clear enough to support nuanced political storytelling.
+
+## Primary Canon Connections
+
+- [The High Council of Aetherhaven](../organizations/The_High_Council_of_Aetherhaven.md)
+- [The Unwound](../organizations/The_Unwound.md)
+- [The Severed Coil](../organizations/The_Severed_Coil.md)
+- [The Cauldron](../locations/The_Cauldron.md)
+- [The Order of the Closed Eye](../organizations/The_Order_of_the_Closed_Eye.md)
+
+## Immutable Source Transcript
+
+**Source integrity:** SHA-256 `6b231152cd0d5a35783e4c29f1be1d023cdb3563ac9a5054907a6c5882bd0958`
+**Editing rule:** Do not alter anything between the source markers. Corrections belong in the editorial metadata above.
+
+<!-- SOURCE CONTENT START: IMMUTABLE PUBLIC REACTION -->
 # Audio Transcript: Who Rules Aetherhaven's Heart Engine?
 
 **File:** Who_Rules_Aetherhaven_s_Heart_Engine.m4a
@@ -175,3 +250,4 @@
 **Host 2:** Absolutely. The restricted archives are waiting.
 
 **Host 1:** So we leave it to you to decide for yourself. When you look at the colossal, ticking clock of Aetherhaven, is the Doctrine of Continuance a vital shield holding back the dark, or a heavy yoke keeping the citizens in the dark?
+<!-- SOURCE CONTENT END: IMMUTABLE PUBLIC REACTION -->
