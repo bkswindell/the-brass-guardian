@@ -6,7 +6,7 @@ canon_status: Non-canonical audience evidence
 media_type: "Audio debate transcript"
 source_file: "Who_Rules_Aetherhaven_s_Heart_Engine.m4a"
 source_content_policy: Immutable
-source_sha256: 6b231152cd0d5a35783e4c29f1be1d023cdb3563ac9a5054907a6c5882bd0958
+source_sha256: 011ca1056deccf4a7204145fb4f511aafb5edfabdd33362e13c3d82c571e96fc
 audience_scope: Limited test audience
 overall_sentiment: "Deeply engaged and genuinely divided rather than seeking a simple villain"
 canon_alignment: "Thematically strong with several institutional claims stated too confidently"
@@ -69,7 +69,7 @@ The debate understands the central political question correctly: protection and 
 
 ## Immutable Source Transcript
 
-**Source integrity:** SHA-256 `6b231152cd0d5a35783e4c29f1be1d023cdb3563ac9a5054907a6c5882bd0958`
+**Source integrity:** SHA-256 `011ca1056deccf4a7204145fb4f511aafb5edfabdd33362e13c3d82c571e96fc`
 **Editing rule:** Do not alter anything between the source markers. Corrections belong in the editorial metadata above.
 
 <!-- SOURCE CONTENT START: IMMUTABLE PUBLIC REACTION -->

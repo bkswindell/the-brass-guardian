@@ -6,7 +6,7 @@ canon_status: Non-canonical audience evidence
 media_type: "Audio podcast dialogue transcript"
 source_file: "An_Introduction_to_Aetherhaven.m4a"
 source_content_policy: Immutable
-source_sha256: 12358e7c0287297b9eced3c10586da57a91daebbfdf39b15b85b10aa26ecf5bd
+source_sha256: d85051a787b2775b1ef1594c09f5e5ec2745e34859017380e9af014cc31f3bff
 audience_scope: Limited test audience
 overall_sentiment: "Highly enthusiastic, intellectually curious, and mystery-driven"
 canon_alignment: "Mixed: strong thematic understanding with several literalized or outdated lore claims"
@@ -70,7 +70,7 @@ The reaction understands Aetherhaven as a living, shifting city whose institutio
 
 ## Immutable Source Transcript
 
-**Source integrity:** SHA-256 `12358e7c0287297b9eced3c10586da57a91daebbfdf39b15b85b10aa26ecf5bd`
+**Source integrity:** SHA-256 `d85051a787b2775b1ef1594c09f5e5ec2745e34859017380e9af014cc31f3bff`
 **Editing rule:** Do not alter anything between the source markers. Corrections belong in the editorial metadata above.
 
 <!-- SOURCE CONTENT START: IMMUTABLE PUBLIC REACTION -->

@@ -6,7 +6,7 @@ canon_status: Non-canonical audience evidence
 media_type: "Audio podcast dialogue transcript"
 source_file: "Who_Really_Drives_Your_Mechanical_Hand.m4a"
 source_content_policy: Immutable
-source_sha256: aca6fa634e3be9a150e4ff3b7e8aea712ce52f50eb9a6ac12ddece4df0cbeb13
+source_sha256: c36a60196492b8425d919734918e1f32d7af666fd23b4f1e1fdede0fbc712333
 audience_scope: Limited test audience
 overall_sentiment: "Powerfully affected, disturbed, and philosophically engaged"
 canon_alignment: "Excellent thematic resonance; major overstatement of unresolved medical history"
@@ -74,7 +74,7 @@ This reaction strongly understands the intended bodily-autonomy theme. The Hand 
 
 ## Immutable Source Transcript
 
-**Source integrity:** SHA-256 `aca6fa634e3be9a150e4ff3b7e8aea712ce52f50eb9a6ac12ddece4df0cbeb13`
+**Source integrity:** SHA-256 `c36a60196492b8425d919734918e1f32d7af666fd23b4f1e1fdede0fbc712333`
 **Editing rule:** Do not alter anything between the source markers. Corrections belong in the editorial metadata above.
 
 <!-- SOURCE CONTENT START: IMMUTABLE PUBLIC REACTION -->
