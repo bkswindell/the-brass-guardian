@@ -5,6 +5,9 @@ Markdown hard line breaks use two trailing spaces. Those spaces are allowed
 inside the immutable public-reaction source block because the transcript's
 source formatting must be preserved exactly. Editorial metadata and analysis
 outside the source block must remain free of trailing whitespace.
+
+The closing source marker may immediately follow the final transcript sentence;
+that pre-existing layout is recognized without rewriting the source block.
 """
 
 from __future__ import annotations
@@ -21,11 +24,7 @@ def main() -> int:
     errors: list[str] = []
 
     for path in sorted(MEDIA.glob("*.md")):
-        if path.name in {"README.md", "AUDIENCE_RESPONSE_SYNTHESIS.md"}:
-            in_source = False
-        else:
-            in_source = False
-
+        in_source = False
         start_count = 0
         end_count = 0
 
@@ -33,22 +32,27 @@ def main() -> int:
             path.read_text(encoding="utf-8").splitlines(keepends=True), start=1
         ):
             line = raw_line.rstrip("\r\n")
+            line_started_in_source = in_source
 
-            if line == START:
-                start_count += 1
+            if START in line:
+                start_count += line.count(START)
                 in_source = True
-                continue
 
-            if line == END:
-                end_count += 1
+            if END in line:
+                end_count += line.count(END)
                 in_source = False
+
+            # Marker-bearing lines may contain source text before or after the
+            # marker. Do not apply editorial whitespace rules to those lines.
+            if START in line or END in line:
                 continue
 
-            if not in_source and line != line.rstrip(" \t"):
-                errors.append(
-                    f"{path.relative_to(ROOT)}:{line_number}: "
-                    "trailing whitespace outside immutable source block"
-                )
+            if not line_started_in_source and not in_source:
+                if line != line.rstrip(" \t"):
+                    errors.append(
+                        f"{path.relative_to(ROOT)}:{line_number}: "
+                        "trailing whitespace outside immutable source block"
+                    )
 
         if start_count != end_count:
             errors.append(
