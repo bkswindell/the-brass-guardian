@@ -23,6 +23,8 @@ primary_connections:
 
 > **Non-canonical audience evidence.** The editorial metadata and interpretation audit may be updated as canon develops. The source transcript below is preserved exactly and must not be edited, corrected, normalized, or silently incorporated into canon.
 
+- [Podcast Link](https://www.spreaker.com/episode/policing-the-lost-seconds-of-aetherhaven--73392961)  
+
 ## Editorial Reaction Summary
 
 The reaction sees the Brass Watch as honorable people operating inside a deliberately incomplete information system. Thorne's conflict, the value of physical evidence, and the need for Hawthorne expertise all resonate. The Gearbreaker retelling, however, adds actions and motivations that should not be imported back into canon.
