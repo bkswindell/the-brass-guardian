@@ -18,7 +18,6 @@ on:
       - scripts/polish_order_shorthand_grammar.py
       - scripts/integrate_canonical_story_drafts.py
       - scripts/add_story_draft_artwork.py
-      - scripts/refresh_authorized_media_reaction_hashes.py
       - scripts/integrate_media_reactions.py
       - scripts/polish_media_reaction_formatting.py
       - scripts/verify_media_reaction_markdown.py
@@ -61,7 +60,6 @@ jobs:
           python scripts/polish_order_shorthand_grammar.py
           python scripts/integrate_canonical_story_drafts.py
           python scripts/add_story_draft_artwork.py
-          python scripts/refresh_authorized_media_reaction_hashes.py
           python scripts/integrate_media_reactions.py
           python scripts/polish_media_reaction_formatting.py
 
@@ -87,7 +85,6 @@ jobs:
           python scripts/polish_order_shorthand_grammar.py
           python scripts/integrate_canonical_story_drafts.py
           python scripts/add_story_draft_artwork.py
-          python scripts/refresh_authorized_media_reaction_hashes.py
           python scripts/integrate_media_reactions.py
           python scripts/polish_media_reaction_formatting.py
           python scripts/build_canon_development_todo.py
