@@ -20,6 +20,7 @@ on:
       - scripts/add_story_draft_artwork.py
       - scripts/integrate_media_reactions.py
       - scripts/polish_media_reaction_formatting.py
+      - scripts/verify_media_reaction_markdown.py
       - .github/workflows/build-historical-event-library.yml
 
 permissions:
@@ -93,7 +94,10 @@ jobs:
           diff -u /tmp/history-before.sha256 /tmp/history-after.sha256
 
       - name: Verify Markdown patch
-        run: git diff --check
+        shell: bash
+        run: |
+          git diff --check -- . ':(exclude)media_reactions/*.md'
+          python scripts/verify_media_reaction_markdown.py
 
       - name: Commit generated canon
         shell: bash
@@ -105,5 +109,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add -- '*.md' '**/*.md' scripts/*.py
-          git commit -m "Integrate non-canonical public reactions"
+          git commit -m "Refresh public reaction source hashes"
           git push origin HEAD:${{ github.event.pull_request.head.ref || github.ref_name }}
