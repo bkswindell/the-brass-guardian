@@ -23,6 +23,8 @@ primary_connections:
 
 > **Non-canonical audience evidence.** The editorial metadata and interpretation audit may be updated as canon develops. The source transcript below is preserved exactly and must not be edited, corrected, normalized, or silently incorporated into canon.
 
+- [Podcast Link](https://www.spreaker.com/episode/how-does-kindness-power-aetherhaven-s-heart-engine--73392899)  
+
 ## Editorial Reaction Summary
 
 This is the clearest evidence that the light opening stories are creating affection. Pip, the Wayfinder as home, Amelia's competence, and kindness as heroic action all land immediately. The main interpretive problem is that the bedtime-story metaphor is treated as literal citywide engineering law.
