@@ -24,6 +24,8 @@ primary_connections:
 
 > **Non-canonical audience evidence.** The editorial metadata and interpretation audit may be updated as canon develops. The source transcript below is preserved exactly and must not be edited, corrected, normalized, or silently incorporated into canon.
 
+- [Podcast Link](https://www.spreaker.com/episode/who-really-drives-your-mechanical-hand--73392980)
+
 ## Editorial Reaction Summary
 
 This reaction strongly understands the intended bodily-autonomy theme. The Hand is perceived as necessary, skilled, feared, and capable of treating a successful mechanism as more important than the person. Mechanical limbs also read as interfaces with memory and power. However, the transcript converts many deliberately unresolved possibilities about Amelia's treatment and the Recovery House into confirmed abuse.
