@@ -12,6 +12,7 @@ on:
       - scripts/build_vital_mechanics_placeholder.py
       - scripts/refine_vital_mechanics_moral_ambiguity.py
       - scripts/rename_mended_hand.py
+      - scripts/clarify_order_shorthand.py
       - .github/workflows/build-historical-event-library.yml
 
 permissions:
@@ -47,6 +48,7 @@ jobs:
           python scripts/build_vital_mechanics_placeholder.py
           python scripts/refine_vital_mechanics_moral_ambiguity.py
           python scripts/rename_mended_hand.py
+          python scripts/clarify_order_shorthand.py
 
       - name: Refresh development TODO
         run: |
@@ -66,6 +68,7 @@ jobs:
           python scripts/build_vital_mechanics_placeholder.py
           python scripts/refine_vital_mechanics_moral_ambiguity.py
           python scripts/rename_mended_hand.py
+          python scripts/clarify_order_shorthand.py
           python scripts/build_canon_development_todo.py
           python scripts/link_canon_development_todo.py
           find . -type f -name '*.md' -not -path './.git/*' -not -path './unused/*' -print0 \
@@ -85,5 +88,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add -- '*.md' '**/*.md' scripts/*.py
-          git commit -m "Rename medical order to the Mended Hand"
+          git commit -m "Clarify Order shorthand conventions"
           git push origin HEAD:${{ github.event.pull_request.head.ref || github.ref_name }}
