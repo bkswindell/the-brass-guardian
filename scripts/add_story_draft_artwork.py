@@ -3,6 +3,7 @@
 
 from __future__ import annotations
 
+import re
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -28,9 +29,27 @@ def insert_after(text: str, anchor: str, block: str) -> str:
     return text.replace(anchor, anchor + "\n\n" + block.strip(), 1)
 
 
-def add_yaml_artwork(text: str, block: str) -> str:
-    if "\nartwork:\n" in text:
+def insert_after_story_text(text: str, anchor: str, block: str) -> str:
+    """Insert artwork only inside the prose section, never in YAML metadata."""
+    marker = "## Current Draft Text\n"
+    if marker not in text:
+        raise RuntimeError("Current Draft Text heading not found")
+    prefix, story = text.split(marker, 1)
+    if block.strip() in story:
         return text
+    if anchor not in story:
+        raise RuntimeError(f"Missing story artwork placement anchor: {anchor!r}")
+    story = story.replace(anchor, anchor + "\n\n" + block.strip(), 1)
+    return prefix + marker + story
+
+
+def set_yaml_artwork(text: str, block: str) -> str:
+    """Replace or add the entire artwork block so reruns remain deterministic."""
+    canonical = "\n" + block.rstrip() + "\n"
+    pattern = re.compile(r"\nartwork:\n.*?(?=\n---\n)", re.DOTALL)
+    if pattern.search(text):
+        return pattern.sub(canonical.rstrip("\n"), text, count=1)
+
     marker = "last_updated: 2026-08-03\n"
     if marker not in text:
         raise RuntimeError("Story draft last_updated marker not found")
@@ -46,7 +65,7 @@ def update_princess() -> None:
         "source_basis:\n  - The_Brass_Guardian.pdf",
     )
 
-    text = add_yaml_artwork(
+    text = set_yaml_artwork(
         text,
         """artwork:
   cover_image: ../art/Clockwork_Gardens_at_Night.png""",
@@ -73,7 +92,7 @@ def update_explorer() -> None:
         "source_basis:\n  - The_Brass_Guardian.pdf",
     )
 
-    text = add_yaml_artwork(
+    text = set_yaml_artwork(
         text,
         """artwork:
   cover_image: ../art/Wayfinder_Above_the_Clouds.png
@@ -92,32 +111,33 @@ def update_explorer() -> None:
     status = "> **Canonical story draft with a working title.** The day-to-day relationship, domestic routines, tone, and present-day characterization are canon. Final Book One placement and a small number of technical terms remain open to revision."
     text = insert_after(text, status, cover)
 
-    text = insert_after(
+    # Correct the earlier mistaken mid-story assignment if it appears in any
+    # generated or manually edited copy.
+    text = text.replace(
+        "Which somehow made Amelia love it even more.\n\n![Guardians Over the Brass City](../art/Guardians%20Over%20the%20Brass%20City.png)",
+        "Which somehow made Amelia love it even more.\n\n![Clockwork Workshop in the Sky](../art/Clockwork%20Workshop%20in%20the%20Sky.png)",
+    )
+
+    text = insert_after_story_text(
         text,
         "Professor Elias Hawthorne always woke before the sun.",
         "![Brass Dreams Above the Clouds](../art/Brass%20Dreams%20Above%20the%20Clouds.png)",
     )
-    text = insert_after(
+    text = insert_after_story_text(
         text,
         "Which somehow made Amelia love it even more.",
         "![Clockwork Workshop in the Sky](../art/Clockwork%20Workshop%20in%20the%20Sky.png)",
     )
-    text = insert_after(
+    text = insert_after_story_text(
         text,
         "Dinner was vegetable soup with warm bread.",
         "![Steampunk Airship Galley Feast](../art/Steampunk%20Airship%20Galley%20Feast.png)",
     )
-    text = insert_after(
+    text = insert_after_story_text(
         text,
         "The Heart Engine gave one soft, happy hum.\n\n“Hmmmm...”",
         "![Guardians Over the Brass City](../art/Guardians%20Over%20the%20Brass%20City.png)",
     )
-
-    # Correct the previously proposed but mistaken mid-story artwork if it ever
-    # appears in a branch or generated copy.
-    wrong = "![Guardians Over the Brass City](../art/Guardians%20Over%20the%20Brass%20City.png)\n\nBy lunchtime"
-    right = "![Clockwork Workshop in the Sky](../art/Clockwork%20Workshop%20in%20the%20Sky.png)\n\nBy lunchtime"
-    text = text.replace(wrong, right)
 
     checklist_anchor = "- [x] Establish ordinary Wayfinder life as meaningful canon."
     checklist_item = "- [x] Add the PDF cover and four inline artwork references, including the omitted galley image."
