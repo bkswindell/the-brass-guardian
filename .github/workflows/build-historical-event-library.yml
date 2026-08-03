@@ -19,6 +19,7 @@ on:
       - scripts/integrate_canonical_story_drafts.py
       - scripts/add_story_draft_artwork.py
       - scripts/integrate_media_reactions.py
+      - scripts/polish_media_reaction_formatting.py
       - .github/workflows/build-historical-event-library.yml
 
 permissions:
@@ -59,6 +60,7 @@ jobs:
           python scripts/integrate_canonical_story_drafts.py
           python scripts/add_story_draft_artwork.py
           python scripts/integrate_media_reactions.py
+          python scripts/polish_media_reaction_formatting.py
 
       - name: Refresh development TODO
         run: |
@@ -83,6 +85,7 @@ jobs:
           python scripts/integrate_canonical_story_drafts.py
           python scripts/add_story_draft_artwork.py
           python scripts/integrate_media_reactions.py
+          python scripts/polish_media_reaction_formatting.py
           python scripts/build_canon_development_todo.py
           python scripts/link_canon_development_todo.py
           find . -type f -name '*.md' -not -path './.git/*' -not -path './unused/*' -print0 \
