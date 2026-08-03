@@ -57,7 +57,7 @@ The Society may rely on [the Order of the Mended Hand](The_Order_of_the_Mended_H
 
 Field isolation gives expeditionary practitioners broad authority and weak oversight. A medic may save a life through necessary improvisation or perform a procedure that could not have been justified in the city.
 
-Whether an Order practitioner accompanied the Clockwork Jungle expedition remains unresolved.
+Whether an Hand practitioner accompanied the Clockwork Jungle expedition remains unresolved.
 
 ## Continuity Constraints
 

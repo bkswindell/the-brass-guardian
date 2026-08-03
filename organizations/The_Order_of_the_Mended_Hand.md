@@ -113,7 +113,7 @@ Its public reputation can be summarized as:
 
 > **They may save you. They may also decide that saving you requires becoming someone different.**
 
-Order advice is respected, feared, questioned, and often taken only after a second opinion from someone the patient personally trusts.
+Hand advice is respected, feared, questioned, and often taken only after a second opinion from someone the patient personally trusts.
 
 ## Distributed Presence
 
@@ -137,7 +137,7 @@ The final formal name and oversight of the annex remain unresolved.
 
 ### Great Workshops Prosthetics and Implant Annex
 
-Order surgeons, prosthetists, rehabilitation staff, and mechanobiologists work with certified engineers in the Great Workshops to create replacement limbs, braces, sensory aids, stabilization frames, adaptive tools, and interfaces between tissue and machinery.
+Hand surgeons, prosthetists, rehabilitation staff, and mechanobiologists work with certified engineers in the Great Workshops to create replacement limbs, braces, sensory aids, stabilization frames, adaptive tools, and interfaces between tissue and machinery.
 
 The annex is often excellent at replacing damaged function.
 
@@ -161,13 +161,13 @@ The House may use salvaged devices, household remedies, herbs, unlicensed method
 
 The Hand trains or seconds field medics for fires, collapses, canal disasters, industrial explosions, hazardous machinery incidents, aetheric exposure, temporal disorientation, and mass-casualty evacuation.
 
-Field medics are often more trusted than central Order officials because they work where people are injured rather than where research is conducted.
+Field medics are often more trusted than central Hand officials because they work where people are injured rather than where research is conducted.
 
 That trust is not universal. Some medics are Watch officers. Some share information with investigators. Some answer first to the Hand, the Council, or another organization.
 
 ### Expeditionary Medical Service
 
-Accredited expeditions may include an Order surgeon, medic, prosthetics specialist, or expedition-certified practitioner.
+Accredited expeditions may include an Hand surgeon, medic, prosthetics specialist, or expedition-certified practitioner.
 
 Expedition medics may carry broad emergency authority because delay can kill. The same isolation that makes decisive treatment necessary can also make oversight, consent, and later verification difficult.
 
@@ -183,7 +183,7 @@ The Hand's disciplines may include surgery, emergency medicine, field medicine, 
 
 Its capabilities should not be equated with a modern medical system.
 
-Order practitioners may possess advanced mechanical techniques while lacking reliable answers about:
+Hand practitioners may possess advanced mechanical techniques while lacking reliable answers about:
 
 - infection and contamination;
 - internal disease;
@@ -221,13 +221,13 @@ Families often ask who is on duty before deciding whether to enter the Hall. Tru
 
 Some people die because they waited too long.
 
-Others survive because they refused an Order recommendation and sought a less invasive treatment elsewhere.
+Others survive because they refused an Hand recommendation and sought a less invasive treatment elsewhere.
 
 The risk runs in both directions.
 
 ## Experiments and Institutional Abuse
 
-Experiments have been performed under Order authority.
+Experiments have been performed under Hand authority.
 
 Not every experiment was cruel, and some produced treatments that later saved lives. The institution nevertheless possesses a history of practices that may include:
 
@@ -242,7 +242,7 @@ Not every experiment was cruel, and some produced treatments that later saved li
 
 The exact scandals, dates, victims, and reforms remain unresolved.
 
-These abuses do not make every practitioner malicious. They do mean that an Order seal is not proof of moral authority.
+These abuses do not make every practitioner malicious. They do mean that an Hand seal is not proof of moral authority.
 
 ## Internal Factions and Outside Allegiances
 
@@ -318,13 +318,13 @@ The Hand supports [the Brass Watch](The_Brass_Watch.md) during disasters, danger
 
 Care, custody, and evidence can overlap.
 
-An Order medic may protect a patient's privacy, record details for the Watch, identify an implant as dangerous evidence, or recommend confinement in a restricted ward.
+An Hand medic may protect a patient's privacy, record details for the Watch, identify an implant as dangerous evidence, or recommend confinement in a restricted ward.
 
 Different practitioners make different choices.
 
 The Watch may genuinely need medical information to protect the city. It may also use medical authority to hold a person who has not committed a crime.
 
-No automatic rule makes Order staff independent from Watch or Council pressure.
+No automatic rule makes Hand staff independent from Watch or Council pressure.
 
 ## Relationship with the Society of Explorers
 
@@ -332,21 +332,21 @@ The Hand may certify expedition readiness, train field medics, review evacuation
 
 Explorers often view medical restrictions as obstacles imposed by people who have never entered the field.
 
-Order practitioners often view explorers as people who rename preventable risk as courage.
+Hand practitioners often view explorers as people who rename preventable risk as courage.
 
 Both criticisms can be true.
 
 Expeditionary medicine creates special danger because isolation gives a medic enormous authority, while sponsors may pressure that medic to keep an expedition moving, preserve a discovery, or collect samples before evacuation.
 
-Whether an Order practitioner accompanied the original Clockwork Jungle expedition remains unresolved.
+Whether an Hand practitioner accompanied the original Clockwork Jungle expedition remains unresolved.
 
 ## Relationship with the Cauldron
 
 The Hand's presence in the Cauldron exists because industrial injury, chemical exposure, disability, poverty, and lack of civic documentation do not remove a person's need for care.
 
-The central Order is also one of the institutions Cauldron residents have reason to distrust.
+The central Hand is also one of the institutions Cauldron residents have reason to distrust.
 
-The [Cauldron Recovery House](../locations/The_Cauldron_Recovery_House.md) may depend on local healers, herbal knowledge, neighborhood compacts, former Order staff, salvaged equipment, and practitioners whose credentials are not recognized by the upper city.
+The [Cauldron Recovery House](../locations/The_Cauldron_Recovery_House.md) may depend on local healers, herbal knowledge, neighborhood compacts, former Hand staff, salvaged equipment, and practitioners whose credentials are not recognized by the upper city.
 
 Central administrators may call those methods unsafe.
 
@@ -370,11 +370,11 @@ From time to time, individual practitioners or branches obtain:
 
 The exchange is practical and often cautious.
 
-Conservancy members may distrust an institution inclined to cut, replace, classify, and experiment. Order practitioners may dismiss Conservancy remedies as unmeasured, inconsistent, or superstitious.
+Conservancy members may distrust an institution inclined to cut, replace, classify, and experiment. Hand practitioners may dismiss Conservancy remedies as unmeasured, inconsistent, or superstitious.
 
 Neither side possesses complete knowledge.
 
-A resource obtained from the Conservancy may save a patient whom Order surgery could not. An invasive Order procedure may save someone no herb can reach.
+A resource obtained from the Conservancy may save a patient whom Hand surgery could not. An invasive Hand procedure may save someone no herb can reach.
 
 No regular partnership, shared governance, or ideological closeness should be assumed.
 
@@ -399,7 +399,7 @@ Possible unresolved recommendations include:
 
 None of these is yet established as the exact historical choice.
 
-Elias may owe individual Order practitioners Amelia's life while distrusting the institution that employed them.
+Elias may owe individual Hand practitioners Amelia's life while distrusting the institution that employed them.
 
 [Amelia Hawthorne](../characters/Amelia_Hawthorne.md) may remember kindness, pain, frightening procedures, missing time, or adults debating her future while she could not meaningfully participate.
 
@@ -424,7 +424,7 @@ Individual practitioners can be principled, compassionate, and courageous.
 
 Institutional ethics are inconsistent, contested, and vulnerable to pressure.
 
-No reader or character should assume that an Order recommendation is morally correct simply because it is medical.
+No reader or character should assume that an Hand recommendation is morally correct simply because it is medical.
 
 ## Political and Institutional Tensions
 
@@ -480,9 +480,9 @@ Avoid modern visual shorthand such as perfect sterility, effortless diagnostics,
 - It combines incomplete biological medicine with comparatively advanced mechanical intervention.
 - It is necessary for catastrophic and unusual cases but is not assumed safe, trustworthy, or morally neutral.
 - Ordinary citizens commonly prefer home remedies, apothecaries, midwives, neighborhood healers, or trusted local practitioners for ordinary ailments.
-- Order advice may be questioned, refused, or balanced against another form of care.
+- Hand advice may be questioned, refused, or balanced against another form of care.
 - No universal Hippocratic oath or consistently enforced consent code exists.
-- Experiments and unethical treatments have occurred under Order authority.
+- Experiments and unethical treatments have occurred under Hand authority.
 - Some practitioners may be connected to the Unwound, Order of the Closed Eye, Council, Watch, Academy, Guild, Cauldron factions, or private patrons.
 - The Hand has no standing alliance with the Conservancy, though herbs and other resources may occasionally pass between individual practitioners.
 - Mechanical replacement may be favored over slower biological treatment, including amputation and prosthetic replacement where another healer might attempt to preserve the limb.
@@ -504,14 +504,14 @@ Avoid modern visual shorthand such as perfect sterility, effortless diagnostics,
 9. What worse scandal remains sealed?
 10. Which patients were treated as subjects without meaningful consent?
 11. How common is amputation and mechanical replacement compared with preservation and herbal treatment?
-12. Which Order branch is considered most trustworthy?
+12. Which Hand branch is considered most trustworthy?
 13. Which is considered most dangerous?
 14. Which members are connected to the Unwound?
 15. Which members are connected to the Order of the Closed Eye?
 16. What information is routinely shared with the Brass Watch or Council?
 17. What exact relationship exists with the Cauldron Recovery House?
 18. What resources are occasionally obtained from the Conservancy?
-19. Was an Order medic present during the Clockwork Jungle expedition?
+19. Was an Hand medic present during the Clockwork Jungle expedition?
 20. Who stabilized Amelia first?
 21. What procedures were performed during Amelia's survival and recovery?
 22. What recommendations did Elias accept or refuse?
@@ -527,7 +527,7 @@ Avoid modern visual shorthand such as perfect sterility, effortless diagnostics,
 - [x] Public distrust and preference for ordinary home or local care established.
 - [x] Limited medical sophistication and mechanical replacement bias established.
 - [x] Experimental abuse and inconsistent ethics established.
-- [x] Possible Unwound, Order, and other outside allegiances preserved.
+- [x] Possible Unwound, Hand, and other outside allegiances preserved.
 - [x] Limited, non-allied Conservancy resource exchange established.
 - [x] Medical support for Amelia's survival established as necessary but unresolved.
 - [x] Formal name approved: **The Order of the Mended Hand**; common shorthand approved: **the Hand**.

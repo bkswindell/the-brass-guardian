@@ -4,7 +4,7 @@ name: The Order of the Closed Eye
 type: Secret containment cabal, information-control network, and ancient-systems suppression society
 aliases:
   - The Closed Eye
-  - The Closed Eye, internal or restricted shorthand only
+  - The Order, internal or restricted shorthand only
   - The Keepers of Closure
 series: The Brass Guardian / The Aetherhaven Chronicles
 canon_status: Canonical hidden profile
@@ -159,7 +159,7 @@ Possible seats include:
 
 These are functional designations, not confirmed titles.
 
-Even senior Order members may know only one representative.
+Even senior Closed Eye members may know only one representative.
 
 The Closed Council is powerful because it rarely gives direct orders.
 
@@ -179,7 +179,7 @@ Its influence operates through several kinds of seats.
 
 ### Open Seats
 
-[High Council](The_High_Council_of_Aetherhaven.md) members who are full Order members and knowingly serve both institutions.
+[High Council](The_High_Council_of_Aetherhaven.md) members who are full Closed Eye members and knowingly serve both institutions.
 
 Their number remains undefined.
 
@@ -201,13 +201,13 @@ A Bound Seat may genuinely believe they are making an independent decision.
 
 Council members whose aides, clerks, researchers, legal advisers, or agenda packets are controlled by the Closed Eye.
 
-The Council member may never meet an Order agent.
+The Council member may never meet an Closed Eye agent.
 
 They simply receive a carefully curated reality.
 
 ### Unbound Seats
 
-Council members outside direct Order influence.
+Council members outside direct Closed Eye influence.
 
 They may still be manipulated through votes, missing reports, restricted files, or colleagues whose decisions have already been shaped.
 
@@ -238,13 +238,13 @@ She has inherited:
 
 [Octavia](../characters/Chancellor_Octavia_Vale.md) believes she understands the boundaries of that relationship.
 
-She does not know the full number of Order seats within [the High Council](The_High_Council_of_Aetherhaven.md) or how much of her information environment has already been curated.
+She does not know the full number of Closed Eye seats within [the High Council](The_High_Council_of_Aetherhaven.md) or how much of her information environment has already been curated.
 
 This creates a long-term conflict:
 
 > Is [Octavia](../characters/Chancellor_Octavia_Vale.md) working with the Closed Eye to protect [Aetherhaven](../locations/Aetherhaven.md)—or governing inside a reality the Closed Eye has constructed for her?
 
-The sealed letter addressed to [Amelia](../characters/Amelia_Hawthorne.md) decades before [Amelia](../characters/Amelia_Hawthorne.md)'s birth may have passed through Order custody.
+The sealed letter addressed to [Amelia](../characters/Amelia_Hawthorne.md) decades before [Amelia](../characters/Amelia_Hawthorne.md)'s birth may have passed through Closed Eye custody.
 
 Whether the Closed Eye preserved it, delayed it, altered it, or prevented its delivery remains unresolved.
 
@@ -293,7 +293,7 @@ Evidence suggests the rule has not always been followed.
 
 ### Adjudicators
 
-Senior Order figures who determine whether a discovery requires:
+Senior Closed Eye figures who determine whether a discovery requires:
 
 - observation,
 - restriction,
@@ -345,7 +345,7 @@ Some may become whistleblowers, defectors, or allies.
 
 The Closed Eye exists to decide which discoveries must never be completed.
 
-Order Observers may be embedded among:
+Closed Eye Observers may be embedded among:
 
 - faculty,
 - ethics boards,
@@ -369,7 +369,7 @@ She may not initially know the Closed Eye's entire structure, but she recognizes
 
 Her removal of Prototype II records can be interpreted as an attempt to prevent:
 
-- Order confiscation,
+- Closed Eye confiscation,
 - [Ninth Guild](The_Ninth_Guild.md) acquisition,
 - or both.
 
@@ -456,7 +456,7 @@ Instead, the Vaults taught her to distrust any institution that treats missing e
 
 ## [The Shrouded Vaults](../locations/The_Shrouded_Vaults.md) Expedition
 
-The expedition that cost [Thorne](../characters/Chief_Inspector_Beatrice_Thorne.md) her left eye was likely an Order-directed operation using [Brass Watch](The_Brass_Watch.md) personnel.
+The expedition that cost [Thorne](../characters/Chief_Inspector_Beatrice_Thorne.md) her left eye was likely an Closed Eye-directed operation using [Brass Watch](The_Brass_Watch.md) personnel.
 
 [Thorne](../characters/Chief_Inspector_Beatrice_Thorne.md) believed she was recovering a public-safety threat.
 
@@ -530,7 +530,7 @@ The two organizations are ideological enemies.
 
 ## Relationship with [the Severed Coil](The_Severed_Coil.md)
 
-[The Severed Coil](The_Severed_Coil.md) views Order repositories as:
+[The Severed Coil](The_Severed_Coil.md) views Closed Eye repositories as:
 
 - targets,
 - weapons caches,
@@ -543,7 +543,7 @@ Each organization uses the other to justify its doctrine.
 
 The Closed Eye may exaggerate Coil threats to secure broader Closure authority.
 
-[The Coil](The_Severed_Coil.md) may attack Order sites without understanding what their containment actually prevents.
+[The Coil](The_Severed_Coil.md) may attack Closed Eye sites without understanding what their containment actually prevents.
 
 ## Relationship with [the Ninth Guild](The_Ninth_Guild.md)
 
@@ -578,7 +578,7 @@ Both can treat people as secondary to doctrine.
 
 ## Relationship with [the Underclock](The_Underclock.md)
 
-[The Underclock](The_Underclock.md) is not an Order ally.
+[The Underclock](The_Underclock.md) is not an Closed Eye ally.
 
 Its tunnels, couriers, smugglers, sanctuary routes, and compartmentalized cells make it useful to anyone who can manipulate the right intermediary.
 
@@ -715,7 +715,7 @@ It is not definitively responsible for the artifact's final disappearance.
 
 Prototype I was developed, recovered, or assembled before Prototype II.
 
-It displayed behavior that alarmed Academy officials and Order Observers.
+It displayed behavior that alarmed Academy officials and Closed Eye Observers.
 
 Possible behavior included:
 
@@ -724,7 +724,7 @@ Possible behavior included:
 - recognition of an absent Bearer,
 - or activation in response to [the Six-Key Sigil](../artifacts/003_The_Six_Key_Sigil.md).
 
-### Stage Two — Closure Order
+### Stage Two — Closure Closed Eye
 
 The Closed Eye issued a sealed Closure directive.
 
@@ -740,12 +740,12 @@ The surviving torn catalogue slip escaped complete destruction, likely because a
 
 ### Stage Three — Quiet Transfer
 
-Prototype I was moved under Order custody toward a concealed repository.
+Prototype I was moved under Closed Eye custody toward a concealed repository.
 
 Possible destinations included:
 
 - a sealed Academy annex,
-- an Order-controlled archive,
+- an Closed Eye-controlled archive,
 - or an outer chamber of [the Shrouded Vaults](../locations/The_Shrouded_Vaults.md).
 
 The transfer did not appear in ordinary civic records.
@@ -769,7 +769,7 @@ It did not know the client was a [Ninth Guild](The_Ninth_Guild.md) front.
 
 ### Stage Five — The Broken Handoff
 
-The extraction succeeded in removing Prototype I from Order custody.
+The extraction succeeded in removing Prototype I from Closed Eye custody.
 
 The intended handoff did not proceed cleanly.
 
@@ -777,7 +777,7 @@ Possible outcomes include:
 
 - Prototype I awakened,
 - an [Underclock](The_Underclock.md) courier changed the route,
-- an Order Warden interrupted the transfer,
+- an Closed Eye Warden interrupted the transfer,
 - a [Ninth Guild](The_Ninth_Guild.md) Custodian attempted premature accession,
 - or the artifact rejected transfer.
 
@@ -862,7 +862,7 @@ A redacted route reappears every time [Amelia](../characters/Amelia_Hawthorne.md
 
 ### The Warden's Mercy
 
-An Order Warden saves [Amelia](../characters/Amelia_Hawthorne.md) from [the Ninth Guild](The_Ninth_Guild.md) and then attempts to confiscate the evidence she recovered.
+An Closed Eye Warden saves [Amelia](../characters/Amelia_Hawthorne.md) from [the Ninth Guild](The_Ninth_Guild.md) and then attempts to confiscate the evidence she recovered.
 
 ### The Council Vote That Already Happened
 
@@ -878,11 +878,11 @@ An Order Warden saves [Amelia](../characters/Amelia_Hawthorne.md) from [the Nint
 
 ### The Eye Beneath the Eye
 
-[Thorne](../characters/Chief_Inspector_Beatrice_Thorne.md)'s lens reveals an Order symbol hidden beneath an official [Brass Watch](The_Brass_Watch.md) command seal.
+[Thorne](../characters/Chief_Inspector_Beatrice_Thorne.md)'s lens reveals an Closed Eye symbol hidden beneath an official [Brass Watch](The_Brass_Watch.md) command seal.
 
 ### The Closed Seat
 
-A [High Council](The_High_Council_of_Aetherhaven.md) member discovers that their predecessor had been an Order member—and that some of their own memories are sealed.
+A [High Council](The_High_Council_of_Aetherhaven.md) member discovers that their predecessor had been an Closed Eye member—and that some of their own memories are sealed.
 
 ## Staged Revelations
 
@@ -901,7 +901,7 @@ A [High Council](The_High_Council_of_Aetherhaven.md) member discovers that their
 - The Closed Eye is real and deeply embedded.
 - It directed [the Shrouded Vaults](../locations/The_Shrouded_Vaults.md) expedition.
 - It controls Closure authority independent of ordinary Council review.
-- Some Council members are full Order members.
+- Some Council members are full Closed Eye members.
 - Others are unknowingly guided or controlled.
 - [Elias](../characters/Professor_Elias_Hawthorne.md) consented to limited memory removal.
 - The Closed Eye exceeded that consent.
@@ -911,7 +911,7 @@ A [High Council](The_High_Council_of_Aetherhaven.md) member discovers that their
 
 - The full reach of the Closed Council.
 - Which trusted public figures hold Veiled Seats.
-- The exact degree of Order control over [the High Council](The_High_Council_of_Aetherhaven.md).
+- The exact degree of Closed Eye control over [the High Council](The_High_Council_of_Aetherhaven.md).
 - The true purpose of [the Shrouded Vaults](../locations/The_Shrouded_Vaults.md).
 - The complete memory removed from [Elias](../characters/Professor_Elias_Hawthorne.md) and [Amelia](../characters/Amelia_Hawthorne.md).
 - The exact fate of Prototype I after the broken handoff.
@@ -943,7 +943,7 @@ No institution-wide control is established.
 - The Closed Eye and [Ninth Guild](The_Ninth_Guild.md) remain ideological mirror enemies.
 - The Closed Eye should sometimes help the Hawthornes and sometimes oppose them.
 - Its members may care sincerely for [Amelia](../characters/Amelia_Hawthorne.md) while denying her agency.
-- Not every [High Council](The_High_Council_of_Aetherhaven.md) member should be an Order pawn.
+- Not every [High Council](The_High_Council_of_Aetherhaven.md) member should be an Closed Eye pawn.
 - The Closed Eye's control must operate primarily through information, records, appointments, leverage, and memory rather than overt rule.
 
 ## Open Canon Questions
@@ -958,8 +958,8 @@ No institution-wide control is established.
 8. Who manipulated [the Underclock](The_Underclock.md) crew?
 9. Did Prototype I escape by choice?
 10. What evidence did [the Underclock](The_Underclock.md) preserve?
-11. Does [Octavia](../characters/Chancellor_Octavia_Vale.md)'s sealed letter contain an Order warning?
+11. Does [Octavia](../characters/Chancellor_Octavia_Vale.md)'s sealed letter contain an Closed Eye warning?
 12. Did the Closed Eye create [the Shrouded Vaults](../locations/The_Shrouded_Vaults.md) or merely inherit them?
-13. Which Order faction believes [Amelia](../characters/Amelia_Hawthorne.md) should undergo permanent Closure?
+13. Which Closed Eye faction believes [Amelia](../characters/Amelia_Hawthorne.md) should undergo permanent Closure?
 14. Is the Book of Closures real?
 15. What truth has the Closed Eye hidden that [Aetherhaven](../locations/Aetherhaven.md) now needs to survive?

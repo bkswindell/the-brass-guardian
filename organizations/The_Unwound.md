@@ -536,7 +536,7 @@ One neighborhood disconnects from the Golden Veins. For the first time in genera
 
 ## Relationship with the Order of the Mended Hand
 
-Some Order practitioners may sympathize with or belong to [the Unwound](The_Unwound.md), particularly those who oppose dependence on permanent implants, the Heart Engine, or mechanized solutions imposed as medical necessity.
+Some Hand practitioners may sympathize with or belong to [the Unwound](The_Unwound.md), particularly those who oppose dependence on permanent implants, the Heart Engine, or mechanized solutions imposed as medical necessity.
 
 Other Unwound members may view the Hand as proof that Aetherhaven replaces living bodies rather than caring for them.
 

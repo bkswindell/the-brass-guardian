@@ -380,13 +380,13 @@ Elias has a complicated relationship with [the Order of the Mended Hand](../orga
 
 His field engineering and emergency actions may have been essential to keeping Amelia alive. They did not replace trained surgery, infection control, rehabilitation, or prosthetic care.
 
-He may owe particular Order practitioners an unpayable debt while distrusting the institution as a whole.
+He may owe particular Hand practitioners an unpayable debt while distrusting the institution as a whole.
 
 The Hand may have recommended interventions Elias accepted because Amelia would otherwise die. It may also have recommended amputation, standardized replacement, removal of the Aether Heart, prolonged observation, or experimental procedures he refused.
 
 The exact choices remain unresolved.
 
-Elias respects genuine expertise but does not accept an Order title as proof of wisdom or morality. His guilt can make him too willing to accept dangerous recommendations—or too determined to oppose practitioners who may be correct.
+Elias respects genuine expertise but does not accept an Hand title as proof of wisdom or morality. His guilt can make him too willing to accept dangerous recommendations—or too determined to oppose practitioners who may be correct.
 
 The Hand is one of the institutions capable of challenging Elias's belief that he alone must decide Amelia's care, while also giving him valid reasons to fear surrendering control.
 

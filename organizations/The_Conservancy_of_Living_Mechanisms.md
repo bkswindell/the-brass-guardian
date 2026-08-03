@@ -881,7 +881,7 @@ Individual Tenders may occasionally provide herbs, responsive mosses, resins, li
 
 The Conservancy distrusts an institution that may classify a living body as a failed mechanism and recommend cutting or replacement before understanding the relationship being damaged.
 
-Order practitioners may distrust Conservancy remedies because dosage, growth, and response can vary between specimens.
+Hand practitioners may distrust Conservancy remedies because dosage, growth, and response can vary between specimens.
 
 The exchange is practical, irregular, and often mediated through trusted individuals rather than formal offices.
 

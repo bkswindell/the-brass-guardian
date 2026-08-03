@@ -161,11 +161,11 @@ The exact role remains unresolved.
 
 The historical record must not imply that Elias single-handedly provided every form of care required to keep Amelia alive. His emergency engineering and stabilization may have been essential, while trained practitioners provided other critical treatment.
 
-It must also not assume that every Order recommendation was safe, ethical, or accepted.
+It must also not assume that every Hand recommendation was safe, ethical, or accepted.
 
 The recovery may have involved disputed decisions concerning amputation, replacement, observation, the Aether Heart, or experimental integration. Elias may have accepted some measures under desperate circumstances and refused others.
 
-Whether an Order medic accompanied the expedition or became involved only after evacuation remains open.
+Whether an Hand medic accompanied the expedition or became involved only after evacuation remains open.
 
 ## Conflicting Accounts
 
