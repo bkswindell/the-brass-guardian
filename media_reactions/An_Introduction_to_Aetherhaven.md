@@ -1,6 +1,6 @@
 ---
 reaction_id: AH-REACTION-001
-title: "An Introduction to Aetherhaven"
+title: "An Introduction to Aetherhaven"(https://www.spreaker.com/episode/an-introduction-to-aetherhaven--73392842)
 record_type: Non-canonical public reaction
 canon_status: Non-canonical audience evidence
 media_type: "Audio podcast dialogue transcript"
