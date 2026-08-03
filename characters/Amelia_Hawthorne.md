@@ -525,7 +525,7 @@ The exact clinicians and sequence remain unresolved.
 
 Amelia may remember individual caregivers with gratitude while distrusting the institution that employed them. She may also remember pain, frightening apparatus, missing time, adults arguing over amputation or replacement, or recommendations she was too young and injured to understand.
 
-The Order's involvement does not make its later advice trustworthy by default.
+The Hand's involvement does not make its later advice trustworthy by default.
 
 Some practitioners may want to preserve the gauntlet. Others may recommend removing the Aether Heart, replacing Elias's design, confining Amelia for observation, or studying her as a unique interface.
 

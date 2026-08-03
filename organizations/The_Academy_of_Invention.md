@@ -59,7 +59,7 @@ The Academy collaborates with [the Order of the Mended Hand](The_Order_of_the_Me
 
 The relationship produces real advances and creates access to vulnerable patients whose conditions can become academic opportunities.
 
-Neither Academy review nor Order approval guarantees that an experiment is safe, consensual, or morally justified.
+Neither Academy review nor Hand approval guarantees that an experiment is safe, consensual, or morally justified.
 
 ## Continuity Constraints
 

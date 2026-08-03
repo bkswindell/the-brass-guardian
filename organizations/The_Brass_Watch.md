@@ -575,7 +575,7 @@ The exact structure of the Watch medical liaison remains unresolved.
 
 The Brass Watch relies on [the Order of the Mended Hand](The_Order_of_the_Mended_Hand.md) for field medics, disaster response, aetheric trauma, and injuries involving implants or unusual mechanisms.
 
-Order personnel do not possess uniform independence from Watch authority. Some protect patients, some share records, and some treat containment as part of care.
+Hand personnel do not possess uniform independence from Watch authority. Some protect patients, some share records, and some treat containment as part of care.
 
 The boundary between medical transport and custody should remain a recurring institutional tension.
 

@@ -79,7 +79,7 @@ Patients may be transferred to the Hall for surgery or advanced intervention onl
 
 ## Relationship with the Order of the Mended Hand
 
-The central Order may provide supplies, specialist rotations, difficult surgery, training, prosthetic components, and emergency transport.
+The central Hand may provide supplies, specialist rotations, difficult surgery, training, prosthetic components, and emergency transport.
 
 It may also demand records, impose licensing requirements, reject local methods, recruit unusual patients, or threaten to withdraw support.
 
