@@ -28,17 +28,11 @@ last_updated: 2026-08-03
 artwork:
   cover_image: ../art/Wayfinder_Above_the_Clouds.png
   inline_images:
-    - placement: after "Professor Elias Hawthorne always woke before the sun.
-
-![Brass Dreams Above the Clouds](../art/Brass%20Dreams%20Above%20the%20Clouds.png)"
+    - placement: after "Professor Elias Hawthorne always woke before the sun."
       file: ../art/Brass Dreams Above the Clouds.png
-    - placement: after "Which somehow made Amelia love it even more.
-
-![Clockwork Workshop in the Sky](../art/Clockwork%20Workshop%20in%20the%20Sky.png)"
+    - placement: after "Which somehow made Amelia love it even more."
       file: ../art/Clockwork Workshop in the Sky.png
-    - placement: after "Dinner was vegetable soup with warm bread.
-
-![Steampunk Airship Galley Feast](../art/Steampunk%20Airship%20Galley%20Feast.png)"
+    - placement: after "Dinner was vegetable soup with warm bread."
       file: ../art/Steampunk Airship Galley Feast.png
     - placement: after the final Heart Engine hum
       file: ../art/Guardians Over the Brass City.png
@@ -106,6 +100,8 @@ Her father was awake.
 That wasn't surprising.
 
 Professor Elias Hawthorne always woke before the sun.
+
+![Brass Dreams Above the Clouds](../art/Brass%20Dreams%20Above%20the%20Clouds.png)
 
 Amelia hurried up the narrow staircase and onto the main deck.
 
@@ -253,6 +249,8 @@ Even Elias admitted,
 
 Which somehow made Amelia love it even more.
 
+![Clockwork Workshop in the Sky](../art/Clockwork%20Workshop%20in%20the%20Sky.png)
+
 By lunchtime they had drifted beside a family of Cloud Whales.
 
 The enormous creatures floated lazily through the sky like living islands.
@@ -310,6 +308,8 @@ Warm golden light danced across polished brass.
 The engines settled into a slower rhythm.
 
 Dinner was vegetable soup with warm bread.
+
+![Steampunk Airship Galley Feast](../art/Steampunk%20Airship%20Galley%20Feast.png)
 
 Afterward, Elias read aloud from one of his favorite explorer journals while Amelia leaned comfortably against him.
 
