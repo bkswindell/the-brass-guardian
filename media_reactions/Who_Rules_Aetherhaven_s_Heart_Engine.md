@@ -75,9 +75,9 @@ The debate understands the central political question correctly: protection and 
 <!-- SOURCE CONTENT START: IMMUTABLE PUBLIC REACTION -->
 # Audio Transcript: Who Rules Aetherhaven's Heart Engine?
 
-**File:** Who_Rules_Aetherhaven_s_Heart_Engine.m4a
+**File:** Who_Rules_Aetherhaven_s_Heart_Engine.m4a  
 **Format:** Audio / Podcast Dialogue Transcript  
-**Topic:** Debate - Who Rules Aetherhaven's Heart Engine?
+**Topic:** Debate - Who Rules Aetherhaven's Heart Engine?  
 
 ---
 

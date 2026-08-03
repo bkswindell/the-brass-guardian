@@ -77,7 +77,7 @@ The reaction treats Aetherhaven itself as the main attraction: a city whose geog
 <!-- SOURCE CONTENT START: IMMUTABLE PUBLIC REACTION -->
 # Audio Transcript: Traveler's Guide to Aetherhaven
 
-**File:** Aetherhaven_and_the_Heart_Engine.m4a
+**File:** Aetherhaven_and_the_Heart_Engine.m4a  
 **Format:** Audio / Podcast Dialogue Transcript  
 **Topic:** Deep Dive into Aetherhaven, the Aetherium, and the Lore of Amelia Hawthorn  
 

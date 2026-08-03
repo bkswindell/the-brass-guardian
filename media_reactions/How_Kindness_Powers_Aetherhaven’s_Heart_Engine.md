@@ -74,7 +74,7 @@ This is the clearest evidence that the light opening stories are creating affect
 <!-- SOURCE CONTENT START: IMMUTABLE PUBLIC REACTION -->
 # Audio Transcript: Deep Dive into Aetherhaven
 
-**File:** How_Kindness_Powers_Aetherhaven’s_Heart_Engine.m4a
+**File:** How_Kindness_Powers_Aetherhaven’s_Heart_Engine.m4a  
 **Format:** Audio / Podcast Dialogue Transcript  
 **Topic:** Exploration of Aetherhaven and Amelia Hawthorn  
 

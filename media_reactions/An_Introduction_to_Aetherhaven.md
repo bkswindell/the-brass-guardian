@@ -76,9 +76,9 @@ The reaction understands Aetherhaven as a living, shifting city whose institutio
 <!-- SOURCE CONTENT START: IMMUTABLE PUBLIC REACTION -->
 # Audio Transcript: An Introduction to Aetherhaven
 
-**File:** An_Introduction_to_Aetherhaven.m4a
+**File:** An_Introduction_to_Aetherhaven.m4a  
 **Format:** Audio / Podcast Dialogue Transcript  
-**Topic:** An Introduction to Aetherhaven
+**Topic:** An Introduction to Aetherhaven  
 
 ---
 

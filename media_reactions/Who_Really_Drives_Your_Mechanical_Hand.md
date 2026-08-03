@@ -80,9 +80,9 @@ This reaction strongly understands the intended bodily-autonomy theme. The Hand 
 <!-- SOURCE CONTENT START: IMMUTABLE PUBLIC REACTION -->
 # Audio Transcript: Who Really Drives Your Mechanical Hand?
 
-**File:** Who_Really_Drives_Your_Mechanical_Hand.m4a
+**File:** Who_Really_Drives_Your_Mechanical_Hand.m4a  
 **Format:** Audio / Podcast Dialogue Transcript  
-**Topic:** Who Really Drives Your Mechanical Hand?
+**Topic:** Who Really Drives Your Mechanical Hand?  
 
 ---
 

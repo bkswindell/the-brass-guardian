@@ -77,9 +77,9 @@ The reaction sees the Brass Watch as honorable people operating inside a deliber
 <!-- SOURCE CONTENT START: IMMUTABLE PUBLIC REACTION -->
 # Audio Transcript: Policing the Lost Seconds of Aetherhaven
 
-**File:** Policing_the_Lost_Seconds_of_Aetherhaven.m4a
+**File:** Policing_the_Lost_Seconds_of_Aetherhaven.m4a  
 **Format:** Audio / Podcast Dialogue Transcript  
-**Topic:** Policing the Lost Seconds of Aetherhaven
+**Topic:** Policing the Lost Seconds of Aetherhaven  
 
 ---
 
