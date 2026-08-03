@@ -6,7 +6,7 @@ canon_status: Non-canonical audience evidence
 media_type: "Audio podcast dialogue transcript"
 source_file: "Aetherhaven_and_the_Heart_Engine.m4a"
 source_content_policy: Immutable
-source_sha256: 9f91331eea00f56e2ca32400572f703f8e2d7bbb5f22c7705fd95bcbe7ccec4f
+source_sha256: c8514479809f1ddb3e296eea2e30e1693a7f1fc40f8e955291584fe68cdcdd69
 audience_scope: Limited test audience
 overall_sentiment: "Fascinated, unsettled, and eager to explore the city's systems"
 canon_alignment: "Strong thematic reading; mixed factual precision"
@@ -71,7 +71,7 @@ The reaction treats Aetherhaven itself as the main attraction: a city whose geog
 
 ## Immutable Source Transcript
 
-**Source integrity:** SHA-256 `9f91331eea00f56e2ca32400572f703f8e2d7bbb5f22c7705fd95bcbe7ccec4f`
+**Source integrity:** SHA-256 `c8514479809f1ddb3e296eea2e30e1693a7f1fc40f8e955291584fe68cdcdd69`
 **Editing rule:** Do not alter anything between the source markers. Corrections belong in the editorial metadata above.
 
 <!-- SOURCE CONTENT START: IMMUTABLE PUBLIC REACTION -->

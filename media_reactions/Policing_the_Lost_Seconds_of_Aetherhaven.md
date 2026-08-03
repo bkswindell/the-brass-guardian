@@ -6,7 +6,7 @@ canon_status: Non-canonical audience evidence
 media_type: "Audio podcast dialogue transcript"
 source_file: "Policing_the_Lost_Seconds_of_Aetherhaven.m4a"
 source_content_policy: Immutable
-source_sha256: d90083e9a3e258a84fc77dfc00aa86251073d9f0537916f4c526f8c2c9587af4
+source_sha256: 6198d6ccd814cb50d80c774949425e4b0ec6c000c89017dcbb86c776c7874cf3
 audience_scope: Limited test audience
 overall_sentiment: "Highly engaged with procedure, moral injury, institutional limits, and local expertise"
 canon_alignment: "Strong institutional themes; significant invented or conflicting event detail"
@@ -71,7 +71,7 @@ The reaction sees the Brass Watch as honorable people operating inside a deliber
 
 ## Immutable Source Transcript
 
-**Source integrity:** SHA-256 `d90083e9a3e258a84fc77dfc00aa86251073d9f0537916f4c526f8c2c9587af4`
+**Source integrity:** SHA-256 `6198d6ccd814cb50d80c774949425e4b0ec6c000c89017dcbb86c776c7874cf3`
 **Editing rule:** Do not alter anything between the source markers. Corrections belong in the editorial metadata above.
 
 <!-- SOURCE CONTENT START: IMMUTABLE PUBLIC REACTION -->

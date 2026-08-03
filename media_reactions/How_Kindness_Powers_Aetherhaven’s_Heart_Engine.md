@@ -6,7 +6,7 @@ canon_status: Non-canonical audience evidence
 media_type: "Audio podcast dialogue transcript"
 source_file: "How_Kindness_Powers_Aetherhaven’s_Heart_Engine.m4a"
 source_content_policy: Immutable
-source_sha256: 7c802797d30a470813b27d77f8e5d71bc2d644501b330554c967f7f3e0961a36
+source_sha256: a3748a448558c3d3a63fe8f8d827ac59e602f67de31cac111ca2698e3f0d8ca2
 audience_scope: Limited test audience
 overall_sentiment: "Warm, delighted, accessible, and strongly attached to Amelia's everyday life"
 canon_alignment: "Emotionally strong; technically over-literal"
@@ -68,7 +68,7 @@ This is the clearest evidence that the light opening stories are creating affect
 
 ## Immutable Source Transcript
 
-**Source integrity:** SHA-256 `7c802797d30a470813b27d77f8e5d71bc2d644501b330554c967f7f3e0961a36`
+**Source integrity:** SHA-256 `a3748a448558c3d3a63fe8f8d827ac59e602f67de31cac111ca2698e3f0d8ca2`
 **Editing rule:** Do not alter anything between the source markers. Corrections belong in the editorial metadata above.
 
 <!-- SOURCE CONTENT START: IMMUTABLE PUBLIC REACTION -->
