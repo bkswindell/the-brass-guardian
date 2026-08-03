@@ -538,7 +538,7 @@ One neighborhood disconnects from the Golden Veins. For the first time in genera
 
 Some Order practitioners may sympathize with or belong to [the Unwound](The_Unwound.md), particularly those who oppose dependence on permanent implants, the Heart Engine, or mechanized solutions imposed as medical necessity.
 
-Other Unwound members may view the Order as proof that Aetherhaven replaces living bodies rather than caring for them.
+Other Unwound members may view the Hand as proof that Aetherhaven replaces living bodies rather than caring for them.
 
 No formal organizational alliance is established. Individual affiliation may support reform, leak records, influence treatment, or create divided loyalty.
 

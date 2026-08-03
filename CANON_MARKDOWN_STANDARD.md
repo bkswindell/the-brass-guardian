@@ -96,6 +96,19 @@ Every canonical Markdown file should contain:
 - Link to the involved characters, organizations, locations, and artifacts.
 - Use a representative canonical image only when it does not spoil more than the arc file already reveals.
 
+## Organization Naming Collision Rule
+
+Aetherhaven contains two distinct organizations whose formal names begin with **Order**:
+
+- [The Order of the Mended Hand](organizations/The_Order_of_the_Mended_Hand.md) is a public, highly visible hospitaller and medical organization. Its normal shorthand is **the Hand**.
+- [The Order of the Closed Eye](organizations/The_Order_of_the_Closed_Eye.md) is a secret containment organization. Canon prose normally uses **the Closed Eye** or its full name.
+
+Do not use bare **the Order** as shorthand for the Mended Hand.
+
+Bare **the Order** may refer to the Closed Eye only in clearly established internal speech, restricted records, or deliberately obscured dialogue. Never use bare **the Order** where both organizations appear in the same passage.
+
+On first meaningful reference in a file or scene, use the appropriate full formal name before using its approved shorthand.
+
 ## Hyperlinking Rule
 
 Whenever a Markdown file makes a meaningful named reference to another documented entity, use a relative Markdown link on the first important occurrence in that section. Repeated links in every sentence are unnecessary.

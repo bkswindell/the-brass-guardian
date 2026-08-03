@@ -5,7 +5,6 @@ type: Chartered hospitaller medical order, surgical network, rehabilitation auth
 aliases:
   - The Mended Hand
   - The Hand
-  - The Order
 series: The Brass Guardian / The Aetherhaven Chronicles
 canon_status: Owner-directed canonical placeholder
 canonical_scope: Aetherhaven volumes
@@ -44,13 +43,13 @@ It is necessary.
 
 It is not automatically safe.
 
-The Order exists because there are injuries, infections, aetheric exposures, industrial accidents, and mechanical integrations that neighborhood healers cannot reliably treat. Its practitioners can preserve lives that would otherwise be lost, replace function that cannot be restored, and keep explorers or workers alive long enough to return home.
+The Hand exists because there are injuries, infections, aetheric exposures, industrial accidents, and mechanical integrations that neighborhood healers cannot reliably treat. Its practitioners can preserve lives that would otherwise be lost, replace function that cannot be restored, and keep explorers or workers alive long enough to return home.
 
 They can also recommend treatments more dangerous than the illness, value a successful mechanism above the person attached to it, and mistake the ability to perform a procedure for proof that the procedure should be performed.
 
-The Order is not a separate medical district and does not replace private physicians, apothecaries, midwives, household remedies, workshop medics, herbalists, or community healers. Most citizens prefer those alternatives for ordinary ailments and approach the Order only when the risk of avoiding it has become greater than the risk of submitting to its care.
+The Hand is not a separate medical district and does not replace private physicians, apothecaries, midwives, household remedies, workshop medics, herbalists, or community healers. Most citizens prefer those alternatives for ordinary ailments and approach the Hand only when the risk of avoiding it has become greater than the risk of submitting to its care.
 
-The Order operates as a distributed network with:
+The Hand operates as a distributed network with:
 
 - a central hospital and administrative institution in [the Government District](../locations/The_Government_District.md);
 - clinical and research staff embedded within [the Academy of Invention](The_Academy_of_Invention.md);
@@ -59,7 +58,7 @@ The Order operates as a distributed network with:
 - field medics and emergency liaisons working beside [the Brass Watch](The_Brass_Watch.md);
 - and expeditionary practitioners who may accompany accredited explorers.
 
-The Order supports biology with technology, but its understanding of biology is incomplete and uneven. Its mechanical skill often exceeds its knowledge of infection, rejection, pain, recovery, and the long-term consequences of intervention.
+The Hand supports biology with technology, but its understanding of biology is incomplete and uneven. Its mechanical skill often exceeds its knowledge of infection, rejection, pain, recovery, and the long-term consequences of intervention.
 
 It can save a life.
 
@@ -69,15 +68,30 @@ It may change that life permanently while doing so.
 
 The formal name is **The Order of the Mended Hand**.
 
-In ordinary speech, citizens call it **the Hand**.
+Its normal public and conversational shorthand is **the Hand**.
 
-The shorthand carries both reassurance and threat. A person may say, *Take them to the Hand*, when an injury has passed beyond household remedies. Another may answer, *Not unless there is no other choice.*
+Typical usage:
 
-The word **Order** reflects its age, chartered privileges, dispersed houses, field service, internal loyalties, and semi-autonomous authority. It does not make every member a knight, soldier, or moral exemplar. Exact ranks, vows, chapter titles, and the Order's founding Rule remain unresolved.
+- Formal documents, introductions, charters, and the first clear reference use **the Order of the Mended Hand**.
+- Ordinary citizens, patients, Watch officers, explorers, and most members usually say **the Hand**.
+- Facilities may be described as Hand halls, Hand houses, Hand clinics, or houses and clinics operated by the Hand until their individual names are established.
+- **The Order** is not the preferred standalone shorthand for the Mended Hand in narration, repository prose, or ordinary dialogue.
+
+The distinction is necessary because [the Order of the Closed Eye](The_Order_of_the_Closed_Eye.md) is a separate secret organization. Using **the Hand** keeps the public hospitaller order distinct from the hidden Closed Eye.
+
+A person may say:
+
+> **Take them to the Hand.**
+
+Another may answer:
+
+> **Not unless there is no other choice.**
+
+The word **Order** in the formal name reflects the Mended Hand's age, chartered privileges, dispersed houses, field service, internal loyalties, and semi-autonomous authority. It does not make every member a knight, soldier, or moral exemplar. Exact ranks, vows, chapters, and the founding Rule remain unresolved.
 
 ## Public Role
 
-The Order's public responsibilities include catastrophic injury response, surgery, prosthetics, implants, rehabilitation, expedition medicine, industrial medicine, and the treatment of aetheric or mechanical trauma.
+The Hand's public responsibilities include catastrophic injury response, surgery, prosthetics, implants, rehabilitation, expedition medicine, industrial medicine, and the treatment of aetheric or mechanical trauma.
 
 It is not where most citizens willingly go for a cough, fever, rash, infected cut, difficult pregnancy, or ordinary broken bone.
 
@@ -91,9 +105,9 @@ For common ailments, many residents first seek:
 - a Cauldron practitioner;
 - or an herbal treatment passed through generations.
 
-Some of those remedies are ineffective or dangerous. Some are better suited to the problem than the Order's aggressive interventions.
+Some of those remedies are ineffective or dangerous. Some are better suited to the problem than the Hand's aggressive interventions.
 
-The Order is most trusted when the alternative is death, loss of a limb, irreversible aether exposure, or a condition no ordinary practitioner understands.
+The Hand is most trusted when the alternative is death, loss of a limb, irreversible aether exposure, or a condition no ordinary practitioner understands.
 
 Its public reputation can be summarized as:
 
@@ -105,7 +119,7 @@ Order advice is respected, feared, questioned, and often taken only after a seco
 
 ### The Hall of Vital Mechanics
 
-[The Hall of Vital Mechanics](../locations/The_Hall_of_Vital_Mechanics.md) is the Order's central hospital, training center, records office, research authority, and emergency-coordination headquarters in the Government District.
+[The Hall of Vital Mechanics](../locations/The_Hall_of_Vital_Mechanics.md) is the Hand's central hospital, training center, records office, research authority, and emergency-coordination headquarters in the Government District.
 
 It is both the best-equipped medical facility in Aetherhaven and the place many citizens most fear being taken.
 
@@ -113,7 +127,7 @@ Public wards coexist with restricted theatres, implant laboratories, anatomical 
 
 ### Academy Clinical and Research Annex
 
-The Order maintains a presence within or beside the Academy of Invention for anatomy, physiology, mechanobiology, implant testing, medical-device development, and experimental treatment.
+The Hand maintains a presence within or beside the Academy of Invention for anatomy, physiology, mechanobiology, implant testing, medical-device development, and experimental treatment.
 
 The annex has produced important discoveries and unethical recommendations.
 
@@ -139,17 +153,17 @@ Neither recommendation is automatically foolish. Neither is automatically right.
 
 [The Cauldron Recovery House](../locations/The_Cauldron_Recovery_House.md) provides rehabilitation, adaptive-device care, industrial-injury treatment, and community medicine inside the Cauldron.
 
-It is affiliated with the Order but survives through local trust and partial independence. Residents may trust a particular healer or prosthetist there while distrusting the Order as a whole.
+It is affiliated with the Hand but survives through local trust and partial independence. Residents may trust a particular healer or prosthetist there while distrusting the Hand as a whole.
 
 The House may use salvaged devices, household remedies, herbs, unlicensed methods, and practical knowledge rejected by the central Hall. Some of those practices work. Some carry their own risks.
 
 ### Brass Watch Medical Liaison
 
-The Order trains or seconds field medics for fires, collapses, canal disasters, industrial explosions, hazardous machinery incidents, aetheric exposure, temporal disorientation, and mass-casualty evacuation.
+The Hand trains or seconds field medics for fires, collapses, canal disasters, industrial explosions, hazardous machinery incidents, aetheric exposure, temporal disorientation, and mass-casualty evacuation.
 
 Field medics are often more trusted than central Order officials because they work where people are injured rather than where research is conducted.
 
-That trust is not universal. Some medics are Watch officers. Some share information with investigators. Some answer first to the Order, the Council, or another organization.
+That trust is not universal. Some medics are Watch officers. Some share information with investigators. Some answer first to the Hand, the Council, or another organization.
 
 ### Expeditionary Medical Service
 
@@ -165,7 +179,7 @@ The exact size, rules, and history of this service remain unresolved.
 
 ## Fields of Practice
 
-The Order's disciplines may include surgery, emergency medicine, field medicine, prosthetics, rehabilitation, mechanobiology, implant medicine, industrial medicine, aetheric trauma, environmental medicine, and the treatment of unusual biological-mechanical conditions.
+The Hand's disciplines may include surgery, emergency medicine, field medicine, prosthetics, rehabilitation, mechanobiology, implant medicine, industrial medicine, aetheric trauma, environmental medicine, and the treatment of unusual biological-mechanical conditions.
 
 Its capabilities should not be equated with a modern medical system.
 
@@ -189,7 +203,7 @@ Final period-appropriate professional titles remain unresolved. Physician, surge
 
 ## Public Reputation and Avoidance
 
-The Order is respected as a last resort rather than loved as a public service.
+The Hand is respected as a last resort rather than loved as a public service.
 
 Citizens may delay seeking care because they fear:
 
@@ -232,7 +246,7 @@ These abuses do not make every practitioner malicious. They do mean that an Orde
 
 ## Internal Factions and Outside Allegiances
 
-The Order is too large and politically valuable to remain ideologically neutral.
+The Hand is too large and politically valuable to remain ideologically neutral.
 
 Individual practitioners, administrators, researchers, or record keepers may have loyalties to:
 
@@ -246,7 +260,7 @@ Individual practitioners, administrators, researchers, or record keepers may hav
 - merchant patrons;
 - or private research circles.
 
-No single outside organization is established as controlling the Order.
+No single outside organization is established as controlling the Hand.
 
 Affiliations may create genuine reform, quiet protection, divided loyalties, corruption, information leaks, concealed treatment, or deliberate harm.
 
@@ -256,7 +270,7 @@ It does not reveal whom that physician ultimately serves.
 
 ## Relationship with the Mechanists' Guild
 
-The Order and [the Mechanists' Guild](The_Mechanists_Guild.md) share responsibility wherever machinery becomes medically necessary.
+The Hand and [the Mechanists' Guild](The_Mechanists_Guild.md) share responsibility wherever machinery becomes medically necessary.
 
 Their cooperation has saved lives and accelerated the development of prosthetics, braces, implants, and adaptive tools.
 
@@ -280,11 +294,11 @@ It is not a universally enforced rule.
 
 ## Relationship with the Academy of Invention
 
-The Order and [the Academy of Invention](The_Academy_of_Invention.md) collaborate on anatomy, mechanobiology, adaptive technology, implants, and experimental procedures.
+The Hand and [the Academy of Invention](The_Academy_of_Invention.md) collaborate on anatomy, mechanobiology, adaptive technology, implants, and experimental procedures.
 
 The Academy supplies theories, laboratories, instruments, and ambitious researchers.
 
-The Order supplies injuries, clinical access, treatment records, and living cases that theory alone cannot provide.
+The Hand supplies injuries, clinical access, treatment records, and living cases that theory alone cannot provide.
 
 At their best, the institutions combine knowledge and practical care.
 
@@ -300,7 +314,7 @@ The boundary between treatment and experiment is especially unstable when:
 
 ## Relationship with the Brass Watch
 
-The Order supports [the Brass Watch](The_Brass_Watch.md) during disasters, dangerous investigations, and anomalous incidents.
+The Hand supports [the Brass Watch](The_Brass_Watch.md) during disasters, dangerous investigations, and anomalous incidents.
 
 Care, custody, and evidence can overlap.
 
@@ -314,7 +328,7 @@ No automatic rule makes Order staff independent from Watch or Council pressure.
 
 ## Relationship with the Society of Explorers
 
-The Order may certify expedition readiness, train field medics, review evacuation plans, and maintain records of unusual injuries encountered beyond Aetherhaven.
+The Hand may certify expedition readiness, train field medics, review evacuation plans, and maintain records of unusual injuries encountered beyond Aetherhaven.
 
 Explorers often view medical restrictions as obstacles imposed by people who have never entered the field.
 
@@ -328,7 +342,7 @@ Whether an Order practitioner accompanied the original Clockwork Jungle expediti
 
 ## Relationship with the Cauldron
 
-The Order's presence in the Cauldron exists because industrial injury, chemical exposure, disability, poverty, and lack of civic documentation do not remove a person's need for care.
+The Hand's presence in the Cauldron exists because industrial injury, chemical exposure, disability, poverty, and lack of civic documentation do not remove a person's need for care.
 
 The central Order is also one of the institutions Cauldron residents have reason to distrust.
 
@@ -342,7 +356,7 @@ The Recovery House is not automatically morally superior. Its protection comes f
 
 ## Relationship with the Conservancy of Living Mechanisms
 
-The Order has no standing alliance with [the Conservancy of Living Mechanisms](The_Conservancy_of_Living_Mechanisms.md).
+The Hand has no standing alliance with [the Conservancy of Living Mechanisms](The_Conservancy_of_Living_Mechanisms.md).
 
 From time to time, individual practitioners or branches obtain:
 
@@ -370,7 +384,7 @@ No regular partnership, shared governance, or ideological closeness should be as
 
 His emergency actions may have been essential. Trained medical intervention was also necessary.
 
-The Order may have contributed through an expedition medic, evacuation, surgery, infection control, pain management, rehabilitation, prosthetic fitting, implant monitoring, or collaboration while Elias built the mechanical framework of Amelia's arm.
+The Hand may have contributed through an expedition medic, evacuation, surgery, infection control, pain management, rehabilitation, prosthetic fitting, implant monitoring, or collaboration while Elias built the mechanical framework of Amelia's arm.
 
 It may also have recommended procedures Elias rejected.
 
@@ -389,7 +403,7 @@ Elias may owe individual Order practitioners Amelia's life while distrusting the
 
 [Amelia Hawthorne](../characters/Amelia_Hawthorne.md) may remember kindness, pain, frightening procedures, missing time, or adults debating her future while she could not meaningfully participate.
 
-The Order is not entitled to her trust merely because it helped keep her alive.
+The Hand is not entitled to her trust merely because it helped keep her alive.
 
 ## Medical Ethics
 
@@ -414,7 +428,7 @@ No reader or character should assume that an Order recommendation is morally cor
 
 ## Political and Institutional Tensions
 
-The Order is a necessary civic power with weakly bounded authority.
+The Hand is a necessary civic power with weakly bounded authority.
 
 It faces pressure from the High Council, Academy, Mechanists' Guild, Brass Watch, Society of Explorers, merchants, patrons, the Cauldron, the Unwound, and hidden interests connected to the Order of the Closed Eye.
 
@@ -429,7 +443,7 @@ Corruption may take several forms:
 - dangerous discoveries concealed;
 - or practitioners using institutional access to serve another organization.
 
-The Order should not be portrayed as uniformly benevolent or uniformly evil.
+The Hand should not be portrayed as uniformly benevolent or uniformly evil.
 
 It contains healers who take extraordinary risks for patients, researchers who justify cruelty as progress, exhausted field medics, brilliant prosthetists, frightened administrators, political operatives, reformers, and people who move between those categories over time.
 
@@ -439,7 +453,7 @@ Its necessity also makes its abuses harder to confront.
 
 ## Visual Language
 
-The Order's visual language should combine medicine, workshop engineering, and civic authority without resembling a modern hospital.
+The Hand's visual language should combine medicine, workshop engineering, and civic authority without resembling a modern hospital.
 
 Possible elements include:
 
@@ -460,7 +474,7 @@ Avoid modern visual shorthand such as perfect sterility, effortless diagnostics,
 
 ## Continuity Constraints
 
-- The Order exists as a distributed medical network rather than a separate map district.
+- The Hand exists as a distributed medical network rather than a separate map district.
 - Its central institution is in the Government District.
 - It maintains Academy, Great Workshops, Cauldron, Brass Watch, and expeditionary presences.
 - It combines incomplete biological medicine with comparatively advanced mechanical intervention.
@@ -470,16 +484,16 @@ Avoid modern visual shorthand such as perfect sterility, effortless diagnostics,
 - No universal Hippocratic oath or consistently enforced consent code exists.
 - Experiments and unethical treatments have occurred under Order authority.
 - Some practitioners may be connected to the Unwound, Order of the Closed Eye, Council, Watch, Academy, Guild, Cauldron factions, or private patrons.
-- The Order has no standing alliance with the Conservancy, though herbs and other resources may occasionally pass between individual practitioners.
+- The Hand has no standing alliance with the Conservancy, though herbs and other resources may occasionally pass between individual practitioners.
 - Mechanical replacement may be favored over slower biological treatment, including amputation and prosthetic replacement where another healer might attempt to preserve the limb.
-- The Order is less medically sophisticated than a modern health system; diagnosis, infection control, anesthesia, recovery, and long-term implant knowledge remain incomplete.
+- The Hand is less medically sophisticated than a modern health system; diagnosis, infection control, anesthesia, recovery, and long-term implant knowledge remain incomplete.
 - Elias's actions were important to Amelia's survival, but trained medical care was also required.
-- The Order may have helped save Amelia while also frightening, studying, pressuring, or making contested recommendations about her.
+- The Hand may have helped save Amelia while also frightening, studying, pressuring, or making contested recommendations about her.
 - The exact final name, leadership, ranks, scandals, and Clockwork Jungle personnel remain unresolved.
 
 ## Open Canon Questions
 
-1. What event founded the Order and established its chartered privileges?
+1. What event founded the Hand and established its chartered privileges?
 2. Who leads it, and whom do they truly answer to?
 3. Is it Council-chartered, professionally self-governing, privately patronized, or a mixture?
 4. What competing medical schools or traditions exist inside it?
@@ -501,9 +515,9 @@ Avoid modern visual shorthand such as perfect sterility, effortless diagnostics,
 20. Who stabilized Amelia first?
 21. What procedures were performed during Amelia's survival and recovery?
 22. What recommendations did Elias accept or refuse?
-23. When did the Order first encounter the Aether Heart?
+23. When did the Hand first encounter the Aether Heart?
 24. Did anyone claim research, custody, or public-safety authority over Amelia?
-25. Which recurring physician, medic, healer, prosthetist, or researcher eventually represents the Order in the story?
+25. Which recurring physician, medic, healer, prosthetist, or researcher eventually represents the Hand in the story?
 
 ## Development Checklist
 
@@ -520,5 +534,5 @@ Avoid modern visual shorthand such as perfect sterility, effortless diagnostics,
 - [ ] Define governance, leadership, schools, and practitioner ranks.
 - [ ] Define at least one public scandal and one sealed scandal.
 - [ ] Select a recurring compassionate practitioner and a recurring morally compromised practitioner when stories require them.
-- [ ] Create the Order seal and field-medical visual language.
+- [ ] Create the Hand seal and field-medical visual language.
 - [ ] Resolve the exact Clockwork Jungle medical-response sequence only when the arc requires it.
