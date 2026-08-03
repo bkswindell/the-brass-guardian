@@ -113,7 +113,7 @@ Its public reputation can be summarized as:
 
 > **They may save you. They may also decide that saving you requires becoming someone different.**
 
-Hand advice is respected, feared, questioned, and often taken only after a second opinion from someone the patient personally trusts.
+Advice from the Hand is respected, feared, questioned, and often taken only after a second opinion from someone the patient personally trusts.
 
 ## Distributed Presence
 
@@ -167,7 +167,7 @@ That trust is not universal. Some medics are Watch officers. Some share informat
 
 ### Expeditionary Medical Service
 
-Accredited expeditions may include an Hand surgeon, medic, prosthetics specialist, or expedition-certified practitioner.
+Accredited expeditions may include a Hand surgeon, medic, prosthetics specialist, or expedition-certified practitioner.
 
 Expedition medics may carry broad emergency authority because delay can kill. The same isolation that makes decisive treatment necessary can also make oversight, consent, and later verification difficult.
 
@@ -221,7 +221,7 @@ Families often ask who is on duty before deciding whether to enter the Hall. Tru
 
 Some people die because they waited too long.
 
-Others survive because they refused an Hand recommendation and sought a less invasive treatment elsewhere.
+Others survive because they refused a Hand recommendation and sought a less invasive treatment elsewhere.
 
 The risk runs in both directions.
 
@@ -242,7 +242,7 @@ Not every experiment was cruel, and some produced treatments that later saved li
 
 The exact scandals, dates, victims, and reforms remain unresolved.
 
-These abuses do not make every practitioner malicious. They do mean that an Hand seal is not proof of moral authority.
+These abuses do not make every practitioner malicious. They do mean that a Hand seal is not proof of moral authority.
 
 ## Internal Factions and Outside Allegiances
 
@@ -318,7 +318,7 @@ The Hand supports [the Brass Watch](The_Brass_Watch.md) during disasters, danger
 
 Care, custody, and evidence can overlap.
 
-An Hand medic may protect a patient's privacy, record details for the Watch, identify an implant as dangerous evidence, or recommend confinement in a restricted ward.
+A Hand medic may protect a patient's privacy, record details for the Watch, identify an implant as dangerous evidence, or recommend confinement in a restricted ward.
 
 Different practitioners make different choices.
 
@@ -338,7 +338,7 @@ Both criticisms can be true.
 
 Expeditionary medicine creates special danger because isolation gives a medic enormous authority, while sponsors may pressure that medic to keep an expedition moving, preserve a discovery, or collect samples before evacuation.
 
-Whether an Hand practitioner accompanied the original Clockwork Jungle expedition remains unresolved.
+Whether a Hand practitioner accompanied the original Clockwork Jungle expedition remains unresolved.
 
 ## Relationship with the Cauldron
 
@@ -424,7 +424,7 @@ Individual practitioners can be principled, compassionate, and courageous.
 
 Institutional ethics are inconsistent, contested, and vulnerable to pressure.
 
-No reader or character should assume that an Hand recommendation is morally correct simply because it is medical.
+No reader or character should assume that a Hand recommendation is morally correct simply because it is medical.
 
 ## Political and Institutional Tensions
 
@@ -511,7 +511,7 @@ Avoid modern visual shorthand such as perfect sterility, effortless diagnostics,
 16. What information is routinely shared with the Brass Watch or Council?
 17. What exact relationship exists with the Cauldron Recovery House?
 18. What resources are occasionally obtained from the Conservancy?
-19. Was an Hand medic present during the Clockwork Jungle expedition?
+19. Was a Hand medic present during the Clockwork Jungle expedition?
 20. Who stabilized Amelia first?
 21. What procedures were performed during Amelia's survival and recovery?
 22. What recommendations did Elias accept or refuse?

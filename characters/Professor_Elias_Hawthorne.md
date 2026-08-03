@@ -386,7 +386,7 @@ The Hand may have recommended interventions Elias accepted because Amelia would 
 
 The exact choices remain unresolved.
 
-Elias respects genuine expertise but does not accept an Hand title as proof of wisdom or morality. His guilt can make him too willing to accept dangerous recommendations—or too determined to oppose practitioners who may be correct.
+Elias respects genuine expertise but does not accept Hand rank or credentials as proof of wisdom or morality. His guilt can make him too willing to accept dangerous recommendations—or too determined to oppose practitioners who may be correct.
 
 The Hand is one of the institutions capable of challenging Elias's belief that he alone must decide Amelia's care, while also giving him valid reasons to fear surrendering control.
 
