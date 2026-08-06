@@ -5,14 +5,14 @@ name: The Passenger’s Future-Dated Ticket
 category: The Passenger of Dock Zero
 canon_status: canonical-working-artifact
 image_status: image-linked
-last_updated: '2026-08-02'
+last_updated: '2026-08-05'
 related_markdown:
 - ../characters/The_Passenger_of_Dock_Zero.md
 - ../characters/Captain_Mara_Voss.md
 - ../locations/The_Aerial_Docks.md
 - ../locations/The_Gardens_Airship_Landing.md
 canonical_images:
-- ../art/AH-1-018_The_Passenger's_Future-Date_Ticket.png
+- ../art/AH-1-018_The_Passenger's_Future-Date_Ticket.webp
 visual_transcription_status: complete
 ---
 
@@ -22,13 +22,13 @@ visual_transcription_status: complete
 
 ## Visual Reference
 
-![The Passenger’s Future-Dated Ticket](../art/AH-1-018_The_Passenger's_Future-Date_Ticket.png)
+![The Passenger’s Future-Dated Ticket](../art/AH-1-018_The_Passenger's_Future-Date_Ticket.webp)
 
-[Open full image](../art/AH-1-018_The_Passenger's_Future-Date_Ticket.png)
+[Open full image](../art/AH-1-018_The_Passenger's_Future-Date_Ticket.webp)
 
 ## Plate Text Transcription — Visual Evidence Only
 
-> This section records text that is physically visible in the active image. Illegible, abraded, redacted, or distorted text is labeled rather than reconstructed. Plate text is preserved even when it conflicts with newer canon.
+> This section records text physically visible in the active image. Illegible, blurred, abraded, or distorted text is labeled rather than reconstructed. Plate text is preserved even when it conflicts with later canon.
 
 ### Archive heading and identification
 
@@ -37,157 +37,157 @@ visual_transcription_status: complete
 - **CATALOG No.** `AH-1-018`
 - **TITLE:** `THE PASSENGER’S FUTURE-DATED TICKET`
 
-### Record block
+A handwritten note near the title reads:
 
-- **RECORD TYPE:** `TRANSIT DOCUMENT`
-- **OBJECT CLASS:** `AETHERIC TRAVEL EPHEMERA`
-- **STATUS:** `AUTHENTIC`
-- `PRESERVED — OFFICIAL HOLD`
+> There are tickets that do not summon—  
+> but remember.  
+> —M.V.
 
-### Passage-ticket heading
+### Custody block
 
-- **AETHERIC TRANSIT AUTHORITY**
-- **PASSAGE TICKET**
-- **FIRST CLASS — AETHERIC AIRSHIP SERVICE**
-- **THIS TICKET ADMITS ONE**
-- **PASSAGE ABOARD THE**
+- **Status:** `Impounded for Verification`
+- **Holding Authority:** `Harbormaster’s Office`
+- **Officer:** `Captain Mara Voss`
+- **Current Custody:** `Aetherhaven Archives — Restricted Transit Review`
+
+The block bears a circular **HARBORMASTER’S OFFICE — AETHERHAVEN** stamp with an anchor emblem.
+
+### Evidence case
+
+- **EVIDENCE SEAL No. 77A**
+- **DO NOT OPEN**
+
+### Passage ticket
+
+- **UPPER STRATA PASSAGE TICKET**
 - **MORNINGSTAR**
-- **GRAND AETHERIC AIRSHIP**
+- **AIRSHIP PASSAGE**
+- **BERTH RESERVATION:** `7-0`
+- **ZERO DOCK**
+- **PASSENGER:** the handwritten name is deliberately blurred, abraded, or smeared. A few strokes remain visible, but the plate does not provide a complete or verifiable identity.
+- **CLASS:** `STRATA CABIN — OBSERVATORY`
+- **DEPARTURE CONCORDANCE CODE:** `USC-79 / Ember Sequence 499 / Return Alignment VII`
+- **TICKET No.:** `MS-7-0-499`
+- **VALID ONLY FOR STATED CONCORDANCE WINDOW**
+- **SUBJECT TO UPPER STRATA NAVIGATIONAL LAW**
+- **ADM. CLERK:** signature present but not confidently legible.
 
-### Transit seal
+The ticket includes a Morningstar monogram, a starburst-and-airship illustration, punched margins, and the vertical text **NOT TRANSFERABLE**.
 
-The circular seal on the ticket reads:
+### Recovery plate
 
-- **AETHERIC**
-- **TRANSIT AUTHORITY**
+- **RECOVERED:** `DOCK ZERO`
+- **DATE:** `17TH DAY OF COGSREACH, CY 998`
 
-A compass-like star fills the center.
+### Archivist note
 
-### Seat and class fields
+> This ticket was found in the possession of the individual known as the Passenger of Dock Zero after repeated attempts to access the reserved Morningstar berth.
 
-- **SEAT:** `7A`
-- **DECK:** `OBSERVATION`
-- **CLASS:** `FIRST`
+### Observation: bearer profile
 
-### Passenger and identification fields
+- `Impatient.`
+- `Secretive.`
+- `Persistent.`
+- `Not violent.`
+- `Identity unknown to the High Council.`
 
-- **PASSENGER:** the visible handwriting appears to begin `Elias V...`; the remainder is replaced by dashes or is abraded. The plate does not provide a complete verifiable name.
-- **IDENTIFICATION HASH:** `7F3A-9C2D-1B**-E7`
+### Transit code interpretation
 
-### Route and authority fields
+> The obsolete Upper Strata transit code (`USC-79 / Ember Sequence 499 / Return Alignment VII`) has been interpreted by the Concordance Office as indicating a departure window approximately **forty-seven (47) years** in Aetherhaven’s future, relative to the current civic year (`CY 998`).
 
-- **ROUTE:** `AETHERHAVEN`
-- **TO:** `CLOUDWARD TERMINUS`
-- **VIA THE:** `UPPER STRATA CORRIDOR`
-- **TICKET No.:** `MS-33177`
-- **ISSUED BY ORDER OF THE HIGH COUNCIL**
+### Passenger photograph
 
-### Departure date
+The inset is labeled:
 
-- **DATE OF DEPARTURE:** `79TH OF EMBERFALL, 499 AE`
-- Footer: **SUBJECT TO AETHERIC WEATHER AND AUTHORITY REGULATIONS**
+- **PASSENGER OF DOCK ZERO**
+- **DOCK ZERO**
 
-### Detachable stub
+It shows a solitary person in a dark coat and brimmed hat standing with their back to the camera before enormous closed industrial hangar doors. A large `0` is mounted above the doors. Wet paving reflects the light around the figure.
 
-A separate vertical stub is shown beside the case. The lower line clearly reads:
+This photograph is part of the active artifact plate and is the required visual presentation of the Passenger: an unidentified person waiting before the large Dock Zero doors.
 
-- **IF DETACHED**
+### Dock log excerpt — Harbormaster’s Office
 
-The upper word is distorted or partially illegible; it appears to begin with `ADMIT...` but is not confidently transcribed.
+> `CY 998 / 17th of Cogsreach`  
+> Passenger presented ticket for berth `7-0` (*Morningstar*).  
+> Informed vessel not present. Ticket impounded for verification.  
+> He accepted reluctantly.
 
-### Future-date detail
+> `CY 998 / 19th of Cogsreach`  
+> Passenger returned. Asked: “Has the Morningstar arrived yet?”  
+> Informed again: not present.  
+> Observation: He appeared relieved.
 
-- **DETAIL: FUTURE DATE (Magnified)**
-- **DATE OF DEPARTURE:** `79TH OF EMBERFALL, 499 AE`
+> `CY 998 / 22nd of Cogsreach`  
+> Passenger returned. Asked same question.  
+> Informed again: not present. He sighed—relief apparent.  
+> No threats. No disturbance.
 
-> Departure date is forty-seven (47) years beyond the year of recovery (452 AE). No current dock ledgers list this voyage.
+### Reserved berth marker
 
-### Punch-pattern detail
+The photographed plaque reads:
 
-- **PUNCH PATTERN DETAIL (Actual Size)**
+- **MORNINGSTAR**
+- **RESERVED**
+- **BERTH 7-0 — DOCK ZERO**
+- **GARDENS’ AIRSHIP LANDING**
 
-> Bespoke punch sequence. Does not match any known series in Transit Archive Index.
+The accompanying note reads:
 
-### Catalog notes
+> Marker exists at the Gardens’ Airship Landing. No current vessel registry entry matches the name “Morningstar.”
 
-> Recovered in a sealed ledger box within the ruins of the Old Aetherhaven Customs House, beneath a collapsed clerical alcove.
+### Reverse-side rubbing and watermark study
 
-> The ticket was preserved between two glass leaves and wrapped in oiled silk.
+The rubbing reads:
 
-> The passenger name appears partially abraded or obscured. Identity could not be verified.
+- **MORNINGSTAR COMPANY**
 
-> No corroborating records found in any accessible authority archives.
+A note describes:
 
-### Reverse-side rubbing
+> Laid paper with embedded starburst watermark and faint countermark “M.C.” within compass.
 
-- **REVERSE SIDE RUBBING (Partial)**
+A second note states:
 
-> Reverse bears faint watermark of the Morningstar crest and issuing seal.
+> Indicates connection to Morningstar Company stock, not conclusive.
 
-### Vessel note
+### Catalog note / archivist summary
 
-- **VESSEL NOTE: THE MORNINGSTAR**
+> No authenticated vessel named “Morningstar” appears in current municipal or commercial registries of Aetherhaven. Yet the name persists—on this ticket, on the reserved berth marker at the Gardens’ Airship Landing, and on cargo or crate emblems attributed to the Morningstar Company. The implications remain uncertain.
 
-> Flagship of the Aetheric Fleet.  
-> Known for record-setting long-range runs and experimental aetherdrive coil assemblies.
+The summary includes a Morningstar Company monogram and a faint rigid-airship drawing.
 
-> Last confirmed voyage recorded twelve years prior to recovery.
+### Filing and control marks
 
-### Note from archivist
-
-> The implications of a valid future-dated passage are profound — foreknowledge, chronal displacement, or a record not yet meant to exist.  
-> — A. L. Maren
-
-A red circular **AETHERHAVEN ARCHIVES** stamp overlaps the note.
-
-### Catalog history
-
-- `452 AE` — Initial Cataloging
-- `452 AE` — Conservation Stabilization
-- `452 AE` — Transcription & Imaging
-- `453 AE` — Chronal Review Board Notified
-- `453 AE` — Restricted Access Granted
-
-### Condition as assessed
-
-- **Structural Integrity:** `Good`
-- **Legibility:** `Excellent`
-- **Aetheric Residue:** `Trace`
-- **Paradox Risk:** `Unknown`
-- **Stability:** `Stable (Encased)`
-
-### Final control notice
-
-> **ARCHIVAL REFERENCE ONLY — DO NOT REMOVE FROM RECORDS**
+- **Filed by:** `ARCHIVIST L. MARROW`
+- **Date:** `23rd of Cogsreach, CY 998`
+- Handwritten signature: `L. Marrow`
+- Wax seal bearing an archival `A` monogram
+- Red stamp: **FURTHER REVIEW REQUIRED**
 
 ## Complete Plate Description — Visual Evidence Only
 
-The ticket is preserved horizontally beneath glass in a black archival display case with ornate brass corners and a keyhole latch on the right. The paper ticket has clipped corners, punched side strips, extensive gold filigree, and a formal cream-and-brass design.
+The active plate is a vertically arranged archival dossier on aged parchment. Its upper half is dominated by an ornate Morningstar ticket held beneath glass in a brass evidence case. The passenger field is visibly blurred and does not establish a name.
 
-The central title **MORNINGSTAR** is the largest text. A circular Aetheric Transit Authority seal occupies the left side. Route, seat, passenger, hash, ticket number, issuing authority, and departure date are divided into bordered fields. The future date is printed in dark red along the lower center.
+The lower half combines direct evidence and archival interpretation:
 
-The dossier below the case contains:
+1. a photograph of the Passenger standing before Dock Zero’s enormous closed doors;
+2. a bearer-profile list;
+3. the Concordance Office’s future-date interpretation;
+4. three Harbormaster dock-log entries;
+5. a photograph of the reserved Morningstar berth marker;
+6. a reverse-side watermark rubbing;
+7. a catalog summary, company monogram, and airship sketch;
+8. filing information, wax seal, custody stamps, and a further-review notice.
 
-1. a magnified strip of the future date;
-2. an actual-size sample of the punched edge;
-3. a catalog-note sheet;
-4. a partial rubbing of the reverse, showing a balloon or airship crest and circular seal;
-5. a separate detachable stub;
-6. a vessel note with a line drawing of a rigid airship;
-7. an archivist’s note and stamp;
-8. catalog history and condition tables.
-
-The ticket’s passenger field is visibly incomplete. The writing appears to begin with `Elias V`, but the remaining characters are not present or are obscured. This visual fragment cannot establish the passenger’s identity.
-
-The plate has no black redactions. Its uncertainty is conveyed through abrasion, incomplete passenger text, an unidentified punch sequence, trace residue, and a declared unknown paradox risk.
+The plate’s two defining identity safeguards are intentional: the passenger name remains blurred and the photograph shows the Passenger from behind. Neither element reveals a canonical name or face.
 
 ## Non-Visual Canon References and Story Context
 
-Current canon identifies this as the future-dated ticket associated with [The Passenger of Dock Zero](../characters/The_Passenger_of_Dock_Zero.md), impounded by [Captain Mara Voss](../characters/Captain_Mara_Voss.md), and connected to the *Morningstar*, [The Aerial Docks](../locations/The_Aerial_Docks.md), and the [Gardens Airship Landing](../locations/The_Gardens_Airship_Landing.md).
+Current canon identifies the ticket as the future-dated document associated with [The Passenger of Dock Zero](../characters/The_Passenger_of_Dock_Zero.md). [Captain Mara Voss](../characters/Captain_Mara_Voss.md) impounded it after the Passenger repeatedly attempted to access the reserved *Morningstar* berth.
 
-The visible passenger fragment must **not** be treated as proof that the ticket belongs to [Elias Hawthorne](../characters/Professor_Elias_Hawthorne.md). Current canon keeps the passenger name damaged, blurred, and unverified. The apparent `Elias V...` text is recorded here only because it is physically visible in the generated image.
+The active plate now visually supports that history: its custody block names Mara and the Harbormaster’s Office, its recovery plate identifies Dock Zero, and its photograph places the Passenger before the large dock doors.
 
-The plate’s recovery story at the Old [Aetherhaven](../locations/Aetherhaven.md) Customs House differs from the current story premise that [Mara](../characters/Captain_Mara_Voss.md) confiscated the ticket from the Passenger. The plate metadata may describe an earlier concept, a prior archival recovery, or an inconsistent record. The active character and location canon controls the story history until this discrepancy is explicitly reconciled.
+The blurred passenger field must remain unresolved. Visible fragments are not proof of the Passenger’s identity and must not be expanded into a name.
 
 ## Related Canon
 
@@ -203,18 +203,20 @@ The plate’s recovery story at the Old [Aetherhaven](../locations/Aetherhaven.m
 
 ## Continuity Notes
 
-- This file is authoritative for the visible content and physical presentation of the active artifact image or images.
+- This file is authoritative for the visible content and physical presentation of the active artifact image.
+- The passenger name is blurred and unverified.
+- The inset photograph shows the unidentified Passenger from behind, standing before the large Dock Zero doors.
 - Linked character, organization, location, and story-arc files remain authoritative for broader history and plot context.
-- Visible plate claims are not silently corrected when they conflict with later canon; discrepancies are documented explicitly.
 - Material from `unused/` is excluded and was not consulted.
 
 ## TODO / Production Checklist
 
-- [x] Active canonical art linked.
-- [x] All clearly readable plate text transcribed.
-- [x] Dates, signatures, seals, stamps, redactions, names, places, and identifying marks documented.
+- [x] Correct active artifact art located in the temporary generation directory.
+- [x] Correct plate linked as the active canonical image.
+- [x] Blurred passenger-name field documented without reconstruction.
+- [x] Passenger photograph before the Dock Zero doors documented.
+- [x] Clearly readable plate text transcribed.
 - [x] Complete visual-only plate description added.
 - [x] Non-visual canon and story context separated from visual evidence.
 - [ ] Add backlinks from every active profile that directly references this artifact.
-- [ ] Resolve documented plate/canon discrepancies only through an explicit canon decision.
 - [ ] Approve a publication-safe caption.
