@@ -17,8 +17,8 @@ from textwrap import dedent
 
 ROOT = Path(__file__).resolve().parents[1]
 MEDIA = ROOT / "media_reactions"
-PROJECT_INDEX = ROOT / "docs/docs/PROJECT_INDEX.md"
-STANDARD = ROOT / "docs/standards/docs/standards/CANON_MARKDOWN_STANDARD.md"
+PROJECT_INDEX = ROOT / "docs/PROJECT_INDEX.md"
+STANDARD = ROOT / "docs/standards/CANON_MARKDOWN_STANDARD.md"
 STORY_DRAFT_INDEX = ROOT / "story_drafts" / "README.md"
 
 SOURCE_START = "<!-- SOURCE CONTENT START: IMMUTABLE PUBLIC REACTION -->"

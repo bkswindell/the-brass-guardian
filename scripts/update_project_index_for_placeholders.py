@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Update docs/docs/PROJECT_INDEX.md after generating the placeholder profile library."""
+"""Update docs/PROJECT_INDEX.md after generating the placeholder profile library."""
 
 from __future__ import annotations
 
@@ -7,7 +7,7 @@ import re
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-INDEX = ROOT / "docs/docs/PROJECT_INDEX.md"
+INDEX = ROOT / "docs/PROJECT_INDEX.md"
 
 SNAPSHOT = """The repository currently contains:
 
@@ -19,7 +19,7 @@ SNAPSHOT = """The repository currently contains:
 - **5** profile templates and development standards
 - **2** compiled manuscript exports (`DOCX` and `PDF`)
 - an active artwork library in `art/`
-- a complete [placeholder profile index](docs/development/docs/development/PLACEHOLDER_PROFILE_INDEX.md)
+- a complete [placeholder profile index](docs/development/PLACEHOLDER_PROFILE_INDEX.md)
 """
 
 BACKLOG = """## Placeholder Expansion Backlog
@@ -48,7 +48,7 @@ Other character placeholders include:
 - [The Null Shepherd](characters/The_Null_Shepherd.md)
 - [The Bellmaker](characters/The_Bellmaker.md)
 
-Organization and location placeholders—including all missing numbered and restricted map locations—are catalogued in [docs/development/docs/development/PLACEHOLDER_PROFILE_INDEX.md](docs/development/docs/development/PLACEHOLDER_PROFILE_INDEX.md).
+Organization and location placeholders—including all missing numbered and restricted map locations—are catalogued in [docs/development/PLACEHOLDER_PROFILE_INDEX.md](docs/development/PLACEHOLDER_PROFILE_INDEX.md).
 
 The next development phase is to replace placeholders with complete profiles as each subject becomes story-relevant. Expansion should preserve source notes, explicitly resolve contradictions, and retain existing file paths so inbound links remain stable.
 
@@ -65,9 +65,9 @@ def main() -> int:
         flags=re.DOTALL,
     )
 
-    if "[docs/development/docs/development/PLACEHOLDER_PROFILE_INDEX.md](docs/development/docs/development/PLACEHOLDER_PROFILE_INDEX.md)" not in text:
-        marker = "| [docs/docs/PROJECT_INDEX.md](docs/docs/PROJECT_INDEX.md) | Internal project inventory, canon index, audit notes, and development backlog |\n"
-        addition = marker + "| [docs/development/docs/development/PLACEHOLDER_PROFILE_INDEX.md](docs/development/docs/development/PLACEHOLDER_PROFILE_INDEX.md) | Index of source-grounded placeholder records awaiting full development |\n"
+    if "[docs/development/PLACEHOLDER_PROFILE_INDEX.md](docs/development/PLACEHOLDER_PROFILE_INDEX.md)" not in text:
+        marker = "| [docs/PROJECT_INDEX.md](docs/PROJECT_INDEX.md) | Internal project inventory, canon index, audit notes, and development backlog |\n"
+        addition = marker + "| [docs/development/PLACEHOLDER_PROFILE_INDEX.md](docs/development/PLACEHOLDER_PROFILE_INDEX.md) | Index of source-grounded placeholder records awaiting full development |\n"
         text = text.replace(marker, addition)
 
     text = re.sub(
@@ -83,7 +83,7 @@ def main() -> int:
     )
 
     INDEX.write_text(text, encoding="utf-8")
-    print("Updated docs/docs/PROJECT_INDEX.md for the placeholder profile library.")
+    print("Updated docs/PROJECT_INDEX.md for the placeholder profile library.")
     return 0
 
 
