@@ -75,6 +75,33 @@ The repository remains the source of truth. Agent memory files must not become a
 
 ---
 
+## 2026-08-08 — Repository Documentation and Template Layout
+
+**Status:** APPROVED
+
+The repository root should remain intentionally clean and contain only files that conventionally belong at the project entry point, including the public `README.md`, `AGENTS.md`, the compiled PDF/DOCX manuscript exports, and any future conventional root metadata such as a license or contribution guide.
+
+Reusable project Markdown templates are centralized under:
+
+`/templates/`
+
+Project-wide internal documentation is centralized under:
+
+`/docs/`
+
+The principal development paths are:
+
+- `/docs/PROJECT_INDEX.md` — internal canon and repository index;
+- `/docs/standards/CANON_MARKDOWN_STANDARD.md` — Markdown and visual integration standard;
+- `/docs/standards/Map_Location_Reference_Style_Guide.md` — map-location public-reference guidance;
+- `/docs/development/CANON_DEVELOPMENT_TODO.md` — active development queue;
+- `/docs/development/PLACEHOLDER_PROFILE_INDEX.md` — placeholder inventory;
+- `/templates/` — reusable character, organization, location, artifact, story-arc, and historical-event profile templates.
+
+AI agents, scripts, and workflows must use these current paths rather than recreating obsolete root-level copies.
+
+---
+
 ## 2026-08-08 — Public Website Direction
 
 **Status:** APPROVED
