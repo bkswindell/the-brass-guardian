@@ -16,4 +16,8 @@ This directory contains project-wide development indexes, standards, and working
 - [Canon Development TODO](development/CANON_DEVELOPMENT_TODO.md)
 - [Placeholder Profile Index](development/PLACEHOLDER_PROFILE_INDEX.md)
 
+## Reference
+
+- [Legacy Series Introduction](reference/Legacy_Series_Introduction.md) — retained development/reference copy of an earlier brief series introduction.
+
 Reusable profile structures live in [`../templates/`](../templates/README.md). AI collaboration and durable memory live in [`../agents/`](../agents/README.md).
