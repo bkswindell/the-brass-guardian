@@ -14,7 +14,7 @@ canonical_images:
 
 # The Lady’s Silver-White Gauntlet Study
 
-> **Artifact Image Slate #38** · The Girl in the Reflection · [Artifact standard](../CANON_MARKDOWN_STANDARD.md)
+> **Artifact Image Slate #38** · The Girl in the Reflection · [Artifact standard](../docs/standards/CANON_MARKDOWN_STANDARD.md)
 
 ## Visual Reference
 

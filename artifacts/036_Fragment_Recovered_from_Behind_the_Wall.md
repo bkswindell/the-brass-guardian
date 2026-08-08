@@ -14,7 +14,7 @@ canonical_images:
 
 # Fragment Recovered from Behind the Wall
 
-> **Artifact Image Slate #36** · The Machine Behind the Wall · [Artifact standard](../CANON_MARKDOWN_STANDARD.md)
+> **Artifact Image Slate #36** · The Machine Behind the Wall · [Artifact standard](../docs/standards/CANON_MARKDOWN_STANDARD.md)
 
 ## Visual Reference
 

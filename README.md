@@ -57,7 +57,7 @@ The Markdown canon files are the primary development source. The compiled manusc
 
 The internal canon and artifact profiles contain major spoilers and future-story material. Readers seeking only the stories should begin with the compiled manuscript.
 
-Project development and canon indexing are maintained in [PROJECT_INDEX.md](PROJECT_INDEX.md). Repository authoring and cross-linking rules are documented in [CANON_MARKDOWN_STANDARD.md](CANON_MARKDOWN_STANDARD.md).
+Project development and canon indexing are maintained in [PROJECT_INDEX.md](docs/PROJECT_INDEX.md). Repository authoring and cross-linking rules are documented in [CANON_MARKDOWN_STANDARD.md](docs/standards/CANON_MARKDOWN_STANDARD.md).
 
 ## Project Status
 

@@ -17,7 +17,7 @@ visual_transcription_status: complete
 
 # The Grand Atrium Architectural Lithograph
 
-> **Artifact Image Slate #17** · [The Clockwork Gardens](../locations/The_Clockwork_Gardens.md) · [Artifact standard](../CANON_MARKDOWN_STANDARD.md)
+> **Artifact Image Slate #17** · [The Clockwork Gardens](../locations/The_Clockwork_Gardens.md) · [Artifact standard](../docs/standards/CANON_MARKDOWN_STANDARD.md)
 
 ## Visual Reference
 

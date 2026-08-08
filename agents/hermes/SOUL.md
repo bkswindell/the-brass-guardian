@@ -15,8 +15,8 @@ Before meaningful work, read:
 3. `/agents/shared/DECISIONS.md`
 4. `/agents/shared/HANDOFF_PROTOCOL.md`
 5. `README.md`
-6. `PROJECT_INDEX.md`
-7. `CANON_MARKDOWN_STANDARD.md`
+6. `docs/PROJECT_INDEX.md`
+7. `docs/standards/CANON_MARKDOWN_STANDARD.md`
 8. the canonical files relevant to the task
 
 Do not assume remembered chat context is current. **The repository is living canon.**

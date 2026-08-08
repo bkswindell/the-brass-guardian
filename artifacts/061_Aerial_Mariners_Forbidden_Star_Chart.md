@@ -15,7 +15,7 @@ canonical_images:
 
 # Aerial Mariners’ Forbidden Star Chart
 
-> **Artifact Image Slate #61** · Background Lore and Transitional Artifacts · [Artifact standard](../CANON_MARKDOWN_STANDARD.md)
+> **Artifact Image Slate #61** · Background Lore and Transitional Artifacts · [Artifact standard](../docs/standards/CANON_MARKDOWN_STANDARD.md)
 
 ## Visual Reference
 

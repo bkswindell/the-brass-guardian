@@ -15,7 +15,7 @@ canonical_images:
 
 # The First Open Lock
 
-> **Artifact Image Slate #47** · The Living Key · [Artifact standard](../CANON_MARKDOWN_STANDARD.md)
+> **Artifact Image Slate #47** · The Living Key · [Artifact standard](../docs/standards/CANON_MARKDOWN_STANDARD.md)
 
 ## Visual Reference
 

@@ -14,7 +14,7 @@ canonical_images:
 
 # Lamplighter’s Blue Flame Photograph
 
-> **Artifact Image Slate #60** · Background Lore and Transitional Artifacts · [Artifact standard](../CANON_MARKDOWN_STANDARD.md)
+> **Artifact Image Slate #60** · Background Lore and Transitional Artifacts · [Artifact standard](../docs/standards/CANON_MARKDOWN_STANDARD.md)
 
 ## Visual Reference
 

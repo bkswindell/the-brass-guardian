@@ -15,7 +15,7 @@ canonical_images:
 
 # Pulse Chamber Pressure Record
 
-> **Artifact Image Slate #46** · The Living Key · [Artifact standard](../CANON_MARKDOWN_STANDARD.md)
+> **Artifact Image Slate #46** · The Living Key · [Artifact standard](../docs/standards/CANON_MARKDOWN_STANDARD.md)
 
 ## Visual Reference
 

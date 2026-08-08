@@ -16,7 +16,7 @@ canonical_images:
 
 # The Sealed Atrium Door
 
-> **Artifact Image Slate #41** · The Door That Remembered [Amelia](../characters/Amelia_Hawthorne.md) · [Artifact standard](../CANON_MARKDOWN_STANDARD.md)
+> **Artifact Image Slate #41** · The Door That Remembered [Amelia](../characters/Amelia_Hawthorne.md) · [Artifact standard](../docs/standards/CANON_MARKDOWN_STANDARD.md)
 
 ## Visual Reference
 

@@ -14,7 +14,7 @@ canonical_images:
 
 # The Quiet Choir Vibration Transcript
 
-> **Artifact Image Slate #52** · Organizations and Secret Societies · [Artifact standard](../CANON_MARKDOWN_STANDARD.md)
+> **Artifact Image Slate #52** · Organizations and Secret Societies · [Artifact standard](../docs/standards/CANON_MARKDOWN_STANDARD.md)
 
 ## Visual Reference
 
@@ -32,7 +32,7 @@ Mechanical recording strip with decoded wave patterns.
 
 ## Related Canon
 
-- [Project Index](../PROJECT_INDEX.md)
+- [Project Index](../docs/PROJECT_INDEX.md)
 
 ## TODO
 

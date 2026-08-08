@@ -7,8 +7,8 @@ import re
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-PROJECT_INDEX = ROOT / "PROJECT_INDEX.md"
-STANDARD = ROOT / "CANON_MARKDOWN_STANDARD.md"
+PROJECT_INDEX = ROOT / "docs/docs/PROJECT_INDEX.md"
+STANDARD = ROOT / "docs/standards/docs/standards/CANON_MARKDOWN_STANDARD.md"
 KEEPER_ARC = ROOT / "story_arcs" / "The_Keeper_of_Dreams.md"
 
 PRINCESS_PATH = "story_drafts/The_Brass_Guardian_and_the_Clockwork_Princess.md"
@@ -45,7 +45,7 @@ def update_project_index() -> None:
 
     root_row = "| [story_drafts/README.md](story_drafts/README.md) | Index, canon rules, and Book One placement strategy for active prose story drafts |"
     if root_row not in text:
-        marker = "| [Story_Arc_Profile_Template.md](Story_Arc_Profile_Template.md) | Standard structure for story-arc records |"
+        marker = "| [templates/templates/Story_Arc_Profile_Template.md](templates/templates/Story_Arc_Profile_Template.md) | Standard structure for story-arc records |"
         if marker not in text:
             raise RuntimeError("Root project file marker not found")
         text = text.replace(marker, root_row + "\n" + marker, 1)

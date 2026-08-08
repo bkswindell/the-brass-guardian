@@ -7,7 +7,7 @@ This standard keeps *The Brass Guardian* repository interconnected, visually gro
 
 ## Historical-Event Records
 
-Historical events belong in `historical_events/` and use [Historical_Event_Profile_Template.md](Historical_Event_Profile_Template.md).
+Historical events belong in `historical_events/` and use [Historical_Event_Profile_Template.md](../../templates/Historical_Event_Profile_Template.md).
 
 A historical-event file owns:
 
@@ -60,7 +60,7 @@ Every canonical Markdown file should contain:
 
 ### Locations
 
-- Include a callout to the [Map of Aetherhaven](art/Map_of_Aetherhaven.png) when the location appears on the city map.
+- Include a callout to the [Map of Aetherhaven](../../art/Map_of_Aetherhaven.png) when the location appears on the city map.
 - Include at least one canonical image of the location when available.
 - Until location art exists, include a checked or unchecked TODO rather than using substitute or unused art.
 
@@ -124,8 +124,8 @@ Files in `media_reactions/` are non-canonical development evidence.
 
 Aetherhaven contains two distinct organizations whose formal names begin with **Order**:
 
-- [The Order of the Mended Hand](organizations/The_Order_of_the_Mended_Hand.md) is a public, highly visible hospitaller and medical organization. Its normal shorthand is **the Hand**.
-- [The Order of the Closed Eye](organizations/The_Order_of_the_Closed_Eye.md) is a secret containment organization. Canon prose normally uses **the Closed Eye** or its full name.
+- [The Order of the Mended Hand](../../organizations/The_Order_of_the_Mended_Hand.md) is a public, highly visible hospitaller and medical organization. Its normal shorthand is **the Hand**.
+- [The Order of the Closed Eye](../../organizations/The_Order_of_the_Closed_Eye.md) is a secret containment organization. Canon prose normally uses **the Closed Eye** or its full name.
 
 Do not use bare **the Order** as shorthand for the Mended Hand.
 

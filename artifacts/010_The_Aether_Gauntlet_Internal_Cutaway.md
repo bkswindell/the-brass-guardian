@@ -15,7 +15,7 @@ canonical_images:
 
 # The Aether Gauntlet: Internal Cutaway
 
-> **Artifact Image Slate #10** · [Amelia](../characters/Amelia_Hawthorne.md) and the Aether Gauntlet · [Artifact standard](../CANON_MARKDOWN_STANDARD.md)
+> **Artifact Image Slate #10** · [Amelia](../characters/Amelia_Hawthorne.md) and the Aether Gauntlet · [Artifact standard](../docs/standards/CANON_MARKDOWN_STANDARD.md)
 
 ## Visual Reference
 

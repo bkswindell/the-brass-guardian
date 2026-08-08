@@ -15,7 +15,7 @@ canonical_images:
 
 # The Six-Socket Wall Rubbing
 
-> **Artifact Image Slate #34** · The Machine Behind the Wall · [Artifact standard](../CANON_MARKDOWN_STANDARD.md)
+> **Artifact Image Slate #34** · The Machine Behind the Wall · [Artifact standard](../docs/standards/CANON_MARKDOWN_STANDARD.md)
 
 ## Visual Reference
 

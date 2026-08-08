@@ -16,7 +16,7 @@ visual_transcription_status: complete
 
 # The Six-Key Sigil
 
-> **Artifact Image Slate #3** · Foundational Canon Images · [Artifact standard](../CANON_MARKDOWN_STANDARD.md)
+> **Artifact Image Slate #3** · Foundational Canon Images · [Artifact standard](../docs/standards/CANON_MARKDOWN_STANDARD.md)
 
 ## Visual Reference
 

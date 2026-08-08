@@ -16,7 +16,7 @@ canonical_images:
 
 # The Heart Engine Distribution Diagram
 
-> **Artifact Image Slate #45** · The Living Key · [Artifact standard](../CANON_MARKDOWN_STANDARD.md)
+> **Artifact Image Slate #45** · The Living Key · [Artifact standard](../docs/standards/CANON_MARKDOWN_STANDARD.md)
 
 ## Visual Reference
 

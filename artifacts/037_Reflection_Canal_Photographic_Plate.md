@@ -14,7 +14,7 @@ canonical_images:
 
 # Reflection Canal Photographic Plate
 
-> **Artifact Image Slate #37** · The Girl in the Reflection · [Artifact standard](../CANON_MARKDOWN_STANDARD.md)
+> **Artifact Image Slate #37** · The Girl in the Reflection · [Artifact standard](../docs/standards/CANON_MARKDOWN_STANDARD.md)
 
 ## Visual Reference
 

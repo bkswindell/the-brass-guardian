@@ -16,7 +16,7 @@ canonical_images:
 
 # The Mechanical Firefly Specimen Sheet
 
-> **Artifact Image Slate #16** · [The Clockwork Gardens](../locations/The_Clockwork_Gardens.md) · [Artifact standard](../CANON_MARKDOWN_STANDARD.md)
+> **Artifact Image Slate #16** · [The Clockwork Gardens](../locations/The_Clockwork_Gardens.md) · [Artifact standard](../docs/standards/CANON_MARKDOWN_STANDARD.md)
 
 ## Visual Reference
 

@@ -15,7 +15,7 @@ canonical_images:
 
 # The Living Key Emblem
 
-> **Artifact Image Slate #5** · Foundational Canon Images · [Artifact standard](../CANON_MARKDOWN_STANDARD.md)
+> **Artifact Image Slate #5** · Foundational Canon Images · [Artifact standard](../docs/standards/CANON_MARKDOWN_STANDARD.md)
 
 ## Visual Reference
 

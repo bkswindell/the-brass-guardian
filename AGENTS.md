@@ -46,7 +46,7 @@ Before making changes:
    - GPT / OpenAI: `/agents/gpt/`
    - Claude: `/agents/claude/`
    - Gemini: `/agents/gemini/`
-5. Read the repository standards relevant to the task, including `CANON_MARKDOWN_STANDARD.md` and `PROJECT_INDEX.md` when working with lore or canon.
+5. Read the repository standards relevant to the task, including `docs/standards/CANON_MARKDOWN_STANDARD.md` and `docs/PROJECT_INDEX.md` when working with lore or canon.
 6. Inspect the current implementation and relevant source files before proposing or making changes.
 
 Do not rely on remembered conversation history when the repository contains a newer decision.
