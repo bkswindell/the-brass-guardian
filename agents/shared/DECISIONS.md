@@ -36,6 +36,26 @@ This principle overrides any agent-specific instruction or workflow that would o
 
 ---
 
+## 2026-08-08 — Creative Proposal Staging Area
+
+**Status:** APPROVED
+
+The repository will maintain `/agents/proposals/` as a durable staging area for useful **unapproved creative ideas** shared between AI collaborators and the author.
+
+The purpose of this area is to preserve possible story plots, characters, locations, organizations, artifacts, illustration concepts, mystery interpretations, terminology, motifs, and other creative possibilities without making them appear canonical.
+
+Material stored under `/agents/proposals/` is not canon unless the author later explicitly approves it and the approved scope is promoted into the appropriate canonical or project files.
+
+The active proposal index is:
+
+`/agents/proposals/ACTIVE_CREATIVE_PROPOSALS.md`
+
+Rejected or parked proposals may remain in the proposal area as development history, provided their status is unmistakable.
+
+Agents must not move proposal material into canon merely because it appears useful, internally consistent, or has been discussed repeatedly.
+
+---
+
 ## 2026-08-08 — Shared AI Memory Architecture
 
 **Status:** APPROVED
