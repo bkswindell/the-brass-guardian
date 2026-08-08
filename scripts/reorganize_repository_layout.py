@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 """One-time migration to clean the repository root and centralize templates/docs.
 
-This script is intentionally self-removing when run by its companion GitHub Action.
-It moves project templates into /templates, development/reference documents into /docs,
+Moves project templates into /templates, development/reference documents into /docs,
 and rewrites Markdown links plus hard-coded path references to the moved files.
+The companion workflow removes this script and itself after a successful migration.
 """
 
 from __future__ import annotations
@@ -16,7 +16,6 @@ from pathlib import Path, PurePosixPath
 
 ROOT = Path(__file__).resolve().parents[1]
 
-# Conventional Markdown files that legitimately belong at repository root.
 ROOT_MD_ALLOWLIST = {
     "README.md",
     "AGENTS.md",
@@ -30,7 +29,6 @@ ROOT_MD_ALLOWLIST = {
 EXCLUDED_TEMPLATE_ROOTS = {".git", ".github", "agents", "unused", "templates"}
 TEXT_SUFFIXES = {".md", ".py", ".yml", ".yaml", ".json", ".toml", ".txt", ".ps1", ".sh"}
 
-# Explicit destinations for known root-level project documents.
 EXPLICIT_MOVES = {
     "PROJECT_INDEX.md": "docs/PROJECT_INDEX.md",
     "CANON_MARKDOWN_STANDARD.md": "docs/standards/CANON_MARKDOWN_STANDARD.md",
@@ -53,8 +51,7 @@ def is_project_template(path: Path) -> bool:
         return False
     if rp.parts and rp.parts[0] in EXCLUDED_TEMPLATE_ROOTS:
         return False
-    name = path.name.lower()
-    return "template" in name
+    return "template" in path.name.lower()
 
 
 def choose_root_doc_destination(name: str) -> str:
@@ -73,7 +70,7 @@ def choose_root_doc_destination(name: str) -> str:
 def build_move_map() -> dict[str, str]:
     moves: dict[str, str] = {}
 
-    # Gather all creative/project Markdown templates, regardless of their current project folder.
+    # Centralize all project Markdown templates outside excluded system/agent areas.
     for path in ROOT.rglob("*.md"):
         if is_project_template(path):
             old = rel(path)
@@ -81,23 +78,23 @@ def build_move_map() -> dict[str, str]:
             if old != new:
                 moves[old] = new
 
-    # Clean remaining root Markdown except files that conventionally need to remain there.
+    # Clean the remaining project Markdown from repository root.
     for path in ROOT.glob("*.md"):
         if path.name in ROOT_MD_ALLOWLIST:
             continue
-        old = path.name
-        moves.setdefault(old, choose_root_doc_destination(path.name))
+        moves.setdefault(path.name, choose_root_doc_destination(path.name))
 
     return moves
 
 
 def normalize_repo_path(parent: PurePosixPath, target: str) -> str:
     joined = posixpath.normpath(posixpath.join(parent.as_posix(), target))
-    return joined.lstrip("./") if joined != "." else ""
+    if joined.startswith("./"):
+        joined = joined[2:]
+    return joined
 
 
 def split_suffix(target: str) -> tuple[str, str]:
-    # Keep query/fragment suffixes untouched.
     cut = len(target)
     for marker in ("?", "#"):
         i = target.find(marker)
@@ -106,12 +103,7 @@ def split_suffix(target: str) -> tuple[str, str]:
     return target[:cut], target[cut:]
 
 
-def rewrite_local_target(
-    target: str,
-    original_file: str,
-    current_file: str,
-    moves: dict[str, str],
-) -> str:
+def rewrite_local_target(target: str, original_file: str, current_file: str, moves: dict[str, str]) -> str:
     if not target or target.startswith(("http://", "https://", "mailto:", "tel:", "data:", "#")):
         return target
 
@@ -125,9 +117,6 @@ def rewrite_local_target(
     new_parent = PurePosixPath(current_file).parent
     old_repo_target = normalize_repo_path(old_parent, path_part)
     new_repo_target = moves.get(old_repo_target, old_repo_target)
-
-    if not new_repo_target:
-        return target
 
     start = new_parent.as_posix() if new_parent.as_posix() != "." else "."
     new_relative = posixpath.relpath(new_repo_target, start=start)
@@ -160,8 +149,7 @@ def rewrite_markdown(text: str, original_file: str, current_file: str, moves: di
         out_lines.append(body + ending)
     text = "".join(out_lines)
 
-    # Repository instructions frequently put root-relative file paths in inline code spans.
-    # Update exact moved paths there without touching already-rewritten Markdown link targets.
+    # Agent/project instructions often use repository-root file paths in inline code.
     def code_sub(match: re.Match[str]) -> str:
         inner = match.group(1)
         if inner in moves:
@@ -174,8 +162,7 @@ def rewrite_markdown(text: str, original_file: str, current_file: str, moves: di
 
 
 def rewrite_non_markdown(text: str, moves: dict[str, str]) -> str:
-    # Source code and workflows use repository-root paths. Replace exact old path tokens,
-    # but do not duplicate a path that has already been rewritten.
+    # Source code/workflows generally use repository-root paths.
     for old, new in sorted(moves.items(), key=lambda kv: len(kv[0]), reverse=True):
         escaped = re.escape(old)
         text = re.sub(rf"(?<![/A-Za-z0-9_.-]){escaped}(?![A-Za-z0-9_.-])", new, text)
@@ -203,7 +190,7 @@ def write_navigation_files() -> None:
     templates_readme = ROOT / "templates/README.md"
     templates_readme.parent.mkdir(parents=True, exist_ok=True)
     templates_readme.write_text(
-        """# Canon and Development Templates\n\n"
+        "# Canon and Development Templates\n\n"
         "This directory contains the reusable Markdown templates for *The Brass Guardian / Aetherhaven* project.\n\n"
         "Templates are structural starting points, not canonical content. Creating or filling a template does not establish canon; creative changes remain subject to the author's approval rules in [`../agents/shared/AUTHORSHIP_AND_ARTISTIC_CONTROL.md`](../agents/shared/AUTHORSHIP_AND_ARTISTIC_CONTROL.md).\n\n"
         "## Available Templates\n\n"
@@ -213,15 +200,14 @@ def write_navigation_files() -> None:
         "- [Artifact Profile](Artifact_Profile_Template.md)\n"
         "- [Story Arc Profile](Story_Arc_Profile_Template.md)\n"
         "- [Historical Event Profile](Historical_Event_Profile_Template.md)\n\n"
-        "Use the repository's [Canon Markdown Standard](../docs/standards/CANON_MARKDOWN_STANDARD.md) when creating or revising canonical Markdown.\n"
-        """,
+        "Use the repository's [Canon Markdown Standard](../docs/standards/CANON_MARKDOWN_STANDARD.md) when creating or revising canonical Markdown.\n",
         encoding="utf-8",
     )
 
     docs_readme = ROOT / "docs/README.md"
     docs_readme.parent.mkdir(parents=True, exist_ok=True)
     docs_readme.write_text(
-        """# Project Documentation\n\n"
+        "# Project Documentation\n\n"
         "This directory contains project-wide development indexes, standards, and working documentation that do not need to live at repository root.\n\n"
         "## Project Index\n\n"
         "- [Project Index](PROJECT_INDEX.md) — internal canon inventory, audit notes, and repository map.\n\n"
@@ -231,19 +217,17 @@ def write_navigation_files() -> None:
         "## Development\n\n"
         "- [Canon Development TODO](development/CANON_DEVELOPMENT_TODO.md)\n"
         "- [Placeholder Profile Index](development/PLACEHOLDER_PROFILE_INDEX.md)\n\n"
-        "Reusable profile structures live in [`../templates/`](../templates/README.md). AI collaboration and durable memory live in [`../agents/`](../agents/README.md).\n"
-        """,
+        "Reusable profile structures live in [`../templates/`](../templates/README.md). AI collaboration and durable memory live in [`../agents/`](../agents/README.md).\n",
         encoding="utf-8",
     )
 
 
 def update_project_index_heading() -> None:
     path = ROOT / "docs/PROJECT_INDEX.md"
-    if not path.exists():
-        return
-    text = path.read_text(encoding="utf-8")
-    text = text.replace("## Root Project Files", "## Core Project and Development Files")
-    path.write_text(text, encoding="utf-8")
+    if path.exists():
+        text = path.read_text(encoding="utf-8")
+        text = text.replace("## Root Project Files", "## Core Project and Development Files")
+        path.write_text(text, encoding="utf-8")
 
 
 def rewrite_references(moves: dict[str, str]) -> None:
@@ -282,8 +266,6 @@ def check_root() -> None:
 
 
 def report_old_paths(moves: dict[str, str]) -> None:
-    # Warn on stale explicit link/code references to old root paths. Do not fail on prose
-    # that merely names a filename, because historical notes may intentionally mention it.
     stale: list[str] = []
     for path in ROOT.rglob("*"):
         if not path.is_file() or path.suffix.lower() not in TEXT_SUFFIXES:
