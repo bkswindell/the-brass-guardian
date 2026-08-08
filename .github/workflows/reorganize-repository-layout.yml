@@ -1,4 +1,5 @@
 name: Reorganize Repository Layout
+# One-time maintenance workflow; self-removes after a successful migration.
 
 on:
   push:
