@@ -29,6 +29,20 @@ The series is written to be approachable for readers around age eight and older 
 
 Each story is designed to stand on its own while contributing to a larger world and continuing mysteries. The adventures emphasize curiosity, empathy, courage, accountability, family, responsible invention, and the belief that understanding something does not grant ownership over it.
 
+## Creative Process and Authorship
+
+*The Brass Guardian* is an author-directed creative project developed with substantial AI assistance.
+
+AI tools may be used for brainstorming, editorial guidance, continuity analysis, story and plot exploration, world-building ideas, illustration concepts, generative artwork, drafting, organization, and technical development. These tools are collaborators in the creative process, not autonomous authorities over the work.
+
+**The human author retains final artistic and canonical control at all times.**
+
+AI-generated prose, artwork, concepts, characters, plots, lore, interpretations, and designs are candidate material until the author reviews and approves them. Brainstorming does not establish canon, and no material change to the story, characters, world-building, visual canon, or narrative direction is considered accepted merely because an AI generated it.
+
+The author may accept, revise, combine, or reject any AI-generated material. Generative AI is used to serve the author's story and creative direction, not to replace them.
+
+The operating rules for AI collaborators are documented in [`AGENTS.md`](AGENTS.md) and [`agents/shared/AUTHORSHIP_AND_ARTISTIC_CONTROL.md`](agents/shared/AUTHORSHIP_AND_ARTISTIC_CONTROL.md).
+
 ## Repository Contents
 
 This repository contains the active working materials for the series:
