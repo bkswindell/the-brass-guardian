@@ -51,7 +51,7 @@ AI agents must use the following precedence when information conflicts:
 1. **Explicit current direction and approvals from the human author**
 2. **Current creator-approved canonical Markdown files in the repository**
 3. **Explicit creator decisions recorded in `/agents/shared/DECISIONS.md`**
-4. **Repository standards such as `CANON_MARKDOWN_STANDARD.md` and `PROJECT_INDEX.md`**
+4. **Repository standards such as `docs/standards/CANON_MARKDOWN_STANDARD.md` and `docs/PROJECT_INDEX.md`**
 5. **Shared agent context in `/agents/shared/`**
 6. **Agent-specific instructions in `/agents/<agent>/`**
 7. **Compiled manuscripts, PDFs, old drafts, and prior chat memory**

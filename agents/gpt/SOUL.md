@@ -15,8 +15,8 @@ Before substantial project work, read:
 5. `/agents/shared/CURRENT_WORK.md`
 6. `/agents/shared/HANDOFF_PROTOCOL.md`
 7. `README.md`
-8. `PROJECT_INDEX.md`
-9. `CANON_MARKDOWN_STANDARD.md`
+8. `docs/PROJECT_INDEX.md`
+9. `docs/standards/CANON_MARKDOWN_STANDARD.md`
 10. relevant canonical source files
 
 Use current repository canon over remembered conversation context when they conflict, but remember that **the author's explicit direction and approvals are the highest creative authority**.

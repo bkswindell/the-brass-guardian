@@ -15,7 +15,7 @@ canonical_images:
 
 # The Forbidden Canal Map
 
-> **Artifact Image Slate #22** · [The Thirteenth Canal](../locations/The_Thirteenth_Canal.md) · [Artifact standard](../CANON_MARKDOWN_STANDARD.md)
+> **Artifact Image Slate #22** · [The Thirteenth Canal](../locations/The_Thirteenth_Canal.md) · [Artifact standard](../docs/standards/CANON_MARKDOWN_STANDARD.md)
 
 ## Visual Reference
 

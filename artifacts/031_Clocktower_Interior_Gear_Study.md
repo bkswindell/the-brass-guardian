@@ -14,7 +14,7 @@ canonical_images:
 
 # Clocktower Interior Gear Study
 
-> **Artifact Image Slate #31** · The Bell Beneath the Clocktower · [Artifact standard](../CANON_MARKDOWN_STANDARD.md)
+> **Artifact Image Slate #31** · The Bell Beneath the Clocktower · [Artifact standard](../docs/standards/CANON_MARKDOWN_STANDARD.md)
 
 ## Visual Reference
 

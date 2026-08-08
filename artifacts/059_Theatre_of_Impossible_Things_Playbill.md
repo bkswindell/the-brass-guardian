@@ -14,7 +14,7 @@ canonical_images:
 
 # Theatre of Impossible Things Playbill
 
-> **Artifact Image Slate #59** · Background Lore and Transitional Artifacts · [Artifact standard](../CANON_MARKDOWN_STANDARD.md)
+> **Artifact Image Slate #59** · Background Lore and Transitional Artifacts · [Artifact standard](../docs/standards/CANON_MARKDOWN_STANDARD.md)
 
 ## Visual Reference
 

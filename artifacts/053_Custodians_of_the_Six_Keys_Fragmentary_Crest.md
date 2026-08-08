@@ -14,7 +14,7 @@ canonical_images:
 
 # Custodians of the Six Keys Fragmentary Crest
 
-> **Artifact Image Slate #53** · Organizations and Secret Societies · [Artifact standard](../CANON_MARKDOWN_STANDARD.md)
+> **Artifact Image Slate #53** · Organizations and Secret Societies · [Artifact standard](../docs/standards/CANON_MARKDOWN_STANDARD.md)
 
 ## Visual Reference
 

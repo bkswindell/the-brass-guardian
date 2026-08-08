@@ -15,7 +15,7 @@ visual_transcription_status: not-applicable-working-placeholder
 
 # Canonical Aetherhaven Archive Label
 
-> **Artifact Image Slate #6** · Foundational Canon Images · [Artifact standard](../CANON_MARKDOWN_STANDARD.md)
+> **Artifact Image Slate #6** · Foundational Canon Images · [Artifact standard](../docs/standards/CANON_MARKDOWN_STANDARD.md)
 
 ## Visual Reference
 
@@ -37,8 +37,8 @@ This artifact concept provides the recurring graphic framework for [Aetherhaven]
 
 ## Related Canon
 
-- [Project Index](../PROJECT_INDEX.md)
-- [Canon Markdown and Visual Integration Standard](../CANON_MARKDOWN_STANDARD.md)
+- [Project Index](../docs/PROJECT_INDEX.md)
+- [Canon Markdown and Visual Integration Standard](../docs/standards/CANON_MARKDOWN_STANDARD.md)
 
 ## Continuity Notes
 

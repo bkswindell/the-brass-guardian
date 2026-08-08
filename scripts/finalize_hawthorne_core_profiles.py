@@ -103,7 +103,7 @@ The eventual return should show that the Jungle has not remained a static ruin w
 
 
 def update_placeholder_index() -> None:
-    path = "PLACEHOLDER_PROFILE_INDEX.md"
+    path = "docs/development/docs/development/PLACEHOLDER_PROFILE_INDEX.md"
     lines = []
     for line in read(path).splitlines():
         if "characters/Professor_Elias_Hawthorne.md" in line:
@@ -127,7 +127,7 @@ def update_historical_index() -> None:
 
 
 def update_project_index() -> None:
-    path = "PROJECT_INDEX.md"
+    path = "docs/docs/PROJECT_INDEX.md"
     text = read(path)
 
     text = re.sub(

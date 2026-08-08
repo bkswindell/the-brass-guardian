@@ -14,7 +14,7 @@ canonical_images:
 
 # The Last Lantern Promise Ledger
 
-> **Artifact Image Slate #58** · Background Lore and Transitional Artifacts · [Artifact standard](../CANON_MARKDOWN_STANDARD.md)
+> **Artifact Image Slate #58** · Background Lore and Transitional Artifacts · [Artifact standard](../docs/standards/CANON_MARKDOWN_STANDARD.md)
 
 ## Visual Reference
 

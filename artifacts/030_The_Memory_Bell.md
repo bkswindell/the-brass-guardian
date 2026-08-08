@@ -15,7 +15,7 @@ canonical_images:
 
 # The Memory Bell
 
-> **Artifact Image Slate #30** · The Bell Beneath the Clocktower · [Artifact standard](../CANON_MARKDOWN_STANDARD.md)
+> **Artifact Image Slate #30** · The Bell Beneath the Clocktower · [Artifact standard](../docs/standards/CANON_MARKDOWN_STANDARD.md)
 
 ## Visual Reference
 

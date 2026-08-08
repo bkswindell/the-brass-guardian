@@ -15,7 +15,7 @@ from pathlib import Path
 from typing import Iterable
 
 ROOT = Path(__file__).resolve().parents[1]
-OUTPUT = ROOT / "CANON_DEVELOPMENT_TODO.md"
+OUTPUT = ROOT / "docs/development/docs/development/CANON_DEVELOPMENT_TODO.md"
 TODAY = "2026-08-02"
 
 PROFILE_DIRS = {
@@ -501,14 +501,14 @@ def render_table(tasks: list[Task]) -> list[str]:
 
 def global_tasks() -> list[Task]:
     return [
-        Task("SYS-001", "P0", "READY", "Canon authority and contradiction policy", "PROJECT_INDEX.md", "System", "For each expanded placeholder, explicitly record which PDF/DOCX details remain canonical, which are superseded, and which stay unresolved; never silently reconcile conflicts.", "Complete during every placeholder conversion."),
-        Task("SYS-002", "P1", "READY", "Canonical visual integration standard", "CANON_MARKDOWN_STANDARD.md", "System", "Require every character, organization, location, story arc, and artifact record to embed its active canonical visuals with descriptive alt text and links to the authoritative image or artifact record.", "Apply during every visual task."),
-        Task("SYS-003", "P2", "READY", "Location map-callout migration", "Map_Location_Reference_Style_Guide.md", "System", "Add a clear map callout to every location profile, including hidden or restricted-location handling where a public pin would be inappropriate.", "Complete alongside location visual tasks."),
+        Task("SYS-001", "P0", "READY", "Canon authority and contradiction policy", "docs/docs/PROJECT_INDEX.md", "System", "For each expanded placeholder, explicitly record which PDF/DOCX details remain canonical, which are superseded, and which stay unresolved; never silently reconcile conflicts.", "Complete during every placeholder conversion."),
+        Task("SYS-002", "P1", "READY", "Canonical visual integration standard", "docs/standards/docs/standards/CANON_MARKDOWN_STANDARD.md", "System", "Require every character, organization, location, story arc, and artifact record to embed its active canonical visuals with descriptive alt text and links to the authoritative image or artifact record.", "Apply during every visual task."),
+        Task("SYS-003", "P2", "READY", "Location map-callout migration", "docs/standards/docs/standards/Map_Location_Reference_Style_Guide.md", "System", "Add a clear map callout to every location profile, including hidden or restricted-location handling where a public pin would be inappropriate.", "Complete alongside location visual tasks."),
         Task("SYS-004", "P5", "READY", "Artifact backlinks", "artifacts/README.md", "System", "Add backlinks from every directly related character, organization, location, and story-arc profile to its artifact records; avoid duplicating artifact descriptions in those profiles.", "Artifact and profile records must both exist."),
-        Task("SYS-005", "P6", "READY", "Accessibility and AI-ingestion review", "CANON_MARKDOWN_STANDARD.md", "System", "Review headings, YAML IDs, alt text, link labels, canon-status fields, TODO checkboxes, and visual descriptions for precise AI-agent ingestion and human accessibility.", "Run after each priority wave."),
-        Task("SYS-006", "P6", "READY", "Broken-link and duplicate-canon audit", "PROJECT_INDEX.md", "System", "Validate all relative Markdown links, ensure one authoritative owner for each canon fact, remove accidental duplicated summaries, and retain stable file paths when placeholders become completed profiles.", "Run after each priority wave."),
-        Task("SYS-007", "P6", "READY", "Unused-art exclusion check", "CANON_MARKDOWN_STANDARD.md", "System", "Confirm no Markdown file, prompt, image reference, or generated asset uses material from `unused/` unless the project owner explicitly restores a named item.", "Continuous requirement."),
-        Task("SYS-008", "P6", "READY", "Project index maintenance", "PROJECT_INDEX.md", "System", "Update completed/placeholder/image counts, remove finished work from the active queue, and keep this TODO file synchronized after every merged canon or art batch.", "Continuous requirement."),
+        Task("SYS-005", "P6", "READY", "Accessibility and AI-ingestion review", "docs/standards/docs/standards/CANON_MARKDOWN_STANDARD.md", "System", "Review headings, YAML IDs, alt text, link labels, canon-status fields, TODO checkboxes, and visual descriptions for precise AI-agent ingestion and human accessibility.", "Run after each priority wave."),
+        Task("SYS-006", "P6", "READY", "Broken-link and duplicate-canon audit", "docs/docs/PROJECT_INDEX.md", "System", "Validate all relative Markdown links, ensure one authoritative owner for each canon fact, remove accidental duplicated summaries, and retain stable file paths when placeholders become completed profiles.", "Run after each priority wave."),
+        Task("SYS-007", "P6", "READY", "Unused-art exclusion check", "docs/standards/docs/standards/CANON_MARKDOWN_STANDARD.md", "System", "Confirm no Markdown file, prompt, image reference, or generated asset uses material from `unused/` unless the project owner explicitly restores a named item.", "Continuous requirement."),
+        Task("SYS-008", "P6", "READY", "Project index maintenance", "docs/docs/PROJECT_INDEX.md", "System", "Update completed/placeholder/image counts, remove finished work from the active queue, and keep this TODO file synchronized after every merged canon or art batch.", "Continuous requirement."),
     ]
 
 
@@ -572,7 +572,7 @@ def main() -> int:
         "1. Update the linked Markdown file and its embedded TODO checklist.",
         "2. Change the task status here to `COMPLETE` or remove it during the next generated audit.",
         "3. Preserve the file path so all inbound links remain valid.",
-        "4. Update `PROJECT_INDEX.md` counts and related backlinks.",
+        "4. Update `docs/docs/PROJECT_INDEX.md` counts and related backlinks.",
         "",
         "## Priority Index",
         "",

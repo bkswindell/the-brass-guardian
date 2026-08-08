@@ -14,7 +14,7 @@ canonical_images:
 
 # The Obsidian Covenant Insignia
 
-> **Artifact Image Slate #51** · Organizations and Secret Societies · [Artifact standard](../CANON_MARKDOWN_STANDARD.md)
+> **Artifact Image Slate #51** · Organizations and Secret Societies · [Artifact standard](../docs/standards/CANON_MARKDOWN_STANDARD.md)
 
 ## Visual Reference
 
@@ -32,7 +32,7 @@ Polished black metal badge that reflects no clear face.
 
 ## Related Canon
 
-- [Project Index](../PROJECT_INDEX.md)
+- [Project Index](../docs/PROJECT_INDEX.md)
 
 ## TODO
 

@@ -2,7 +2,7 @@
 
 ## Purpose
 
-The official map-reference summaries are the public-facing canonical descriptions attached to [Aetherhaven](locations/Aetherhaven.md)'s numbered and lettered map locations.
+The official map-reference summaries are the public-facing canonical descriptions attached to [Aetherhaven](../../locations/Aetherhaven.md)'s numbered and lettered map locations.
 
 They are not complete story-guide profiles.
 
@@ -64,7 +64,7 @@ Each summary should generally include:
 
 ### Example Tone
 
-> [The Entertainment District](locations/The_Entertainment_District.md) glows long after the rest of [Aetherhaven](locations/Aetherhaven.md) settles for the evening. Its theaters, music halls, restaurants, mechanical carnivals, and illusion houses draw visitors from every district, while colored aether lamps make its rooftops shimmer across the city. Its most celebrated venue is [the Theatre of Impossible Things](locations/The_Theatre_of_Impossible_Things.md), where audiences occasionally recognize a scene they have not lived through yet. The actors insist it is only excellent writing.
+> [The Entertainment District](../../locations/The_Entertainment_District.md) glows long after the rest of [Aetherhaven](../../locations/Aetherhaven.md) settles for the evening. Its theaters, music halls, restaurants, mechanical carnivals, and illusion houses draw visitors from every district, while colored aether lamps make its rooftops shimmer across the city. Its most celebrated venue is [the Theatre of Impossible Things](../../locations/The_Theatre_of_Impossible_Things.md), where audiences occasionally recognize a scene they have not lived through yet. The actors insist it is only excellent writing.
 
 ## Restricted Locations A–F
 
@@ -105,7 +105,7 @@ Each summary should generally include:
 
 ### Example Tone
 
-> **Restricted Area — Entry Prohibited.** [The Cauldron](locations/The_Cauldron.md) lies in a smoke-filled industrial basin beyond the Ash Line, where furnace towers, salvage markets, slag canals, and crowded workshops operate under laws other than [the High Council](organizations/The_High_Council_of_Aetherhaven.md)'s. Ordinary citizens are warned not to cross the Cinder Gates, and [Brass Watch](organizations/The_Brass_Watch.md) patrols enter only under exceptional circumstances. [Aetherhaven](locations/Aetherhaven.md) officially condemns the district—though many of the city's rarest components still arrive from somewhere beyond those gates.
+> **Restricted Area — Entry Prohibited.** [The Cauldron](../../locations/The_Cauldron.md) lies in a smoke-filled industrial basin beyond the Ash Line, where furnace towers, salvage markets, slag canals, and crowded workshops operate under laws other than [the High Council](../../organizations/The_High_Council_of_Aetherhaven.md)'s. Ordinary citizens are warned not to cross the Cinder Gates, and [Brass Watch](../../organizations/The_Brass_Watch.md) patrols enter only under exceptional circumstances. [Aetherhaven](../../locations/Aetherhaven.md) officially condemns the district—though many of the city's rarest components still arrive from somewhere beyond those gates.
 
 ## Separation of Public and Restricted Canon
 
