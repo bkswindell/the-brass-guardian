@@ -10,9 +10,9 @@ on:
       - scripts/run_cached_linker.py
       - scripts/update_project_index_for_placeholders.py
       - .github/workflows/link-markdown-references.yml
-      - Location_Profile_Template.md
-      - Character_Profile_Template.md
-      - Organization_Profile_Template.md
+      - templates/Location_Profile_Template.md
+      - templates/Character_Profile_Template.md
+      - templates/Organization_Profile_Template.md
 
 permissions:
   contents: write
