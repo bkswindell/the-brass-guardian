@@ -350,7 +350,7 @@ def write_profile(profile: Profile, kind: str, index: int) -> bool:
 
 
 def write_index() -> None:
-    target = ROOT / "docs/development/docs/development/PLACEHOLDER_PROFILE_INDEX.md"
+    target = ROOT / "docs/development/PLACEHOLDER_PROFILE_INDEX.md"
     sections = [
         ("Character Placeholders", CHARACTERS),
         ("Organization Placeholders", ORGANIZATIONS),

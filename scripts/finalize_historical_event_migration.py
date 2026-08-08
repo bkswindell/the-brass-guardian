@@ -14,7 +14,7 @@ def update_orin() -> None:
 
 
 def update_placeholder_index() -> None:
-    path = ROOT / "docs/development/docs/development/PLACEHOLDER_PROFILE_INDEX.md"
+    path = ROOT / "docs/development/PLACEHOLDER_PROFILE_INDEX.md"
     text = path.read_text(encoding="utf-8")
     lines = [
         line for line in text.splitlines()
@@ -25,7 +25,7 @@ def update_placeholder_index() -> None:
 
 
 def update_project_index() -> None:
-    path = ROOT / "docs/docs/PROJECT_INDEX.md"
+    path = ROOT / "docs/PROJECT_INDEX.md"
     text = path.read_text(encoding="utf-8")
     text = text.replace(
         "- **9** completed canonical character profiles and **19** source-grounded character placeholders",
@@ -79,7 +79,7 @@ def update_readme() -> None:
 
 
 def update_standard() -> None:
-    path = ROOT / "docs/standards/docs/standards/CANON_MARKDOWN_STANDARD.md"
+    path = ROOT / "docs/standards/CANON_MARKDOWN_STANDARD.md"
     text = path.read_text(encoding="utf-8")
     text = text.replace(
         "another character, location, organization, artifact, or story arc",

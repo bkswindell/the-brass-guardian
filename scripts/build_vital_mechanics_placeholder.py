@@ -1003,7 +1003,7 @@ Whether an Order medic accompanied the expedition or became involved only after 
 
 def update_indexes() -> None:
     # Placeholder index
-    path = "docs/development/docs/development/PLACEHOLDER_PROFILE_INDEX.md"
+    path = "docs/development/PLACEHOLDER_PROFILE_INDEX.md"
     text = read(path)
     note = "\nSome entries are owner-directed canonical placeholders created from explicit canon decisions rather than compiled-source extraction.\n"
     marker = "A placeholder does not resolve contradictions, assign unknown identities, or supersede a completed canonical profile.\n"
@@ -1025,7 +1025,7 @@ def update_indexes() -> None:
     save(path, text)
 
     # Project index snapshot and placeholder summary
-    path = "docs/docs/PROJECT_INDEX.md"
+    path = "docs/PROJECT_INDEX.md"
     text = read(path)
     text = text.replace(
         "- **12** completed canonical organization profiles and **23** source-grounded organization placeholders",

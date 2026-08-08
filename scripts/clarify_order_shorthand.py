@@ -17,7 +17,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 MENDED = ROOT / "organizations" / "The_Order_of_the_Mended_Hand.md"
 CLOSED = ROOT / "organizations" / "The_Order_of_the_Closed_Eye.md"
-STANDARD = ROOT / "docs/standards/docs/standards/CANON_MARKDOWN_STANDARD.md"
+STANDARD = ROOT / "docs/standards/CANON_MARKDOWN_STANDARD.md"
 
 
 def save(path: Path, text: str) -> None:

@@ -1187,7 +1187,7 @@ Whether they ever spoke privately after the Standoff remains unresolved.
 
 
 def build_events() -> None:
-    write("templates/templates/Historical_Event_Profile_Template.md", historical_template())
+    write("templates/Historical_Event_Profile_Template.md", historical_template())
     write("historical_events/README.md", historical_readme())
     write("historical_events/The_Gearbreaker_Standoff.md", gearbreaker_standoff())
 
@@ -1411,13 +1411,13 @@ def patch_artifact_history_links() -> None:
 
 
 def patch_standards_and_indexes() -> None:
-    standard = ROOT / "docs/standards/docs/standards/CANON_MARKDOWN_STANDARD.md"
+    standard = ROOT / "docs/standards/CANON_MARKDOWN_STANDARD.md"
     if standard.exists():
         text = standard.read_text(encoding="utf-8")
         section = """
 ## Historical-Event Records
 
-Historical events belong in `historical_events/` and use [templates/templates/Historical_Event_Profile_Template.md](templates/templates/Historical_Event_Profile_Template.md).
+Historical events belong in `historical_events/` and use [templates/Historical_Event_Profile_Template.md](templates/Historical_Event_Profile_Template.md).
 
 A historical-event file owns:
 
@@ -1454,12 +1454,12 @@ Artifacts should link to relevant historical events through a **Related Historic
                 text = text.rstrip() + "\n\n" + section
             standard.write_text(text, encoding="utf-8")
 
-    project = ROOT / "docs/docs/PROJECT_INDEX.md"
+    project = ROOT / "docs/PROJECT_INDEX.md"
     if project.exists():
         text = project.read_text(encoding="utf-8")
-        if "templates/templates/Historical_Event_Profile_Template.md" not in text:
-            marker = "| [templates/templates/Story_Arc_Profile_Template.md](templates/templates/Story_Arc_Profile_Template.md) | Standard structure for story-arc records |\n"
-            text = text.replace(marker, marker + "| [templates/templates/Historical_Event_Profile_Template.md](templates/templates/Historical_Event_Profile_Template.md) | Standard structure for objective in-world historical-event records |\n")
+        if "templates/Historical_Event_Profile_Template.md" not in text:
+            marker = "| [templates/Story_Arc_Profile_Template.md](templates/Story_Arc_Profile_Template.md) | Standard structure for story-arc records |\n"
+            text = text.replace(marker, marker + "| [templates/Historical_Event_Profile_Template.md](templates/Historical_Event_Profile_Template.md) | Standard structure for objective in-world historical-event records |\n")
         section = """
 ## Historical Events
 
