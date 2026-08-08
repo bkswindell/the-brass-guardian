@@ -1,5 +1,5 @@
 name: Reorganize Repository Layout
-# One-time maintenance workflow; self-removes after a successful migration.
+# One-time maintenance workflow; removed manually after the migration merges.
 
 on:
   pull_request:
@@ -35,8 +35,11 @@ jobs:
       - name: Reorganize repository
         run: python scripts/reorganize_repository_layout.py
 
-      - name: Remove migration trigger
-        run: rm -f .github/repository-layout-migration.trigger
+      - name: Restore workflow files and remove temporary build files
+        run: |
+          git checkout HEAD -- .github/workflows
+          rm -f .github/repository-layout-migration.trigger
+          rm -rf scripts/__pycache__
 
       - name: Verify patch formatting
         run: git diff --check
