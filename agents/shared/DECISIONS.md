@@ -2,7 +2,37 @@
 
 This file records creator-approved decisions that should survive individual AI conversations and be discoverable by all agents.
 
-It is a decision log, not a substitute for the canonical Markdown files. When a decision belongs in a character, location, organization, timeline, story, or artifact file, update that owning canon file as well.
+It is a decision log, not a substitute for the canonical Markdown files. When a decision belongs in a character, location, organization, timeline, story, or artifact file, update that owning canon file as well **only after the author has approved that canonical change**.
+
+---
+
+## 2026-08-08 — Author Retains Final Artistic and Canonical Control
+
+**Status:** APPROVED / GOVERNING PRINCIPLE
+
+The human author retains final and exclusive artistic control over **The Brass Guardian / Aetherhaven** project.
+
+AI is an important part of the creative process and may be used for artistic guidance, brainstorming, continuity analysis, prose drafting, story and plot ideas, world-building proposals, illustration concepts, generative artwork, editing, organization, technical implementation, and public-experience development.
+
+However, AI does not have authority to decide what becomes canon.
+
+All material canonical changes must be explicitly approved by the author before they are adopted or committed as accepted project state. This includes changes to story, characters, relationships, world-building, lore, chronology, mysteries, organizations, fictional rules, visual canon, and other creative elements that materially affect the project.
+
+AI-generated prose, artwork, concepts, plots, interpretations, and designs remain **proposals or candidate assets** until the author approves them.
+
+Brainstorming discussion does not establish canon.
+
+A direct author instruction to make a specific creative change constitutes approval for that specific change, but does not grant an agent authority to invent consequential surrounding details without review.
+
+The author expects AI collaborators to provide genuine creative judgment, criticism, alternatives, and guidance. The author may accept, revise, combine, or reject any AI-generated material.
+
+When approval is ambiguous, agents must not assume approval.
+
+The full operating policy is maintained in:
+
+`/agents/shared/AUTHORSHIP_AND_ARTISTIC_CONTROL.md`
+
+This principle overrides any agent-specific instruction or workflow that would otherwise allow autonomous canonical decision-making.
 
 ---
 
@@ -93,3 +123,5 @@ Use one of these statuses when useful:
 - **REJECTED**
 
 When superseding a decision, retain the old entry for history and link or point to the new ruling rather than silently deleting the prior record.
+
+Do not use **APPROVED** unless the author actually approved the decision.
