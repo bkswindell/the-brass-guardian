@@ -29,6 +29,9 @@ When approval is unclear, treat the material as a proposal.
     HANDOFF_PROTOCOL.md
     DECISIONS.md
     CURRENT_WORK.md
+  /proposals/
+    README.md
+    ACTIVE_CREATIVE_PROPOSALS.md
   /hermes/
     SOUL.md
   /gpt/
@@ -57,6 +60,8 @@ The Markdown canon is the primary development source for already-approved materi
 
 An agent's creative preference never outranks the author's decision.
 
+Content under `/agents/proposals/` is **not part of the authority hierarchy as canon**. It is explicitly unapproved development material unless an entry records a later author approval and promotion.
+
 ## Shared vs. Agent-Specific Memory
 
 ### `/agents/shared/`
@@ -70,6 +75,16 @@ Information that another capable agent should know regardless of model belongs h
 - current high-level priorities
 - handoffs between agents
 - unresolved questions worth preserving
+
+### `/agents/proposals/`
+
+Unapproved creative ideas worth preserving across sessions belong here.
+
+Examples include proposed plots, characters, locations, organizations, artifacts, visual concepts, possible mystery explanations, terminology, or website narrative ideas.
+
+**Proposal files are not canon.** Their purpose is to preserve useful possibilities without making them appear approved.
+
+Read `/agents/proposals/README.md` before adding or promoting proposal material.
 
 ### `/agents/<agent>/`
 
@@ -89,6 +104,8 @@ If an agent learns something important in conversation that should affect future
 Durable project knowledge should become a file.
 
 However, **proposal status must be preserved**. A speculative idea should never be written into durable memory in a way that makes it appear creator-approved.
+
+If an unapproved creative idea is worth preserving, record it under `/agents/proposals/` rather than altering canon.
 
 ## Canon Discipline
 
@@ -133,6 +150,8 @@ When adding a durable decision:
 3. update the canonical source file when appropriate and approved;
 4. add cross-links rather than duplicating full lore;
 5. note unresolved conflicts rather than inventing a resolution.
+
+When preserving an unapproved creative idea, use `/agents/proposals/` instead of `shared/DECISIONS.md` or an owning canon file.
 
 ## Core Principle
 
