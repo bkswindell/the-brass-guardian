@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
-"""One-time migration to clean the repository root and centralize templates/docs.
+"""One-time repository organization and reference migration.
 
-Moves project templates into /templates, development/reference documents into /docs,
-and rewrites Markdown links plus hard-coded path references to the moved files.
-The companion workflow removes this script and itself after a successful migration.
+The migration centralizes project templates under /templates, moves development/reference
+Markdown under /docs, rewrites local Markdown links and hard-coded project paths, validates
+the root layout, and then removes itself and its temporary workflow.
 """
 
 from __future__ import annotations
@@ -26,10 +26,16 @@ ROOT_MD_ALLOWLIST = {
     "CHANGELOG.md",
 }
 
-EXCLUDED_TEMPLATE_ROOTS = {".git", ".github", "agents", "unused", "templates"}
-TEXT_SUFFIXES = {".md", ".py", ".yml", ".yaml", ".json", ".toml", ".txt", ".ps1", ".sh"}
+KNOWN_TEMPLATE_MOVES = {
+    "Character_Profile_Template.md": "templates/Character_Profile_Template.md",
+    "Organization_Profile_Template.md": "templates/Organization_Profile_Template.md",
+    "Location_Profile_Template.md": "templates/Location_Profile_Template.md",
+    "Artifact_Profile_Template.md": "templates/Artifact_Profile_Template.md",
+    "Story_Arc_Profile_Template.md": "templates/Story_Arc_Profile_Template.md",
+    "Historical_Event_Profile_Template.md": "templates/Historical_Event_Profile_Template.md",
+}
 
-EXPLICIT_MOVES = {
+EXPLICIT_DOC_MOVES = {
     "PROJECT_INDEX.md": "docs/PROJECT_INDEX.md",
     "CANON_MARKDOWN_STANDARD.md": "docs/standards/CANON_MARKDOWN_STANDARD.md",
     "Map_Location_Reference_Style_Guide.md": "docs/standards/Map_Location_Reference_Style_Guide.md",
@@ -37,6 +43,9 @@ EXPLICIT_MOVES = {
     "CANON_DEVELOPMENT_TODO.md": "docs/development/CANON_DEVELOPMENT_TODO.md",
 }
 
+KNOWN_MOVES = {**KNOWN_TEMPLATE_MOVES, **EXPLICIT_DOC_MOVES}
+EXCLUDED_TEMPLATE_ROOTS = {".git", ".github", "agents", "unused", "templates"}
+TEXT_SUFFIXES = {".md", ".py", ".yml", ".yaml", ".json", ".toml", ".txt", ".ps1", ".sh"}
 TEMP_SCRIPT = "scripts/reorganize_repository_layout.py"
 TEMP_WORKFLOW = ".github/workflows/reorganize-repository-layout.yml"
 
@@ -45,18 +54,9 @@ def rel(path: Path) -> str:
     return path.relative_to(ROOT).as_posix()
 
 
-def is_project_template(path: Path) -> bool:
-    rp = path.relative_to(ROOT)
-    if not path.is_file() or path.suffix.lower() != ".md":
-        return False
-    if rp.parts and rp.parts[0] in EXCLUDED_TEMPLATE_ROOTS:
-        return False
-    return "template" in path.name.lower()
-
-
 def choose_root_doc_destination(name: str) -> str:
-    if name in EXPLICIT_MOVES:
-        return EXPLICIT_MOVES[name]
+    if name in KNOWN_MOVES:
+        return KNOWN_MOVES[name]
     low = name.lower()
     if "template" in low:
         return f"templates/{name}"
@@ -68,17 +68,22 @@ def choose_root_doc_destination(name: str) -> str:
 
 
 def build_move_map() -> dict[str, str]:
-    moves: dict[str, str] = {}
+    # Keep known historical mappings even after files have already moved; those mappings
+    # are needed to repair references throughout the repository.
+    moves = dict(KNOWN_MOVES)
 
-    # Centralize all project Markdown templates outside excluded system/agent areas.
+    # Catch any additional project Markdown template that is still outside /templates.
     for path in ROOT.rglob("*.md"):
-        if is_project_template(path):
+        rp = path.relative_to(ROOT)
+        if not path.is_file() or (rp.parts and rp.parts[0] in EXCLUDED_TEMPLATE_ROOTS):
+            continue
+        if "template" in path.name.lower():
             old = rel(path)
             new = f"templates/{path.name}"
             if old != new:
-                moves[old] = new
+                moves.setdefault(old, new)
 
-    # Clean the remaining project Markdown from repository root.
+    # Catch any remaining non-conventional root Markdown and place it appropriately.
     for path in ROOT.glob("*.md"):
         if path.name in ROOT_MD_ALLOWLIST:
             continue
@@ -87,11 +92,30 @@ def build_move_map() -> dict[str, str]:
     return moves
 
 
+def move_files(moves: dict[str, str]) -> set[str]:
+    moved_now: set[str] = set()
+    for old, new in sorted(moves.items()):
+        src = ROOT / old
+        dst = ROOT / new
+        if not src.exists():
+            continue
+        dst.parent.mkdir(parents=True, exist_ok=True)
+        if dst.exists():
+            if src.read_bytes() == dst.read_bytes():
+                src.unlink()
+                moved_now.add(old)
+                print(f"REMOVE duplicate {old}; canonical copy already at {new}")
+                continue
+            raise RuntimeError(f"Destination collision: {old} -> {new}")
+        shutil.move(str(src), str(dst))
+        moved_now.add(old)
+        print(f"MOVE {old} -> {new}")
+    return moved_now
+
+
 def normalize_repo_path(parent: PurePosixPath, target: str) -> str:
     joined = posixpath.normpath(posixpath.join(parent.as_posix(), target))
-    if joined.startswith("./"):
-        joined = joined[2:]
-    return joined
+    return joined[2:] if joined.startswith("./") else joined
 
 
 def split_suffix(target: str) -> tuple[str, str]:
@@ -116,7 +140,16 @@ def rewrite_local_target(target: str, original_file: str, current_file: str, mov
     old_parent = PurePosixPath(original_file).parent
     new_parent = PurePosixPath(current_file).parent
     old_repo_target = normalize_repo_path(old_parent, path_part)
-    new_repo_target = moves.get(old_repo_target, old_repo_target)
+
+    # Most links are genuinely relative. Some older generated/copied files used a root
+    # filename as if it were repository-root relative even from a subdirectory. Repair
+    # those too when the bare target is one of the known moved root files.
+    if old_repo_target in moves:
+        new_repo_target = moves[old_repo_target]
+    elif path_part in moves:
+        new_repo_target = moves[path_part]
+    else:
+        new_repo_target = old_repo_target
 
     start = new_parent.as_posix() if new_parent.as_posix() != "." else "."
     new_relative = posixpath.relpath(new_repo_target, start=start)
@@ -138,7 +171,7 @@ def rewrite_markdown(text: str, original_file: str, current_file: str, moves: di
 
     text = INLINE_LINK_RE.sub(inline_sub, text)
 
-    out_lines: list[str] = []
+    lines: list[str] = []
     for line in text.splitlines(keepends=True):
         ending = "\n" if line.endswith("\n") else ""
         body = line[:-1] if ending else line
@@ -146,10 +179,10 @@ def rewrite_markdown(text: str, original_file: str, current_file: str, moves: di
         if m:
             target = rewrite_local_target(m.group("target"), original_file, current_file, moves)
             body = m.group("prefix") + target + m.group("suffix")
-        out_lines.append(body + ending)
-    text = "".join(out_lines)
+        lines.append(body + ending)
+    text = "".join(lines)
 
-    # Agent/project instructions often use repository-root file paths in inline code.
+    # Repository instructions commonly express root-relative file paths in inline code.
     def code_sub(match: re.Match[str]) -> str:
         inner = match.group(1)
         if inner in moves:
@@ -162,7 +195,7 @@ def rewrite_markdown(text: str, original_file: str, current_file: str, moves: di
 
 
 def rewrite_non_markdown(text: str, moves: dict[str, str]) -> str:
-    # Source code/workflows generally use repository-root paths.
+    # Build scripts and workflows generally use repository-root paths.
     for old, new in sorted(moves.items(), key=lambda kv: len(kv[0]), reverse=True):
         escaped = re.escape(old)
         text = re.sub(rf"(?<![/A-Za-z0-9_.-]){escaped}(?![A-Za-z0-9_.-])", new, text)
@@ -170,20 +203,34 @@ def rewrite_non_markdown(text: str, moves: dict[str, str]) -> str:
     return text
 
 
-def move_files(moves: dict[str, str]) -> None:
-    for old, new in sorted(moves.items()):
-        src = ROOT / old
-        dst = ROOT / new
-        if not src.exists():
+def rewrite_references(moves: dict[str, str], moved_now: set[str]) -> None:
+    # The five explicit docs were moved earlier without changing their contents. Treat
+    # their links as if they still lived at their old root paths. Any file moved in this
+    # run also needs the same original-path treatment. Templates already relocated and
+    # corrected before this migration are intentionally excluded unless moved_now.
+    original_context = set(EXPLICIT_DOC_MOVES) | moved_now
+    inverse = {new: old for old, new in moves.items() if old in original_context}
+
+    for path in ROOT.rglob("*"):
+        if not path.is_file() or path.suffix.lower() not in TEXT_SUFFIXES:
             continue
-        dst.parent.mkdir(parents=True, exist_ok=True)
-        if dst.exists():
-            if src.read_bytes() == dst.read_bytes():
-                src.unlink()
-                continue
-            raise RuntimeError(f"Destination collision: {old} -> {new}")
-        shutil.move(str(src), str(dst))
-        print(f"MOVE {old} -> {new}")
+        rp = rel(path)
+        if rp in {TEMP_SCRIPT, TEMP_WORKFLOW}:
+            continue
+        try:
+            text = path.read_text(encoding="utf-8")
+        except UnicodeDecodeError:
+            continue
+
+        if path.suffix.lower() == ".md":
+            original = inverse.get(rp, rp)
+            new_text = rewrite_markdown(text, original, rp, moves)
+        else:
+            new_text = rewrite_non_markdown(text, moves)
+
+        if new_text != text:
+            path.write_text(new_text, encoding="utf-8")
+            print(f"REWRITE {rp}")
 
 
 def write_navigation_files() -> None:
@@ -230,89 +277,36 @@ def update_project_index_heading() -> None:
         path.write_text(text, encoding="utf-8")
 
 
-def rewrite_references(moves: dict[str, str]) -> None:
-    inverse = {new: old for old, new in moves.items()}
-
-    for path in ROOT.rglob("*"):
-        if not path.is_file() or path.suffix.lower() not in TEXT_SUFFIXES:
-            continue
-        rp = rel(path)
-        if rp in {TEMP_SCRIPT, TEMP_WORKFLOW}:
-            continue
-        try:
-            text = path.read_text(encoding="utf-8")
-        except UnicodeDecodeError:
-            continue
-
-        if path.suffix.lower() == ".md":
-            original = inverse.get(rp, rp)
-            new_text = rewrite_markdown(text, original, rp, moves)
-        else:
-            new_text = rewrite_non_markdown(text, moves)
-
-        if new_text != text:
-            path.write_text(new_text, encoding="utf-8")
-            print(f"REWRITE {rp}")
-
-
 def check_root() -> None:
     remaining = sorted(p.name for p in ROOT.glob("*.md") if p.name not in ROOT_MD_ALLOWLIST)
     if remaining:
         raise RuntimeError(f"Unexpected Markdown files remain at repository root: {remaining}")
-
     print("\nRepository root Markdown:")
-    for p in sorted(ROOT.glob("*.md")):
-        print(f"  {p.name}")
-
-
-def report_old_paths(moves: dict[str, str]) -> None:
-    stale: list[str] = []
-    for path in ROOT.rglob("*"):
-        if not path.is_file() or path.suffix.lower() not in TEXT_SUFFIXES:
-            continue
-        rp = rel(path)
-        if rp in {TEMP_SCRIPT, TEMP_WORKFLOW}:
-            continue
-        try:
-            text = path.read_text(encoding="utf-8")
-        except UnicodeDecodeError:
-            continue
-        for old in moves:
-            if f"]({old}" in text or f"`{old}`" in text or f"`/{old}`" in text:
-                stale.append(f"{rp}: {old}")
-    if stale:
-        print("\nWARNING: possible stale references:")
-        for item in stale:
-            print(f"  {item}")
+    for path in sorted(ROOT.glob("*.md")):
+        print(f"  {path.name}")
 
 
 def remove_temporary_migration_files() -> None:
     for rp in (TEMP_SCRIPT, TEMP_WORKFLOW):
-        p = ROOT / rp
-        if p.exists():
-            p.unlink()
+        path = ROOT / rp
+        if path.exists():
+            path.unlink()
             print(f"REMOVE temporary migration file {rp}")
 
 
 def main() -> None:
     os.chdir(ROOT)
     moves = build_move_map()
-    if not moves:
-        print("No files require relocation.")
-        return
-
-    print("Planned relocations:")
+    print("Known/required relocations:")
     for old, new in sorted(moves.items()):
         print(f"  {old} -> {new}")
 
-    move_files(moves)
-    rewrite_references(moves)
+    moved_now = move_files(moves)
+    rewrite_references(moves, moved_now)
     write_navigation_files()
     update_project_index_heading()
     check_root()
-    report_old_paths(moves)
     remove_temporary_migration_files()
-
     print("\nRepository layout migration complete.")
 
 
