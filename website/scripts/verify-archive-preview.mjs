@@ -52,6 +52,16 @@ expect(
   "Preview landing page must provide a primary entrance into the Archive.",
 );
 expect(
+  homeHtml.includes('data-archive-gateway="mechanical"') &&
+    homeHtml.includes('class="gear gear-primary"') &&
+    homeHtml.includes('class="gear gear-secondary"') &&
+    homeHtml.includes('class="clock-dial"') &&
+    homeHtml.includes('class="aether-core"') &&
+    homeHtml.includes("Invitation waiting") &&
+    homeHtml.includes("Lock released"),
+  "Preview landing entrance must render the mechanical gear, clock, and aether mechanism.",
+);
+expect(
   !homeHtml.includes("Coming Soon") &&
     !homeHtml.includes("Archive preparations underway") &&
     !homeHtml.includes("Return soon"),

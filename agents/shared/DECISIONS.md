@@ -174,6 +174,8 @@ The Curator’s Route and Open Catalog are complementary views of the same clear
 
 While the World Entrance preview is enabled, the main landing exhibit must replace its obsolete preparation language with a primary **Enter Archive** action. Preview-facing metadata and sharing artwork should use the same active invitation. When preview mode is disabled, the landing page remains sealed and no Archive link is emitted until the exact publication transition is approved.
 
+The entrance action should feel like the visitor is unlocking a fantastical invitation into Aetherhaven—not operating a utilitarian navigation control. Its visible machinery must suggest function: connected gears drive the lock, clockwork winds, latches withdraw, and aetheric light answers the interaction. Motion should reward hover and keyboard focus while retaining a clear reduced-motion state.
+
 ---
 
 ## 2026-08-08 — Moon Garden Canon
