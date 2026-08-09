@@ -41,6 +41,7 @@ Before making changes:
    - `DECISIONS.md`
    - `CURRENT_WORK.md`
    - `HANDOFF_PROTOCOL.md`
+   - `BRANCH_LIFECYCLE.md`
 4. Read your agent-specific instructions, if present:
    - Hermes: `/agents/hermes/`
    - GPT / OpenAI: `/agents/gpt/`
@@ -119,6 +120,20 @@ For substantial architectural or creative changes, document the decision in `/ag
 
 Purely technical implementation does not grant permission to invent missing creative content. If implementation exposes a consequential creative gap, surface it for author direction.
 
+## Branch Lifecycle
+
+All agents must follow `/agents/shared/BRANCH_LIFECYCLE.md`.
+
+Working branches are temporary. The normal lifecycle is:
+
+**create branch → perform focused work → review/PR → merge to `main` → verify `main` → delete the merged branch.**
+
+A merged branch must not be left behind simply as historical storage. Git and pull-request history already preserve the work.
+
+If a branch must remain temporarily for an active preview, unfinished salvage, deployment dependency, or other concrete reason, record that reason and the condition for eventual deletion in the handoff.
+
+Before deleting an unmerged or abandoned branch, verify that it contains no unique work that still needs to be recovered.
+
 ## Cross-Agent Handoff Principle
 
 Before ending substantial work, ask:
@@ -129,6 +144,8 @@ Record the durable parts of that answer in `/agents/shared/`.
 
 Also preserve approval status. Future agents must be able to tell the difference between **approved canon** and **AI proposals awaiting review**.
 
+If the work used a non-`main` branch, the handoff must also state whether that branch is active, awaiting review, merged and ready for deletion, temporarily preserved, or abandoned pending salvage review.
+
 ## Final Rule
 
-**The author controls the story. Protect the canon, protect the unrevealed story, and leave the repository easier for the next collaborator to understand than you found it.**
+**The author controls the story. Protect the canon, protect the unrevealed story, clean up completed branches, and leave the repository easier for the next collaborator to understand than you found it.**
