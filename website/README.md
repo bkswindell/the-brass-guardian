@@ -1,8 +1,8 @@
 # Website Deployment Scaffold
 
-This directory contains the minimal Astro site used to verify the GitHub-to-Vercel deployment workflow for **The Brass Guardian**.
+This directory contains the Astro site for **The Brass Guardian**.
 
-It currently renders a single static page and includes Vercel Web Analytics and Speed Insights. It does not yet publish repository canon, stories, profiles, or artwork.
+It currently renders a public-safe Coming Soon page with Vercel Web Analytics, Speed Insights, responsive derivatives of the approved cover artwork, and an accessible cover reader. It does not yet publish stories, character profiles, or internal canon files.
 
 ## Local Verification
 
@@ -35,7 +35,11 @@ When importing `bkswindell/the-brass-guardian` into Vercel, use:
 
 With the GitHub integration enabled, pushes to non-production branches create preview deployments. Pushes or merges to `main` create production deployments after the project has been imported.
 
-Do not connect `thebrassguardian.com` or `www.thebrassguardian.com` during this initial scaffolding test. Review the generated `vercel.app` deployment first.
+The production page is reviewed on the generated `vercel.app` deployment before `thebrassguardian.com` and `www.thebrassguardian.com` are connected.
+
+## Cover Artwork
+
+The source cover remains unchanged at `art/The_Brass_Guardian_Cover.png`. Web delivery uses optimized 480px and 767px WebP derivatives under `public/images/`; the root page renders the full composition without cropping and opens it in an accessible native dialog.
 
 ## Web Analytics
 

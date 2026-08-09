@@ -128,6 +128,16 @@ Connecting the domains is a separate cutover step and must not be performed mere
 
 ---
 
+## 2026-08-08 — Public Coming Soon Cutover
+
+**Status:** APPROVED
+
+The author approved replacing the temporary GitHub redirects for `thebrassguardian.com` and `www.thebrassguardian.com` with the reviewed Vercel-hosted Coming Soon page. The page may use the approved cover artwork as a prominent archive display with an accessible cover reader, while remaining public-safe and free of unreleased story material.
+
+Deploy the approved page to Vercel production before changing DNS. Use `thebrassguardian.com` as the canonical hostname, redirect `www.thebrassguardian.com` to the apex, preserve unrelated DNS records, and verify HTTPS and redirect behavior after cutover.
+
+---
+
 ## 2026-08-08 — Moon Garden Canon
 
 **Status:** APPROVED
