@@ -28,6 +28,23 @@ npm run verify
 
 The verification command runs the publication-boundary contract tests, validates the explicit public manifest, builds the site, and checks the generated metadata, favicon links, social image, web manifest, and custom 404 route.
 
+## World Entrance branch preview
+
+The World Entrance work keeps proposal content outside the approved public manifest. Proposal routes are enabled only for an explicit local preview or a Vercel branch Preview:
+
+```bash
+PUBLICATION_PREVIEW=1 npm run dev -- --host 0.0.0.0
+npm run verify:archive-preview
+```
+
+Vercel sets `VERCEL_ENV=preview` automatically for branch deployments. Production builds do not load the proposal records. The dedicated preview branch may be committed and pushed iteratively, but merging to `main` and production publication remain explicit author approval gates.
+
+Responsive archive derivatives are reproducible from the unchanged active artwork:
+
+```bash
+npm run assets:archive
+```
+
 ## Curated Publication Boundary
 
 `content/public/manifest.json` is the website's explicit publication allowlist. It currently contains no entries. Internal canon, stories, proposals, and artwork are never imported into public routes merely because they exist in the repository.

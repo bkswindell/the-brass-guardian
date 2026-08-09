@@ -1,0 +1,374 @@
+---
+import ArchiveLayout from "../../../layouts/ArchiveLayout.astro";
+import { getWorldEntrancePreview } from "../../../lib/archive-preview.mjs";
+
+export function getStaticPaths() {
+  const archive = getWorldEntrancePreview();
+  return archive.entries.map((entry) => ({
+    params: { entityType: entry.entityType, slug: entry.slug },
+    props: { entry, entries: archive.entries },
+  }));
+}
+
+const { entry, entries } = Astro.props;
+const relatedEntries = entry.relatedEntryIds
+  .map((id) => entries.find((candidate) => candidate.id === id))
+  .filter(Boolean);
+const description = entry.publicSummary;
+const entryHref = (related) =>
+  `/archive/${related.entityType}/${related.slug}/`;
+
+const responsiveSources = {
+  "location-aetherhaven":
+    "/images/archive/map-of-aetherhaven-768.webp 768w, /images/archive/map-of-aetherhaven-1152.webp 1152w, /images/archive/map-of-aetherhaven-1539.webp 1539w",
+  "location-clockwork-gardens":
+    "/images/archive/clockwork-gardens-at-night-480.webp 480w, /images/archive/clockwork-gardens-at-night-767.webp 767w",
+  "vessel-wayfinder":
+    "/images/archive/wayfinder-above-clouds-640.webp 640w, /images/archive/wayfinder-above-clouds-1024.webp 1024w",
+};
+---
+
+<ArchiveLayout title={entry.publicTitle} description={description} section="Proposal Record Viewer">
+  <aside class="proposal-notice" aria-label="Proposal preview notice">
+    <span class="proposal-dot" aria-hidden="true"></span>
+    <span>
+      <strong>Proposal preview.</strong> This record has not been approved as
+      canonical public copy and is visible only for branch refinement.
+    </span>
+  </aside>
+
+  <nav class="record-breadcrumb" aria-label="Breadcrumb">
+    <a href="/archive/">Archive entrance</a>
+    <span aria-hidden="true">/</span>
+    <a href="/archive/map/">City map</a>
+    <span aria-hidden="true">/</span>
+    <span aria-current="page">{entry.publicTitle}</span>
+  </nav>
+
+  <article class:list={["record-sheet", { "has-image": entry.image }]}>
+    <header class="record-header">
+      <p class="record-accession">
+        <span>{entry.entityType}</span>
+        {entry.mapMarker && <span>Map {entry.mapMarker}</span>}
+        <span>{entry.spoilerClassification}</span>
+      </p>
+      <p class="archive-kicker">Aetherhaven Archives • Proposal record</p>
+      <h1 class="archive-title">{entry.publicTitle}</h1>
+      <p class="canonical-name">Canonical subject: {entry.canonicalName}</p>
+    </header>
+
+    {
+      entry.image && (
+        <figure class:list={["record-image", `image-${entry.id}`]}>
+          <picture>
+            {responsiveSources[entry.id] && (
+              <source
+                srcset={responsiveSources[entry.id]}
+                sizes="(max-width: 66rem) 92vw, 39rem"
+                type="image/webp"
+              />
+            )}
+            <img
+              src={entry.image.src}
+              alt={entry.image.alt}
+              width={entry.image.width}
+              height={entry.image.height}
+              decoding="async"
+            />
+          </picture>
+          <figcaption>Candidate public image • Proposal preview</figcaption>
+        </figure>
+      )
+    }
+
+    <section class="record-copy" aria-labelledby="summary-title">
+      <p class="archive-kicker">Public summary proposal</p>
+      <h2 id="summary-title">Record extract</h2>
+      <p>{entry.publicSummary}</p>
+
+      <dl class="record-tags">
+        <div>
+          <dt>Access</dt>
+          <dd>{entry.spoilerClassification}</dd>
+        </div>
+        <div>
+          <dt>Status</dt>
+          <dd>{entry.previewStatus}</dd>
+        </div>
+        <div>
+          <dt>Tags</dt>
+          <dd>{entry.tags.join(" • ")}</dd>
+        </div>
+      </dl>
+    </section>
+  </article>
+
+  {
+    relatedEntries.length > 0 && (
+      <section class="related-records" aria-labelledby="related-title">
+        <p class="archive-kicker">Cross-references</p>
+        <h2 id="related-title">Related preview records</h2>
+        <div>
+          {relatedEntries.map((related) => (
+            <a href={entryHref(related)}>
+              <small>{related.entityType}</small>
+              <strong>{related.publicTitle}</strong>
+              <span aria-hidden="true">Open →</span>
+            </a>
+          ))}
+        </div>
+      </section>
+    )
+  }
+</ArchiveLayout>
+
+<style>
+  .record-breadcrumb {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-bottom: 1.5rem;
+    color: var(--archive-muted);
+    font-size: 0.69rem;
+    letter-spacing: 0.08em;
+    gap: 0.55rem;
+    text-transform: uppercase;
+  }
+
+  .record-breadcrumb a {
+    text-underline-offset: 0.22rem;
+  }
+
+  .record-sheet {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) minmax(18rem, 0.72fr);
+    border: 1px solid var(--archive-line);
+    background:
+      linear-gradient(145deg, rgb(197 138 54 / 8%), transparent 35%),
+      var(--archive-panel);
+    box-shadow: 0 2rem 6rem rgb(0 0 0 / 38%);
+  }
+
+  .record-sheet:not(.has-image) .record-header {
+    grid-column: 1 / -1;
+  }
+
+  .record-header {
+    position: relative;
+    display: flex;
+    min-height: 31rem;
+    padding: clamp(2rem, 6vw, 5rem);
+    justify-content: center;
+    flex-direction: column;
+  }
+
+  .record-header::after {
+    position: absolute;
+    right: 1rem;
+    bottom: 1rem;
+    width: 4rem;
+    aspect-ratio: 1;
+    border: 1px solid rgb(197 138 54 / 30%);
+    border-radius: 50%;
+    box-shadow: inset 0 0 0 0.4rem rgb(197 138 54 / 4%);
+    content: "AH";
+    color: rgb(197 138 54 / 38%);
+    font-size: 0.82rem;
+    line-height: 4rem;
+    text-align: center;
+  }
+
+  .record-header .archive-title {
+    max-width: 11ch;
+  }
+
+  .record-accession {
+    position: absolute;
+    top: 1.1rem;
+    right: 1.1rem;
+    left: 1.1rem;
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 0.75rem;
+    border-bottom: 1px solid var(--archive-line);
+    margin: 0;
+    color: var(--archive-brass);
+    font-size: 0.62rem;
+    letter-spacing: 0.13em;
+    text-transform: uppercase;
+    gap: 1rem;
+  }
+
+  .canonical-name {
+    margin: 1.5rem 0 0;
+    color: var(--archive-muted);
+    font-size: 0.72rem;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+  }
+
+  .record-image {
+    display: grid;
+    min-width: 0;
+    margin: 0;
+    border-left: 1px solid var(--archive-line);
+    background: #02070c;
+    grid-template-rows: minmax(0, 1fr) auto;
+  }
+
+  .record-image picture {
+    display: grid;
+    min-height: 31rem;
+    place-items: center;
+    overflow: hidden;
+  }
+
+  .record-image img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    max-height: 44rem;
+    object-fit: contain;
+  }
+
+  .record-image.image-location-aetherhaven picture {
+    padding: 0.6rem;
+  }
+
+  .record-image figcaption {
+    padding: 0.8rem 1rem;
+    border-top: 1px solid var(--archive-line);
+    color: var(--archive-muted);
+    font-size: 0.62rem;
+    letter-spacing: 0.1em;
+    text-align: center;
+    text-transform: uppercase;
+  }
+
+  .record-copy {
+    grid-column: 1 / -1;
+    padding: clamp(2rem, 6vw, 4.5rem);
+    border-top: 1px solid var(--archive-line);
+  }
+
+  .record-copy h2,
+  .related-records h2 {
+    margin: 0;
+    font-size: clamp(1.8rem, 4vw, 3rem);
+    font-weight: 400;
+  }
+
+  .record-copy > p:not(.archive-kicker) {
+    max-width: 52rem;
+    margin: 1.5rem 0 0;
+    color: #c5d9de;
+    font-size: clamp(1.05rem, 2vw, 1.28rem);
+    line-height: 1.85;
+  }
+
+  .record-tags {
+    display: grid;
+    grid-template-columns: 0.7fr 0.7fr 1.6fr;
+    margin: 3rem 0 0;
+    border-top: 1px solid var(--archive-line);
+    border-left: 1px solid var(--archive-line);
+  }
+
+  .record-tags div {
+    padding: 1rem;
+    border-right: 1px solid var(--archive-line);
+    border-bottom: 1px solid var(--archive-line);
+  }
+
+  .record-tags dt {
+    color: var(--archive-brass);
+    font-size: 0.6rem;
+    letter-spacing: 0.11em;
+    text-transform: uppercase;
+  }
+
+  .record-tags dd {
+    margin: 0.5rem 0 0;
+    color: var(--archive-muted);
+    line-height: 1.5;
+    text-transform: capitalize;
+  }
+
+  .related-records {
+    margin-top: clamp(4rem, 8vw, 7rem);
+  }
+
+  .related-records > div {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    margin-top: 1.5rem;
+    gap: 0.75rem;
+  }
+
+  .related-records a {
+    display: flex;
+    min-height: 9rem;
+    padding: 1rem;
+    border: 1px solid var(--archive-line);
+    background: var(--archive-panel);
+    flex-direction: column;
+    text-decoration: none;
+  }
+
+  .related-records a:hover {
+    border-color: var(--archive-brass);
+  }
+
+  .related-records small,
+  .related-records span {
+    color: var(--archive-muted);
+    font-size: 0.62rem;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+  }
+
+  .related-records strong {
+    margin-top: 0.8rem;
+    font-size: 1.1rem;
+    font-weight: 400;
+  }
+
+  .related-records span {
+    margin-top: auto;
+    color: var(--archive-brass);
+  }
+
+  @media (max-width: 66rem) {
+    .record-sheet {
+      grid-template-columns: 1fr;
+    }
+
+    .record-image {
+      border-top: 1px solid var(--archive-line);
+      border-left: 0;
+    }
+
+    .record-image picture {
+      max-height: 48rem;
+    }
+  }
+
+  @media (max-width: 48rem) {
+    .record-header {
+      min-height: 26rem;
+    }
+
+    .record-accession {
+      flex-wrap: wrap;
+    }
+
+    .record-tags,
+    .related-records > div {
+      grid-template-columns: 1fr;
+    }
+
+    .record-image picture {
+      min-height: 20rem;
+    }
+  }
+</style>

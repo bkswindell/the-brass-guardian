@@ -1,0 +1,331 @@
+---
+import ArchiveLayout from "../../layouts/ArchiveLayout.astro";
+import { getWorldEntrancePreview } from "../../lib/archive-preview.mjs";
+
+const archive = getWorldEntrancePreview();
+const entries = archive.entries;
+const description =
+  "Enter the proposal preview of the Aetherhaven Archives and explore the first cleared records through the city map.";
+
+const entryHref = (entry) =>
+  `/archive/${entry.entityType}/${entry.slug}/`;
+---
+
+<ArchiveLayout title="Explore Aetherhaven" description={description}>
+  {
+    archive.enabled ? (
+      <>
+        <aside class="proposal-notice" aria-label="Proposal preview notice">
+          <span class="proposal-dot" aria-hidden="true"></span>
+          <span>
+            <strong>Proposal preview.</strong> This branch is a working exhibit. Its
+            copy, classifications, and presentation are not canonical publication.
+          </span>
+        </aside>
+
+        <section class="entrance-hero" aria-labelledby="archive-title">
+          <div>
+            <p class="archive-kicker">Public access corridor • Preview 01</p>
+            <h1 id="archive-title" class="archive-title">Explore Aetherhaven</h1>
+            <p class="archive-lede">
+              A city of brass streets, living gardens, crowded workshops, and
+              airship towers waits beyond the archive doors. Begin with the
+              cartographers’ map, then follow the records currently cleared for
+              preview.
+            </p>
+            <div class="hero-actions">
+              <a class="archive-button" href="/archive/map/">Open the city map</a>
+              <a class="text-link" href="#cleared-records">Browse cleared records</a>
+            </div>
+          </div>
+
+          <a class="map-window" href="/archive/map/" aria-label="Open the interactive Map of Aetherhaven">
+            <picture>
+              <source
+                srcset="/images/archive/map-of-aetherhaven-768.webp 768w, /images/archive/map-of-aetherhaven-1152.webp 1152w"
+                sizes="(max-width: 60rem) 94vw, 42vw"
+                type="image/webp"
+              />
+              <img
+                src="/images/archive/map-of-aetherhaven-1152.webp"
+                alt="Preview of the illustrated Map of Aetherhaven."
+                width="1152"
+                height="862"
+                decoding="async"
+              />
+            </picture>
+            <span class="map-window-label">
+              <small>Public Cartography Division</small>
+              <strong>Map of Aetherhaven</strong>
+              <em>Open map</em>
+            </span>
+          </a>
+        </section>
+
+        <section id="cleared-records" class="records-section" aria-labelledby="records-title">
+          <header class="section-heading">
+            <div>
+              <p class="archive-kicker">Initial accession</p>
+              <h2 id="records-title">7 records cleared for preview</h2>
+            </div>
+            <p>
+              Numbered locations not included here remain visible on the map with
+              their records sealed.
+            </p>
+          </header>
+
+          <div class="record-grid">
+            {entries.map((entry) => (
+              <article class="record-card">
+                <div class="record-code">
+                  <span>{entry.mapMarker ? `Map ${entry.mapMarker}` : entry.entityType}</span>
+                  <span>{entry.spoilerClassification}</span>
+                </div>
+                <h3>{entry.publicTitle}</h3>
+                <p>{entry.publicSummary}</p>
+                <a href={entryHref(entry)}>
+                  Open proposal record <span aria-hidden="true">→</span>
+                </a>
+              </article>
+            ))}
+          </div>
+        </section>
+      </>
+    ) : (
+      <section class="sealed-state" aria-labelledby="archive-title">
+        <p class="archive-kicker">Public access pending</p>
+        <h1 id="archive-title" class="archive-title">Archive sealed</h1>
+        <p class="archive-lede">
+          The World Entrance is available only in an authorized branch preview.
+        </p>
+        <a class="archive-button" href="/">Return to the main exhibit</a>
+      </section>
+    )
+  }
+</ArchiveLayout>
+
+<style>
+  .entrance-hero {
+    display: grid;
+    align-items: center;
+    grid-template-columns: minmax(0, 0.9fr) minmax(22rem, 1.1fr);
+    gap: clamp(2rem, 6vw, 6rem);
+  }
+
+  .hero-actions {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-top: 2rem;
+    gap: 1.1rem;
+  }
+
+  .text-link {
+    color: var(--archive-muted);
+    font-size: 0.8rem;
+    letter-spacing: 0.08em;
+    text-underline-offset: 0.25rem;
+    text-transform: uppercase;
+  }
+
+  .map-window {
+    position: relative;
+    display: block;
+    padding: clamp(0.55rem, 1.4vw, 0.9rem);
+    border: 1px solid var(--archive-brass);
+    color: var(--archive-ink);
+    background: #110f0b;
+    box-shadow:
+      0 2rem 5rem rgb(0 0 0 / 44%),
+      0 0 4rem rgb(48 160 191 / 8%);
+    text-decoration: none;
+    transform: rotate(0.35deg);
+  }
+
+  .map-window::before,
+  .map-window::after {
+    position: absolute;
+    z-index: 2;
+    width: 1.2rem;
+    height: 1.2rem;
+    border-color: #ddaa53;
+    content: "";
+    pointer-events: none;
+  }
+
+  .map-window::before {
+    top: 0.25rem;
+    left: 0.25rem;
+    border-top: 1px solid;
+    border-left: 1px solid;
+  }
+
+  .map-window::after {
+    right: 0.25rem;
+    bottom: 0.25rem;
+    border-right: 1px solid;
+    border-bottom: 1px solid;
+  }
+
+  .map-window img {
+    display: block;
+    width: 100%;
+    height: auto;
+    border: 1px solid rgb(215 193 141 / 34%);
+    filter: saturate(0.86) contrast(1.03);
+  }
+
+  .map-window-label {
+    position: absolute;
+    right: clamp(1rem, 3vw, 2rem);
+    bottom: clamp(1rem, 3vw, 2rem);
+    left: clamp(1rem, 3vw, 2rem);
+    display: grid;
+    padding: 0.8rem 1rem;
+    border: 1px solid rgb(197 138 54 / 60%);
+    background: rgb(3 9 15 / 88%);
+    backdrop-filter: blur(8px);
+    gap: 0.15rem;
+  }
+
+  .map-window-label small,
+  .map-window-label em {
+    color: var(--archive-muted);
+    font-size: 0.62rem;
+    font-style: normal;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+  }
+
+  .map-window-label strong {
+    font-size: clamp(1rem, 2.4vw, 1.35rem);
+    font-weight: 400;
+  }
+
+  .map-window-label em {
+    position: absolute;
+    right: 1rem;
+    bottom: 0.95rem;
+    color: var(--archive-blue);
+  }
+
+  .records-section {
+    margin-top: clamp(5rem, 10vw, 9rem);
+    scroll-margin-top: 2rem;
+  }
+
+  .section-heading {
+    display: flex;
+    align-items: end;
+    justify-content: space-between;
+    padding-bottom: 1.25rem;
+    border-bottom: 1px solid var(--archive-line);
+    gap: 2rem;
+  }
+
+  .section-heading h2 {
+    margin: 0;
+    font-size: clamp(1.8rem, 4vw, 3rem);
+    font-weight: 400;
+  }
+
+  .section-heading > p {
+    max-width: 29rem;
+    margin: 0;
+    color: var(--archive-muted);
+    line-height: 1.6;
+  }
+
+  .record-grid {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    margin-top: 1.5rem;
+    gap: 1rem;
+  }
+
+  .record-card {
+    display: flex;
+    min-height: 21rem;
+    padding: 1.35rem;
+    border: 1px solid var(--archive-line);
+    background:
+      linear-gradient(135deg, rgb(197 138 54 / 7%), transparent 45%),
+      var(--archive-panel);
+    flex-direction: column;
+  }
+
+  .record-code {
+    display: flex;
+    justify-content: space-between;
+    color: var(--archive-brass);
+    font-size: 0.62rem;
+    letter-spacing: 0.13em;
+    text-transform: uppercase;
+    gap: 1rem;
+  }
+
+  .record-card h3 {
+    margin: 1.5rem 0 0.8rem;
+    font-size: 1.4rem;
+    font-weight: 400;
+  }
+
+  .record-card p {
+    display: -webkit-box;
+    overflow: hidden;
+    margin: 0;
+    color: #b8ced4;
+    line-height: 1.65;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 6;
+  }
+
+  .record-card a {
+    margin-top: auto;
+    padding-top: 1.3rem;
+    color: var(--archive-paper);
+    font-size: 0.72rem;
+    letter-spacing: 0.08em;
+    text-decoration-color: rgb(197 138 54 / 55%);
+    text-underline-offset: 0.28rem;
+    text-transform: uppercase;
+  }
+
+  .sealed-state .archive-button {
+    margin-top: 2rem;
+  }
+
+  @media (max-width: 68rem) {
+    .entrance-hero {
+      grid-template-columns: 1fr;
+    }
+
+    .map-window {
+      max-width: 54rem;
+    }
+
+    .record-grid {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+  }
+
+  @media (max-width: 44rem) {
+    .section-heading {
+      align-items: flex-start;
+      flex-direction: column;
+    }
+
+    .record-grid {
+      grid-template-columns: 1fr;
+    }
+
+    .record-card {
+      min-height: 0;
+    }
+
+    .map-window-label em {
+      position: static;
+      margin-top: 0.35rem;
+    }
+  }
+</style>

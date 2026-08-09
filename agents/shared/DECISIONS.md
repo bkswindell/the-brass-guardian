@@ -152,6 +152,18 @@ Future archive records reserve stable routes of the form `/archive/{entityType}/
 
 ---
 
+## 2026-08-09 — Dedicated Website Preview Branch Workflow
+
+**Status:** APPROVED
+
+Once the author approves a dedicated website feature branch, agents may iteratively implement, commit, push, and update that branch and its Vercel Preview deployment without requesting approval for every individual change. The branch and Preview deployment are the normal shared refinement workspace.
+
+Preview copy, classifications, imagery, and interactions remain proposals rather than approved canon or production publication. Preview routes must remain clearly labeled, `noindex`, and separate from the production navigation until the author approves launch.
+
+Explicit author approval is still required before merging the dedicated branch into `main`, promoting or publishing the work to production, or treating proposed creative material as accepted canon. This workflow does not relax spoiler discipline, publication-boundary validation, security review, accessibility, or responsive-quality requirements.
+
+---
+
 ## 2026-08-08 — Moon Garden Canon
 
 **Status:** APPROVED
