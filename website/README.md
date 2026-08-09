@@ -1,18 +1,24 @@
 # Website Deployment Scaffold
 
-This directory contains the temporary static site used to verify the GitHub-to-Vercel deployment workflow for **The Brass Guardian**.
+This directory contains the minimal Astro site used to verify the GitHub-to-Vercel deployment workflow for **The Brass Guardian**.
 
-It is intentionally limited to a single `index.html` page. It does not yet publish repository canon, stories, profiles, or artwork.
+It currently renders a single static page and includes Vercel Web Analytics and Speed Insights. It does not yet publish repository canon, stories, profiles, or artwork.
 
 ## Local Verification
 
-From the repository root:
+From the `website/` directory:
 
 ```bash
-python3 -m http.server 4173 --directory website
+npm install
+npm run dev
 ```
 
-Then open <http://localhost:4173>.
+To verify the production build:
+
+```bash
+npm run build
+npm run preview
+```
 
 ## Initial Vercel Project Settings
 
@@ -20,19 +26,29 @@ When importing `bkswindell/the-brass-guardian` into Vercel, use:
 
 | Setting | Value |
 |---|---|
-| Framework Preset | `Other` |
+| Framework Preset | `Astro` |
 | Root Directory | `website` |
-| Build Command | Leave empty |
-| Output Directory | Leave empty |
-| Install Command | Leave empty |
+| Build Command | `npm run build` |
+| Output Directory | `dist` |
+| Install Command | `npm install` |
 | Production Branch | `main` |
 
 With the GitHub integration enabled, pushes to non-production branches create preview deployments. Pushes or merges to `main` create production deployments after the project has been imported.
 
 Do not connect `thebrassguardian.com` or `www.thebrassguardian.com` during this initial scaffolding test. Review the generated `vercel.app` deployment first.
 
+## Web Analytics
+
+The root page imports the official Astro component from `@vercel/analytics/astro` and renders `<Analytics />`. Analytics begins collecting page views after the integration is deployed and the deployed site is visited.
+
+## Speed Insights
+
+The root page imports the official Astro component from `@vercel/speed-insights/astro` and renders `<SpeedInsights />`. Performance data begins collecting after the integration is deployed and the deployed site is visited.
+
 ## References
 
 - [Import an existing project into Vercel](https://vercel.com/docs/getting-started-with-vercel/import)
 - [Configure Vercel builds and the project root directory](https://vercel.com/docs/deployments/configure-a-build)
 - [Vercel for GitHub](https://vercel.com/docs/git/vercel-for-github)
+- [Vercel Web Analytics quickstart](https://vercel.com/docs/analytics/quickstart)
+- [Vercel Speed Insights quickstart](https://vercel.com/docs/speed-insights/quickstart)

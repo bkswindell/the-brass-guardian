@@ -1,0 +1,52 @@
+---
+import Analytics from "@vercel/analytics/astro";
+import SpeedInsights from "@vercel/speed-insights/astro";
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="Initial deployment test for The Brass Guardian website."
+    />
+    <title>The Brass Guardian — Deployment Test</title>
+  </head>
+  <body>
+    <main>
+      <h1>Hello, Aetherhaven!</h1>
+      <p>The Brass Guardian website scaffolding is working.</p>
+    </main>
+    <Analytics />
+    <SpeedInsights />
+  </body>
+</html>
+
+<style>
+  :global(:root) {
+    color-scheme: dark;
+    font-family: Georgia, "Times New Roman", serif;
+    background: #07111f;
+    color: #f3e3bb;
+  }
+
+  :global(body) {
+    display: grid;
+    min-height: 100vh;
+    margin: 0;
+    place-items: center;
+  }
+
+  main {
+    max-width: 42rem;
+    padding: 2rem;
+    text-align: center;
+  }
+
+  p {
+    color: #9eddf5;
+    font-family: system-ui, sans-serif;
+  }
+</style>
