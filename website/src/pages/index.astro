@@ -1,7 +1,5 @@
 ---
-import Analytics from "@vercel/analytics/astro";
-import SpeedInsights from "@vercel/speed-insights/astro";
-import SiteMeta from "../components/SiteMeta.astro";
+import SiteLayout from "../layouts/SiteLayout.astro";
 
 const pageTitle = "The Brass Guardian — Coming Soon";
 const pageDescription =
@@ -9,16 +7,11 @@ const pageDescription =
 const canonicalUrl = "https://thebrassguardian.com/";
 ---
 
-<!doctype html>
-<html lang="en">
-  <head>
-    <SiteMeta
-      title={pageTitle}
-      description={pageDescription}
-      canonical={canonicalUrl}
-    />
-  </head>
-  <body>
+<SiteLayout
+  title={pageTitle}
+  description={pageDescription}
+  canonical={canonicalUrl}
+>
     <div class="atmosphere" aria-hidden="true">
       <span class="aether-glow"></span>
       <span class="horizon"></span>
@@ -129,9 +122,6 @@ const canonicalUrl = "https://thebrassguardian.com/";
       </div>
     </dialog>
 
-    <Analytics />
-    <SpeedInsights />
-
     <script>
       const openButton = document.querySelector<HTMLButtonElement>("#cover-open");
       const closeButton = document.querySelector<HTMLButtonElement>("#cover-close");
@@ -155,8 +145,7 @@ const canonicalUrl = "https://thebrassguardian.com/";
         openButton?.focus();
       });
     </script>
-  </body>
-</html>
+</SiteLayout>
 
 <style>
   :global(:root) {

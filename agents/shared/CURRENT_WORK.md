@@ -71,7 +71,8 @@ These are directional, not yet a locked sitemap.
 - The author approved the public-safe Coming Soon page, including responsive cover-art derivatives, a brass archive display stand, and an accessible cover reader.
 - The production Coming Soon page is live at canonical **TheBrassGuardian.com** (`https://thebrassguardian.com/`). The `www.thebrassguardian.com`, `brassguardian.com`, `www.brassguardian.com`, and stable Vercel production hostnames permanently redirect to the canonical apex; branch and deployment-specific Vercel URLs remain available only for review. HTTPS, certificates, final GET behavior, canonical metadata, and absence of GitHub routing were verified after cutover.
 - Vercel Hobby remains approved for the initial non-commercial deployment.
+- Milestone A establishes an empty explicit public manifest, a fail-closed publication validator and test suite, and a reusable Astro site layout. No public lore or archive record routes were added, and the Coming Soon presentation remains unchanged.
 
 ### Next Recommended Step
 
-Continue with a curated publication schema and content architecture. Do not begin by copying all canon to the public site.
+Select and author-review the first exact public archive projection as a separate milestone. Do not populate the manifest by copying internal canon wholesale.

@@ -1,19 +1,12 @@
 ---
-import Analytics from "@vercel/analytics/astro";
-import SpeedInsights from "@vercel/speed-insights/astro";
-import SiteMeta from "../components/SiteMeta.astro";
+import SiteLayout from "../layouts/SiteLayout.astro";
 
 const pageTitle = "Archive Record Not Found — The Brass Guardian";
 const pageDescription =
   "The requested file is not available in the public Aetherhaven Archives.";
 ---
 
-<!doctype html>
-<html lang="en">
-  <head>
-    <SiteMeta title={pageTitle} description={pageDescription} />
-  </head>
-  <body>
+<SiteLayout title={pageTitle} description={pageDescription}>
     <main>
       <section class="archive-notice" aria-labelledby="not-found-title">
         <p class="catalog-line">Aetherhaven Archives <span aria-hidden="true">•</span> Public Access</p>
@@ -25,10 +18,7 @@ const pageDescription =
       </section>
     </main>
 
-    <Analytics />
-    <SpeedInsights />
-  </body>
-</html>
+</SiteLayout>
 
 <style>
   :global(:root) {

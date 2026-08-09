@@ -1,4 +1,4 @@
-# Website Deployment Scaffold
+# The Brass Guardian Website
 
 This directory contains the Astro site for **The Brass Guardian**.
 
@@ -20,13 +20,21 @@ npm run build
 npm run preview
 ```
 
-Run the complete metadata and static-route acceptance check with:
+Run the complete publication, test, build, metadata, and static-route acceptance checks with:
 
 ```bash
 npm run verify
 ```
 
-The verification command builds the site, then checks the generated metadata, favicon links, social image, web manifest, and custom 404 route.
+The verification command runs the publication-boundary contract tests, validates the explicit public manifest, builds the site, and checks the generated metadata, favicon links, social image, web manifest, and custom 404 route.
+
+## Curated Publication Boundary
+
+`content/public/manifest.json` is the website's explicit publication allowlist. It currently contains no entries. Internal canon, stories, proposals, and artwork are never imported into public routes merely because they exist in the repository.
+
+Every future public record must have an existing canonical source, a deliberately written public title and summary, an `approved` publication status, a `public` or author-selected `teaser` classification, and a dated author approval record. The prebuild validator rejects restricted classifications, missing sources or images, undeclared internal fields, duplicate identifiers, and cross-references to unpublished records.
+
+See [`docs/PUBLICATION_BOUNDARY.md`](docs/PUBLICATION_BOUNDARY.md) for the complete field contract and approval workflow.
 
 ## Initial Vercel Project Settings
 
@@ -73,15 +81,15 @@ Pillow is intentionally a local, generator-only dependency. It is not listed in 
 
 ## Sharing and Utility Routes
 
-`src/components/SiteMeta.astro` owns canonical, Open Graph, Twitter/X card, favicon, manifest, and indexing metadata. The Coming Soon page remains deliberately `noindex, nofollow`. `src/pages/404.astro` provides a public-safe archive-themed error route with an obvious return to the archive entrance.
+`src/layouts/SiteLayout.astro` owns the shared HTML shell, Vercel instrumentation, and `SiteMeta` integration. `src/components/SiteMeta.astro` owns canonical, Open Graph, Twitter/X card, favicon, manifest, and indexing metadata. The Coming Soon page remains deliberately `noindex, nofollow`. `src/pages/404.astro` provides a public-safe archive-themed error route with an obvious return to the archive entrance.
 
 ## Web Analytics
 
-The root page imports the official Astro component from `@vercel/analytics/astro` and renders `<Analytics />`. Analytics begins collecting page views after the integration is deployed and the deployed site is visited.
+The shared site layout imports the official Astro component from `@vercel/analytics/astro` and renders `<Analytics />`. Analytics begins collecting page views after the integration is deployed and the deployed site is visited.
 
 ## Speed Insights
 
-The root page imports the official Astro component from `@vercel/speed-insights/astro` and renders `<SpeedInsights />`. Performance data begins collecting after the integration is deployed and the deployed site is visited.
+The shared site layout imports the official Astro component from `@vercel/speed-insights/astro` and renders `<SpeedInsights />`. Performance data begins collecting after the integration is deployed and the deployed site is visited.
 
 ## References
 

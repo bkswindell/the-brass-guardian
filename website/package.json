@@ -5,9 +5,12 @@
   "type": "module",
   "scripts": {
     "dev": "astro dev",
+    "prebuild": "npm run verify:publication",
     "build": "astro build",
     "preview": "astro preview",
-    "verify": "npm run build && node scripts/verify-site.mjs"
+    "test": "node --test scripts/*.test.mjs",
+    "verify:publication": "node scripts/verify-publication-boundary.mjs",
+    "verify": "npm run test && npm run build && node scripts/verify-site.mjs"
   },
   "dependencies": {
     "@vercel/analytics": "2.0.1",

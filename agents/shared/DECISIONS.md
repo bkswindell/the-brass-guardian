@@ -138,6 +138,20 @@ Deploy the approved page to Vercel production before changing DNS. **TheBrassGua
 
 ---
 
+## 2026-08-09 — Curated Publication Boundary
+
+**Status:** APPROVED
+
+The public website uses `website/content/public/manifest.json` as its explicit publication allowlist. The manifest begins empty. Repository presence, internal canon status, or build-system access does not grant publication approval.
+
+Every future public record must use separately curated public-facing fields, reference an owning canonical source, carry explicit author approval, and be classified `public` or deliberately approved `teaser`. Draft, story-sensitive, creator-only, malformed, or undeclared material must fail the production build rather than render.
+
+Public image references must resolve to approved regular files under the website's public asset root, use meaningful alternative text and explicit dimensions, and pass canonical URL, traversal, and symbolic-link containment checks. Internal provenance and approval metadata must not enter client-facing projections.
+
+Future archive records reserve stable routes of the form `/archive/{entityType}/{slug}/`, but no archive record routes or public lore are approved by this decision. Each exact text and image projection still requires author review before publication.
+
+---
+
 ## 2026-08-08 — Moon Garden Canon
 
 **Status:** APPROVED
