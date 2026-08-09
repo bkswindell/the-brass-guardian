@@ -69,11 +69,9 @@ These are directional, not yet a locked sitemap.
 - The Astro website is implemented under `website/` and deploys automatically from GitHub to Vercel.
 - Vercel Web Analytics and Speed Insights are installed and verified.
 - The author approved the public-safe Coming Soon page, including responsive cover-art derivatives, a brass archive display stand, and an accessible cover reader.
-- `thebrassguardian.com` and `www.thebrassguardian.com` currently redirect to the official GitHub repository as placeholders.
+- The production Coming Soon page is live at canonical **TheBrassGuardian.com** (`https://thebrassguardian.com/`). The `www.thebrassguardian.com`, `brassguardian.com`, `www.brassguardian.com`, and stable Vercel production hostnames permanently redirect to the canonical apex; branch and deployment-specific Vercel URLs remain available only for review. HTTPS, certificates, final GET behavior, canonical metadata, and absence of GitHub routing were verified after cutover.
 - Vercel Hobby remains approved for the initial non-commercial deployment.
 
 ### Next Recommended Step
 
-Deploy the approved Coming Soon page to Vercel production, add the apex and `www` custom domains to the Vercel project, then replace the GoDaddy GitHub forwarding records with Vercel's required DNS records. Preserve unrelated DNS records, use the apex as canonical, redirect `www` to the apex, and verify HTTPS and final GET behavior.
-
-After the public placeholder is live, continue with a curated publication schema and content architecture. Do not begin by copying all canon to the public site.
+Continue with a curated publication schema and content architecture. Do not begin by copying all canon to the public site.

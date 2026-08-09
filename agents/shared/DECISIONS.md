@@ -134,7 +134,7 @@ Connecting the domains is a separate cutover step and must not be performed mere
 
 The author approved replacing the temporary GitHub redirects for `thebrassguardian.com` and `www.thebrassguardian.com` with the reviewed Vercel-hosted Coming Soon page. The page may use the approved cover artwork as a prominent archive display with an accessible cover reader, while remaining public-safe and free of unreleased story material.
 
-Deploy the approved page to Vercel production before changing DNS. Use `thebrassguardian.com` as the canonical hostname, redirect `www.thebrassguardian.com` to the apex, preserve unrelated DNS records, and verify HTTPS and redirect behavior after cutover.
+Deploy the approved page to Vercel production before changing DNS. **TheBrassGuardian.com** is the branded canonical website, represented technically as `https://thebrassguardian.com/`; permanently redirect `www.thebrassguardian.com`, `brassguardian.com`, `www.brassguardian.com`, and the stable Vercel production hostname to that canonical apex. Preserve unrelated DNS records, and verify HTTPS and redirect behavior after cutover. Branch and deployment-specific Vercel URLs remain available only for deployment review.
 
 ---
 
