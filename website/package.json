@@ -1,0 +1,13 @@
+{
+  "name": "the-brass-guardian-website",
+  "version": "1.0.0",
+  "description": "The Brass Guardian website",
+  "private": true,
+  "scripts": {
+    "dev": "python3 -m http.server 4173",
+    "test": "echo \"No tests configured\""
+  },
+  "dependencies": {
+    "@vercel/analytics": "^1.4.1"
+  }
+}
