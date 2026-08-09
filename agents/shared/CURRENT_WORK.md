@@ -73,7 +73,7 @@ These are directional, not yet a locked sitemap.
 - Vercel Hobby remains approved for the initial non-commercial deployment.
 - Milestone A establishes an empty explicit public manifest, a fail-closed publication validator and test suite, and a reusable Astro site layout. No public lore or archive record routes were added, and the Coming Soon presentation remains unchanged.
 - Milestone C1 is active on `feat/world-entrance-map`. The branch is an author-approved iterative workspace: agents may commit, push, and refresh its Vercel Preview without per-change approval, but may not merge to `main` or publish to production without explicit approval.
-- C1 currently contains a proposal-only Archive entrance, interactive Aetherhaven map, and seven preview records. Proposal records are enabled only by `PUBLICATION_PREVIEW=1` or Vercel's `VERCEL_ENV=preview`; the production build keeps the approved public manifest empty and excludes proposal record routes and copy.
+- C1 currently contains a proposal-only Archive entrance, interactive Aetherhaven map, and seven preview records. Proposal records are enabled only by `PUBLICATION_PREVIEW=1` or Vercel's `VERCEL_ENV=preview`; the production build keeps the approved public manifest empty and excludes proposal record routes, copy, and artwork. Candidate derivatives live outside Astro's unconditional `public/` tree and are staged only during preview builds.
 
 ### Next Recommended Step
 

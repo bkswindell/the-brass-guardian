@@ -39,11 +39,13 @@ npm run verify:archive-preview
 
 Vercel sets `VERCEL_ENV=preview` automatically for branch deployments. Production builds do not load the proposal records. The dedicated preview branch may be committed and pushed iteratively, but merging to `main` and production publication remain explicit author approval gates.
 
-Responsive archive derivatives are reproducible from the unchanged active artwork:
+Responsive archive derivatives are reproducible from the unchanged active artwork after creating the generator environment described below:
 
 ```bash
 npm run assets:archive
 ```
+
+Proposal derivatives are stored under `content/preview/assets/archive/`, outside Astro's unconditional `public/` tree. The build wrapper stages them only for an explicitly enabled preview build and removes the staging directory afterward. Ordinary production artifacts must not contain `dist/images/archive/`.
 
 ## Curated Publication Boundary
 
@@ -89,6 +91,7 @@ Then regenerate and verify the committed assets:
 
 ```bash
 .venv/bin/python scripts/generate-brand-assets.py
+npm run assets:archive
 npm run verify
 ```
 

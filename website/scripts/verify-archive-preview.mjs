@@ -1,4 +1,4 @@
-import { readFile } from "node:fs/promises";
+import { readFile, stat } from "node:fs/promises";
 
 const root = new URL("../dist-preview/", import.meta.url);
 const failures = [];
@@ -9,6 +9,11 @@ const expect = (condition, message) => {
 
 const readText = async (path) =>
   readFile(new URL(path, root), "utf8").catch(() => "");
+
+const exists = async (path) =>
+  stat(new URL(path, root))
+    .then((entry) => entry.isFile())
+    .catch(() => false);
 
 const routes = [
   ["archive/index.html", "Explore Aetherhaven"],
@@ -66,8 +71,18 @@ expect(
   "Map must expose understandable zoom controls.",
 );
 expect(
+  mapHtml.includes(
+    'id="map-zoom-level" for="map-zoom-in map-zoom-out" aria-live="polite" aria-atomic="true"',
+  ),
+  "Map must announce zoom-level changes to assistive technology.",
+);
+expect(
   mapHtml.includes("Accessible map records"),
   "Map must provide a non-visual record list equivalent to the hotspots.",
+);
+expect(
+  await exists("images/archive/map-of-aetherhaven-1539.webp"),
+  "Preview builds must emit the staged proposal map asset.",
 );
 
 if (failures.length > 0) {

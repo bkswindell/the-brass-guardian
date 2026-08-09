@@ -1,11 +1,8 @@
 import assert from "node:assert/strict";
-import { mkdtemp, readFile, rm } from "node:fs/promises";
-import { tmpdir } from "node:os";
-import { join } from "node:path";
-import { spawnSync } from "node:child_process";
+import { readFile } from "node:fs/promises";
 import test from "node:test";
 
-const script = new URL("generate-archive-assets.py", import.meta.url);
+const assetRoot = new URL("../content/preview/assets/archive/", import.meta.url);
 
 const expectedOutputs = new Map([
   ["map-of-aetherhaven-768.webp", 768],
@@ -17,37 +14,49 @@ const expectedOutputs = new Map([
   ["wayfinder-above-clouds-1024.webp", 1024],
 ]);
 
-test("generates responsive archive WebP derivatives from repository artwork", async (t) => {
-  const outputRoot = await mkdtemp(join(tmpdir(), "aetherhaven-archive-assets-"));
-  t.after(() => rm(outputRoot, { recursive: true, force: true }));
+const readUint24LE = (bytes, offset) =>
+  bytes[offset] | (bytes[offset + 1] << 8) | (bytes[offset + 2] << 16);
 
-  const generation = spawnSync(
-    "python3",
-    [script.pathname, "--output-root", outputRoot],
-    { encoding: "utf8" },
-  );
+const readWebpDimensions = (bytes) => {
+  assert.equal(bytes.toString("ascii", 0, 4), "RIFF");
+  assert.equal(bytes.toString("ascii", 8, 12), "WEBP");
 
-  assert.equal(generation.status, 0, generation.stderr || generation.stdout);
+  const chunk = bytes.toString("ascii", 12, 16);
+  if (chunk === "VP8X") {
+    return {
+      width: readUint24LE(bytes, 24) + 1,
+      height: readUint24LE(bytes, 27) + 1,
+    };
+  }
 
+  if (chunk === "VP8 ") {
+    assert.equal(bytes.toString("hex", 23, 26), "9d012a");
+    return {
+      width: bytes.readUInt16LE(26) & 0x3fff,
+      height: bytes.readUInt16LE(28) & 0x3fff,
+    };
+  }
+
+  if (chunk === "VP8L") {
+    assert.equal(bytes[20], 0x2f);
+    return {
+      width: 1 + bytes[21] + ((bytes[22] & 0x3f) << 8),
+      height:
+        1 +
+        (bytes[22] >> 6) +
+        (bytes[23] << 2) +
+        ((bytes[24] & 0x0f) << 10),
+    };
+  }
+
+  assert.fail(`Unsupported WebP chunk ${JSON.stringify(chunk)}`);
+};
+
+test("committed proposal archive assets are valid responsive WebP files", async () => {
   for (const [filename, expectedWidth] of expectedOutputs) {
-    const outputPath = join(outputRoot, filename);
-    const bytes = await readFile(outputPath);
-    assert.equal(bytes.toString("ascii", 0, 4), "RIFF", `${filename} is not WebP`);
-    assert.equal(bytes.toString("ascii", 8, 12), "WEBP", `${filename} is not WebP`);
-
-    const inspection = spawnSync(
-      "python3",
-      [
-        "-c",
-        "from PIL import Image; import sys; im=Image.open(sys.argv[1]); print(im.format, im.width, im.height)",
-        outputPath,
-      ],
-      { encoding: "utf8" },
-    );
-    assert.equal(inspection.status, 0, inspection.stderr);
-    const [format, width, height] = inspection.stdout.trim().split(" ");
-    assert.equal(format, "WEBP");
-    assert.equal(Number(width), expectedWidth);
-    assert.ok(Number(height) > 0);
+    const bytes = await readFile(new URL(filename, assetRoot));
+    const dimensions = readWebpDimensions(bytes);
+    assert.equal(dimensions.width, expectedWidth, filename);
+    assert.ok(dimensions.height > 0, filename);
   }
 });

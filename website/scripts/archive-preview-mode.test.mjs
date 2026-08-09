@@ -40,4 +40,12 @@ test("marks every preview record as a non-canonical proposal", () => {
       entry.relatedEntryIds.every((relatedId) => ids.includes(relatedId)),
     ),
   );
+
+  const markerPositions = Object.fromEntries(
+    entries
+      .filter((entry) => entry.mapMarker)
+      .map((entry) => [entry.mapMarker, entry.mapPosition]),
+  );
+  assert.deepEqual(markerPositions[8], { x: 28, y: 59 });
+  assert.deepEqual(markerPositions[13], { x: 57, y: 23.4 });
 });

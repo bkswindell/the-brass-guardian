@@ -42,7 +42,12 @@ const entryHref = (entry) =>
             <span>Map controls</span>
             <div>
               <button id="map-zoom-out" type="button" aria-label="Zoom out">−</button>
-              <output id="map-zoom-level" for="map-zoom-in map-zoom-out">100%</output>
+              <output
+                id="map-zoom-level"
+                for="map-zoom-in map-zoom-out"
+                aria-live="polite"
+                aria-atomic="true">100%</output
+              >
               <button id="map-zoom-in" type="button" aria-label="Zoom in">+</button>
               <button id="map-reset" class="reset-control" type="button">Reset view</button>
             </div>
@@ -139,12 +144,28 @@ const entryHref = (entry) =>
           const levels = [1, 1.25, 1.5, 1.75, 2];
           let levelIndex = 0;
 
-          const updateZoom = () => {
+          const updateZoom = (preserveCenter = true) => {
             const scale = levels[levelIndex];
+            const centerRatioX =
+              viewport && canvas && canvas.offsetWidth > 0
+                ? (viewport.scrollLeft + viewport.clientWidth / 2) / canvas.offsetWidth
+                : 0.5;
+            const centerRatioY =
+              viewport && canvas && canvas.offsetHeight > 0
+                ? (viewport.scrollTop + viewport.clientHeight / 2) / canvas.offsetHeight
+                : 0.5;
+
             if (canvas) canvas.style.width = `${scale * 100}%`;
             if (zoomOutput) zoomOutput.value = `${Math.round(scale * 100)}%`;
             if (zoomOut) zoomOut.disabled = levelIndex === 0;
             if (zoomIn) zoomIn.disabled = levelIndex === levels.length - 1;
+
+            if (preserveCenter && viewport && canvas) {
+              viewport.scrollTo({
+                left: centerRatioX * canvas.offsetWidth - viewport.clientWidth / 2,
+                top: centerRatioY * canvas.offsetHeight - viewport.clientHeight / 2,
+              });
+            }
           };
 
           const selectHotspot = (hotspot: HTMLButtonElement) => {
@@ -171,7 +192,7 @@ const entryHref = (entry) =>
 
           reset?.addEventListener("click", () => {
             levelIndex = 0;
-            updateZoom();
+            updateZoom(false);
             viewport?.scrollTo({ top: 0, left: 0, behavior: "smooth" });
           });
 
@@ -180,7 +201,7 @@ const entryHref = (entry) =>
           });
 
           if (hotspots[0]) selectHotspot(hotspots[0]);
-          updateZoom();
+          updateZoom(false);
         </script>
       </>
     ) : (

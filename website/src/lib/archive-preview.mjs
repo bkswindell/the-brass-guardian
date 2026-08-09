@@ -63,7 +63,7 @@ const worldEntranceEntries = [
     spoilerClassification: "teaser",
     sourcePaths: ["locations/The_Gardens_Airship_Landing.md"],
     mapMarker: "8",
-    mapPosition: { x: 28, y: 65 },
+    mapPosition: { x: 28, y: 59 },
     relatedEntryIds: [
       "location-aetherhaven",
       "location-clockwork-gardens",
@@ -99,7 +99,7 @@ const worldEntranceEntries = [
     spoilerClassification: "public",
     sourcePaths: ["locations/The_Inventors_District.md"],
     mapMarker: "13",
-    mapPosition: { x: 57, y: 28.5 },
+    mapPosition: { x: 57, y: 23.4 },
     relatedEntryIds: ["location-aetherhaven"],
     tags: ["invention", "workshops", "map-location"],
   },

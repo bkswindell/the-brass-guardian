@@ -6,7 +6,9 @@ from PIL import Image
 SCRIPT_ROOT = Path(__file__).resolve().parent
 WEBSITE_ROOT = SCRIPT_ROOT.parent
 REPO_ROOT = WEBSITE_ROOT.parent
-DEFAULT_OUTPUT_ROOT = WEBSITE_ROOT / "public" / "images" / "archive"
+DEFAULT_OUTPUT_ROOT = (
+    WEBSITE_ROOT / "content" / "preview" / "assets" / "archive"
+)
 
 ASSET_GROUPS = (
     (

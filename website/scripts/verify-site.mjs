@@ -20,6 +20,11 @@ const exists = async (path) =>
     .then((entry) => entry.isFile())
     .catch(() => false);
 
+const pathExists = async (path) =>
+  stat(new URL(path, root))
+    .then(() => true)
+    .catch(() => false);
+
 const sofMarkers = new Set([
   0xc0,
   0xc1,
@@ -134,6 +139,10 @@ expect(
 );
 expect(await exists("robots.txt"), "robots.txt must be emitted.");
 expect(await exists("site.webmanifest"), "The web manifest must be emitted.");
+expect(
+  !(await pathExists("images/archive")),
+  "Production builds must not emit proposal-only archive artwork.",
+);
 
 expect(
   robotsText.replace(/\r\n/g, "\n").trimEnd() ===
