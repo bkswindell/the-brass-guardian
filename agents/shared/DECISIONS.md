@@ -164,6 +164,16 @@ Explicit author approval is still required before merging the dedicated branch i
 
 ---
 
+## 2026-08-09 — Archive Discovery Navigation
+
+**Status:** APPROVED DIRECTION
+
+The public Archive experience should combine a natural, curator-led sequence with flexible self-directed discovery. Curators may recommend an intentional order and explain why records have been placed together, but visitors must remain free to leave that route, use the map, search or filter the catalog, follow cross-references, and return to the suggested path later.
+
+The Curator’s Route and Open Catalog are complementary views of the same cleared material, not separate canon tiers or access gates. The interface should feel like exploring rooms, cabinets, maps, and record relationships rather than navigating a conventional wiki, while still making location, orientation, and the next available action unmistakable.
+
+---
+
 ## 2026-08-08 — Moon Garden Canon
 
 **Status:** APPROVED

@@ -53,6 +53,24 @@ expect(
   archiveHtml.includes("7 records cleared for preview"),
   "Archive entrance must report the preview record count.",
 );
+expect(
+  archiveHtml.includes("Curator’s Route") &&
+    archiveHtml.includes("Begin curated route"),
+  "Archive entrance must offer a clearly curated discovery path.",
+);
+expect(
+  archiveHtml.includes("Open Catalog") &&
+    archiveHtml.includes('id="catalog-search"') &&
+    archiveHtml.includes('id="catalog-result-count"'),
+  "Archive entrance must also offer a searchable, accessible open catalog.",
+);
+
+const aetherhavenHtml = await readText("archive/location/aetherhaven/index.html");
+expect(
+  aetherhavenHtml.includes('aria-label="Curator’s Route"') &&
+    aetherhavenHtml.includes("Next stop: The Map Room"),
+  "Record pages must preserve the suggested route without trapping free exploration.",
+);
 
 const mapHtml = await readText("archive/map/index.html");
 for (const marker of ["2", "8", "12", "13", "19"]) {
@@ -83,6 +101,10 @@ expect(
 expect(
   await exists("images/archive/map-of-aetherhaven-1539.webp"),
   "Preview builds must emit the staged proposal map asset.",
+);
+expect(
+  mapHtml.includes("Continue to The Clockwork Gardens"),
+  "The Map Room must offer the next curated stop.",
 );
 
 if (failures.length > 0) {

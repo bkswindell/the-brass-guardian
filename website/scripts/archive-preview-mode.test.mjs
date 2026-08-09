@@ -13,6 +13,7 @@ test("keeps proposal records disabled for production builds", () => {
   const preview = getWorldEntrancePreview({ VERCEL_ENV: "production" });
   assert.equal(preview.enabled, false);
   assert.deepEqual(preview.entries, []);
+  assert.deepEqual(preview.curatorRoute, []);
 });
 
 test("enables proposal records only for explicit local or Vercel preview builds", () => {
@@ -23,6 +24,20 @@ test("enables proposal records only for explicit local or Vercel preview builds"
   const preview = getWorldEntrancePreview({ VERCEL_ENV: "preview" });
   assert.equal(preview.enabled, true);
   assert.equal(preview.entries.length, 7);
+  assert.deepEqual(
+    preview.curatorRoute.map((step) => step.id),
+    [
+      "location-aetherhaven",
+      "map-room",
+      "location-clockwork-gardens",
+      "location-gardens-airship-landing",
+      "vessel-wayfinder",
+      "location-aerial-docks",
+      "district-merchant",
+      "district-inventors",
+    ],
+  );
+  assert.ok(preview.curatorRoute.every((step) => step.href.startsWith("/archive/")));
 });
 
 test("marks every preview record as a non-canonical proposal", () => {

@@ -6,14 +6,24 @@ export function getStaticPaths() {
   const archive = getWorldEntrancePreview();
   return archive.entries.map((entry) => ({
     params: { entityType: entry.entityType, slug: entry.slug },
-    props: { entry, entries: archive.entries },
+    props: {
+      entry,
+      entries: archive.entries,
+      curatorRoute: archive.curatorRoute,
+    },
   }));
 }
 
-const { entry, entries } = Astro.props;
+const { entry, entries, curatorRoute } = Astro.props;
 const relatedEntries = entry.relatedEntryIds
   .map((id) => entries.find((candidate) => candidate.id === id))
   .filter(Boolean);
+const routeIndex = curatorRoute.findIndex((step) => step.id === entry.id);
+const previousStep = routeIndex > 0 ? curatorRoute[routeIndex - 1] : null;
+const nextStep =
+  routeIndex >= 0 && routeIndex < curatorRoute.length - 1
+    ? curatorRoute[routeIndex + 1]
+    : null;
 const description = entry.publicSummary;
 const entryHref = (related) =>
   `/archive/${related.entityType}/${related.slug}/`;
@@ -102,6 +112,46 @@ const responsiveSources = {
       </dl>
     </section>
   </article>
+
+  <nav class="curator-route-nav" aria-label="Curator’s Route">
+    <header>
+      <p class="archive-kicker">Suggested passage</p>
+      <p>
+        Stop {routeIndex + 1} of {curatorRoute.length} on the Curator’s Route
+      </p>
+    </header>
+    <div>
+      {
+        previousStep ? (
+          <a class="route-direction previous" href={previousStep.href}>
+            <small>Previous stop</small>
+            <strong>{previousStep.title}</strong>
+          </a>
+        ) : (
+          <a class="route-direction previous" href="/archive/#curators-route">
+            <small>Route index</small>
+            <strong>View all eight stops</strong>
+          </a>
+        )
+      }
+      <a class="leave-route" href="/archive/#open-catalog">
+        Leave the route and browse freely
+      </a>
+      {
+        nextStep ? (
+          <a class="route-direction next" href={nextStep.href}>
+            <small>Next stop: {nextStep.title}</small>
+            <strong>{nextStep.note}</strong>
+          </a>
+        ) : (
+          <a class="route-direction next" href="/archive/#open-catalog">
+            <small>Route complete</small>
+            <strong>Continue through the Open Catalog</strong>
+          </a>
+        )
+      }
+    </div>
+  </nav>
 
   {
     relatedEntries.length > 0 && (
@@ -298,6 +348,84 @@ const responsiveSources = {
     margin-top: clamp(4rem, 8vw, 7rem);
   }
 
+  .curator-route-nav {
+    margin-top: 1rem;
+    border: 1px solid var(--archive-line);
+    background: rgb(4 12 19 / 82%);
+  }
+
+  .curator-route-nav header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0.75rem 1rem;
+    border-bottom: 1px solid var(--archive-line);
+    gap: 1rem;
+  }
+
+  .curator-route-nav header p {
+    margin: 0;
+  }
+
+  .curator-route-nav header > p:last-child {
+    color: var(--archive-muted);
+    font-size: 0.68rem;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+  }
+
+  .curator-route-nav > div {
+    display: grid;
+    align-items: stretch;
+    grid-template-columns: minmax(0, 1fr) auto minmax(0, 1fr);
+  }
+
+  .route-direction {
+    display: grid;
+    min-height: 7.5rem;
+    padding: 1.1rem;
+    color: var(--archive-paper);
+    text-decoration: none;
+    gap: 0.55rem;
+  }
+
+  .route-direction:hover,
+  .route-direction:focus-visible {
+    background: rgb(197 138 54 / 9%);
+  }
+
+  .route-direction small {
+    color: var(--archive-brass);
+    font-size: 0.62rem;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+  }
+
+  .route-direction strong {
+    color: var(--archive-muted);
+    font-size: 0.9rem;
+    font-weight: 400;
+    line-height: 1.5;
+  }
+
+  .route-direction.next {
+    border-left: 1px solid var(--archive-line);
+    text-align: right;
+  }
+
+  .leave-route {
+    display: grid;
+    min-width: 10rem;
+    padding: 1rem;
+    border-left: 1px solid var(--archive-line);
+    color: var(--archive-blue);
+    font-size: 0.62rem;
+    letter-spacing: 0.08em;
+    place-items: center;
+    text-align: center;
+    text-transform: uppercase;
+  }
+
   .related-records > div {
     display: grid;
     grid-template-columns: repeat(3, minmax(0, 1fr));
@@ -369,6 +497,22 @@ const responsiveSources = {
 
     .record-image picture {
       min-height: 20rem;
+    }
+
+    .curator-route-nav header {
+      align-items: flex-start;
+      flex-direction: column;
+    }
+
+    .curator-route-nav > div {
+      grid-template-columns: 1fr;
+    }
+
+    .route-direction.next,
+    .leave-route {
+      border-top: 1px solid var(--archive-line);
+      border-left: 0;
+      text-align: left;
     }
   }
 </style>

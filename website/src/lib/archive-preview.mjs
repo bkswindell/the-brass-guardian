@@ -147,10 +147,78 @@ const worldEntranceEntries = [
   },
 ];
 
+const curatorRouteDefinition = [
+  {
+    id: "location-aetherhaven",
+    label: "Orientation record",
+    note: "Begin with the city as a whole before opening its individual cabinets.",
+  },
+  {
+    id: "map-room",
+    kind: "room",
+    title: "The Map Room",
+    href: "/archive/map/",
+    label: "Cartographic table",
+    note: "Set the records beside their numbered places, then choose whether to follow or wander.",
+  },
+  {
+    id: "location-clockwork-gardens",
+    label: "Living systems",
+    note: "Enter by the public walks, where mechanisms grow as often as they are built.",
+  },
+  {
+    id: "location-gardens-airship-landing",
+    label: "Threshold record",
+    note: "Move from the Gardens to the landing where journeys begin and return.",
+  },
+  {
+    id: "vessel-wayfinder",
+    label: "Explorer vessel",
+    note: "Meet the airship that carries the Hawthornes beyond Aetherhaven and home again.",
+  },
+  {
+    id: "location-aerial-docks",
+    label: "Civic gateway",
+    note: "Compare one familiar berth with the city’s vast and crowded aerial port.",
+  },
+  {
+    id: "district-merchant",
+    label: "City life",
+    note: "Follow the goods, arguments, and rumors that move between every quarter.",
+  },
+  {
+    id: "district-inventors",
+    label: "Working knowledge",
+    note: "Finish among the workshops where Aetherhaven tests what it may become next.",
+  },
+];
+
+const entryHref = (entry) =>
+  `/archive/${entry.entityType}/${entry.slug}/`;
+
+const worldEntranceCuratorRoute = curatorRouteDefinition.map((step) => {
+  if (step.kind === "room") return step;
+
+  const entry = worldEntranceEntries.find((candidate) => candidate.id === step.id);
+  if (!entry) throw new Error(`Unknown curator route entry: ${step.id}`);
+
+  return {
+    ...step,
+    kind: "record",
+    title: entry.publicTitle,
+    href: entryHref(entry),
+    entityType: entry.entityType,
+  };
+});
+
 export const isArchivePreviewEnabled = (env = process.env) =>
   env.PUBLICATION_PREVIEW === "1" || env.VERCEL_ENV === "preview";
 
-export const getWorldEntrancePreview = (env = process.env) => ({
-  enabled: isArchivePreviewEnabled(env),
-  entries: isArchivePreviewEnabled(env) ? worldEntranceEntries : [],
-});
+export const getWorldEntrancePreview = (env = process.env) => {
+  const enabled = isArchivePreviewEnabled(env);
+  return {
+    enabled,
+    entries: enabled ? worldEntranceEntries : [],
+    curatorRoute: enabled ? worldEntranceCuratorRoute : [],
+  };
+};

@@ -5,6 +5,9 @@ import { getWorldEntrancePreview } from "../../../lib/archive-preview.mjs";
 const archive = getWorldEntrancePreview();
 const mapEntries = archive.entries.filter((entry) => entry.mapMarker);
 const initialEntry = mapEntries[0];
+const routeIndex = archive.curatorRoute.findIndex((step) => step.id === "map-room");
+const previousStep = archive.curatorRoute[routeIndex - 1];
+const nextStep = archive.curatorRoute[routeIndex + 1];
 const description =
   "Explore the proposal preview of the illustrated Map of Aetherhaven and its first cleared archive records.";
 const entryHref = (entry) =>
@@ -109,6 +112,21 @@ const entryHref = (entry) =>
             </aside>
           </div>
         </section>
+
+        <nav class="map-route-nav" aria-label="Curator’s Route">
+          <a href={previousStep.href}>
+            <small>Previous stop</small>
+            <strong>{previousStep.title}</strong>
+          </a>
+          <div>
+            <span>Stop {routeIndex + 1} of {archive.curatorRoute.length}</span>
+            <a href="/archive/#open-catalog">Leave the route and browse freely</a>
+          </div>
+          <a class="next" href={nextStep.href}>
+            <small>Continue to {nextStep.title}</small>
+            <strong>{nextStep.note}</strong>
+          </a>
+        </nav>
 
         <section class="accessible-records" aria-labelledby="accessible-records-title">
           <header>
@@ -420,6 +438,66 @@ const entryHref = (entry) =>
     line-height: 1.5;
   }
 
+  .map-route-nav {
+    display: grid;
+    align-items: stretch;
+    grid-template-columns: minmax(0, 1fr) auto minmax(0, 1fr);
+    margin-top: 1rem;
+    border: 1px solid var(--archive-line);
+    background: rgb(4 12 19 / 82%);
+  }
+
+  .map-route-nav > a {
+    display: grid;
+    min-height: 7.5rem;
+    padding: 1.1rem;
+    color: var(--archive-paper);
+    text-decoration: none;
+    gap: 0.55rem;
+  }
+
+  .map-route-nav > a:hover,
+  .map-route-nav > a:focus-visible {
+    background: rgb(197 138 54 / 9%);
+  }
+
+  .map-route-nav small {
+    color: var(--archive-brass);
+    font-size: 0.62rem;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+  }
+
+  .map-route-nav strong {
+    color: var(--archive-muted);
+    font-size: 0.9rem;
+    font-weight: 400;
+    line-height: 1.5;
+  }
+
+  .map-route-nav > div {
+    display: grid;
+    min-width: 11rem;
+    padding: 1rem;
+    border-right: 1px solid var(--archive-line);
+    border-left: 1px solid var(--archive-line);
+    color: var(--archive-muted);
+    font-size: 0.62rem;
+    letter-spacing: 0.08em;
+    place-content: center;
+    text-align: center;
+    text-transform: uppercase;
+    gap: 0.6rem;
+  }
+
+  .map-route-nav > div a {
+    color: var(--archive-blue);
+  }
+
+  .map-route-nav .next {
+    text-align: right;
+  }
+
   .accessible-records {
     margin-top: clamp(3.5rem, 8vw, 7rem);
   }
@@ -501,6 +579,20 @@ const entryHref = (entry) =>
     .map-heading {
       align-items: start;
       grid-template-columns: 1fr;
+    }
+
+    .map-route-nav {
+      grid-template-columns: 1fr;
+    }
+
+    .map-route-nav > div {
+      border: 0;
+      border-top: 1px solid var(--archive-line);
+      border-bottom: 1px solid var(--archive-line);
+    }
+
+    .map-route-nav .next {
+      text-align: left;
     }
 
     .map-heading .archive-lede {

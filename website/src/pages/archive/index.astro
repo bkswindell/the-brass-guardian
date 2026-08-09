@@ -4,6 +4,7 @@ import { getWorldEntrancePreview } from "../../lib/archive-preview.mjs";
 
 const archive = getWorldEntrancePreview();
 const entries = archive.entries;
+const curatorRoute = archive.curatorRoute;
 const description =
   "Enter the proposal preview of the Aetherhaven Archives and explore the first cleared records through the city map.";
 
@@ -29,13 +30,13 @@ const entryHref = (entry) =>
             <h1 id="archive-title" class="archive-title">Explore Aetherhaven</h1>
             <p class="archive-lede">
               A city of brass streets, living gardens, crowded workshops, and
-              airship towers waits beyond the archive doors. Begin with the
-              cartographers’ map, then follow the records currently cleared for
-              preview.
+              airship towers waits beyond the archive doors. The curators have
+              arranged a path through the first cabinets—but every cleared drawer,
+              map reference, and cross-link remains yours to follow.
             </p>
             <div class="hero-actions">
-              <a class="archive-button" href="/archive/map/">Open the city map</a>
-              <a class="text-link" href="#cleared-records">Browse cleared records</a>
+              <a class="archive-button" href={curatorRoute[0].href}>Begin curated route</a>
+              <a class="text-link" href="#open-catalog">Open the catalog</a>
             </div>
           </div>
 
@@ -62,21 +63,102 @@ const entryHref = (entry) =>
           </a>
         </section>
 
-        <section id="cleared-records" class="records-section" aria-labelledby="records-title">
+        <section
+          id="curators-route"
+          class="discovery-section curator-section"
+          aria-labelledby="curator-title"
+        >
           <header class="section-heading">
             <div>
-              <p class="archive-kicker">Initial accession</p>
-              <h2 id="records-title">7 records cleared for preview</h2>
+              <p class="archive-kicker">Suggested sequence • Eight stops</p>
+              <h2 id="curator-title">The Curator’s Route</h2>
             </div>
             <p>
-              Numbered locations not included here remain visible on the map with
-              their records sealed.
+              A considered first passage through Aetherhaven. Follow it from end to
+              end, leave it whenever another reference catches your eye, or return
+              to it later without losing your place.
             </p>
           </header>
 
+          <div class="route-layout">
+            <aside class="curator-card">
+              <p class="archive-kicker">From the curator’s desk</p>
+              <blockquote>
+                “Orientation is not restriction. We have placed the lamps; the doors
+                between the cabinets remain open.”
+              </blockquote>
+              <p>
+                The route moves from the city overview into the Map Room, through a
+                living civic system, aboard an explorer’s vessel, and back into the
+                working districts.
+              </p>
+            </aside>
+
+            <ol class="route-list">
+              {curatorRoute.map((step, index) => (
+                <li>
+                  <a href={step.href}>
+                    <span class="route-number" aria-hidden="true">
+                      {String(index + 1).padStart(2, "0")}
+                    </span>
+                    <span class="route-copy">
+                      <small>{step.label}</small>
+                      <strong>{step.title}</strong>
+                      <span>{step.note}</span>
+                    </span>
+                    <span class="route-arrow" aria-hidden="true">→</span>
+                  </a>
+                </li>
+              ))}
+            </ol>
+          </div>
+        </section>
+
+        <section
+          id="open-catalog"
+          class="discovery-section catalog-section"
+          aria-labelledby="catalog-title"
+        >
+          <header class="section-heading">
+            <div>
+              <p class="archive-kicker">Open drawers • Follow your own thread</p>
+              <h2 id="catalog-title">Open Catalog</h2>
+            </div>
+            <p>
+              7 records cleared for preview. Search by name or subject, narrow the
+              cabinets by record class, or return to the map and choose by place.
+            </p>
+          </header>
+
+          <div class="catalog-controls" aria-label="Catalog controls">
+            <label for="catalog-search">
+              <span>Search the catalog</span>
+              <input
+                id="catalog-search"
+                type="search"
+                placeholder="Place, vessel, subject…"
+                autocomplete="off"
+              />
+            </label>
+            <div class="catalog-filters" aria-label="Filter by record class">
+              <button type="button" data-catalog-filter="all" aria-pressed="true">All records</button>
+              <button type="button" data-catalog-filter="location" aria-pressed="false">Places</button>
+              <button type="button" data-catalog-filter="district" aria-pressed="false">Districts</button>
+              <button type="button" data-catalog-filter="vessel" aria-pressed="false">Vessels</button>
+            </div>
+            <output id="catalog-result-count" for="catalog-search" aria-live="polite">
+              Showing {entries.length} of {entries.length} records
+            </output>
+          </div>
+
           <div class="record-grid">
             {entries.map((entry) => (
-              <article class="record-card">
+              <article
+                class="record-card"
+                data-catalog-card
+                data-record-type={entry.entityType}
+                data-record-search={`${entry.publicTitle} ${entry.tags.join(" ")}`.toLocaleLowerCase()}
+              >
                 <div class="record-code">
                   <span>{entry.mapMarker ? `Map ${entry.mapMarker}` : entry.entityType}</span>
                   <span>{entry.spoilerClassification}</span>
@@ -84,12 +166,64 @@ const entryHref = (entry) =>
                 <h3>{entry.publicTitle}</h3>
                 <p>{entry.publicSummary}</p>
                 <a href={entryHref(entry)}>
-                  Open proposal record <span aria-hidden="true">→</span>
+                  Open catalog record <span aria-hidden="true">→</span>
                 </a>
               </article>
             ))}
           </div>
+          <p id="catalog-empty" class="catalog-empty" hidden>
+            No cleared records match this inquiry. Try another term or open all drawers.
+          </p>
         </section>
+
+        <script>
+          const search = document.querySelector<HTMLInputElement>("#catalog-search");
+          const cards = [...document.querySelectorAll<HTMLElement>("[data-catalog-card]")];
+          const filters = [...document.querySelectorAll<HTMLButtonElement>("[data-catalog-filter]")];
+          const resultCount = document.querySelector<HTMLOutputElement>("#catalog-result-count");
+          const empty = document.querySelector<HTMLElement>("#catalog-empty");
+          let activeFilter = "all";
+
+          const updateCatalog = () => {
+            const query = search?.value.trim().toLocaleLowerCase() ?? "";
+            let visible = 0;
+
+            cards.forEach((card) => {
+              const matchesType =
+                activeFilter === "all" || card.dataset.recordType === activeFilter;
+              const matchesQuery = card.dataset.recordSearch?.includes(query) ?? false;
+              const show = matchesType && matchesQuery;
+              card.hidden = !show;
+              if (show) visible += 1;
+            });
+
+            if (resultCount) {
+              resultCount.value = `Showing ${visible} of ${cards.length} records`;
+            }
+            if (empty) empty.hidden = visible !== 0;
+          };
+
+          search?.addEventListener("input", updateCatalog);
+          search?.addEventListener("keydown", (event) => {
+            if (event.key === "Escape" && search.value) {
+              search.value = "";
+              updateCatalog();
+            }
+          });
+
+          filters.forEach((filter) => {
+            filter.addEventListener("click", () => {
+              activeFilter = filter.dataset.catalogFilter ?? "all";
+              filters.forEach((candidate) =>
+                candidate.setAttribute(
+                  "aria-pressed",
+                  String(candidate === filter),
+                ),
+              );
+              updateCatalog();
+            });
+          });
+        </script>
       </>
     ) : (
       <section class="sealed-state" aria-labelledby="archive-title">
@@ -209,7 +343,7 @@ const entryHref = (entry) =>
     color: var(--archive-blue);
   }
 
-  .records-section {
+  .discovery-section {
     margin-top: clamp(5rem, 10vw, 9rem);
     scroll-margin-top: 2rem;
   }
@@ -234,6 +368,219 @@ const entryHref = (entry) =>
     margin: 0;
     color: var(--archive-muted);
     line-height: 1.6;
+  }
+
+  .route-layout {
+    display: grid;
+    grid-template-columns: minmax(16rem, 0.62fr) minmax(0, 1.38fr);
+    margin-top: 1.5rem;
+    gap: 1rem;
+  }
+
+  .curator-card {
+    position: sticky;
+    top: 1rem;
+    align-self: start;
+    padding: clamp(1.5rem, 3vw, 2.3rem);
+    border: 1px solid rgb(197 138 54 / 48%);
+    color: #322719;
+    background:
+      linear-gradient(rgb(255 255 255 / 12%), transparent),
+      #cbb887;
+    box-shadow: 0 1.5rem 4rem rgb(0 0 0 / 25%);
+    transform: rotate(-0.25deg);
+  }
+
+  .curator-card::after {
+    position: absolute;
+    right: 1.2rem;
+    bottom: 1.1rem;
+    width: 3.8rem;
+    height: 3.8rem;
+    border: 2px double rgb(96 56 20 / 45%);
+    border-radius: 50%;
+    content: "AH";
+    display: grid;
+    place-items: center;
+    color: rgb(96 56 20 / 52%);
+    font-size: 0.85rem;
+    letter-spacing: 0.08em;
+    transform: rotate(-9deg);
+  }
+
+  .curator-card .archive-kicker {
+    color: #70491f;
+  }
+
+  .curator-card blockquote {
+    margin: 2rem 0 1.5rem;
+    font-size: clamp(1.3rem, 2.8vw, 1.9rem);
+    line-height: 1.35;
+  }
+
+  .curator-card > p:last-child {
+    max-width: 24rem;
+    margin: 0;
+    padding-right: 2.5rem;
+    font-family: Arial, sans-serif;
+    font-size: 0.86rem;
+    line-height: 1.65;
+  }
+
+  .route-list {
+    padding: 0;
+    margin: 0;
+    counter-reset: route;
+    list-style: none;
+  }
+
+  .route-list li + li {
+    margin-top: 0.55rem;
+  }
+
+  .route-list a {
+    display: grid;
+    align-items: center;
+    grid-template-columns: 3.5rem minmax(0, 1fr) 2rem;
+    min-height: 6.5rem;
+    padding: 0.9rem 1rem;
+    border: 1px solid var(--archive-line);
+    color: var(--archive-paper);
+    background:
+      linear-gradient(90deg, rgb(197 138 54 / 8%), transparent 45%),
+      var(--archive-panel);
+    text-decoration: none;
+    gap: 1rem;
+    transition:
+      border-color 160ms ease,
+      background-color 160ms ease,
+      transform 160ms ease;
+  }
+
+  .route-list a:hover,
+  .route-list a:focus-visible {
+    border-color: var(--archive-brass);
+    background-color: rgb(18 32 40 / 96%);
+    transform: translateX(0.25rem);
+  }
+
+  .route-number {
+    color: var(--archive-brass);
+    font-size: 0.78rem;
+    letter-spacing: 0.12em;
+  }
+
+  .route-copy {
+    display: grid;
+    gap: 0.2rem;
+  }
+
+  .route-copy small {
+    color: var(--archive-blue);
+    font-family: Arial, sans-serif;
+    font-size: 0.6rem;
+    letter-spacing: 0.13em;
+    text-transform: uppercase;
+  }
+
+  .route-copy strong {
+    font-size: 1.2rem;
+    font-weight: 400;
+  }
+
+  .route-copy > span {
+    color: var(--archive-muted);
+    font-family: Arial, sans-serif;
+    font-size: 0.82rem;
+    line-height: 1.45;
+  }
+
+  .route-arrow {
+    color: var(--archive-brass);
+    font-size: 1.2rem;
+  }
+
+  .catalog-controls {
+    display: grid;
+    align-items: end;
+    grid-template-columns: minmax(15rem, 1fr) minmax(20rem, 1.4fr) auto;
+    padding: 1rem;
+    border: 1px solid var(--archive-line);
+    border-top: 0;
+    background: rgb(4 12 19 / 78%);
+    gap: 1rem;
+  }
+
+  .catalog-controls label {
+    display: grid;
+    color: var(--archive-muted);
+    font-family: Arial, sans-serif;
+    font-size: 0.62rem;
+    letter-spacing: 0.11em;
+    text-transform: uppercase;
+    gap: 0.45rem;
+  }
+
+  .catalog-controls input {
+    width: 100%;
+    min-height: 2.7rem;
+    padding: 0.65rem 0.8rem;
+    border: 1px solid rgb(197 138 54 / 42%);
+    border-radius: 0;
+    outline: 0;
+    color: var(--archive-paper);
+    background: #030a10;
+    font: inherit;
+    letter-spacing: normal;
+    text-transform: none;
+  }
+
+  .catalog-controls input:focus {
+    border-color: var(--archive-blue);
+    box-shadow: 0 0 0 3px rgb(89 196 222 / 14%);
+  }
+
+  .catalog-filters {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+  }
+
+  .catalog-filters button {
+    min-height: 2.7rem;
+    padding: 0.6rem 0.8rem;
+    border: 1px solid var(--archive-line);
+    color: var(--archive-muted);
+    background: transparent;
+    cursor: pointer;
+    font-size: 0.65rem;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+  }
+
+  .catalog-filters button[aria-pressed="true"] {
+    border-color: var(--archive-brass);
+    color: var(--archive-paper);
+    background: rgb(197 138 54 / 13%);
+  }
+
+  #catalog-result-count {
+    padding-bottom: 0.75rem;
+    color: var(--archive-blue);
+    font-family: Arial, sans-serif;
+    font-size: 0.68rem;
+    white-space: nowrap;
+  }
+
+  .catalog-empty {
+    padding: 2rem;
+    border: 1px dashed var(--archive-line);
+    color: var(--archive-muted);
+    text-align: center;
+  }
+
+  [hidden] {
+    display: none !important;
   }
 
   .record-grid {
@@ -307,6 +654,23 @@ const entryHref = (entry) =>
     .record-grid {
       grid-template-columns: repeat(2, minmax(0, 1fr));
     }
+
+    .route-layout {
+      grid-template-columns: 1fr;
+    }
+
+    .curator-card {
+      position: relative;
+      top: auto;
+    }
+
+    .catalog-controls {
+      grid-template-columns: 1fr;
+    }
+
+    #catalog-result-count {
+      padding-bottom: 0;
+    }
   }
 
   @media (max-width: 44rem) {
@@ -321,6 +685,15 @@ const entryHref = (entry) =>
 
     .record-card {
       min-height: 0;
+    }
+
+    .route-list a {
+      grid-template-columns: 2.5rem minmax(0, 1fr) 1rem;
+      gap: 0.55rem;
+    }
+
+    .catalog-filters button {
+      flex: 1 1 7rem;
     }
 
     .map-window-label em {
