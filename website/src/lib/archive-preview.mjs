@@ -211,8 +211,10 @@ const worldEntranceCuratorRoute = curatorRouteDefinition.map((step) => {
   };
 });
 
-export const isArchivePreviewEnabled = (env = process.env) =>
-  env.PUBLICATION_PREVIEW === "1" || env.VERCEL_ENV === "preview";
+export const isArchivePreviewEnabled = (env = process.env) => {
+  if (env.VERCEL_ENV === "production") return false;
+  return env.PUBLICATION_PREVIEW === "1" || env.VERCEL_ENV === "preview";
+};
 
 export const getWorldEntrancePreview = (env = process.env) => {
   const enabled = isArchivePreviewEnabled(env);

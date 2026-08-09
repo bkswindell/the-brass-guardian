@@ -174,7 +174,25 @@ The Curator’s Route and Open Catalog are complementary views of the same clear
 
 While the World Entrance preview is enabled, the main landing exhibit must replace its obsolete preparation language with a primary **Enter Archive** action. Preview-facing metadata and sharing artwork should use the same active invitation. When preview mode is disabled, the landing page remains sealed and no Archive link is emitted until the exact publication transition is approved.
 
-The entrance action should feel like the visitor is unlocking a fantastical invitation into Aetherhaven—not operating a utilitarian navigation control. Its visible machinery must suggest function: connected gears drive the lock, clockwork winds, latches withdraw, and aetheric light answers the interaction. Motion should reward hover and keyboard focus while retaining a clear reduced-motion state.
+The entrance action should feel like a fantastical invitation into Aetherhaven rather than a utilitarian navigation control. A mechanical threshold and Astro/React/Canvas presentation were explored during Preview development, but the author later rejected that presentation. The scene-first decision below supersedes the machinery, WebGL, and animation specifics in this historical entry.
+
+Astro remains the routing, build-time data, publication-boundary, and semantic-HTML foundation. Client islands or additional presentation engines should be introduced only when a concrete exhibition or live-data requirement justifies their payload and the visual direction has been accepted.
+
+---
+
+## 2026-08-09 — Scene-First Archive Threshold
+
+**Status:** APPROVED DIRECTION / SUPERSEDES FLASH-STYLE LOCK PRESENTATION
+
+The author rejected the Flash-style procedural 3D Archive lock because it looked artificial and like an old 3D render. That component, its gears and gauges, and its Canvas/WebGL animation direction must not be continued or presented as an accepted checkpoint.
+
+The World Entrance landing should instead make the visitor feel present inside the Aetherhaven Archives or immediately before its doors. A newly generated Aetherhaven-rooted environment may sit behind the existing central editorial frame as a washed, atmospheric watermark. The scene should establish monumental civic archive scale, inhabited depth, warm lantern light, cool aetheric atmosphere, shelves, desks, glass, wood, and believable architectural infrastructure without becoming the page's focal point.
+
+The central frame, cover display, and real **Enter Archive** link remain. The entrance control should be simple and readable, showing **Invitation Waiting** at rest and a restrained **Lock Released** light/copy transition on hover and keyboard focus. Skip decorative gears, gauges, machinery art, and complex animation for this phase.
+
+The author approved the washed, darkened environmental treatment for the main landing threshold and established a distinct treatment after entry. On Archive routes, the same environment should become substantially more focal so the visitor feels physically present in and exploring the Archives. Navigation should read as wayfinding within the room; maps, curator notes, catalog drawers, and record sheets should feel placed in the environment rather than rendered as an application floating above it. Preserve readable contrast and obvious navigation without washing the interior scene back to the landing-page level.
+
+The author's supplied archive images are visual references only and do not establish canon. Any newly generated backdrop remains a non-canonical candidate asset until the author explicitly approves it for visual canon or production publication.
 
 ---
 

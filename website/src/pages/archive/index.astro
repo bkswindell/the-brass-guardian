@@ -25,7 +25,7 @@ const entryHref = (entry) =>
         </aside>
 
         <section class="entrance-hero" aria-labelledby="archive-title">
-          <div>
+          <div class="arrival-desk">
             <p class="archive-kicker">Public access corridor • Preview 01</p>
             <h1 id="archive-title" class="archive-title">Explore Aetherhaven</h1>
             <p class="archive-lede">
@@ -240,10 +240,41 @@ const entryHref = (entry) =>
 
 <style>
   .entrance-hero {
+    position: relative;
     display: grid;
-    align-items: center;
+    align-items: end;
     grid-template-columns: minmax(0, 0.9fr) minmax(22rem, 1.1fr);
+    min-height: min(76vh, 52rem);
+    padding: clamp(9rem, 22vh, 16rem) 0 clamp(2rem, 5vh, 4rem);
     gap: clamp(2rem, 6vw, 6rem);
+  }
+
+  .arrival-desk {
+    position: relative;
+    padding: clamp(1.5rem, 3.2vw, 2.6rem);
+    border: 1px solid rgb(197 138 54 / 58%);
+    background:
+      linear-gradient(135deg, rgb(197 138 54 / 9%), transparent 42%),
+      rgb(4 17 26 / 74%);
+    box-shadow:
+      0 1.8rem 5rem rgb(0 0 0 / 34%),
+      inset 0 1px rgb(230 190 119 / 10%);
+    backdrop-filter: blur(13px) saturate(0.82);
+  }
+
+  .arrival-desk::before {
+    position: absolute;
+    top: -0.38rem;
+    left: 1.25rem;
+    width: min(9rem, 42%);
+    height: 0.38rem;
+    background: linear-gradient(90deg, #7d4a1c, #d09a47 48%, #6e4019);
+    content: "";
+  }
+
+  .arrival-desk .archive-title {
+    max-width: 100%;
+    font-size: clamp(3rem, 5vw, 5.5rem);
   }
 
   .hero-actions {
@@ -268,12 +299,13 @@ const entryHref = (entry) =>
     padding: clamp(0.55rem, 1.4vw, 0.9rem);
     border: 1px solid var(--archive-brass);
     color: var(--archive-ink);
-    background: #110f0b;
+    background: rgb(17 15 11 / 94%);
     box-shadow:
       0 2rem 5rem rgb(0 0 0 / 44%),
       0 0 4rem rgb(48 160 191 / 8%);
     text-decoration: none;
-    transform: rotate(0.35deg);
+    transform: rotate(0.2deg);
+    backdrop-filter: blur(8px);
   }
 
   .map-window::before,
@@ -345,7 +377,7 @@ const entryHref = (entry) =>
 
   .discovery-section {
     margin-top: clamp(5rem, 10vw, 9rem);
-    scroll-margin-top: 2rem;
+    scroll-margin-top: 7.5rem;
   }
 
   .section-heading {
@@ -439,6 +471,7 @@ const entryHref = (entry) =>
   }
 
   .route-list a {
+    position: relative;
     display: grid;
     align-items: center;
     grid-template-columns: 3.5rem minmax(0, 1fr) 2rem;
@@ -455,6 +488,17 @@ const entryHref = (entry) =>
       border-color 160ms ease,
       background-color 160ms ease,
       transform 160ms ease;
+  }
+
+  .route-list a::before {
+    position: absolute;
+    top: 1rem;
+    bottom: 1rem;
+    left: 0;
+    width: 0.24rem;
+    background: linear-gradient(#6c3e17, #d19a45 52%, #6c3e17);
+    content: "";
+    opacity: 0.72;
   }
 
   .route-list a:hover,
@@ -507,7 +551,8 @@ const entryHref = (entry) =>
     padding: 1rem;
     border: 1px solid var(--archive-line);
     border-top: 0;
-    background: rgb(4 12 19 / 78%);
+    background: rgb(4 12 19 / 68%);
+    backdrop-filter: blur(12px);
     gap: 1rem;
   }
 
@@ -591,7 +636,9 @@ const entryHref = (entry) =>
   }
 
   .record-card {
+    position: relative;
     display: flex;
+    overflow: hidden;
     min-height: 21rem;
     padding: 1.35rem;
     border: 1px solid var(--archive-line);
@@ -599,6 +646,17 @@ const entryHref = (entry) =>
       linear-gradient(135deg, rgb(197 138 54 / 7%), transparent 45%),
       var(--archive-panel);
     flex-direction: column;
+  }
+
+  .record-card::before {
+    position: absolute;
+    top: 0;
+    right: 1.25rem;
+    left: 1.25rem;
+    height: 0.24rem;
+    background: linear-gradient(90deg, transparent, #b87a2d, #e0b568, #b87a2d, transparent);
+    content: "";
+    opacity: 0.74;
   }
 
   .record-code {
@@ -645,6 +703,8 @@ const entryHref = (entry) =>
   @media (max-width: 68rem) {
     .entrance-hero {
       grid-template-columns: 1fr;
+      min-height: 0;
+      padding: clamp(4rem, 12vw, 7rem) 0 2rem;
     }
 
     .map-window {

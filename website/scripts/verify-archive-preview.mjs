@@ -42,6 +42,13 @@ for (const [path, expectedHeading] of routes) {
     html.includes("Proposal preview") || path === "archive/map/index.html",
     `${path} must identify non-canonical proposal content.`,
   );
+  expect(
+    html.includes("archive-shell-open") &&
+      html.includes("archive-interior-scene") &&
+      html.includes("aetherhaven-archive-threshold-768.webp") &&
+      html.includes("aetherhaven-archive-threshold-1024.webp"),
+    `${path} must render inside the responsive Archive interior scene.`,
+  );
 }
 
 const archiveHtml = await readText("archive/index.html");
@@ -52,14 +59,14 @@ expect(
   "Preview landing page must provide a primary entrance into the Archive.",
 );
 expect(
-  homeHtml.includes('data-archive-gateway="mechanical"') &&
-    homeHtml.includes('class="gear gear-primary"') &&
-    homeHtml.includes('class="gear gear-secondary"') &&
-    homeHtml.includes('class="clock-dial"') &&
-    homeHtml.includes('class="aether-core"') &&
-    homeHtml.includes("Invitation waiting") &&
-    homeHtml.includes("Lock released"),
-  "Preview landing entrance must render the mechanical gear, clock, and aether mechanism.",
+  homeHtml.includes('class="archive-invitation"') &&
+    homeHtml.includes("aetherhaven-archive-threshold-768.webp") &&
+    homeHtml.includes("aetherhaven-archive-threshold-1024.webp") &&
+    homeHtml.includes("Invitation Waiting") &&
+    homeHtml.includes("Lock Released") &&
+    !homeHtml.includes("ArchiveLockExperience") &&
+    !homeHtml.includes("react-three-fiber"),
+  "Preview landing must render the simple Archive invitation over the responsive scene backdrop.",
 );
 expect(
   !homeHtml.includes("Coming Soon") &&
@@ -131,6 +138,11 @@ expect(
   "Preview builds must emit the staged proposal map asset.",
 );
 expect(
+  (await exists("images/archive/aetherhaven-archive-threshold-768.webp")) &&
+    (await exists("images/archive/aetherhaven-archive-threshold-1024.webp")),
+  "Preview builds must emit both responsive Archive threshold backdrop derivatives.",
+);
+expect(
   mapHtml.includes("Continue to The Clockwork Gardens"),
   "The Map Room must offer the next curated stop.",
 );
@@ -142,5 +154,5 @@ if (failures.length > 0) {
 }
 
 console.log(
-  "Archive preview verification passed: entrance, interactive map, seven proposal records, noindex controls, responsive map art, and accessible navigation.",
+  "Archive preview verification passed: scene-first entrance, interactive map, seven proposal records, noindex controls, responsive art, and accessible navigation.",
 );

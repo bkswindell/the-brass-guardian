@@ -29,6 +29,17 @@ ASSET_GROUPS = (
         (640, 1024),
         89,
     ),
+    (
+        WEBSITE_ROOT
+        / "content"
+        / "preview"
+        / "sources"
+        / "archive"
+        / "aetherhaven-archive-threshold-candidate.jpg",
+        "aetherhaven-archive-threshold",
+        (768, 1024),
+        90,
+    ),
 )
 
 

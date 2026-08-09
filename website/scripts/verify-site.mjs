@@ -1,4 +1,6 @@
-import { readFile, stat } from "node:fs/promises";
+import { readFile, readdir, stat } from "node:fs/promises";
+
+import { archivePreviewMarkers } from "./lib/prune-production-archive.mjs";
 
 const root = new URL("../dist/", import.meta.url);
 const failures = [];
@@ -128,7 +130,10 @@ expect(
   "Home page must link the web manifest.",
 );
 expect(
-  indexHtml.includes("Coming Soon") && !indexHtml.includes('href="/archive/"'),
+  indexHtml.includes("Coming Soon") &&
+    !indexHtml.includes('href="/archive/"') &&
+    !indexHtml.includes('data-renderer="react-three-fiber"') &&
+    !indexHtml.includes("aetherhaven-archive-threshold"),
   "Production-safe builds must keep the archive entrance sealed until publication approval.",
 );
 
@@ -146,6 +151,26 @@ expect(await exists("site.webmanifest"), "The web manifest must be emitted.");
 expect(
   !(await pathExists("images/archive")),
   "Production builds must not emit proposal-only archive artwork.",
+);
+expect(
+  !(await pathExists("archive")),
+  "Production builds must not emit Archive entrance or map routes.",
+);
+
+const emittedTextFiles = (await readdir(root, { recursive: true })).filter((path) =>
+  /\.(?:css|html|js|json|txt)$/u.test(path),
+);
+const emittedText = (
+  await Promise.all(emittedTextFiles.map((path) => readText(path)))
+).join("\n");
+expect(
+  !archivePreviewMarkers.some((marker) => emittedText.includes(marker)) &&
+    !emittedText.includes("archive-lock-experience") &&
+    !emittedText.includes("react-three-fiber") &&
+    !emittedText.includes("Archive opening") &&
+    !emittedTextFiles.some((path) => path.includes("ArchiveLockExperience")) &&
+    !emittedTextFiles.some((path) => /(?:^|\/)ArchiveLayout\..+\.(?:css|js)$/u.test(path)),
+  "Production output must not retain Preview Archive artwork or rejected island implementation artifacts.",
 );
 
 expect(

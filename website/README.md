@@ -37,15 +37,17 @@ PUBLICATION_PREVIEW=1 npm run dev -- --host 0.0.0.0
 npm run verify:archive-preview
 ```
 
-Vercel sets `VERCEL_ENV=preview` automatically for branch deployments. Production builds do not load the proposal records. The dedicated preview branch may be committed and pushed iteratively, but merging to `main` and production publication remain explicit author approval gates.
+Vercel sets `VERCEL_ENV=preview` automatically for branch deployments. `VERCEL_ENV=production` takes precedence over every Preview flag, including a conflicting `PUBLICATION_PREVIEW=1`. Production builds do not load the proposal records. The dedicated preview branch may be committed and pushed iteratively, but merging to `main` and production publication remain explicit author approval gates.
 
-Responsive archive derivatives are reproducible from the unchanged active artwork after creating the generator environment described below:
+The landing threshold remains Astro-rendered and scene-first. Enabled Preview builds place a responsive, washed-back Aetherhaven Archive environment behind the existing editorial frame and expose one real `/archive/` invitation link. Hover and keyboard focus change **Invitation Waiting** to **Lock Released** with a restrained light-and-copy transition; no Canvas, WebGL, React, gears, gauges, or mechanical centerpiece is used. Reduced-motion users receive the same state without movement, and navigation works without JavaScript.
+
+Responsive archive derivatives are reproducible from unchanged active artwork and clearly isolated candidate sources after creating the generator environment described below:
 
 ```bash
 npm run assets:archive
 ```
 
-Proposal derivatives are stored under `content/preview/assets/archive/`, outside Astro's unconditional `public/` tree. The build wrapper stages them only for an explicitly enabled preview build and removes the staging directory afterward. Ordinary production artifacts must not contain `dist/images/archive/`.
+Proposal derivatives—including the 768px and 1024px Archive threshold backdrop—are stored under `content/preview/assets/archive/`, outside Astro's unconditional `public/` tree. Its generated, non-canonical source and provenance are kept separately under `content/preview/sources/archive/`. After a successful Preview build, the output-aware build wrapper copies proposal assets directly into the selected output directory. CLI `--outDir` values take precedence; otherwise the wrapper honors `outDir` from Astro configuration before falling back to `dist`. After a successful production build, it removes the static Archive route tree and every build artifact unreachable from retained public HTML; if a remaining production page can reach a Preview-sensitive artifact, the build fails closed rather than deleting evidence of the leak. Production must contain neither `dist/archive/` nor `dist/images/archive/`.
 
 ## Curated Publication Boundary
 

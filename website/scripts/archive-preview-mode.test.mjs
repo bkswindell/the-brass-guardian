@@ -8,12 +8,26 @@ import {
 
 test("keeps proposal records disabled for production builds", () => {
   assert.equal(isArchivePreviewEnabled({ VERCEL_ENV: "production" }), false);
+  assert.equal(
+    isArchivePreviewEnabled({
+      VERCEL_ENV: "production",
+      PUBLICATION_PREVIEW: "1",
+    }),
+    false,
+  );
   assert.equal(isArchivePreviewEnabled({}), false);
 
   const preview = getWorldEntrancePreview({ VERCEL_ENV: "production" });
   assert.equal(preview.enabled, false);
   assert.deepEqual(preview.entries, []);
   assert.deepEqual(preview.curatorRoute, []);
+
+  const conflictingPreview = getWorldEntrancePreview({
+    VERCEL_ENV: "production",
+    PUBLICATION_PREVIEW: "1",
+  });
+  assert.equal(conflictingPreview.enabled, false);
+  assert.deepEqual(conflictingPreview.entries, []);
 });
 
 test("enables proposal records only for explicit local or Vercel preview builds", () => {

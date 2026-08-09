@@ -12,6 +12,8 @@ const expectedOutputs = new Map([
   ["clockwork-gardens-at-night-767.webp", 767],
   ["wayfinder-above-clouds-640.webp", 640],
   ["wayfinder-above-clouds-1024.webp", 1024],
+  ["aetherhaven-archive-threshold-768.webp", 768],
+  ["aetherhaven-archive-threshold-1024.webp", 1024],
 ]);
 
 const readUint24LE = (bytes, offset) =>

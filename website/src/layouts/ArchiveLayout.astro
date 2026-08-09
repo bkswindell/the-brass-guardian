@@ -1,5 +1,6 @@
 ---
 import SiteLayout from "./SiteLayout.astro";
+import { getWorldEntrancePreview } from "../lib/archive-preview.mjs";
 
 interface Props {
   title: string;
@@ -12,42 +13,66 @@ const {
   description,
   section = "Public Cartography Division",
 } = Astro.props;
+const archive = getWorldEntrancePreview();
 ---
 
 <SiteLayout title={`${title} — The Brass Guardian`} description={description} noindex>
-  <div class="archive-atmosphere" aria-hidden="true">
-    <span class="archive-glow"></span>
-    <span class="archive-grid"></span>
+  <div class:list={["archive-shell", { "archive-shell-open": archive.enabled }]}>
+    {
+      archive.enabled && (
+        <picture class="archive-interior-scene" aria-hidden="true">
+          <source
+            srcset="/images/archive/aetherhaven-archive-threshold-768.webp 768w, /images/archive/aetherhaven-archive-threshold-1024.webp 1024w"
+            sizes="100vw"
+            type="image/webp"
+          />
+          <img
+            src="/images/archive/aetherhaven-archive-threshold-1024.webp"
+            alt=""
+            width="1024"
+            height="576"
+            decoding="async"
+            fetchpriority="high"
+          />
+        </picture>
+      )
+    }
+
+    <div class="archive-atmosphere" aria-hidden="true">
+      <span class="archive-glow"></span>
+      <span class="archive-grid"></span>
+    </div>
+    <div class="archive-room-floor" aria-hidden="true"></div>
+
+    <a class="skip-link" href="#archive-content">Skip to archive content</a>
+
+    <header class="archive-header">
+      <a class="archive-brand" href="/archive/" aria-label="Aetherhaven Archives home">
+        <span class="archive-monogram" aria-hidden="true">AH</span>
+        <span>
+          <strong>Aetherhaven Archives</strong>
+          <small>{section}</small>
+        </span>
+      </a>
+
+      <nav aria-label="Archive navigation">
+        <a href="/archive/">Entrance</a>
+        <a href="/archive/#curators-route">Curator’s Route</a>
+        <a href="/archive/map/">Map Room</a>
+        <a href="/archive/#open-catalog">Open Catalog</a>
+        <a href="/">Main exhibit</a>
+      </nav>
+    </header>
+
+    <main id="archive-content" class="archive-main">
+      <slot />
+    </main>
+
+    <footer class="archive-footer">
+      <span>Aetherhaven Archives</span>
+      <span>Proposal preview • Not canonical publication</span>
+    </footer>
   </div>
-
-  <a class="skip-link" href="#archive-content">Skip to archive content</a>
-
-  <header class="archive-header">
-    <a class="archive-brand" href="/archive/" aria-label="Aetherhaven Archives home">
-      <span class="archive-monogram" aria-hidden="true">AH</span>
-      <span>
-        <strong>Aetherhaven Archives</strong>
-        <small>{section}</small>
-      </span>
-    </a>
-
-    <nav aria-label="Archive navigation">
-      <a href="/archive/">Entrance</a>
-      <a href="/archive/#curators-route">Curator’s Route</a>
-      <a href="/archive/map/">Map Room</a>
-      <a href="/archive/#open-catalog">Open Catalog</a>
-      <a href="/">Main exhibit</a>
-    </nav>
-  </header>
-
-  <main id="archive-content" class="archive-main">
-    <slot />
-  </main>
-
-  <footer class="archive-footer">
-    <span>Aetherhaven Archives</span>
-    <span>Proposal preview • Not canonical publication</span>
-  </footer>
 </SiteLayout>
 
 <style is:global>
@@ -63,8 +88,10 @@ const {
     --archive-copper: #8f4f2e;
     --archive-blue: #65c7e4;
     --archive-deep: #050b13;
-    --archive-panel: rgb(8 23 35 / 92%);
+    --archive-panel: rgb(8 23 35 / 80%);
     --archive-line: rgb(197 138 54 / 42%);
+    --archive-glass: rgb(4 16 25 / 68%);
+    --archive-wood: rgb(31 22 15 / 84%);
   }
 
   * {
@@ -81,21 +108,48 @@ const {
     min-height: 100vh;
     margin: 0;
     overflow-x: hidden;
-    background:
-      radial-gradient(circle at 52% 12%, rgb(32 118 145 / 24%), transparent 34rem),
-      linear-gradient(160deg, #030811 0%, #071421 52%, #040a12 100%);
+    background: linear-gradient(160deg, #030811 0%, #071421 52%, #040a12 100%);
   }
 
-  body::before {
+  .archive-shell {
+    position: relative;
+    min-height: 100vh;
+    isolation: isolate;
+  }
+
+  .archive-interior-scene,
+  .archive-interior-scene img {
+    position: fixed;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+  }
+
+  .archive-interior-scene {
+    z-index: -4;
+    overflow: hidden;
+    background: #030911;
+    opacity: 0.82;
+    pointer-events: none;
+  }
+
+  .archive-interior-scene img {
+    object-fit: cover;
+    object-position: center 40%;
+    filter: saturate(0.82) contrast(0.96) brightness(0.64);
+    transform: scale(1.025);
+  }
+
+  .archive-shell-open::before {
     position: fixed;
     z-index: -3;
     inset: 0;
-    background-image:
-      linear-gradient(rgb(133 205 225 / 2.6%) 1px, transparent 1px),
-      linear-gradient(90deg, rgb(133 205 225 / 2.6%) 1px, transparent 1px);
-    background-size: 4rem 4rem;
+    background:
+      linear-gradient(90deg, rgb(2 7 12 / 42%), transparent 24%, transparent 76%, rgb(2 7 12 / 42%)),
+      radial-gradient(circle at 50% 35%, transparent 0 24%, rgb(2 8 14 / 22%) 66%, rgb(2 7 12 / 58%) 100%),
+      linear-gradient(180deg, rgb(2 8 14 / 8%), rgb(3 10 17 / 22%) 58%, rgb(3 9 15 / 72%) 100%);
     content: "";
-    mask-image: linear-gradient(to bottom, #000, transparent 80%);
+    pointer-events: none;
   }
 
   a {
@@ -129,7 +183,7 @@ const {
 
   .archive-atmosphere {
     position: fixed;
-    z-index: -2;
+    z-index: -1;
     inset: 0;
     overflow: hidden;
     pointer-events: none;
@@ -141,9 +195,9 @@ const {
     left: 50%;
     width: min(86vw, 66rem);
     aspect-ratio: 1;
-    border: 1px solid rgb(101 199 228 / 10%);
+    border: 1px solid rgb(101 199 228 / 7%);
     border-radius: 50%;
-    box-shadow: 0 0 11rem rgb(49 164 199 / 11%);
+    box-shadow: 0 0 11rem rgb(49 164 199 / 8%);
     transform: translateX(-50%);
   }
 
@@ -153,18 +207,46 @@ const {
     bottom: 10%;
     left: 0;
     height: 1px;
-    background: linear-gradient(90deg, transparent, var(--archive-line), transparent);
+    background: linear-gradient(90deg, transparent, rgb(197 138 54 / 22%), transparent);
+  }
+
+  .archive-room-floor {
+    position: fixed;
+    z-index: -2;
+    right: -8vw;
+    bottom: -35vh;
+    left: -8vw;
+    height: 68vh;
+    background:
+      linear-gradient(180deg, transparent, rgb(2 7 12 / 44%) 28%, rgb(2 7 12 / 86%)),
+      repeating-linear-gradient(94deg, rgb(142 91 39 / 7%) 0 1px, transparent 1px 8vw);
+    opacity: 0.8;
+    pointer-events: none;
   }
 
   .archive-header {
+    position: sticky;
+    z-index: 20;
+    top: 0.75rem;
     display: flex;
     align-items: center;
     justify-content: space-between;
-    width: min(100% - 2rem, 88rem);
-    margin: 0 auto;
-    padding: 1.15rem 0;
-    border-bottom: 1px solid var(--archive-line);
+    width: min(100% - 2rem, 92rem);
+    margin: 0.75rem auto 0;
+    padding: 0.85rem 1rem;
+    border: 1px solid var(--archive-line);
+    background: rgb(3 13 21 / 86%);
+    box-shadow:
+      0 1rem 3rem rgb(0 0 0 / 22%),
+      inset 0 1px rgb(219 175 101 / 7%);
     gap: 1.5rem;
+  }
+
+  .archive-shell-open .archive-header {
+    background:
+      linear-gradient(90deg, rgb(197 138 54 / 7%), transparent 22%, transparent 78%, rgb(101 199 228 / 5%)),
+      var(--archive-glass);
+    backdrop-filter: blur(14px) saturate(0.84);
   }
 
   .archive-brand {
@@ -233,6 +315,8 @@ const {
   }
 
   .archive-main {
+    position: relative;
+    z-index: 2;
     width: min(100% - 2rem, 88rem);
     min-height: calc(100vh - 11rem);
     margin: 0 auto;
@@ -240,12 +324,16 @@ const {
   }
 
   .archive-footer {
+    position: relative;
+    z-index: 2;
     display: flex;
     justify-content: space-between;
     width: min(100% - 2rem, 88rem);
     margin: 0 auto;
-    padding: 1.25rem 0 1.6rem;
-    border-top: 1px solid var(--archive-line);
+    padding: 1.25rem 1rem 1.6rem;
+    border: 1px solid var(--archive-line);
+    background: rgb(3 13 21 / 72%);
+    backdrop-filter: blur(12px);
     color: #799aa6;
     font-size: 0.68rem;
     letter-spacing: 0.12em;
@@ -283,10 +371,14 @@ const {
   .proposal-notice {
     display: flex;
     align-items: flex-start;
-    margin: 0 0 2rem;
+    width: fit-content;
+    max-width: min(100%, 58rem);
+    margin: 0 0 2rem auto;
     padding: 0.85rem 1rem;
     border: 1px solid rgb(101 199 228 / 34%);
-    background: rgb(22 79 98 / 17%);
+    background: rgb(4 26 37 / 72%);
+    box-shadow: 0 0.8rem 2.5rem rgb(0 0 0 / 16%);
+    backdrop-filter: blur(10px);
     color: #bfe4ed;
     font-size: 0.78rem;
     letter-spacing: 0.04em;
@@ -331,6 +423,8 @@ const {
 
   @media (max-width: 44rem) {
     .archive-header {
+      position: relative;
+      top: auto;
       align-items: flex-start;
       flex-direction: column;
       gap: 0.8rem;
@@ -348,6 +442,14 @@ const {
     .archive-footer {
       flex-direction: column;
     }
+
+    .archive-interior-scene {
+      opacity: 0.68;
+    }
+
+    .archive-interior-scene img {
+      object-position: 48% center;
+    }
   }
 
   @media (prefers-reduced-motion: reduce) {
@@ -362,6 +464,10 @@ const {
       transition-duration: 0.01ms !important;
       animation-duration: 0.01ms !important;
       animation-iteration-count: 1 !important;
+    }
+
+    .archive-interior-scene img {
+      transform: none;
     }
   }
 </style>
