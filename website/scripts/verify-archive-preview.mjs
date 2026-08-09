@@ -45,6 +45,24 @@ for (const [path, expectedHeading] of routes) {
 }
 
 const archiveHtml = await readText("archive/index.html");
+const homeHtml = await readText("index.html");
+const manifestText = await readText("site.webmanifest");
+expect(
+  homeHtml.includes("Enter Archive") && homeHtml.includes('href="/archive/"'),
+  "Preview landing page must provide a primary entrance into the Archive.",
+);
+expect(
+  !homeHtml.includes("Coming Soon") &&
+    !homeHtml.includes("Archive preparations underway") &&
+    !homeHtml.includes("Return soon"),
+  "Preview landing page must remove obsolete Coming Soon language.",
+);
+expect(
+  manifestText.includes(
+    '"description": "An entrance to The Brass Guardian and the Aetherhaven Archives."',
+  ),
+  "Preview web manifest must describe the active Archive entrance.",
+);
 expect(
   archiveHtml.includes('href="/archive/map/"'),
   "Archive entrance must link clearly to the map.",

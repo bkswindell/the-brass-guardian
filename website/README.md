@@ -2,7 +2,7 @@
 
 This directory contains the Astro site for **The Brass Guardian**.
 
-It currently renders a public-safe Coming Soon page with Vercel Web Analytics, Speed Insights, responsive derivatives of the approved cover artwork, and an accessible cover reader. It does not yet publish stories, character profiles, or internal canon files.
+Production currently renders a sealed public-safe landing exhibit with Vercel Web Analytics, Speed Insights, responsive derivatives of the approved cover artwork, and an accessible cover reader. An enabled World Entrance preview replaces the sealed message with an **Enter Archive** action while keeping proposal routes outside production.
 
 ## Local Verification
 
@@ -101,7 +101,7 @@ Pillow is intentionally a local, generator-only dependency. It is not listed in 
 
 ## Sharing and Utility Routes
 
-`src/layouts/SiteLayout.astro` owns the shared HTML shell, Vercel instrumentation, and `SiteMeta` integration. `src/components/SiteMeta.astro` owns canonical, Open Graph, Twitter/X card, favicon, manifest, and indexing metadata. The Coming Soon page remains deliberately `noindex, nofollow`. `src/pages/404.astro` provides a public-safe archive-themed error route with an obvious return to the archive entrance.
+`src/layouts/SiteLayout.astro` owns the shared HTML shell, Vercel instrumentation, and `SiteMeta` integration. `src/components/SiteMeta.astro` owns canonical, Open Graph, Twitter/X card, favicon, manifest, and indexing metadata. The landing page and all proposal routes remain deliberately `noindex, nofollow` until an indexing transition is approved. `src/pages/404.astro` provides a public-safe archive-themed error route with an obvious return to the archive entrance.
 
 ## Web Analytics
 

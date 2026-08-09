@@ -109,10 +109,10 @@ def create_social_preview() -> None:
         fill="#f3e3bb",
         spacing=-2,
     )
-    draw.text((94, 364), "COMING SOON", font=font(SERIF, 30), fill="#d8a34b")
+    draw.text((94, 364), "ENTER ARCHIVE", font=font(SERIF, 30), fill="#d8a34b")
     draw.multiline_text(
         (94, 424),
-        "The Aetherhaven Archives are being\nprepared for public access.",
+        "Follow the curator's route—or open the\ncatalog and follow your own thread.",
         font=font(SERIF, 22),
         fill="#c9dfe5",
         spacing=10,

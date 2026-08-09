@@ -6,7 +6,7 @@ const canonicalUrl = "https://thebrassguardian.com/";
 const socialImageUrl =
   "https://thebrassguardian.com/images/the-brass-guardian-social.jpg";
 const socialImageAlt =
-  "The Brass Guardian cover displayed beside a Coming Soon notice from the Aetherhaven Archives.";
+  "The Brass Guardian cover displayed beside an invitation to enter the Aetherhaven Archives.";
 
 const expect = (condition, message) => {
   if (!condition) failures.push(message);
@@ -127,6 +127,10 @@ expect(
   indexHtml.includes('<link rel="manifest" href="/site.webmanifest">'),
   "Home page must link the web manifest.",
 );
+expect(
+  indexHtml.includes("Coming Soon") && !indexHtml.includes('href="/archive/"'),
+  "Production-safe builds must keep the archive entrance sealed until publication approval.",
+);
 
 expect(await exists("favicon.svg"), "The SVG favicon must be emitted.");
 expect(
@@ -166,7 +170,7 @@ if (manifestIsObject) {
     manifest.name === "The Brass Guardian" &&
       manifest.short_name === "Brass Guardian" &&
       manifest.description ===
-        "The Aetherhaven Archives are being prepared for public access." &&
+        "An entrance to The Brass Guardian and the Aetherhaven Archives." &&
       manifest.start_url === "/" &&
       manifest.display === "standalone" &&
       manifest.background_color === "#050c16" &&

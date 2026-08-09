@@ -12,7 +12,7 @@ This document defines the curated projection boundary between the internal Brass
 
 The website must never import or render the internal canon library wholesale. Public routes may consume only records deliberately added to `content/public/manifest.json` after the author approves the exact public projection.
 
-The manifest currently contains an empty `entries` array. The production Coming Soon page therefore remains the only substantive public page.
+The manifest currently contains an empty `entries` array. Production therefore retains only the sealed landing exhibit and utility routes; preview-only Archive content is not an approved public projection.
 
 ## Executable Contract
 

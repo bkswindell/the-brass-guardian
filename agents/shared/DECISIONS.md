@@ -172,6 +172,8 @@ The public Archive experience should combine a natural, curator-led sequence wit
 
 The Curator’s Route and Open Catalog are complementary views of the same cleared material, not separate canon tiers or access gates. The interface should feel like exploring rooms, cabinets, maps, and record relationships rather than navigating a conventional wiki, while still making location, orientation, and the next available action unmistakable.
 
+While the World Entrance preview is enabled, the main landing exhibit must replace its obsolete preparation language with a primary **Enter Archive** action. Preview-facing metadata and sharing artwork should use the same active invitation. When preview mode is disabled, the landing page remains sealed and no Archive link is emitted until the exact publication transition is approved.
+
 ---
 
 ## 2026-08-08 — Moon Garden Canon

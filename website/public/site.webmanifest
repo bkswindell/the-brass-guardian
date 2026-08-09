@@ -1,7 +1,7 @@
 {
   "name": "The Brass Guardian",
   "short_name": "Brass Guardian",
-  "description": "The Aetherhaven Archives are being prepared for public access.",
+  "description": "An entrance to The Brass Guardian and the Aetherhaven Archives.",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#050c16",

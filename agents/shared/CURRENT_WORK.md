@@ -75,6 +75,7 @@ These are directional, not yet a locked sitemap.
 - Milestone C1 is active on `feat/world-entrance-map`. The branch is an author-approved iterative workspace: agents may commit, push, and refresh its Vercel Preview without per-change approval, but may not merge to `main` or publish to production without explicit approval.
 - C1 currently contains a proposal-only Archive entrance, interactive Aetherhaven map, and seven preview records. Proposal records are enabled only by `PUBLICATION_PREVIEW=1` or Vercel's `VERCEL_ENV=preview`; the production build keeps the approved public manifest empty and excludes proposal record routes, copy, and artwork. Candidate derivatives live outside Astro's unconditional `public/` tree and are staged only during preview builds.
 - C1 navigation now follows the approved dual model: an eight-stop Curator’s Route provides intentional orientation while the searchable Open Catalog, Map Room, and record cross-references support free exploration. Every record preserves both a recommended next stop and an obvious way to leave the route.
+- Preview-enabled landing builds now replace preparation/Coming Soon language with **Enter Archive** and link directly to `/archive/`; preview-disabled production-safe builds retain the sealed landing page and emit no Archive link.
 
 ### Next Recommended Step
 
