@@ -1,26 +1,22 @@
 ---
 import Analytics from "@vercel/analytics/astro";
 import SpeedInsights from "@vercel/speed-insights/astro";
+import SiteMeta from "../components/SiteMeta.astro";
 
 const pageTitle = "The Brass Guardian — Coming Soon";
 const pageDescription =
   "The Aetherhaven Archives are being prepared for public access.";
+const canonicalUrl = "https://thebrassguardian.com/";
 ---
 
 <!doctype html>
 <html lang="en">
   <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="description" content={pageDescription} />
-    <meta name="robots" content="noindex, nofollow" />
-    <meta name="theme-color" content="#07111f" />
-    <meta property="og:type" content="website" />
-    <meta property="og:title" content={pageTitle} />
-    <meta property="og:description" content={pageDescription} />
-    <meta property="og:url" content="https://thebrassguardian.com/" />
-    <link rel="canonical" href="https://thebrassguardian.com/" />
-    <title>{pageTitle}</title>
+    <SiteMeta
+      title={pageTitle}
+      description={pageDescription}
+      canonical={canonicalUrl}
+    />
   </head>
   <body>
     <div class="atmosphere" aria-hidden="true">

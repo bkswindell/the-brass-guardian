@@ -1,0 +1,23 @@
+{
+  "name": "The Brass Guardian",
+  "short_name": "Brass Guardian",
+  "description": "The Aetherhaven Archives are being prepared for public access.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#050c16",
+  "theme_color": "#07111f",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

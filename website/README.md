@@ -20,6 +20,14 @@ npm run build
 npm run preview
 ```
 
+Run the complete metadata and static-route acceptance check with:
+
+```bash
+npm run verify
+```
+
+The verification command builds the site, then checks the generated metadata, favicon links, social image, web manifest, and custom 404 route.
+
 ## Initial Vercel Project Settings
 
 When importing `bkswindell/the-brass-guardian` into Vercel, use:
@@ -40,6 +48,32 @@ The production page is reviewed on the generated `vercel.app` deployment before 
 ## Cover Artwork
 
 The source cover remains unchanged at `art/The_Brass_Guardian_Cover.png`. Web delivery uses optimized 480px and 767px WebP derivatives under `public/images/`; the root page renders the full composition without cropping and opens it in an accessible native dialog.
+
+The approved cover also appears uncropped in the 1200×630 social preview at `public/images/the-brass-guardian-social.jpg`. The derivative and 180×180 touch icon are generated files and are committed to the repository.
+
+### Regenerating brand assets
+
+From the `website/` directory, create an isolated generator environment and install the pinned dependency:
+
+```bash
+python3 -m venv .venv
+.venv/bin/python -m pip install -r scripts/requirements-generator.txt
+```
+
+Then regenerate and verify the committed assets:
+
+```bash
+.venv/bin/python scripts/generate-brand-assets.py
+npm run verify
+```
+
+On Windows, use `.venv\Scripts\python.exe` in place of `.venv/bin/python`. The generator uses the vendored DejaVu Serif files under `scripts/fonts/`; their license is included there as `LICENSE.txt`, so no system fonts are required.
+
+Pillow is intentionally a local, generator-only dependency. It is not listed in `package.json`, and neither the Vercel install command (`npm install`) nor build command (`npm run build`) installs or invokes it.
+
+## Sharing and Utility Routes
+
+`src/components/SiteMeta.astro` owns canonical, Open Graph, Twitter/X card, favicon, manifest, and indexing metadata. The Coming Soon page remains deliberately `noindex, nofollow`. `src/pages/404.astro` provides a public-safe archive-themed error route with an obvious return to the archive entrance.
 
 ## Web Analytics
 
