@@ -10,7 +10,7 @@ When an agent discovers, decides, proposes, or completes something that another 
 
 **Approval state is part of the durable information.** A future agent must be able to distinguish creator-approved material from AI proposals.
 
-All agents must follow `/agents/shared/AUTHORSHIP_AND_ARTISTIC_CONTROL.md`.
+All agents must follow `/agents/shared/AUTHORSHIP_AND_ARTISTIC_CONTROL.md` and `/agents/shared/BRANCH_LIFECYCLE.md`.
 
 ## Before Starting Work
 
@@ -20,9 +20,10 @@ An agent should:
 2. read `/agents/shared/AUTHORSHIP_AND_ARTISTIC_CONTROL.md`;
 3. read `/agents/shared/PROJECT_CONTEXT.md`;
 4. read `/agents/shared/DECISIONS.md`;
-5. read its own agent-specific files under `/agents/<agent>/`;
-6. inspect the relevant canonical Markdown and repository standards;
-7. inspect recent work in the area being modified.
+5. read `/agents/shared/BRANCH_LIFECYCLE.md`;
+6. read its own agent-specific files under `/agents/<agent>/`;
+7. inspect the relevant canonical Markdown and repository standards;
+8. inspect recent work in the area being modified.
 
 Do not begin from remembered chat context when the repository can answer the question.
 
@@ -51,10 +52,13 @@ A useful handoff should contain:
 - **Current state**
 - **Files changed**
 - **Approval status** — identify what is APPROVED versus PROPOSED / awaiting author review
+- **Branch status** — ACTIVE, AWAITING REVIEW, MERGED — DELETE, PRESERVE TEMPORARILY, or ABANDONED — REVIEW BEFORE DELETE
 - **Important decisions**
 - **Open questions**
 - **Next recommended step**
 - **Risks / spoiler concerns**
+
+If a branch is being preserved temporarily, also record why it remains and the condition that permits deletion.
 
 Avoid long narrative transcripts.
 
@@ -93,7 +97,7 @@ Do not expose future arcs, hidden motives, creator-only answers, or story-sensit
 
 Do not invent new narrative material merely to fill a public page and then treat it as published canon. New public-facing creative content requires author approval.
 
-## Commit Behavior
+## Commit and Branch Behavior
 
 When making repository changes:
 
@@ -102,7 +106,11 @@ When making repository changes:
 - avoid unrelated rewrites;
 - preserve cross-links;
 - prefer updating the owning canonical file rather than duplicating lore into memory files;
-- do not commit material creative changes as accepted project state until the author has approved them.
+- do not commit material creative changes as accepted project state until the author has approved them;
+- use short-lived task branches rather than accumulating permanent working branches;
+- after merging a pull request into `main`, verify the result and delete the merged branch promptly;
+- if the current tool cannot delete the branch, explicitly flag it as **MERGED — DELETE** rather than silently leaving it behind;
+- before deleting an unmerged branch, compare it with `main` and ensure no unique work requires salvage.
 
 A direct author request for a specific change constitutes approval for that specific change. If implementation exposes additional consequential creative decisions, surface them for approval instead of deciding silently.
 
@@ -116,4 +124,8 @@ Then ask:
 
 > Would that agent be able to tell which ideas were approved by the author and which were only proposed?
 
-If the answer is important and durable, put it in the repository with the correct approval status.
+If a working branch was used, also ask:
+
+> Does this branch still have a legitimate reason to exist, or should it now be deleted?
+
+If the answer is important and durable, put it in the repository with the correct approval and branch status.
