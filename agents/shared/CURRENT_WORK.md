@@ -43,6 +43,8 @@ Before choosing or changing the web stack, the implementing agent should inspect
 
 Prefer a content-driven architecture that can reuse canonical Markdown and structured metadata rather than duplicating lore into hard-coded pages.
 
+The approved initial hosting target is the Vercel Hobby plan for the project's current non-commercial phase. Publish and review the site at a temporary Vercel deployment URL before connecting either custom domain. Domain connection is a separate creator-approved cutover step.
+
 ### Initial Content/UX Direction
 
 Useful first-release areas likely include:
@@ -63,6 +65,9 @@ These are directional, not yet a locked sitemap.
 - Shared `/agents/` durable-memory architecture established.
 - Hermes Aetherhaven `SOUL.md` established.
 - GPT collaboration profile established.
+- Vercel account established and connected to the official GitHub account.
+- `thebrassguardian.com` and `www.thebrassguardian.com` currently redirect to the official GitHub repository as placeholders.
+- Vercel Hobby approved for the initial non-commercial deployment, with preview-first review before domain connection.
 - Website implementation has not yet been architected in this shared memory file.
 
 ### Next Recommended Step

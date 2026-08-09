@@ -116,6 +116,18 @@ The experience should feel like entering and exploring the Aetherhaven Archives 
 
 ---
 
+## 2026-08-08 — Initial Website Hosting and Domain Cutover
+
+**Status:** APPROVED
+
+The initial non-commercial version of **thebrassguardian.com** will use the Vercel Hobby plan. The author has created a Vercel account connected to the official GitHub account.
+
+Development should be published first to a temporary Vercel deployment URL for review. The custom domains should remain forwarded to the official GitHub repository until a production build is approved and ready for connection.
+
+Connecting the domains is a separate cutover step and must not be performed merely because a preview deployment exists. If the site's purpose later becomes commercial, review the hosting plan against Vercel's then-current terms before continuing to use the Hobby tier.
+
+---
+
 ## 2026-08-08 — Moon Garden Canon
 
 **Status:** APPROVED
