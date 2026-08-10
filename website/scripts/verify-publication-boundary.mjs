@@ -2,56 +2,59 @@ import { readFile } from "node:fs/promises";
 import { dirname, resolve } from "node:path";
 import { fileURLToPath } from "node:url";
 
-import { validatePublicationManifest } from "./lib/publication-boundary.mjs";
-import { validateArchiveRelease } from "./lib/archive-release.mjs";
-import { validateArchivePresentation } from "./lib/archive-presentation.mjs";
+import publicationLedger from "../content/public/manifest.v2.json" with { type: "json" };
+import archivePresentation from "../content/public/archive-presentation.v2.json" with { type: "json" };
+import archiveRelease from "../content/public/archive-release.json" with { type: "json" };
+import assetRegistry from "../content/public/archive-assets.json" with { type: "json" };
+
+import { loadCanonRecords } from "./lib/canon-record-loader.mjs";
+import { buildArchivePublicationV2 } from "./lib/archive-publication-v2-model.mjs";
 
 const scriptsRoot = dirname(fileURLToPath(import.meta.url));
 const websiteRoot = resolve(scriptsRoot, "..");
 const repositoryRoot = resolve(websiteRoot, "..");
-const manifestPath = resolve(websiteRoot, "content", "public", "manifest.json");
-const releasePath = resolve(
-  websiteRoot,
-  "content",
-  "public",
-  "archive-release.json",
-);
-const presentationPath = resolve(
-  websiteRoot,
-  "content",
-  "public",
-  "archive-presentation.json",
-);
-const publicRoot = resolve(websiteRoot, "public");
 
 try {
-  const manifest = JSON.parse(await readFile(manifestPath, "utf8"));
-  const release = validateArchiveRelease(
-    JSON.parse(await readFile(releasePath, "utf8")),
-  );
-  const presentation = JSON.parse(await readFile(presentationPath, "utf8"));
-  const validated = await validatePublicationManifest(manifest, {
+  const records = await loadCanonRecords({ repositoryRoot });
+  const archive = await buildArchivePublicationV2({
+    records,
+    ledger: publicationLedger,
+    presentation: archivePresentation,
+    release: archiveRelease,
+    assetRegistry,
     repositoryRoot,
-    publicRoot,
+    preview: false,
   });
-  validateArchivePresentation(presentation, validated);
-  if (release.status === "published" && validated.entries.length === 0) {
-    throw new Error("published Archive release requires approved manifest entries.");
+
+  if (archiveRelease.status === "published") {
+    if (records.length !== 210) {
+      throw new Error(`expected 210 Schema v1 canonical records; found ${records.length}.`);
+    }
+    if (publicationLedger.entries.length !== 95) {
+      throw new Error(
+        `published Archive requires 95 approved projection fingerprints; found ${publicationLedger.entries.length}.`,
+      );
+    }
+    if (archive.entries.length !== 67) {
+      throw new Error(
+        `published Archive requires 67 public catalog records; found ${archive.entries.length}.`,
+      );
+    }
+    if (archive.hiddenEntries.length !== 28) {
+      throw new Error(
+        `published Archive requires 28 Hidden Archive teasers; found ${archive.hiddenEntries.length}.`,
+      );
+    }
+    if (archive.mapEntries.length + archive.hiddenMapEntries.length !== 30) {
+      throw new Error("published Archive requires 30 canonical map references.");
+    }
+    if (archive.curatorRoute.length !== 8) {
+      throw new Error("published Archive requires the approved eight-stop Curator Route.");
+    }
   }
-  const hiddenEntries = validated.entries.filter((entry) =>
-    entry.tags.includes("hidden-archive"),
-  );
-  if (
-    release.status === "published" &&
-    !release.includeHiddenArchives &&
-    hiddenEntries.length > 0
-  ) {
-    throw new Error(
-      "sealed Hidden Archives cannot remain in the published manifest projection.",
-    );
-  }
+
   console.log(
-    `Publication boundary passed: ${validated.entries.length} approved record(s), ${presentation.mapEntries.length} approved map presentation(s), ${hiddenEntries.length} Hidden Archive teaser(s), release ${release.status}.`,
+    `Publication boundary passed: ${records.length} Schema v1 canon record(s), ${publicationLedger.entries.length} exact approved projection fingerprint(s), ${archive.entries.length} public catalog record(s), ${archive.hiddenEntries.length} Hidden Archive teaser(s), ${archive.mapEntries.length + archive.hiddenMapEntries.length} canonical map link(s), release ${archiveRelease.status}.`,
   );
 } catch (error) {
   console.error(`Publication boundary failed: ${error.message}`);
