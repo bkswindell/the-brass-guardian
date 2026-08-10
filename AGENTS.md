@@ -47,7 +47,10 @@ Before making changes:
    - GPT / OpenAI: `/agents/gpt/`
    - Claude: `/agents/claude/`
    - Gemini: `/agents/gemini/`
-5. Read the repository standards relevant to the task, including `docs/standards/CANON_MARKDOWN_STANDARD.md` and `docs/PROJECT_INDEX.md` when working with lore or canon.
+5. Read the repository standards relevant to the task, including:
+   - `docs/standards/CANON_MARKDOWN_STANDARD.md` for lore/canon work;
+   - `docs/standards/AETHERHAVEN_CONTENT_SCHEMA.md` before creating, changing, ingesting, validating, or migrating structured canon metadata;
+   - `docs/PROJECT_INDEX.md` when working with repository-wide lore or canon.
 6. Inspect the current implementation and relevant source files before proposing or making changes.
 
 Do not rely on remembered conversation history when the repository contains a newer decision.
@@ -120,6 +123,26 @@ For substantial architectural or creative changes, document the decision in `/ag
 
 Purely technical implementation does not grant permission to invent missing creative content. If implementation exposes a consequential creative gap, surface it for author direction.
 
+## Structured Content and Schema Governance
+
+`docs/standards/AETHERHAVEN_CONTENT_SCHEMA.md` is the governing contract for structured canonical content and its downstream consumers.
+
+The schema is currently in design phase. Its **change-control rules are already active**, even though the Version 1 field dictionary is not yet frozen.
+
+Agents must follow these rules:
+
+- canonical Markdown is the intended authoritative content source; do not create a second permanent lore database in website code, JSON catalogs, or generated indexes;
+- publication approval remains separate from canon/content and must fail closed;
+- website presentation data does not become canon metadata merely because a component needs it;
+- do not add, rename, remove, reinterpret, or repurpose schema fields without following the schema-change process;
+- after Version 1 is locked, material schema changes require an explicit Schema Change Proposal and author approval;
+- use `/templates/Aetherhaven_Schema_Change_Proposal.md` for proposed schema changes;
+- prefer adapters, derived data, or presentation configuration over unnecessary global schema changes;
+- a schema migration may transform metadata deterministically, but it must not invent canon or mechanically resolve open creative questions;
+- the website must consume the content model rather than forcing the content model to mirror transient frontend implementation details.
+
+Do not begin a repository-wide metadata migration until `AETHERHAVEN_CONTENT_SCHEMA.md` declares Version 1 locked and author-approved.
+
 ## Branch Lifecycle
 
 All agents must follow `/agents/shared/BRANCH_LIFECYCLE.md`.
@@ -148,4 +171,4 @@ If the work used a non-`main` branch, the handoff must also state whether that b
 
 ## Final Rule
 
-**The author controls the story. Protect the canon, protect the unrevealed story, clean up completed branches, and leave the repository easier for the next collaborator to understand than you found it.**
+**The author controls the story. Protect the canon, protect the unrevealed story, protect the content contract, clean up completed branches, and leave the repository easier for the next collaborator to understand than you found it.**
