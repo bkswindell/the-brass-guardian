@@ -7,7 +7,6 @@ import test from "node:test";
 import manifest from "../content/public/manifest.json" with { type: "json" };
 import presentation from "../content/public/archive-presentation.json" with { type: "json" };
 import release from "../content/public/archive-release.json" with { type: "json" };
-import { getArchivePublication } from "../src/lib/archive-publication.mjs";
 import {
   approvedArchiveAssetFiles,
   buildExactApprovedProjection,
@@ -87,9 +86,9 @@ const buildArtifactFixture = () => {
   return { expected, htmlByPath };
 };
 
-test("exact projection verification rejects altered record and presentation values", async () => {
+test("exact projection verification rejects altered record and presentation values", () => {
   const archive = structuredClone(
-    await getArchivePublication({ VERCEL_ENV: "production" }),
+    buildExactApprovedProjection({ manifest, presentation, release }),
   );
   archive.entries[0].publicSummary = "A raw proposal replacement.";
   archive.mapEntries[0].mapRegion.cx += 1;
