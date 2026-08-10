@@ -212,7 +212,7 @@ The active master may generate responsive derivatives for the author-approved `f
 
 ## 2026-08-10 — Direct Map Links and Hidden Archives Preview Architecture
 
-**Status:** AUTHOR-DIRECTED PREVIEW IMPLEMENTATION / NOT PRODUCTION PUBLICATION
+**Status:** AUTHOR APPROVED FOR MERGE / NOT PRODUCTION PUBLICATION
 
 The author rejected the Map Room's separate numbered-button overlay and directed the feature Preview to make the map regions and existing raster labels themselves clickable. The implemented map keeps `art/Map_of_Aetherhaven.png` unchanged and aligns a responsive SVG overlay to its intrinsic `1539×1152` coordinate system. Each of the 24 numbered public locations and six lettered restricted references uses one semantic link containing both its region and label geometry, so keyboard and assistive-technology users encounter one focus stop per destination rather than duplicate links.
 
@@ -220,7 +220,9 @@ The Preview Open Catalog may contain conservative, source-grounded stubs for all
 
 Hidden Archives is a separately warned subsection of the Aetherhaven Archives for the six restricted map references, 12 mysterious or spoiler-sensitive figures, and 10 concealed or sensitive organizations. Its record titles may be indexed for author review, but sensitive extracts stay closed by default and must not be surfaced in ordinary public catalog cards. The subsection must tease the existence of restricted material without revealing creator-only answers.
 
-All expanded Archive routes, records, copy, artwork, styles, and scripts remain Preview-only and fail closed in production. `VERCEL_ENV=production` continues to override any conflicting Preview flag. This direction does not authorize merge to `main`, production promotion, a canon declaration, or public release of the Hidden Archives.
+All expanded Archive routes, records, copy, artwork, styles, and scripts remain Preview-only and fail closed in production. `VERCEL_ENV=production` continues to override any conflicting Preview flag. Before the later approval recorded below, this direction did not authorize merge to `main`, production promotion, a canon declaration, or public release of the Hidden Archives.
+
+On 2026-08-10, after reviewing the completed branch Preview, the author approved this implementation and authorized merging `feat/world-entrance-map` into `main` and pushing `main`. That approval accepts the C1 implementation checkpoint but does not convert proposal records into canon or authorize removing the production publication gate; those remain separate content decisions.
 
 ---
 
