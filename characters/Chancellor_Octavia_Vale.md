@@ -1,25 +1,55 @@
 ---
-character_id: AH-CHAR-OCTAVIA-VALE
+schema_version: 1
+id: AH-CHAR-OCTAVIA-VALE
+record_type: character
 name: Chancellor Octavia Vale
-type: Chancellor of Aetherhaven
-series: The Brass Guardian / The Aetherhaven Chronicles
-canon_status: Canonical working profile
-canonical_scope: Aetherhaven volumes
-last_updated: 2026-08-01
-primary_location:
-  - Government District
-public_office:
-  - Chancellor of the High Council
-key_relationships:
-  - The High Council of Aetherhaven
-  - The Order of the Closed Eye
-  - Chief Inspector Beatrice Thorne
-  - Professor Elias Hawthorne
-  - Amelia Hawthorne
-  - Captain Mara Voss
-temporal_relevance: Critical
+slug: chancellor-octavia-vale
+aliases: []
+last_updated: '2026-08-01'
+canon:
+  status: canonical
+  scope:
+  - aetherhaven-volumes
+development:
+  status: working
+  temporal_relevance: critical
+disclosure:
+  level: story-sensitive
+descriptor: Chancellor of Aetherhaven
+public_projection:
+  title: Chancellor Octavia Vale
+  summary: Chancellor Octavia Vale is the disciplined presiding officer of Aetherhaven’s High Council.
+  classification: public
+  archive_section: catalog
+  access_label: public
+  tags:
+  - character
+  - catalog-stub
+  related: []
+character: {}
+relationships:
+- target: AH-LOC-PLACEHOLDER-011
+  type: primary-location
+  visibility: story-sensitive
+- target: AH-ORG-HIGH-COUNCIL
+  type: connected-to
+  visibility: story-sensitive
+- target: AH-ORG-CLOSED-EYE
+  type: connected-to
+  visibility: story-sensitive
+- target: AH-CHAR-BEATRICE-THORNE
+  type: connected-to
+  visibility: story-sensitive
+- target: AH-CHAR-001
+  type: connected-to
+  visibility: story-sensitive
+- target: AH-CHAR-002
+  type: connected-to
+  visibility: story-sensitive
+- target: AH-CHAR-MARA-VOSS
+  type: connected-to
+  visibility: story-sensitive
 ---
-
 # Chancellor Octavia Vale
 
 ## Canonical Summary
@@ -364,3 +394,9 @@ The incident remains a public embarrassment. Orin does not exploit it, and Vale 
 7. Would she invoke Continuance against the Hawthornes?
 8. What truth would she release even if it ended her career?
 9. Will she remain Chancellor if [the First Mechanist](The_First_Mechanist.md) returns?
+
+## Schema Migration Preservation Notes
+
+> These values were preserved verbatim from pre-Version-1 front matter because the migration could not safely convert them into a canonical-ID field without inventing or resolving canon.
+
+- **public_office:** `["Chancellor of the High Council"]`

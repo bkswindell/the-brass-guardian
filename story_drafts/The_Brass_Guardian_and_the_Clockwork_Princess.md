@@ -1,37 +1,63 @@
 ---
-story_draft_id: AH-STORY-DRAFT-001
-title: The Brass Guardian and the Clockwork Princess
-subtitle: A Bedtime Adventure for Amelia
-title_status: Working title
-canon_status: Canonical story draft
-series: The Brass Guardian / The Aetherhaven Chronicles
-proposed_book: Book One
-proposed_placement:
+schema_version: 1
+id: AH-STORY-DRAFT-001
+record_type: story
+name: The Brass Guardian and the Clockwork Princess
+slug: the-brass-guardian-and-the-clockwork-princess
+aliases: []
+last_updated: '2026-08-03'
+canon:
+  status: canonical
+  scope:
+  - aetherhaven-volumes
+development:
+  status: working
+disclosure:
+  level: story-sensitive
+provenance:
+  sources:
+  - kind: manuscript
+    ref: The_Brass_Guardian.pdf
+assets:
+- id: cover
+  path: art/Clockwork_Gardens_at_Night.png
+  role: cover
+  visibility: story-sensitive
+  alt: Canonical cover illustration for The Brass Guardian and the Clockwork Princess.
+chronology:
+  status: relative
+  display: Present-day Hawthorne life before the primary Book One conflict
+story:
+  subtitle: A Bedtime Adventure for Amelia
+  title_status: Working title
+  proposed_book: Book One
+  proposed_placement:
   - Preface
   - Illustrated teaser
   - Short opening vignette
-chronology: Present-day Hawthorne life before the primary Book One conflict
-primary_characters:
-  - Amelia Hawthorne
-  - Professor Elias Hawthorne
-  - Pip or a closely related brass sparrow messenger, exact identity unresolved
-  - The Keeper of Dreams
-primary_locations:
-  - Aetherhaven
-  - The Wayfinder
-  - The Moon Garden
-primary_connections:
-  - The Keeper of Dreams arc
-  - Juniper Bell
-  - The Dream Engine
-  - The silver dream flower
-source_basis:
-  - The_Brass_Guardian.pdf
-last_updated: 2026-08-03
-artwork:
-  cover_image: ../art/Clockwork_Gardens_at_Night.png
+relationships:
+- target: AH-CHAR-002
+  type: features-character
+  visibility: story-sensitive
+- target: AH-CHAR-001
+  type: features-character
+  visibility: story-sensitive
+- target: AH-ARC-KEEPER-OF-DREAMS
+  type: features-character
+  visibility: story-sensitive
+- target: AH-LOC-PLACEHOLDER-001
+  type: features-location
+  visibility: story-sensitive
+- target: AH-VESSEL-WAYFINDER
+  type: features-location
+  visibility: story-sensitive
+- target: AH-LOC-MOON-GARDEN
+  type: features-location
+  visibility: story-sensitive
+- target: AH-CHAR-JUNIPER-BELL
+  type: related-to
+  visibility: story-sensitive
 ---
-
 # The Brass Guardian and the Clockwork Princess
 
 ## A Bedtime Adventure for Amelia
@@ -347,3 +373,12 @@ ready for tomorrow's adventure.
 - [ ] Review terminology against final opening baseline.
 - [ ] Select or generate final illustrations using approved character references.
 - [ ] Copyedit only after the Book One opening sequence is chosen.
+
+## Schema Migration Preservation Notes
+
+> These values were preserved verbatim from pre-Version-1 front matter because the migration could not safely convert them into a canonical-ID field without inventing or resolving canon.
+
+- **primary_characters:** `Pip or a closely related brass sparrow messenger, exact identity unresolved`
+- **primary_connections:** `The Keeper of Dreams arc`
+- **primary_connections:** `The Dream Engine`
+- **primary_connections:** `The silver dream flower`

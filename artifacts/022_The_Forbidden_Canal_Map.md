@@ -1,18 +1,31 @@
 ---
-artifact_id: AH-ART-022
-slate_number: 22
-name: "The Forbidden Canal Map"
-category: "The Thirteenth Canal"
-canon_status: planned-artifact-concept
-image_status: image-needed
-last_updated: 2026-08-02
-related_markdown:
-  - "../characters/Tamsin_Pike.md"
-  - "../organizations/The_Underclock.md"
-canonical_images:
-  - null
+schema_version: 1
+id: AH-ART-022
+record_type: artifact
+name: The Forbidden Canal Map
+slug: the-forbidden-canal-map
+aliases: []
+last_updated: '2026-08-02'
+canon:
+  status: proposed
+  scope: []
+development:
+  status: concept
+disclosure:
+  level: creator-only
+artifact:
+  category: The Thirteenth Canal
+production:
+  slate_number: 22
+  image_status: image-needed
+relationships:
+- target: AH-CHAR-TAMSIN-PIKE
+  type: related-to
+  visibility: story-sensitive
+- target: AH-ORG-UNDERCLOCK
+  type: related-to
+  visibility: story-sensitive
 ---
-
 # The Forbidden Canal Map
 
 > **Artifact Image Slate #22** · [The Thirteenth Canal](../locations/The_Thirteenth_Canal.md) · [Artifact standard](../docs/standards/CANON_MARKDOWN_STANDARD.md)

@@ -1,17 +1,28 @@
 ---
-artifact_id: AH-ART-060
-slate_number: 60
-name: "Lamplighter’s Blue Flame Photograph"
-category: "Background Lore and Transitional Artifacts"
-canon_status: planned-artifact-concept
-image_status: image-needed
-last_updated: 2026-08-02
-related_markdown:
-  - "../organizations/The_Lamplighters_Fellowship.md"
-canonical_images:
-  - null
+schema_version: 1
+id: AH-ART-060
+record_type: artifact
+name: Lamplighter’s Blue Flame Photograph
+slug: lamplighters-blue-flame-photograph
+aliases: []
+last_updated: '2026-08-02'
+canon:
+  status: proposed
+  scope: []
+development:
+  status: concept
+disclosure:
+  level: creator-only
+artifact:
+  category: Background Lore and Transitional Artifacts
+production:
+  slate_number: 60
+  image_status: image-needed
+relationships:
+- target: AH-ORG-LAMPLIGHTERS-FELLOWSHIP
+  type: related-to
+  visibility: story-sensitive
 ---
-
 # Lamplighter’s Blue Flame Photograph
 
 > **Artifact Image Slate #60** · Background Lore and Transitional Artifacts · [Artifact standard](../docs/standards/CANON_MARKDOWN_STANDARD.md)

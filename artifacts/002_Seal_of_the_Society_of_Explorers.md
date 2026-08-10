@@ -1,19 +1,41 @@
 ---
-artifact_id: AH-ART-002
-slate_number: 2
+schema_version: 1
+id: AH-ART-002
+record_type: artifact
 name: Seal of the Society of Explorers
-category: Foundational Canon Images
-canon_status: planned-artifact-concept
-image_status: provisional-variants
+slug: seal-of-the-society-of-explorers
+aliases: []
 last_updated: '2026-08-02'
-related_markdown:
-- ../organizations/The_Aerial_Mariners_Union.md
-canonical_images:
-- ../art/SE-1-002_Seal_of_the_Society_of_Explorers.png
-- ../art/SE-7-002_Seal_of_the_Society_of_Explorers.png
-visual_transcription_status: complete
+canon:
+  status: proposed
+  scope: []
+development:
+  status: concept
+disclosure:
+  level: creator-only
+assets:
+- id: plate-1
+  path: art/SE-1-002_Seal_of_the_Society_of_Explorers.png
+  role: plate
+  visibility: creator-only
+  alt: Canonical archival plate for Seal of the Society of Explorers.
+- id: plate-2
+  path: art/SE-7-002_Seal_of_the_Society_of_Explorers.png
+  role: plate
+  visibility: creator-only
+  alt: Canonical archival plate for Seal of the Society of Explorers.
+artifact:
+  category: Foundational Canon Images
+  catalog_number: SE-1-002
+production:
+  slate_number: 2
+  image_status: provisional-variants
+  visual_transcription_status: complete
+relationships:
+- target: AH-ORG-AERIAL-MARINERS-UNION
+  type: related-to
+  visibility: story-sensitive
 ---
-
 # Seal of the Society of Explorers
 
 > **Artifact Image Slate #2** · Foundational Canon Images · [Artifact standard](../docs/standards/CANON_MARKDOWN_STANDARD.md)

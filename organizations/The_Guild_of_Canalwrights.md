@@ -1,22 +1,37 @@
 ---
-organization_id: AH-ORG-PLACEHOLDER-018
+schema_version: 1
+id: AH-ORG-PLACEHOLDER-018
+record_type: organization
 name: The Guild of Canalwrights
-type: Placeholder organization profile
+slug: guild-of-canalwrights
 aliases:
-  - Guild of Canalwrights
-  - Canalwrights
-series: The Brass Guardian / The Aetherhaven Chronicles
-canon_status: Source-grounded placeholder
-canonical_scope: Aetherhaven volumes
-last_updated: 2026-08-02
-headquarters: []
-known_leadership: []
-primary_connections: []
-temporal_relevance: Unresolved
-source_basis:
-  - Current canonical Markdown
+- Guild of Canalwrights
+- Canalwrights
+last_updated: '2026-08-02'
+canon:
+  status: canonical
+  scope:
+  - aetherhaven-volumes
+development:
+  status: placeholder
+  temporal_relevance: unresolved
+disclosure:
+  level: story-sensitive
+provenance:
+  sources:
+  - kind: canonical-record
+    ref: Current canonical Markdown
+public_projection:
+  title: The Guild of Canalwrights
+  summary: The Guild of Canalwrights is responsible for Aetherhaven’s canals, locks, water systems, drainage, and sanitation.
+  classification: public
+  archive_section: catalog
+  access_label: public
+  tags:
+  - organization
+  - catalog-stub
+  related: []
 ---
-
 # The Guild of Canalwrights
 
 > **Placeholder profile.** This file provides a stable link target while the organization awaits full development. It does not expand beyond the cited source.

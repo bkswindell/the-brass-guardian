@@ -1,23 +1,41 @@
 ---
-character_id: AH-CHAR-PLACEHOLDER-003
+schema_version: 1
+id: AH-CHAR-PLACEHOLDER-003
+record_type: character
 name: Doctor Elara Quill
-title: Chancellor of the Academy of Invention
+slug: doctor-elara-quill
 aliases:
-  - Elara Quill
-  - Elara
-  - Dr. Elara Quill
-series: The Brass Guardian / The Aetherhaven Chronicles
-canon_status: Source-grounded placeholder
-canonical_scope: Aetherhaven volumes
-last_updated: 2026-08-02
-primary_locations: []
-affiliations: []
-key_connections: []
-temporal_relevance: Unresolved
-source_basis:
-  - Aetherhaven v3.pdf
+- Elara Quill
+- Elara
+- Dr. Elara Quill
+last_updated: '2026-08-02'
+canon:
+  status: canonical
+  scope:
+  - aetherhaven-volumes
+development:
+  status: placeholder
+  temporal_relevance: unresolved
+disclosure:
+  level: story-sensitive
+provenance:
+  sources:
+  - kind: manuscript
+    ref: Aetherhaven v3.pdf
+character:
+  titles:
+  - Chancellor of the Academy of Invention
+public_projection:
+  title: Doctor Elara Quill
+  summary: Doctor Elara Quill is Chancellor of the Academy of Invention and one of Aetherhaven’s leading scholars.
+  classification: public
+  archive_section: catalog
+  access_label: public
+  tags:
+  - character
+  - catalog-stub
+  related: []
 ---
-
 # Doctor Elara Quill
 
 > **Placeholder profile.** This file exists so references can resolve to one authoritative record. It records only what the cited source currently supports and does not supersede more developed canon elsewhere in the repository.

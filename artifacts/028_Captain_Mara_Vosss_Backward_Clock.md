@@ -1,19 +1,34 @@
 ---
-artifact_id: AH-ART-028
-slate_number: 28
-name: "Captain Mara Voss’s Backward Clock"
-category: "The Passenger of Dock Zero"
-canon_status: planned-artifact-concept
-image_status: image-needed
-last_updated: 2026-08-02
-related_markdown:
-  - "../characters/Captain_Mara_Voss.md"
-  - "../characters/The_Passenger_of_Dock_Zero.md"
-  - "../locations/The_Aerial_Docks.md"
-canonical_images:
-  - null
+schema_version: 1
+id: AH-ART-028
+record_type: artifact
+name: Captain Mara Voss’s Backward Clock
+slug: captain-mara-vosss-backward-clock
+aliases: []
+last_updated: '2026-08-02'
+canon:
+  status: proposed
+  scope: []
+development:
+  status: concept
+disclosure:
+  level: creator-only
+artifact:
+  category: The Passenger of Dock Zero
+production:
+  slate_number: 28
+  image_status: image-needed
+relationships:
+- target: AH-CHAR-MARA-VOSS
+  type: related-to
+  visibility: story-sensitive
+- target: AH-CHAR-PASSENGER-DOCK-ZERO
+  type: related-to
+  visibility: story-sensitive
+- target: AH-LOC-AERIAL-DOCKS
+  type: related-to
+  visibility: story-sensitive
 ---
-
 # Captain Mara Voss’s Backward Clock
 
 > **Artifact Image Slate #28** · [The Passenger of Dock Zero](../characters/The_Passenger_of_Dock_Zero.md) · [Artifact standard](../docs/standards/CANON_MARKDOWN_STANDARD.md)

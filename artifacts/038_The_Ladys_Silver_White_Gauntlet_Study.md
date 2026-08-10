@@ -1,17 +1,28 @@
 ---
-artifact_id: AH-ART-038
-slate_number: 38
-name: "The Lady’s Silver-White Gauntlet Study"
-category: "The Girl in the Reflection"
-canon_status: planned-artifact-concept
-image_status: image-needed
-last_updated: 2026-08-02
-related_markdown:
-  - "../story_arcs/The_Black_Catalogue_Arc.md"
-canonical_images:
-  - null
+schema_version: 1
+id: AH-ART-038
+record_type: artifact
+name: The Lady’s Silver-White Gauntlet Study
+slug: the-ladys-silver-white-gauntlet-study
+aliases: []
+last_updated: '2026-08-02'
+canon:
+  status: proposed
+  scope: []
+development:
+  status: concept
+disclosure:
+  level: creator-only
+artifact:
+  category: The Girl in the Reflection
+production:
+  slate_number: 38
+  image_status: image-needed
+relationships:
+- target: AH-ARC-NINTH-GUILD
+  type: related-to
+  visibility: story-sensitive
 ---
-
 # The Lady’s Silver-White Gauntlet Study
 
 > **Artifact Image Slate #38** · The Girl in the Reflection · [Artifact standard](../docs/standards/CANON_MARKDOWN_STANDARD.md)

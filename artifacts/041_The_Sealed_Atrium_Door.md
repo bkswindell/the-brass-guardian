@@ -1,19 +1,34 @@
 ---
-artifact_id: AH-ART-041
-slate_number: 41
-name: "The Sealed Atrium Door"
-category: "The Door That Remembered Amelia"
-canon_status: planned-artifact-concept
-image_status: image-needed
-last_updated: 2026-08-02
-related_markdown:
-  - "../characters/Juniper_Bell.md"
-  - "../organizations/The_Conservancy_of_Living_Mechanisms.md"
-  - "../story_arcs/The_Thirteenth_Chair.md"
-canonical_images:
-  - null
+schema_version: 1
+id: AH-ART-041
+record_type: artifact
+name: The Sealed Atrium Door
+slug: the-sealed-atrium-door
+aliases: []
+last_updated: '2026-08-02'
+canon:
+  status: proposed
+  scope: []
+development:
+  status: concept
+disclosure:
+  level: creator-only
+artifact:
+  category: The Door That Remembered Amelia
+production:
+  slate_number: 41
+  image_status: image-needed
+relationships:
+- target: AH-CHAR-JUNIPER-BELL
+  type: related-to
+  visibility: story-sensitive
+- target: AH-ORG-CONSERVANCY-LIVING-MECHANISMS
+  type: related-to
+  visibility: story-sensitive
+- target: AH-ARC-THIRTEENTH-CHAIR
+  type: related-to
+  visibility: story-sensitive
 ---
-
 # The Sealed Atrium Door
 
 > **Artifact Image Slate #41** · The Door That Remembered [Amelia](../characters/Amelia_Hawthorne.md) · [Artifact standard](../docs/standards/CANON_MARKDOWN_STANDARD.md)

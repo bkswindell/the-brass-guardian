@@ -1,39 +1,61 @@
 ---
-character_id: AH-CHAR-SILAS-ROOK
+schema_version: 1
+id: AH-CHAR-SILAS-ROOK
+record_type: character
 name: Silas Rook
-title: The Stillmaker
+slug: silas-rook
 aliases:
+- The Stillmaker
+- The First Cut
+- S. Rook
+- The Man Between Hours
+last_updated: '2026-08-01'
+canon:
+  status: canonical
+  scope:
+  - later-aetherhaven-volumes
+development:
+  status: working
+  temporal_relevance: critical
+disclosure:
+  level: creator-only
+character:
+  titles:
   - The Stillmaker
-  - The First Cut
-  - S. Rook
-  - The Man Between Hours
-series: The Brass Guardian / The Aetherhaven Chronicles
-canon_status: Canonical hidden profile
-canonical_scope: Later Aetherhaven volumes
-last_updated: 2026-08-01
-spoiler_level: Major long-range revelation
-public_identity: Unknown
-former_role:
+  public_identity: Unknown
+  former_roles:
   - Chief Chronometric Navigator of the Resolute
   - First Officer to Captain Mara Voss
-current_role:
+  current_roles:
   - Hidden architect of the Severed Coil
   - Possible creator of the Inner Coil myth
-primary_locations:
-  - Unknown
-  - Temporal dead drops throughout Aetherhaven
-  - Abandoned chronometric stations
-  - Possible access to the Shrouded Vaults
-key_connections:
-  - Captain Mara Voss
-  - The Severed Coil
-  - Amelia Hawthorne
-  - Professor Elias Hawthorne
-  - Chief Inspector Beatrice Thorne
-  - The Resolute
-temporal_relevance: Critical
+public_projection:
+  title: Silas Rook
+  summary: Silas Rook is indexed as a major spoiler figure. Identity and fuller context remain sealed or withheld from the public catalog.
+  classification: teaser
+  archive_section: hidden
+  access_label: major spoiler
+  tags:
+  - character
+  - hidden-archive
+  related: []
+relationships:
+- target: AH-CHAR-MARA-VOSS
+  type: connected-to
+  visibility: story-sensitive
+- target: AH-ORG-SEVERED-COIL
+  type: connected-to
+  visibility: story-sensitive
+- target: AH-CHAR-002
+  type: connected-to
+  visibility: story-sensitive
+- target: AH-CHAR-001
+  type: connected-to
+  visibility: story-sensitive
+- target: AH-CHAR-BEATRICE-THORNE
+  type: connected-to
+  visibility: story-sensitive
 ---
-
 # Silas Rook
 
 ## Restricted Canon Notice
@@ -497,3 +519,13 @@ Rook attempts to force [Aetherhaven](../locations/Aetherhaven.md) into a control
 13. Does [the Passenger of Dock Zero](The_Passenger_of_Dock_Zero.md) know his name?
 14. Is Rook trying to prevent the Morningstar's arrival—or ensure it?
 15. What would make him admit that his certainty is the true danger?
+
+## Schema Migration Preservation Notes
+
+> These values were preserved verbatim from pre-Version-1 front matter because the migration could not safely convert them into a canonical-ID field without inventing or resolving canon.
+
+- **primary_locations:** `Unknown`
+- **primary_locations:** `Temporal dead drops throughout Aetherhaven`
+- **primary_locations:** `Abandoned chronometric stations`
+- **primary_locations:** `Possible access to the Shrouded Vaults`
+- **key_connections:** `The Resolute`

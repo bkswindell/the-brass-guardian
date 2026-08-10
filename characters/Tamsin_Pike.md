@@ -1,25 +1,51 @@
 ---
-character_id: AH-CHAR-TAMSIN-PIKE
+schema_version: 1
+id: AH-CHAR-TAMSIN-PIKE
+record_type: character
 name: Tamsin Pike
-type: Young canal guide, locksmith, and possible Underclock route heir
-series: The Brass Guardian / The Aetherhaven Chronicles
-canon_status: Canonical working profile
-canonical_scope: Aetherhaven volumes
-last_updated: 2026-08-01
-primary_locations:
-  - Canal District
-  - Old City passages
-  - Underclock routes
-key_relationships:
-  - Amelia Hawthorne
-  - Professor Elias Hawthorne
-  - The Underclock
-  - Captain Mara Voss
-signature_artifact:
-  - Tamsin Pike's brass key
-temporal_relevance: Medium to high
+slug: tamsin-pike
+aliases: []
+last_updated: '2026-08-01'
+canon:
+  status: canonical
+  scope:
+  - aetherhaven-volumes
+development:
+  status: working
+disclosure:
+  level: story-sensitive
+descriptor: Young canal guide, locksmith, and possible Underclock route heir
+public_projection:
+  title: Tamsin Pike
+  summary: Tamsin Pike is a capable young canal guide and locksmith with practical knowledge of Aetherhaven’s waterways and maintenance passages.
+  classification: public
+  archive_section: catalog
+  access_label: public
+  tags:
+  - character
+  - catalog-stub
+  related: []
+relationships:
+- target: AH-LOC-PLACEHOLDER-016
+  type: primary-location
+  visibility: story-sensitive
+- target: AH-CHAR-002
+  type: connected-to
+  visibility: story-sensitive
+- target: AH-CHAR-001
+  type: connected-to
+  visibility: story-sensitive
+- target: AH-ORG-UNDERCLOCK
+  type: connected-to
+  visibility: story-sensitive
+- target: AH-CHAR-MARA-VOSS
+  type: connected-to
+  visibility: story-sensitive
+- target: AH-ART-021
+  type: signature-artifact
+  visibility: story-sensitive
+character: {}
 ---
-
 # Tamsin Pike
 
 ## Canonical Summary
@@ -172,3 +198,10 @@ Her clothing may include inherited repairs or old canal-family markings.
 4. Did a Pike relative participate in the Prototype I extraction?
 5. What debt or promise did she inherit?
 6. Which route recognizes her?
+
+## Schema Migration Preservation Notes
+
+> These values were preserved verbatim from pre-Version-1 front matter because the migration could not safely convert them into a canonical-ID field without inventing or resolving canon.
+
+- **primary_locations:** `Old City passages`
+- **primary_locations:** `Underclock routes`

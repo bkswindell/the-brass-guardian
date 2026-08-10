@@ -1,32 +1,67 @@
 ---
-character_id: AH-CHAR-005
+schema_version: 1
+id: AH-CHAR-005
+record_type: character
 name: Orin Flint
-title: Foreman of the Gearbreaker Mines
+slug: orin-flint
 aliases:
-  - Orin
-  - Foreman Flint
-series: The Brass Guardian / The Aetherhaven Chronicles
-canon_status: Canonical working profile
-canonical_scope: Aetherhaven volumes
-last_updated: 2026-08-02
-primary_locations:
-  - Gearbreaker Mines
-affiliations:
-  - Gearbreaker mining crews
-  - Miners' Guild, formal status unresolved
-key_connections:
-  - Master Gideon Brasswell
-  - Professor Elias Hawthorne
-  - Amelia Hawthorne
-  - Chancellor Octavia Vale
-  - Chief Inspector Beatrice Thorne
-  - Gearbreaker Standoff
-temporal_relevance: High
-source_basis:
-  - Current canonical Markdown
-  - Aetherhaven compiled manuscripts where Markdown previously left gaps
+- Orin
+- Foreman Flint
+last_updated: '2026-08-02'
+canon:
+  status: canonical
+  scope:
+  - aetherhaven-volumes
+development:
+  status: working
+  temporal_relevance: high
+disclosure:
+  level: story-sensitive
+provenance:
+  sources:
+  - kind: canonical-record
+    ref: Current canonical Markdown
+  - kind: manuscript
+    ref: Aetherhaven compiled manuscripts where Markdown previously left gaps
+character:
+  titles:
+  - Foreman of the Gearbreaker Mines
+public_projection:
+  title: Orin Flint
+  summary: Orin Flint is the veteran foreman of the Gearbreaker Mines and a steadfast advocate for the safety of his crews.
+  classification: public
+  archive_section: catalog
+  access_label: public
+  tags:
+  - character
+  - catalog-stub
+  related: []
+relationships:
+- target: AH-LOC-PLACEHOLDER-020
+  type: primary-location
+  visibility: story-sensitive
+- target: AH-ORG-PLACEHOLDER-014
+  type: affiliated-with
+  visibility: story-sensitive
+- target: AH-CHAR-GIDEON-BRASSWELL
+  type: connected-to
+  visibility: story-sensitive
+- target: AH-CHAR-001
+  type: connected-to
+  visibility: story-sensitive
+- target: AH-CHAR-002
+  type: connected-to
+  visibility: story-sensitive
+- target: AH-CHAR-OCTAVIA-VALE
+  type: connected-to
+  visibility: story-sensitive
+- target: AH-CHAR-BEATRICE-THORNE
+  type: connected-to
+  visibility: story-sensitive
+- target: AH-HIST-001
+  type: connected-to
+  visibility: story-sensitive
 ---
-
 # Orin Flint
 
 ## Canonical Summary
@@ -416,3 +451,9 @@ His previously mentioned metal-seeking compass remains provisional until its fun
 - [ ] Generate canonical portrait.
 - [ ] Create artifact record for his hammer, compass, or closure report when story-relevant.
 - [ ] Draft *The Watchman's Regret*.
+
+## Schema Migration Preservation Notes
+
+> These values were preserved verbatim from pre-Version-1 front matter because the migration could not safely convert them into a canonical-ID field without inventing or resolving canon.
+
+- **affiliations:** `Gearbreaker mining crews`

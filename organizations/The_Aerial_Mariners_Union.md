@@ -1,37 +1,67 @@
 ---
-organization_id: AH-ORG-AERIAL-MARINERS-UNION
-name: The Aerial Mariners' Union
-type: Airship labor union, route authority, mutual-aid society, and navigational order
+schema_version: 1
+id: AH-ORG-AERIAL-MARINERS-UNION
+record_type: organization
+name: The Aerial Mariners’ Union
+slug: aerial-mariners-union
 aliases:
-  - The Mariners' Union
-  - The Union
-  - The AMU
-series: The Brass Guardian / The Aetherhaven Chronicles
-canon_status: Canonical working profile
-canonical_scope: Aetherhaven volumes
-last_updated: 2026-08-01
-headquarters:
-  - Mariners' Hall, Aerial Docks
-primary_jurisdiction:
+- The Mariners' Union
+- The Union
+- The AMU
+last_updated: '2026-08-01'
+canon:
+  status: canonical
+  scope:
+  - aetherhaven-volumes
+development:
+  status: working
+  temporal_relevance: critical
+disclosure:
+  level: story-sensitive
+descriptor: Airship labor union, route authority, mutual-aid society, and navigational order
+organization:
+  jurisdiction:
   - Member labor and safety
   - Aerial route knowledge
   - Rescue obligations
   - Airship crew certification
   - Collective work stoppages
-leadership:
-  - Elected Union Speaker, identity not yet established
-  - Route Council
-key_relationships:
-  - Captain Mara Voss
-  - The Aerial Docks
-  - The Brass Watch
-  - The High Council
-  - Professor Elias Hawthorne
-  - Amelia Hawthorne
-  - The Society of Explorers
-temporal_relevance: Critical
+public_projection:
+  title: The Aerial Mariners’ Union
+  summary: The Aerial Mariners’ Union represents the crews and workers who keep Aetherhaven connected to the skies while providing certification, rescue, and mutual aid.
+  classification: public
+  archive_section: catalog
+  access_label: public
+  tags:
+  - organization
+  - catalog-stub
+  related: []
+relationships:
+- target: AH-LOC-PLACEHOLDER-048
+  type: headquartered-at
+  visibility: story-sensitive
+- target: AH-CHAR-MARA-VOSS
+  type: related-to
+  visibility: story-sensitive
+- target: AH-LOC-AERIAL-DOCKS
+  type: related-to
+  visibility: story-sensitive
+- target: AH-ORG-BRASS-WATCH
+  type: related-to
+  visibility: story-sensitive
+- target: AH-ORG-HIGH-COUNCIL
+  type: related-to
+  visibility: story-sensitive
+- target: AH-CHAR-001
+  type: related-to
+  visibility: story-sensitive
+- target: AH-CHAR-002
+  type: related-to
+  visibility: story-sensitive
+- target: AH-ORG-PLACEHOLDER-002
+  type: related-to
+  visibility: story-sensitive
 ---
-
 # The Aerial Mariners' Union
 
 ## Canonical Summary
@@ -610,3 +640,10 @@ A memorial bell disappears from [Mariners' Hall](../locations/Mariners_Hall.md).
 10. What happens if the Union and Harbormaster issue contradictory grounding orders?
 11. Can a Closed Sky protect [Aetherhaven](../locations/Aetherhaven.md) from a temporal event—or trap it inside one?
 12. Why do unwritten winds sometimes respond to the Aether Heart?
+
+## Schema Migration Preservation Notes
+
+> These values were preserved verbatim from pre-Version-1 front matter because the migration could not safely convert them into a canonical-ID field without inventing or resolving canon.
+
+- **leadership:** `Elected Union Speaker, identity not yet established`
+- **leadership:** `Route Council`

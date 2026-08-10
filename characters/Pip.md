@@ -1,24 +1,51 @@
 ---
-character_id: AH-CHAR-PIP
+schema_version: 1
+id: AH-CHAR-PIP
+record_type: character
 name: Pip
-type: Small brass sparrow, Wayfinder companion, and possible Garden messenger
-series: The Brass Guardian / The Aetherhaven Chronicles
-canon_status: Canonical working profile
-canonical_scope: Aetherhaven volumes
-last_updated: 2026-08-01
-primary_locations:
-  - The Wayfinder
-  - The Hawthorne workshop
-  - The Clockwork Gardens
-affiliation:
-  - Amelia Hawthorne
-possible_connection:
-  - Juniper Bell
-  - The Keeper of Dreams
-  - The Moon Garden
-temporal_relevance: Medium to high
+slug: pip
+aliases: []
+last_updated: '2026-08-01'
+canon:
+  status: canonical
+  scope:
+  - aetherhaven-volumes
+development:
+  status: working
+disclosure:
+  level: story-sensitive
+descriptor: Small brass sparrow, Wayfinder companion, and possible Garden messenger
+public_projection:
+  title: Pip
+  summary: Pip is Amelia Hawthorne’s curious brass sparrow companion aboard the Wayfinder.
+  classification: public
+  archive_section: catalog
+  access_label: public
+  tags:
+  - character
+  - catalog-stub
+  related: []
+relationships:
+- target: AH-VESSEL-WAYFINDER
+  type: primary-location
+  visibility: story-sensitive
+- target: AH-LOC-PLACEHOLDER-003
+  type: primary-location
+  visibility: story-sensitive
+- target: AH-CHAR-002
+  type: affiliated-with
+  visibility: story-sensitive
+- target: AH-CHAR-JUNIPER-BELL
+  type: possible-connection
+  visibility: story-sensitive
+- target: AH-ARC-KEEPER-OF-DREAMS
+  type: possible-connection
+  visibility: story-sensitive
+- target: AH-LOC-MOON-GARDEN
+  type: possible-connection
+  visibility: story-sensitive
+character: {}
 ---
-
 # Pip
 
 ## Canonical Summary
@@ -224,3 +251,9 @@ Possible recurring details include:
 5. Does Pip remember [the Moon Garden](../locations/The_Moon_Garden.md)?
 6. Why do some records place him aboard the Wayfinder too early?
 7. What message has he not yet delivered?
+
+## Schema Migration Preservation Notes
+
+> These values were preserved verbatim from pre-Version-1 front matter because the migration could not safely convert them into a canonical-ID field without inventing or resolving canon.
+
+- **primary_locations:** `The Hawthorne workshop`

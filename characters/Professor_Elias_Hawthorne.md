@@ -1,43 +1,85 @@
 ---
-character_id: AH-CHAR-001
+schema_version: 1
+id: AH-CHAR-001
+record_type: character
 name: Professor Elias Hawthorne
-title: The Brass Guardian
+slug: professor-elias-hawthorne
 aliases:
-  - Elias Hawthorne
-  - Elias
-  - Professor Hawthorne
-series: The Brass Guardian / The Aetherhaven Chronicles
-canon_status: Canonical working profile
-canonical_scope: Aetherhaven volumes
-last_updated: 2026-08-02
-primary_locations:
-  - The Wayfinder
-  - Aetherhaven
-  - The Clockwork Jungle, historical
-  - The Great Workshops
-affiliations:
-  - Society of Explorers, formal status unresolved
-  - Academy of Invention, current status unresolved
-  - Mechanists' Guild tradition through Gideon Brasswell
-key_connections:
-  - Amelia Hawthorne
-  - Master Gideon Brasswell
-  - The Wayfinder
-  - The Aether Gauntlet
-  - The Aether Heart
-  - The Clockwork Jungle Expedition
-  - The Six Aether Keys
-  - The Heart Engine
-  - The Order of the Mended Hand
-temporal_relevance: High
-source_basis:
-  - Aetherhaven.pdf
-  - Aetherhaven v3.pdf
-  - Current canonical Markdown
-canonical_images:
-  - ../art/AH-1-006_The_Wayfinder.png
+- Elias Hawthorne
+- Elias
+- Professor Hawthorne
+last_updated: '2026-08-02'
+canon:
+  status: canonical
+  scope:
+  - aetherhaven-volumes
+development:
+  status: working
+  temporal_relevance: high
+disclosure:
+  level: story-sensitive
+provenance:
+  sources:
+  - kind: manuscript
+    ref: Aetherhaven.pdf
+  - kind: manuscript
+    ref: Aetherhaven v3.pdf
+  - kind: canonical-record
+    ref: Current canonical Markdown
+assets:
+- id: portrait-1
+  path: art/AH-1-006_The_Wayfinder.png
+  role: reference
+  visibility: story-sensitive
+  alt: Canonical visual reference for Professor Elias Hawthorne.
+character:
+  titles:
+  - The Brass Guardian
+public_projection:
+  title: Professor Elias Hawthorne
+  summary: Professor Elias Hawthorne is an engineer, archaeologist, explorer, father, and the figure publicly known as the Brass Guardian.
+  classification: public
+  archive_section: catalog
+  access_label: public
+  tags:
+  - character
+  - catalog-stub
+  related: []
+relationships:
+- target: AH-VESSEL-WAYFINDER
+  type: primary-location
+  visibility: story-sensitive
+- target: AH-LOC-PLACEHOLDER-001
+  type: primary-location
+  visibility: story-sensitive
+- target: AH-LOC-PLACEHOLDER-028
+  type: primary-location
+  visibility: story-sensitive
+- target: AH-LOC-PLACEHOLDER-018
+  type: primary-location
+  visibility: story-sensitive
+- target: AH-ORG-PLACEHOLDER-002
+  type: affiliated-with
+  visibility: story-sensitive
+- target: AH-CHAR-002
+  type: connected-to
+  visibility: story-sensitive
+- target: AH-CHAR-GIDEON-BRASSWELL
+  type: connected-to
+  visibility: story-sensitive
+- target: AH-VESSEL-WAYFINDER
+  type: connected-to
+  visibility: story-sensitive
+- target: AH-HIST-016
+  type: connected-to
+  visibility: story-sensitive
+- target: AH-LOC-PLACEHOLDER-002
+  type: connected-to
+  visibility: story-sensitive
+- target: AH-ORG-PLACEHOLDER-024
+  type: connected-to
+  visibility: story-sensitive
 ---
-
 # Professor Elias Hawthorne
 
 ## Visual Reference
@@ -552,3 +594,13 @@ His clothing may include the Hawthorne explorer's crest, but the crest should no
 - [ ] Select a canonical portrait or generate one from approved character references.
 - [ ] Define the locked journal's physical appearance and artifact record.
 - [ ] Establish the final Clockwork Jungle expedition roster only when required.
+
+## Schema Migration Preservation Notes
+
+> These values were preserved verbatim from pre-Version-1 front matter because the migration could not safely convert them into a canonical-ID field without inventing or resolving canon.
+
+- **affiliations:** `Academy of Invention, current status unresolved`
+- **affiliations:** `Mechanists' Guild tradition through Gideon Brasswell`
+- **key_connections:** `The Aether Gauntlet`
+- **key_connections:** `The Aether Heart`
+- **key_connections:** `The Six Aether Keys`

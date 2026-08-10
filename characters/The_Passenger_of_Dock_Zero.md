@@ -1,33 +1,56 @@
 ---
-character_id: AH-CHAR-PASSENGER-DOCK-ZERO
+schema_version: 1
+id: AH-CHAR-PASSENGER-DOCK-ZERO
+record_type: character
 name: The Passenger of Dock Zero
-title: Unverified Morningstar Passenger
+slug: passenger-of-dock-zero
 aliases:
-  - The Passenger
-  - The Passenger of Dock Zero
-  - The Waiting Man
-series: The Brass Guardian / The Aetherhaven Chronicles
-canon_status: Canonical working profile
-canonical_scope: Aetherhaven volumes
-last_updated: 2026-08-01
-identity_status: Unknown
-primary_locations:
-  - Dock Zero
-  - The Aerial Docks
-  - The reserved Morningstar berth at the Gardens' Airship Landing
-affiliations:
-  - None verified
-  - Possible connection to an unregistered airship line
-  - Possible connection to the Morningstar
-key_connections:
-  - Captain Mara Voss
-  - Amelia Hawthorne
-  - Chief Inspector Beatrice Thorne
-  - The Brass Watch
-  - The Morningstar Company
-temporal_relevance: Critical
+- The Passenger
+- The Passenger of Dock Zero
+- The Waiting Man
+last_updated: '2026-08-01'
+canon:
+  status: canonical
+  scope:
+  - aetherhaven-volumes
+development:
+  status: working
+  temporal_relevance: critical
+disclosure:
+  level: story-sensitive
+character:
+  titles:
+  - Unverified Morningstar Passenger
+public_projection:
+  title: The Passenger of Dock Zero
+  summary: The Passenger of Dock Zero is indexed as a mysterious figure. Identity and fuller context remain sealed or withheld from the public catalog.
+  classification: teaser
+  archive_section: hidden
+  access_label: mysterious
+  tags:
+  - character
+  - hidden-archive
+  related: []
+relationships:
+- target: AH-LOC-PLACEHOLDER-043
+  type: primary-location
+  visibility: story-sensitive
+- target: AH-LOC-AERIAL-DOCKS
+  type: primary-location
+  visibility: story-sensitive
+- target: AH-CHAR-MARA-VOSS
+  type: connected-to
+  visibility: story-sensitive
+- target: AH-CHAR-002
+  type: connected-to
+  visibility: story-sensitive
+- target: AH-CHAR-BEATRICE-THORNE
+  type: connected-to
+  visibility: story-sensitive
+- target: AH-ORG-BRASS-WATCH
+  type: connected-to
+  visibility: story-sensitive
 ---
-
 # The Passenger of Dock Zero
 
 ## Canonical Summary
@@ -524,3 +547,14 @@ The vessel finally appears exactly on schedule according to its own concordance.
 13. Is the Morningstar coming to collect him, deliver him, or replace him?
 14. What happens if he remembers everything before the vessel arrives?
 15. What happens if the Morningstar arrives early?
+
+## Schema Migration Preservation Notes
+
+> These values were preserved verbatim from pre-Version-1 front matter because the migration could not safely convert them into a canonical-ID field without inventing or resolving canon.
+
+- **primary_locations:** `The reserved Morningstar berth at the Gardens' Airship Landing`
+- **affiliations:** `None verified`
+- **affiliations:** `Possible connection to an unregistered airship line`
+- **affiliations:** `Possible connection to the Morningstar`
+- **key_connections:** `The Morningstar Company`
+- **identity_status:** `Unknown`

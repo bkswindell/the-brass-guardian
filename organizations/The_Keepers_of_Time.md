@@ -1,21 +1,36 @@
 ---
-organization_id: AH-ORG-PLACEHOLDER-007
+schema_version: 1
+id: AH-ORG-PLACEHOLDER-007
+record_type: organization
 name: The Keepers of Time
-type: Placeholder organization profile
+slug: keepers-of-time
 aliases:
-  - Keepers of Time
-series: The Brass Guardian / The Aetherhaven Chronicles
-canon_status: Source-grounded placeholder
-canonical_scope: Aetherhaven volumes
-last_updated: 2026-08-02
-headquarters: []
-known_leadership: []
-primary_connections: []
-temporal_relevance: Unresolved
-source_basis:
-  - Aetherhaven v3.pdf
+- Keepers of Time
+last_updated: '2026-08-02'
+canon:
+  status: canonical
+  scope:
+  - aetherhaven-volumes
+development:
+  status: placeholder
+  temporal_relevance: unresolved
+disclosure:
+  level: story-sensitive
+provenance:
+  sources:
+  - kind: manuscript
+    ref: Aetherhaven v3.pdf
+public_projection:
+  title: The Keepers of Time
+  summary: The Keepers of Time has a restricted Archive reference. Identity, purpose, and fuller context remain sealed or withheld.
+  classification: teaser
+  archive_section: hidden
+  access_label: restricted
+  tags:
+  - organization
+  - hidden-archive
+  related: []
 ---
-
 # The Keepers of Time
 
 > **Placeholder profile.** This file provides a stable link target while the organization awaits full development. It does not expand beyond the cited source.

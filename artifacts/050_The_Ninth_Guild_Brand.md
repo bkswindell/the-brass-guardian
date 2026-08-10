@@ -1,19 +1,34 @@
 ---
-artifact_id: AH-ART-050
-slate_number: 50
-name: "The Ninth Guild Brand"
-category: "Organizations and Secret Societies"
-canon_status: planned-artifact-concept
-image_status: image-needed
-last_updated: 2026-08-02
-related_markdown:
-  - "../organizations/The_Ninth_Guild.md"
-  - "../locations/The_Cauldron.md"
-  - "../story_arcs/The_Black_Catalogue_Arc.md"
-canonical_images:
-  - null
+schema_version: 1
+id: AH-ART-050
+record_type: artifact
+name: The Ninth Guild Brand
+slug: the-ninth-guild-brand
+aliases: []
+last_updated: '2026-08-02'
+canon:
+  status: proposed
+  scope: []
+development:
+  status: concept
+disclosure:
+  level: creator-only
+artifact:
+  category: Organizations and Secret Societies
+production:
+  slate_number: 50
+  image_status: image-needed
+relationships:
+- target: AH-ORG-NINTH-GUILD
+  type: related-to
+  visibility: story-sensitive
+- target: AH-LOC-CAULDRON
+  type: related-to
+  visibility: story-sensitive
+- target: AH-ARC-NINTH-GUILD
+  type: related-to
+  visibility: story-sensitive
 ---
-
 # The Ninth Guild Brand
 
 > **Artifact Image Slate #50** · Organizations and Secret Societies · [Artifact standard](../docs/standards/CANON_MARKDOWN_STANDARD.md)

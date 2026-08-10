@@ -1,28 +1,28 @@
 ---
-story_arc_id: AH-ARC-NINTH-GUILD
-title: The Black Catalogue Arc
-series: The Brass Guardian / The Aetherhaven Chronicles
-canon_status: Canonical long-range arc
-canonical_scope: Aetherhaven volumes
-last_updated: 2026-08-01
-primary_antagonist:
-  - The Ninth Guild
-  - The Curator
-primary_protagonists:
-  - Amelia Hawthorne
-  - Professor Elias Hawthorne
-supporting_factions:
-  - The Brass Watch
-  - The Mechanists' Guild
-  - The Academy of Invention
-  - The Unwound
-primary_mysteries:
-  - The Black Catalogue
-  - Prototype I
-  - The missing ninth discipline
-temporal_relevance: High
+schema_version: 1
+id: AH-ARC-NINTH-GUILD
+record_type: story_arc
+name: The Black Catalogue Arc
+slug: the-black-catalogue-arc
+aliases: []
+last_updated: '2026-08-01'
+canon:
+  status: canonical
+  scope:
+  - aetherhaven-volumes
+development:
+  status: working
+  temporal_relevance: high
+disclosure:
+  level: creator-only
+relationships:
+- target: AH-CHAR-002
+  type: features-character
+  visibility: story-sensitive
+- target: AH-CHAR-001
+  type: features-character
+  visibility: story-sensitive
 ---
-
 # The Black Catalogue Arc
 
 ## Arc Premise
@@ -156,3 +156,11 @@ She learns that:
 - [The Academy](../organizations/The_Academy_of_Invention.md) confronts research it hid rather than responsibly resolved.
 - [The Curator](../characters/The_Curator.md)'s doctrine is challenged without pretending all preserved knowledge should be destroyed.
 - [The Ninth Guild](../organizations/The_Ninth_Guild.md) remains available for future stories.
+
+## Schema Migration Preservation Notes
+
+> These values were preserved verbatim from pre-Version-1 front matter because the migration could not safely convert them into a canonical-ID field without inventing or resolving canon.
+
+- **primary_antagonist:** `["The Ninth Guild","The Curator"]`
+- **supporting_factions:** `["The Brass Watch","The Mechanists' Guild","The Academy of Invention","The Unwound"]`
+- **primary_mysteries:** `["The Black Catalogue","Prototype I","The missing ninth discipline"]`

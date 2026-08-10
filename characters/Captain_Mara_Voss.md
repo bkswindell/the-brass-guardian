@@ -1,31 +1,64 @@
 ---
-character_id: AH-CHAR-MARA-VOSS
+schema_version: 1
+id: AH-CHAR-MARA-VOSS
+record_type: character
 name: Captain Mara Voss
-title: Harbormaster of the Aerial Docks
+slug: captain-mara-voss
 aliases:
-  - Captain Voss
-  - Harbormaster Voss
-series: The Brass Guardian / The Aetherhaven Chronicles
-canon_status: Canonical working profile
-canonical_scope: Aetherhaven volumes
-last_updated: 2026-08-01
-primary_locations:
-  - The Aerial Docks
-  - The Gardens' Airship Landing
-  - Dock Zero
-affiliations:
-  - Harbormaster's Office
-  - Aerial Mariners' Union
-  - Former captain of the Resolute
-key_connections:
-  - Professor Elias Hawthorne
-  - Amelia Hawthorne
-  - Chief Inspector Beatrice Thorne
-  - Chancellor Octavia Vale
-  - The Passenger of Dock Zero
-temporal_relevance: High
+- Captain Voss
+- Harbormaster Voss
+last_updated: '2026-08-01'
+canon:
+  status: canonical
+  scope:
+  - aetherhaven-volumes
+development:
+  status: working
+  temporal_relevance: high
+disclosure:
+  level: story-sensitive
+character:
+  titles:
+  - Harbormaster of the Aerial Docks
+public_projection:
+  title: Captain Mara Voss
+  summary: Captain Mara Voss is Aetherhaven’s Harbormaster, responsible for the city’s aerial traffic, docks, and emergency landing decisions.
+  classification: public
+  archive_section: catalog
+  access_label: public
+  tags:
+  - character
+  - catalog-stub
+  related: []
+relationships:
+- target: AH-LOC-AERIAL-DOCKS
+  type: primary-location
+  visibility: story-sensitive
+- target: AH-LOC-AIRSHIP-LANDING
+  type: primary-location
+  visibility: story-sensitive
+- target: AH-LOC-PLACEHOLDER-043
+  type: primary-location
+  visibility: story-sensitive
+- target: AH-ORG-AERIAL-MARINERS-UNION
+  type: affiliated-with
+  visibility: story-sensitive
+- target: AH-CHAR-001
+  type: connected-to
+  visibility: story-sensitive
+- target: AH-CHAR-002
+  type: connected-to
+  visibility: story-sensitive
+- target: AH-CHAR-BEATRICE-THORNE
+  type: connected-to
+  visibility: story-sensitive
+- target: AH-CHAR-OCTAVIA-VALE
+  type: connected-to
+  visibility: story-sensitive
+- target: AH-CHAR-PASSENGER-DOCK-ZERO
+  type: connected-to
+  visibility: story-sensitive
 ---
-
 # Captain Mara Voss
 
 ## Canonical Summary
@@ -390,3 +423,10 @@ These are intentionally unresolved:
 6. Why does the backward chronometer respond to the Passenger?
 7. Is the older Mara still alive in another chronology?
 8. Why must a future version of Mara not board the Morningstar?
+
+## Schema Migration Preservation Notes
+
+> These values were preserved verbatim from pre-Version-1 front matter because the migration could not safely convert them into a canonical-ID field without inventing or resolving canon.
+
+- **affiliations:** `Harbormaster's Office`
+- **affiliations:** `Former captain of the Resolute`

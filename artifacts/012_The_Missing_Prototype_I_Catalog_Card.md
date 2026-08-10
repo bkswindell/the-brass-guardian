@@ -1,19 +1,40 @@
 ---
-artifact_id: AH-ART-012
-slate_number: 12
+schema_version: 1
+id: AH-ART-012
+record_type: artifact
 name: The Missing Prototype I Catalog Card
-category: Amelia and the Aether Gauntlet
-canon_status: canonical-working-artifact
-image_status: image-linked
+slug: the-missing-prototype-i-catalog-card
+aliases: []
 last_updated: '2026-08-02'
-related_markdown:
-- ../story_arcs/The_Disappearance_of_Prototype_I.md
-- ../story_arcs/The_Black_Catalogue_Arc.md
-canonical_images:
-- ../art/AH-1-014_Prototype_I.png
-visual_transcription_status: complete
+canon:
+  status: canonical
+  scope:
+  - aetherhaven-volumes
+development:
+  status: working
+disclosure:
+  level: story-sensitive
+assets:
+- id: plate-1
+  path: art/AH-1-014_Prototype_I.png
+  role: plate
+  visibility: story-sensitive
+  alt: Canonical archival plate for The Missing Prototype I Catalog Card.
+artifact:
+  category: Amelia and the Aether Gauntlet
+  catalog_number: AH-1-014
+production:
+  slate_number: 12
+  image_status: image-linked
+  visual_transcription_status: complete
+relationships:
+- target: AH-ARC-PROTOTYPE-I-DISAPPEARANCE
+  type: related-to
+  visibility: story-sensitive
+- target: AH-ARC-NINTH-GUILD
+  type: related-to
+  visibility: story-sensitive
 ---
-
 # The Missing Prototype I Catalog Card
 
 > **Artifact Image Slate #12** · [Amelia](../characters/Amelia_Hawthorne.md) and the Aether Gauntlet · [Artifact standard](../docs/standards/CANON_MARKDOWN_STANDARD.md)

@@ -1,28 +1,54 @@
 ---
-character_id: AH-CHAR-HIDDEN-ARCHITECT
-name: Unassigned
-title: The Hidden Architect
+schema_version: 1
+id: AH-CHAR-HIDDEN-ARCHITECT
+record_type: character
+name: The Hidden Architect
+slug: hidden-architect
 aliases: []
-series: The Brass Guardian / The Aetherhaven Chronicles
-canon_status: Canonical concealed role — identity deliberately unassigned
-canonical_scope: Later Aetherhaven volumes
-last_updated: 2026-08-01
-spoiler_level: Ultimate long-range revelation
-public_identity: A trusted recurring character known to Amelia and the reader
-true_identity: Deliberately undefined
-known_to:
-  - Silas Rook
-unknown_to:
-  - Amelia Hawthorne
-  - Professor Elias Hawthorne
-  - Captain Mara Voss
-  - Chief Inspector Beatrice Thorne
-  - The Brass Watch
-  - The broader Unwound
-  - Nearly all Severed Coil cells
-temporal_relevance: Critical
+last_updated: '2026-08-01'
+canon:
+  status: canonical
+  scope:
+  - later-aetherhaven-volumes
+development:
+  status: working
+  temporal_relevance: critical
+disclosure:
+  level: creator-only
+character:
+  titles:
+  - The Hidden Architect
+  public_identity: A trusted recurring character known to Amelia and the reader
+public_projection:
+  title: The Hidden Architect
+  summary: A concealed future role recorded only as a restricted designation. The identity remains sealed, withheld, and deliberately unassigned.
+  classification: teaser
+  archive_section: hidden
+  access_label: ultimate spoiler
+  tags:
+  - character
+  - hidden-archive
+  related: []
+relationships:
+- target: AH-CHAR-SILAS-ROOK
+  type: known-to
+  visibility: story-sensitive
+- target: AH-CHAR-002
+  type: unknown-to
+  visibility: story-sensitive
+- target: AH-CHAR-001
+  type: unknown-to
+  visibility: story-sensitive
+- target: AH-CHAR-MARA-VOSS
+  type: unknown-to
+  visibility: story-sensitive
+- target: AH-CHAR-BEATRICE-THORNE
+  type: unknown-to
+  visibility: story-sensitive
+- target: AH-ORG-BRASS-WATCH
+  type: unknown-to
+  visibility: story-sensitive
 ---
-
 # The Hidden Architect
 
 ## Restricted Canon Notice
@@ -332,3 +358,10 @@ Through [Elias](Professor_Elias_Hawthorne.md), allies, and her own choices, [Ame
 13. Will [Silas](Silas_Rook_The_Stillmaker.md) remain loyal after realizing he was also manipulated?
 14. Can the Architect be redeemed, or only understood?
 15. What must [Amelia](Amelia_Hawthorne.md) believe about herself to confront them?
+
+## Schema Migration Preservation Notes
+
+> These values were preserved verbatim from pre-Version-1 front matter because the migration could not safely convert them into a canonical-ID field without inventing or resolving canon.
+
+- **true_identity:** `Deliberately undefined`
+- **unknown_to:** `["Amelia Hawthorne","Professor Elias Hawthorne","Captain Mara Voss","Chief Inspector Beatrice Thorne","The Brass Watch","The broader Unwound","Nearly all Severed Coil cells"]`

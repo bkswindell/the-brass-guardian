@@ -1,25 +1,45 @@
 ---
-location_id: AH-LOC-PLACEHOLDER-021
+schema_version: 1
+id: AH-LOC-PLACEHOLDER-021
+record_type: location
 name: The Observatory
-type: Placeholder location profile
+slug: observatory
 aliases:
-  - Observatory
-series: The Brass Guardian / The Aetherhaven Chronicles
-canon_status: Source-grounded placeholder
-canonical_scope: Aetherhaven volumes
-last_updated: 2026-08-02
-jurisdiction: []
-access_status: []
-map_reference_category: numbered
-map_number: 23
-parent_location: 
-primary_connections: []
-points_of_interest: []
-temporal_relevance: Unresolved
-source_basis:
-  - Aetherhaven v3.pdf
+- Observatory
+last_updated: '2026-08-02'
+canon:
+  status: canonical
+  scope:
+  - aetherhaven-volumes
+development:
+  status: placeholder
+  temporal_relevance: unresolved
+disclosure:
+  level: story-sensitive
+provenance:
+  sources:
+  - kind: manuscript
+    ref: Aetherhaven v3.pdf
+cartography:
+- map_id: aetherhaven-city
+  category: numbered
+  reference: '23'
+public_projection:
+  title: The Observatory
+  summary: The Observatory is catalogued as map reference 23 on the illustrated city chart. This stub preserves the mapped public name while a fuller source-grounded extract is prepared.
+  classification: public
+  archive_section: catalog
+  access_label: public
+  tags:
+  - map-location
+  - map-23
+  related:
+  - AH-LOC-PLACEHOLDER-001
+relationships:
+- target: AH-LOC-PLACEHOLDER-001
+  type: public-related
+  visibility: teaser
 ---
-
 # The Observatory
 
 > **Placeholder profile.** This record provides a stable link target and preserves the source description until the location receives a complete profile.

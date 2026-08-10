@@ -1,38 +1,80 @@
 ---
-organization_id: AH-ORG-EIGHT-FOUNDING-GUILDS
+schema_version: 1
+id: AH-ORG-EIGHT-FOUNDING-GUILDS
+record_type: organization
 name: The Eight Founding Engineering Guilds
-type: Foundational civic engineering orders
+slug: eight-founding-engineering-guilds
 aliases:
-  - The Founding Eight
-  - The Eight Guilds
-series: The Brass Guardian / The Aetherhaven Chronicles
-canon_status: Canonical working profile
-canonical_scope: Aetherhaven volumes
-last_updated: 2026-08-01
-governing_body:
-  - The Conclave of Eight
-meeting_place:
-  - The Octagonal Hall
-modern_federation:
-  - The Mechanists' Guild
-member_guilds:
-  - The Guild of Framewrights
-  - The Guild of Enginewrights
-  - The Guild of Aetherwrights
-  - The Guild of Canalwrights
-  - The Guild of Skywrights
-  - The Guild of Clockwrights
-  - The Guild of Artificers
-  - The Guild of Verdant Mechanists
-key_relationships:
-  - The Mechanists' Guild
-  - The High Council
-  - The Academy of Invention
-  - The Ninth Guild
-  - The Brass Watch
-temporal_relevance: High
+- The Founding Eight
+- The Eight Guilds
+last_updated: '2026-08-01'
+canon:
+  status: canonical
+  scope:
+  - aetherhaven-volumes
+development:
+  status: working
+  temporal_relevance: high
+disclosure:
+  level: story-sensitive
+descriptor: Foundational civic engineering orders
+public_projection:
+  title: The Eight Founding Engineering Guilds
+  summary: The Eight Founding Engineering Guilds are Aetherhaven’s original civic engineering orders, each responsible for an essential technical discipline.
+  classification: public
+  archive_section: catalog
+  access_label: public
+  tags:
+  - organization
+  - catalog-stub
+  related: []
+relationships:
+- target: AH-ORG-MECHANISTS-GUILD
+  type: related-to
+  visibility: story-sensitive
+- target: AH-ORG-HIGH-COUNCIL
+  type: related-to
+  visibility: story-sensitive
+- target: AH-ORG-NINTH-GUILD
+  type: related-to
+  visibility: story-sensitive
+- target: AH-ORG-BRASS-WATCH
+  type: related-to
+  visibility: story-sensitive
+- target: AH-ORG-PLACEHOLDER-005
+  type: governed-by
+  visibility: story-sensitive
+- target: AH-LOC-PLACEHOLDER-041
+  type: meets-at
+  visibility: story-sensitive
+- target: AH-ORG-MECHANISTS-GUILD
+  type: federated-as
+  visibility: story-sensitive
+- target: AH-ORG-PLACEHOLDER-015
+  type: has-member
+  visibility: story-sensitive
+- target: AH-ORG-PLACEHOLDER-016
+  type: has-member
+  visibility: story-sensitive
+- target: AH-ORG-PLACEHOLDER-017
+  type: has-member
+  visibility: story-sensitive
+- target: AH-ORG-PLACEHOLDER-018
+  type: has-member
+  visibility: story-sensitive
+- target: AH-ORG-PLACEHOLDER-019
+  type: has-member
+  visibility: story-sensitive
+- target: AH-ORG-PLACEHOLDER-020
+  type: has-member
+  visibility: story-sensitive
+- target: AH-ORG-PLACEHOLDER-021
+  type: has-member
+  visibility: story-sensitive
+- target: AH-ORG-PLACEHOLDER-022
+  type: has-member
+  visibility: story-sensitive
 ---
-
 # The Eight Founding Engineering Guilds
 
 ## Canonical Summary
@@ -430,3 +472,9 @@ Possibilities include:
 8. Which Conclave member currently communicates with [the Ninth Guild](The_Ninth_Guild.md)?
 9. Do the oldest guild symbols conceal ancient command functions?
 10. What happens if [the Conclave](The_Conclave_of_Eight.md) cannot reach agreement during a citywide crisis?
+
+## Schema Migration Preservation Notes
+
+> These values were preserved verbatim from pre-Version-1 front matter because the migration could not safely convert them into a canonical-ID field without inventing or resolving canon.
+
+- **key_relationships:** `The Academy of Invention`

@@ -1,30 +1,58 @@
 ---
-character_id: AH-CHAR-BEATRICE-THORNE
+schema_version: 1
+id: AH-CHAR-BEATRICE-THORNE
+record_type: character
 name: Chief Inspector Beatrice Thorne
-title: Commander of the Brass Watch
+slug: chief-inspector-beatrice-thorne
 aliases:
-  - Inspector Thorne
-  - Chief Inspector Thorne
-series: The Brass Guardian / The Aetherhaven Chronicles
-canon_status: Canonical working profile
-canonical_scope: Aetherhaven volumes
-last_updated: 2026-08-01
-primary_locations:
-  - Brass Watch Headquarters
-  - Government District
-  - The Shrouded Vaults
-  - Active investigation sites throughout Aetherhaven
-affiliations:
-  - The Brass Watch
-  - High Council civic authority, with increasing independence
-key_connections:
-  - Amelia Hawthorne
-  - Professor Elias Hawthorne
-  - Captain Mara Voss
-  - Chancellor Octavia Vale
-temporal_relevance: High
+- Inspector Thorne
+- Chief Inspector Thorne
+last_updated: '2026-08-01'
+canon:
+  status: canonical
+  scope:
+  - aetherhaven-volumes
+development:
+  status: working
+  temporal_relevance: high
+disclosure:
+  level: story-sensitive
+character:
+  titles:
+  - Commander of the Brass Watch
+public_projection:
+  title: Chief Inspector Beatrice Thorne
+  summary: Chief Inspector Beatrice Thorne commands the Brass Watch and oversees Aetherhaven’s investigations, patrols, and emergency response.
+  classification: public
+  archive_section: catalog
+  access_label: public
+  tags:
+  - character
+  - catalog-stub
+  related: []
+relationships:
+- target: AH-LOC-PLACEHOLDER-011
+  type: primary-location
+  visibility: story-sensitive
+- target: AH-LOC-PLACEHOLDER-024
+  type: primary-location
+  visibility: story-sensitive
+- target: AH-ORG-BRASS-WATCH
+  type: affiliated-with
+  visibility: story-sensitive
+- target: AH-CHAR-002
+  type: connected-to
+  visibility: story-sensitive
+- target: AH-CHAR-001
+  type: connected-to
+  visibility: story-sensitive
+- target: AH-CHAR-MARA-VOSS
+  type: connected-to
+  visibility: story-sensitive
+- target: AH-CHAR-OCTAVIA-VALE
+  type: connected-to
+  visibility: story-sensitive
 ---
-
 # Chief Inspector Beatrice Thorne
 
 ## Canonical Summary
@@ -503,3 +531,11 @@ The exact extent of Thorne's direct presence during the decisive moments remains
 13. Will Thorne ever accept [Mara](Captain_Mara_Voss.md)'s moral code as legitimate?
 14. Will [Mara](Captain_Mara_Voss.md) ever surrender evidence she believes the Watch cannot safely protect?
 15. What happens when Thorne discovers the full truth of the *Resolute* and Morningstar?
+
+## Schema Migration Preservation Notes
+
+> These values were preserved verbatim from pre-Version-1 front matter because the migration could not safely convert them into a canonical-ID field without inventing or resolving canon.
+
+- **primary_locations:** `Brass Watch Headquarters`
+- **primary_locations:** `Active investigation sites throughout Aetherhaven`
+- **affiliations:** `High Council civic authority, with increasing independence`

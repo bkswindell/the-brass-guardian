@@ -1,39 +1,63 @@
 ---
-organization_id: AH-ORG-CLOSED-EYE
+schema_version: 1
+id: AH-ORG-CLOSED-EYE
+record_type: organization
 name: The Order of the Closed Eye
-type: Secret containment cabal, information-control network, and ancient-systems suppression society
+slug: order-of-the-closed-eye
 aliases:
-  - The Closed Eye
-  - The Order, internal or restricted shorthand only
-  - The Keepers of Closure
-series: The Brass Guardian / The Aetherhaven Chronicles
-canon_status: Canonical hidden profile
-canonical_scope: Aetherhaven volumes
-last_updated: 2026-08-01
-public_status: Officially unacknowledged
-hidden_leadership:
-  - The Closed Council
-institutional_reach:
-  - The High Council
-  - The Academy of Invention
-  - The Society of Explorers
-  - The Mechanists' Guild
-  - The Civic Archives
-  - Selected Brass Watch offices
-  - The Clockwrights
-key_relationships:
-  - Chancellor Octavia Vale
-  - Chief Inspector Beatrice Thorne
-  - Professor Elias Hawthorne
-  - Amelia Hawthorne
-  - Doctor Elara Quill
-  - The Ninth Guild
-  - The Underclock
-  - The Brass Watch
-  - The High Council
-temporal_relevance: Critical
+- The Closed Eye
+- The Order, internal or restricted shorthand only
+- The Keepers of Closure
+last_updated: '2026-08-01'
+canon:
+  status: canonical
+  scope:
+  - aetherhaven-volumes
+development:
+  status: working
+  temporal_relevance: critical
+disclosure:
+  level: story-sensitive
+descriptor: Secret containment cabal, information-control network, and ancient-systems suppression society
+public_projection:
+  title: The Order of the Closed Eye
+  summary: The Order of the Closed Eye has a restricted Archive reference. Identity, purpose, and fuller context remain sealed or withheld.
+  classification: teaser
+  archive_section: hidden
+  access_label: restricted
+  tags:
+  - organization
+  - hidden-archive
+  related: []
+relationships:
+- target: AH-CHAR-OCTAVIA-VALE
+  type: related-to
+  visibility: story-sensitive
+- target: AH-CHAR-BEATRICE-THORNE
+  type: related-to
+  visibility: story-sensitive
+- target: AH-CHAR-001
+  type: related-to
+  visibility: story-sensitive
+- target: AH-CHAR-002
+  type: related-to
+  visibility: story-sensitive
+- target: AH-CHAR-PLACEHOLDER-003
+  type: related-to
+  visibility: story-sensitive
+- target: AH-ORG-NINTH-GUILD
+  type: related-to
+  visibility: story-sensitive
+- target: AH-ORG-UNDERCLOCK
+  type: related-to
+  visibility: story-sensitive
+- target: AH-ORG-BRASS-WATCH
+  type: related-to
+  visibility: story-sensitive
+- target: AH-ORG-HIGH-COUNCIL
+  type: related-to
+  visibility: story-sensitive
 ---
-
 # The Order of the Closed Eye
 
 ## Publicly Knowable Canonical Summary
@@ -963,3 +987,11 @@ No institution-wide control is established.
 13. Which Closed Eye faction believes [Amelia](../characters/Amelia_Hawthorne.md) should undergo permanent Closure?
 14. Is the Book of Closures real?
 15. What truth has the Closed Eye hidden that [Aetherhaven](../locations/Aetherhaven.md) now needs to survive?
+
+## Schema Migration Preservation Notes
+
+> These values were preserved verbatim from pre-Version-1 front matter because the migration could not safely convert them into a canonical-ID field without inventing or resolving canon.
+
+- **public_status:** `Officially unacknowledged`
+- **hidden_leadership:** `["The Closed Council"]`
+- **institutional_reach:** `["The High Council","The Academy of Invention","The Society of Explorers","The Mechanists' Guild","The Civic Archives","Selected Brass Watch offices","The Clockwrights"]`

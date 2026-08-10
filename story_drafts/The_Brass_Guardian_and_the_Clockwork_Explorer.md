@@ -1,43 +1,81 @@
 ---
-story_draft_id: AH-STORY-DRAFT-002
-title: The Brass Guardian and the Clockwork Explorer
-subtitle: A Day Aboard the Wayfinder
-title_status: Working title
-canon_status: Canonical story draft
-series: The Brass Guardian / The Aetherhaven Chronicles
-proposed_book: Book One
-proposed_placement:
+schema_version: 1
+id: AH-STORY-DRAFT-002
+record_type: story
+name: The Brass Guardian and the Clockwork Explorer
+slug: the-brass-guardian-and-the-clockwork-explorer
+aliases: []
+last_updated: '2026-08-03'
+canon:
+  status: canonical
+  scope:
+  - aetherhaven-volumes
+development:
+  status: working
+disclosure:
+  level: story-sensitive
+provenance:
+  sources:
+  - kind: manuscript
+    ref: The_Brass_Guardian.pdf
+assets:
+- id: cover
+  path: art/Wayfinder_Above_the_Clouds.png
+  role: cover
+  visibility: story-sensitive
+  alt: Canonical cover illustration for The Brass Guardian and the Clockwork Explorer.
+- id: inline-1
+  path: art/Brass Dreams Above the Clouds.png
+  role: inline
+  visibility: story-sensitive
+  alt: Canonical visual reference for The Brass Guardian and the Clockwork Explorer.
+  placement: after "Professor Elias Hawthorne always woke before the sun."
+- id: inline-2
+  path: art/Clockwork Workshop in the Sky.png
+  role: inline
+  visibility: story-sensitive
+  alt: Canonical visual reference for The Brass Guardian and the Clockwork Explorer.
+  placement: after "Which somehow made Amelia love it even more."
+- id: inline-3
+  path: art/Steampunk Airship Galley Feast.png
+  role: inline
+  visibility: story-sensitive
+  alt: Canonical visual reference for The Brass Guardian and the Clockwork Explorer.
+  placement: after "Dinner was vegetable soup with warm bread."
+- id: inline-4
+  path: art/Guardians Over the Brass City.png
+  role: inline
+  visibility: story-sensitive
+  alt: Canonical visual reference for The Brass Guardian and the Clockwork Explorer.
+  placement: after the final Heart Engine hum
+chronology:
+  status: relative
+  display: Present-day Hawthorne life before the primary Book One conflict
+story:
+  subtitle: A Day Aboard the Wayfinder
+  title_status: Working title
+  proposed_book: Book One
+  proposed_placement:
   - Opening story
   - First chapter
   - First full story after an illustrated teaser
-chronology: Present-day Hawthorne life before the primary Book One conflict
-primary_characters:
-  - Amelia Hawthorne
-  - Professor Elias Hawthorne
-  - Pip
-primary_locations:
-  - The Wayfinder
-  - The skies above Aetherhaven
-primary_connections:
-  - Wayfinder technical and domestic canon
-  - Amelia and Elias relationship
-  - Pip
-source_basis:
-  - The_Brass_Guardian.pdf
-last_updated: 2026-08-03
-artwork:
-  cover_image: ../art/Wayfinder_Above_the_Clouds.png
-  inline_images:
-    - placement: after "Professor Elias Hawthorne always woke before the sun."
-      file: ../art/Brass Dreams Above the Clouds.png
-    - placement: after "Which somehow made Amelia love it even more."
-      file: ../art/Clockwork Workshop in the Sky.png
-    - placement: after "Dinner was vegetable soup with warm bread."
-      file: ../art/Steampunk Airship Galley Feast.png
-    - placement: after the final Heart Engine hum
-      file: ../art/Guardians Over the Brass City.png
+relationships:
+- target: AH-CHAR-002
+  type: features-character
+  visibility: story-sensitive
+- target: AH-CHAR-001
+  type: features-character
+  visibility: story-sensitive
+- target: AH-CHAR-PIP
+  type: features-character
+  visibility: story-sensitive
+- target: AH-VESSEL-WAYFINDER
+  type: features-location
+  visibility: story-sensitive
+- target: AH-CHAR-PIP
+  type: related-to
+  visibility: story-sensitive
 ---
-
 # The Brass Guardian and the Clockwork Explorer
 
 ## A Day Aboard the Wayfinder
@@ -402,3 +440,11 @@ Ready for whatever tomorrow might bring.
 - [ ] Review all interior details against the final Wayfinder layout.
 - [ ] Select or generate final illustrations using approved character and vessel references.
 - [ ] Copyedit only after the Book One opening sequence is chosen.
+
+## Schema Migration Preservation Notes
+
+> These values were preserved verbatim from pre-Version-1 front matter because the migration could not safely convert them into a canonical-ID field without inventing or resolving canon.
+
+- **primary_locations:** `The skies above Aetherhaven`
+- **primary_connections:** `Wayfinder technical and domestic canon`
+- **primary_connections:** `Amelia and Elias relationship`

@@ -1,17 +1,28 @@
 ---
-artifact_id: AH-ART-057
-slate_number: 57
-name: "Aetherhaven Pneumatic Message Capsule"
-category: "Background Lore and Transitional Artifacts"
-canon_status: planned-artifact-concept
-image_status: image-needed
-last_updated: 2026-08-02
-related_markdown:
-  - "../story_arcs/The_Thirteenth_Chair.md"
-canonical_images:
-  - null
+schema_version: 1
+id: AH-ART-057
+record_type: artifact
+name: Aetherhaven Pneumatic Message Capsule
+slug: aetherhaven-pneumatic-message-capsule
+aliases: []
+last_updated: '2026-08-02'
+canon:
+  status: proposed
+  scope: []
+development:
+  status: concept
+disclosure:
+  level: creator-only
+artifact:
+  category: Background Lore and Transitional Artifacts
+production:
+  slate_number: 57
+  image_status: image-needed
+relationships:
+- target: AH-ARC-THIRTEENTH-CHAIR
+  type: related-to
+  visibility: story-sensitive
 ---
-
 # Aetherhaven Pneumatic Message Capsule
 
 > **Artifact Image Slate #57** · Background Lore and Transitional Artifacts · [Artifact standard](../docs/standards/CANON_MARKDOWN_STANDARD.md)

@@ -1,19 +1,34 @@
 ---
-artifact_id: AH-ART-016
-slate_number: 16
-name: "The Mechanical Firefly Specimen Sheet"
-category: "The Clockwork Gardens"
-canon_status: planned-artifact-concept
-image_status: image-needed
-last_updated: 2026-08-02
-related_markdown:
-  - "../locations/The_Moon_Garden.md"
-  - "../story_arcs/The_Keeper_of_Dreams.md"
-  - "../characters/Juniper_Bell.md"
-canonical_images:
-  - null
+schema_version: 1
+id: AH-ART-016
+record_type: artifact
+name: The Mechanical Firefly Specimen Sheet
+slug: the-mechanical-firefly-specimen-sheet
+aliases: []
+last_updated: '2026-08-02'
+canon:
+  status: proposed
+  scope: []
+development:
+  status: concept
+disclosure:
+  level: creator-only
+artifact:
+  category: The Clockwork Gardens
+production:
+  slate_number: 16
+  image_status: image-needed
+relationships:
+- target: AH-LOC-MOON-GARDEN
+  type: related-to
+  visibility: story-sensitive
+- target: AH-ARC-KEEPER-OF-DREAMS
+  type: related-to
+  visibility: story-sensitive
+- target: AH-CHAR-JUNIPER-BELL
+  type: related-to
+  visibility: story-sensitive
 ---
-
 # The Mechanical Firefly Specimen Sheet
 
 > **Artifact Image Slate #16** · [The Clockwork Gardens](../locations/The_Clockwork_Gardens.md) · [Artifact standard](../docs/standards/CANON_MARKDOWN_STANDARD.md)

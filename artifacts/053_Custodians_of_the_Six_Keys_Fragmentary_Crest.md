@@ -1,17 +1,28 @@
 ---
-artifact_id: AH-ART-053
-slate_number: 53
-name: "Custodians of the Six Keys Fragmentary Crest"
-category: "Organizations and Secret Societies"
-canon_status: requires-canon-review
-image_status: image-needed
-last_updated: 2026-08-02
-related_markdown:
-  - "../story_arcs/The_Thirteenth_Chair.md"
-canonical_images:
-  - null
+schema_version: 1
+id: AH-ART-053
+record_type: artifact
+name: Custodians of the Six Keys Fragmentary Crest
+slug: custodians-of-the-six-keys-fragmentary-crest
+aliases: []
+last_updated: '2026-08-02'
+canon:
+  status: proposed
+  scope: []
+development:
+  status: concept
+disclosure:
+  level: creator-only
+artifact:
+  category: Organizations and Secret Societies
+production:
+  slate_number: 53
+  image_status: image-needed
+relationships:
+- target: AH-ARC-THIRTEENTH-CHAIR
+  type: related-to
+  visibility: story-sensitive
 ---
-
 # Custodians of the Six Keys Fragmentary Crest
 
 > **Artifact Image Slate #53** · Organizations and Secret Societies · [Artifact standard](../docs/standards/CANON_MARKDOWN_STANDARD.md)

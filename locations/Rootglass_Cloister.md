@@ -1,25 +1,33 @@
 ---
-location_id: AH-LOC-PLACEHOLDER-049
+schema_version: 1
+id: AH-LOC-PLACEHOLDER-049
+record_type: location
 name: Rootglass Cloister
-type: Placeholder location profile
+slug: rootglass-cloister
 aliases:
-  - The Rootglass Cloister
-series: The Brass Guardian / The Aetherhaven Chronicles
-canon_status: Source-grounded placeholder
-canonical_scope: Aetherhaven volumes
-last_updated: 2026-08-02
-jurisdiction: []
-access_status: []
-map_reference_category: unlisted
-map_number: 
-parent_location: The Clockwork Gardens
-primary_connections: []
-points_of_interest: []
-temporal_relevance: Unresolved
-source_basis:
-  - Current canonical Markdown
+- The Rootglass Cloister
+last_updated: '2026-08-02'
+canon:
+  status: canonical
+  scope:
+  - aetherhaven-volumes
+development:
+  status: placeholder
+  temporal_relevance: unresolved
+disclosure:
+  level: story-sensitive
+provenance:
+  sources:
+  - kind: canonical-record
+    ref: Current canonical Markdown
+cartography:
+- map_id: aetherhaven-city
+  category: unlisted
+relationships:
+- target: AH-LOC-PLACEHOLDER-003
+  type: parent-location
+  visibility: story-sensitive
 ---
-
 # Rootglass Cloister
 
 > **Placeholder profile.** This record provides a stable link target and preserves the source description until the location receives a complete profile.

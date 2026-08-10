@@ -1,32 +1,53 @@
 ---
-organization_id: AH-ORG-NINTH-GUILD
+schema_version: 1
+id: AH-ORG-NINTH-GUILD
+record_type: organization
 name: The Ninth Guild
-type: Forbidden research network and illicit experimental society
+slug: ninth-guild
 aliases:
-  - The Black Lacuna
-  - The Unrecognized Guild
-series: The Brass Guardian / The Aetherhaven Chronicles
-canon_status: Canonical working profile
-canonical_scope: Aetherhaven volumes
-last_updated: 2026-08-01
-primary_locations:
-  - Temporary Ninth Rooms throughout Aetherhaven
-  - The Cauldron
-  - Hidden institutional spaces
-leader_title:
-  - The Curator
-leader_identity: Unknown
-key_relationships:
-  - The Academy of Invention
-  - The Mechanists' Guild
-  - The Brass Watch
-  - The Cauldron
-  - The Severed Coil
-  - Professor Elias Hawthorne
-  - Amelia Hawthorne
-temporal_relevance: High
+- The Black Lacuna
+- The Unrecognized Guild
+last_updated: '2026-08-01'
+canon:
+  status: canonical
+  scope:
+  - aetherhaven-volumes
+development:
+  status: working
+  temporal_relevance: high
+disclosure:
+  level: story-sensitive
+descriptor: Forbidden research network and illicit experimental society
+public_projection:
+  title: The Ninth Guild
+  summary: The Ninth Guild has a restricted Archive reference. Identity, purpose, and fuller context remain sealed or withheld.
+  classification: teaser
+  archive_section: hidden
+  access_label: restricted
+  tags:
+  - organization
+  - hidden-archive
+  related: []
+relationships:
+- target: AH-ORG-MECHANISTS-GUILD
+  type: related-to
+  visibility: story-sensitive
+- target: AH-ORG-BRASS-WATCH
+  type: related-to
+  visibility: story-sensitive
+- target: AH-LOC-CAULDRON
+  type: related-to
+  visibility: story-sensitive
+- target: AH-ORG-SEVERED-COIL
+  type: related-to
+  visibility: story-sensitive
+- target: AH-CHAR-001
+  type: related-to
+  visibility: story-sensitive
+- target: AH-CHAR-002
+  type: related-to
+  visibility: story-sensitive
 ---
-
 # The Ninth Guild
 
 ## Canonical Summary
@@ -480,3 +501,12 @@ The Black Catalogue contains an experiment scheduled years in the future.
 10. What does the Guild believe [Amelia](../characters/Amelia_Hawthorne.md) should become?
 11. Which Coil devices originated in Ninth Rooms?
 12. What discovery would even [the Curator](../characters/The_Curator.md) refuse to preserve?
+
+## Schema Migration Preservation Notes
+
+> These values were preserved verbatim from pre-Version-1 front matter because the migration could not safely convert them into a canonical-ID field without inventing or resolving canon.
+
+- **key_relationships:** `The Academy of Invention`
+- **primary_locations:** `["Temporary Ninth Rooms throughout Aetherhaven","The Cauldron","Hidden institutional spaces"]`
+- **leader_title:** `["The Curator"]`
+- **leader_identity:** `Unknown`

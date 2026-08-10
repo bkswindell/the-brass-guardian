@@ -1,27 +1,47 @@
 ---
-location_id: AH-LOC-PLACEHOLDER-002
+schema_version: 1
+id: AH-LOC-PLACEHOLDER-002
+record_type: location
 name: The Aetherium
-type: Placeholder location profile
+slug: aetherium
 aliases:
-  - Aetherium
-  - The Heart Engine
-  - Heart Engine
-series: The Brass Guardian / The Aetherhaven Chronicles
-canon_status: Source-grounded placeholder
-canonical_scope: Aetherhaven volumes
-last_updated: 2026-08-02
-jurisdiction: []
-access_status: []
-map_reference_category: numbered
-map_number: 1
-parent_location: 
-primary_connections: []
-points_of_interest: []
-temporal_relevance: Unresolved
-source_basis:
-  - Aetherhaven v3.pdf
+- Aetherium
+- The Heart Engine
+- Heart Engine
+last_updated: '2026-08-02'
+canon:
+  status: canonical
+  scope:
+  - aetherhaven-volumes
+development:
+  status: placeholder
+  temporal_relevance: unresolved
+disclosure:
+  level: story-sensitive
+provenance:
+  sources:
+  - kind: manuscript
+    ref: Aetherhaven v3.pdf
+cartography:
+- map_id: aetherhaven-city
+  category: numbered
+  reference: '1'
+public_projection:
+  title: The Aetherium
+  summary: The Aetherium is catalogued as map reference 1 on the illustrated city chart. This stub preserves the mapped public name while a fuller source-grounded extract is prepared.
+  classification: public
+  archive_section: catalog
+  access_label: public
+  tags:
+  - map-location
+  - map-1
+  related:
+  - AH-LOC-PLACEHOLDER-001
+relationships:
+- target: AH-LOC-PLACEHOLDER-001
+  type: public-related
+  visibility: teaser
 ---
-
 # The Aetherium
 
 > **Placeholder profile.** This record provides a stable link target and preserves the source description until the location receives a complete profile.

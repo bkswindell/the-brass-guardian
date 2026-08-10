@@ -1,22 +1,37 @@
 ---
-organization_id: AH-ORG-PLACEHOLDER-005
+schema_version: 1
+id: AH-ORG-PLACEHOLDER-005
+record_type: organization
 name: The Conclave of Eight
-type: Placeholder organization profile
+slug: conclave-of-eight
 aliases:
-  - Conclave of Eight
-  - the Conclave
-series: The Brass Guardian / The Aetherhaven Chronicles
-canon_status: Source-grounded placeholder
-canonical_scope: Aetherhaven volumes
-last_updated: 2026-08-02
-headquarters: []
-known_leadership: []
-primary_connections: []
-temporal_relevance: Unresolved
-source_basis:
-  - Current canonical Markdown
+- Conclave of Eight
+- the Conclave
+last_updated: '2026-08-02'
+canon:
+  status: canonical
+  scope:
+  - aetherhaven-volumes
+development:
+  status: placeholder
+  temporal_relevance: unresolved
+disclosure:
+  level: story-sensitive
+provenance:
+  sources:
+  - kind: canonical-record
+    ref: Current canonical Markdown
+public_projection:
+  title: The Conclave of Eight
+  summary: The Conclave of Eight brings together the eight founding guildmasters to coordinate technical standards and advise Aetherhaven’s government.
+  classification: public
+  archive_section: catalog
+  access_label: public
+  tags:
+  - organization
+  - catalog-stub
+  related: []
 ---
-
 # The Conclave of Eight
 
 > **Placeholder profile.** This file provides a stable link target while the organization awaits full development. It does not expand beyond the cited source.

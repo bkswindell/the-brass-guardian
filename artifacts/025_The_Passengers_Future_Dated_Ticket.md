@@ -1,21 +1,46 @@
 ---
-artifact_id: AH-ART-025
-slate_number: 25
+schema_version: 1
+id: AH-ART-025
+record_type: artifact
 name: The Passenger’s Future-Dated Ticket
-category: The Passenger of Dock Zero
-canon_status: canonical-working-artifact
-image_status: image-linked
+slug: the-passengers-future-dated-ticket
+aliases: []
 last_updated: '2026-08-02'
-related_markdown:
-- ../characters/The_Passenger_of_Dock_Zero.md
-- ../characters/Captain_Mara_Voss.md
-- ../locations/The_Aerial_Docks.md
-- ../locations/The_Gardens_Airship_Landing.md
-canonical_images:
-- ../art/AH-1-018_The_Passenger's_Future-Date_Ticket.png
-visual_transcription_status: complete
+canon:
+  status: canonical
+  scope:
+  - aetherhaven-volumes
+development:
+  status: working
+disclosure:
+  level: story-sensitive
+assets:
+- id: plate-1
+  path: art/AH-1-018_The_Passenger's_Future-Date_Ticket.png
+  role: plate
+  visibility: story-sensitive
+  alt: Canonical archival plate for The Passenger’s Future-Dated Ticket.
+artifact:
+  category: The Passenger of Dock Zero
+  catalog_number: AH-1-018
+production:
+  slate_number: 25
+  image_status: image-linked
+  visual_transcription_status: complete
+relationships:
+- target: AH-CHAR-PASSENGER-DOCK-ZERO
+  type: related-to
+  visibility: story-sensitive
+- target: AH-CHAR-MARA-VOSS
+  type: related-to
+  visibility: story-sensitive
+- target: AH-LOC-AERIAL-DOCKS
+  type: related-to
+  visibility: story-sensitive
+- target: AH-LOC-AIRSHIP-LANDING
+  type: related-to
+  visibility: story-sensitive
 ---
-
 # The Passenger’s Future-Dated Ticket
 
 > **Artifact Image Slate #25** · [The Passenger of Dock Zero](../characters/The_Passenger_of_Dock_Zero.md) · [Artifact standard](../docs/standards/CANON_MARKDOWN_STANDARD.md)

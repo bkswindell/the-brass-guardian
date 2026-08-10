@@ -1,23 +1,28 @@
 ---
-story_arc_id: AH-ARC-SEVERED-COIL-CONFLICT
-title: The Severed Coil Conflict
-series: The Brass Guardian / The Aetherhaven Chronicles
-canon_status: Canonical long-range arc
-canonical_scope: Later Aetherhaven volumes
-last_updated: 2026-08-01
-primary_antagonist:
-  - The Severed Coil
-primary_protagonists:
-  - Amelia Hawthorne
-  - Professor Elias Hawthorne
-supporting_factions:
-  - The Brass Watch
-  - The Unwound
-  - Harbormaster's Office
-  - Engine Complex
-temporal_relevance: High
+schema_version: 1
+id: AH-ARC-SEVERED-COIL-CONFLICT
+record_type: story_arc
+name: The Severed Coil Conflict
+slug: the-severed-coil-conflict
+aliases: []
+last_updated: '2026-08-01'
+canon:
+  status: canonical
+  scope:
+  - later-aetherhaven-volumes
+development:
+  status: working
+  temporal_relevance: high
+disclosure:
+  level: creator-only
+relationships:
+- target: AH-CHAR-002
+  type: features-character
+  visibility: story-sensitive
+- target: AH-CHAR-001
+  type: features-character
+  visibility: story-sensitive
 ---
-
 # The Severed Coil Conflict
 
 ## Arc Premise
@@ -131,3 +136,10 @@ It should require the heroes to address:
 - [Amelia](../characters/Amelia_Hawthorne.md) rejects attempts by every faction to define her solely by the Aether Heart.
 - [Aetherhaven](../locations/Aetherhaven.md) begins confronting its dependence rather than returning unchanged to the status quo.
 - At least one Coil mystery remains unresolved for future volumes.
+
+## Schema Migration Preservation Notes
+
+> These values were preserved verbatim from pre-Version-1 front matter because the migration could not safely convert them into a canonical-ID field without inventing or resolving canon.
+
+- **primary_antagonist:** `["The Severed Coil"]`
+- **supporting_factions:** `["The Brass Watch","The Unwound","Harbormaster's Office","Engine Complex"]`

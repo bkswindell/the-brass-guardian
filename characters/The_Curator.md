@@ -1,21 +1,39 @@
 ---
-character_id: AH-CHAR-PLACEHOLDER-016
+schema_version: 1
+id: AH-CHAR-PLACEHOLDER-016
+record_type: character
 name: The Curator
-title: Leader of the Ninth Guild
+slug: curator
 aliases:
-  - Curator
-series: The Brass Guardian / The Aetherhaven Chronicles
-canon_status: Source-grounded placeholder
-canonical_scope: Aetherhaven volumes
-last_updated: 2026-08-02
-primary_locations: []
-affiliations: []
-key_connections: []
-temporal_relevance: Unresolved
-source_basis:
-  - Aetherhaven v3.pdf and current canonical Markdown
+- Curator
+last_updated: '2026-08-02'
+canon:
+  status: canonical
+  scope:
+  - aetherhaven-volumes
+development:
+  status: placeholder
+  temporal_relevance: unresolved
+disclosure:
+  level: story-sensitive
+provenance:
+  sources:
+  - kind: canonical-record
+    ref: Aetherhaven v3.pdf and current canonical Markdown
+character:
+  titles:
+  - Leader of the Ninth Guild
+public_projection:
+  title: The Curator
+  summary: The Curator is indexed as a restricted figure. Identity and fuller context remain sealed or withheld from the public catalog.
+  classification: teaser
+  archive_section: hidden
+  access_label: restricted
+  tags:
+  - character
+  - hidden-archive
+  related: []
 ---
-
 # The Curator
 
 > **Placeholder profile.** This file exists so references can resolve to one authoritative record. It records only what the cited source currently supports and does not supersede more developed canon elsewhere in the repository.

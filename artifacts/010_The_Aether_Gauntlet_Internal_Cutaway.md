@@ -1,18 +1,31 @@
 ---
-artifact_id: AH-ART-010
-slate_number: 10
-name: "The Aether Gauntlet: Internal Cutaway"
-category: "Amelia and the Aether Gauntlet"
-canon_status: planned-artifact-concept
-image_status: image-needed
-last_updated: 2026-08-02
-related_markdown:
-  - "../story_arcs/The_Black_Catalogue_Arc.md"
-  - "../organizations/The_Ninth_Guild.md"
-canonical_images:
-  - null
+schema_version: 1
+id: AH-ART-010
+record_type: artifact
+name: 'The Aether Gauntlet: Internal Cutaway'
+slug: the-aether-gauntlet-internal-cutaway
+aliases: []
+last_updated: '2026-08-02'
+canon:
+  status: proposed
+  scope: []
+development:
+  status: concept
+disclosure:
+  level: creator-only
+artifact:
+  category: Amelia and the Aether Gauntlet
+production:
+  slate_number: 10
+  image_status: image-needed
+relationships:
+- target: AH-ARC-NINTH-GUILD
+  type: related-to
+  visibility: story-sensitive
+- target: AH-ORG-NINTH-GUILD
+  type: related-to
+  visibility: story-sensitive
 ---
-
 # The Aether Gauntlet: Internal Cutaway
 
 > **Artifact Image Slate #10** · [Amelia](../characters/Amelia_Hawthorne.md) and the Aether Gauntlet · [Artifact standard](../docs/standards/CANON_MARKDOWN_STANDARD.md)

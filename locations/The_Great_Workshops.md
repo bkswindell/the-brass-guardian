@@ -1,28 +1,51 @@
 ---
-location_id: AH-LOC-PLACEHOLDER-018
+schema_version: 1
+id: AH-LOC-PLACEHOLDER-018
+record_type: location
 name: The Great Workshops
-type: Placeholder location profile
+slug: great-workshops
 aliases:
-  - Great Workshops
-series: The Brass Guardian / The Aetherhaven Chronicles
-canon_status: Source-grounded placeholder
-canonical_scope: Aetherhaven volumes
-last_updated: 2026-08-02
-jurisdiction: []
-access_status: []
-map_reference_category: numbered
-map_number: 20
-parent_location: 
-primary_connections:
-  - The Order of the Mended Hand
-  - The Mechanists' Guild
-points_of_interest:
-  - Order prosthetics and implant annex, final name unresolved
-temporal_relevance: Unresolved
-source_basis:
-  - Aetherhaven v3.pdf
+- Great Workshops
+last_updated: '2026-08-02'
+canon:
+  status: canonical
+  scope:
+  - aetherhaven-volumes
+development:
+  status: placeholder
+  temporal_relevance: unresolved
+disclosure:
+  level: story-sensitive
+provenance:
+  sources:
+  - kind: manuscript
+    ref: Aetherhaven v3.pdf
+cartography:
+- map_id: aetherhaven-city
+  category: numbered
+  reference: '20'
+public_projection:
+  title: The Great Workshops
+  summary: The Great Workshops is catalogued as map reference 20 on the illustrated city chart. This stub preserves the mapped public name while a fuller source-grounded extract is prepared.
+  classification: public
+  archive_section: catalog
+  access_label: public
+  tags:
+  - map-location
+  - map-20
+  related:
+  - AH-LOC-PLACEHOLDER-001
+relationships:
+- target: AH-ORG-PLACEHOLDER-024
+  type: connected-to
+  visibility: story-sensitive
+- target: AH-ORG-MECHANISTS-GUILD
+  type: connected-to
+  visibility: story-sensitive
+- target: AH-LOC-PLACEHOLDER-001
+  type: public-related
+  visibility: teaser
 ---
-
 # The Great Workshops
 
 > **Placeholder profile.** This record provides a stable link target and preserves the source description until the location receives a complete profile.
@@ -74,3 +97,9 @@ Use the source description as the temporary visual baseline. No generated image 
 1. What are the confirmed boundaries, jurisdiction, and access rules?
 2. Which points of interest deserve separate profiles?
 3. What hidden or temporal details should remain restricted?
+
+## Schema Migration Preservation Notes
+
+> These values were preserved verbatim from pre-Version-1 front matter because the migration could not safely convert them into a canonical-ID field without inventing or resolving canon.
+
+- **points_of_interest:** `Order prosthetics and implant annex, final name unresolved`

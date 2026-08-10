@@ -1,18 +1,31 @@
 ---
-artifact_id: AH-ART-061
-slate_number: 61
-name: "Aerial Mariners’ Forbidden Star Chart"
-category: "Background Lore and Transitional Artifacts"
-canon_status: planned-artifact-concept
-image_status: image-needed
-last_updated: 2026-08-02
-related_markdown:
-  - "../organizations/The_Aerial_Mariners_Union.md"
-  - "../characters/Captain_Mara_Voss.md"
-canonical_images:
-  - null
+schema_version: 1
+id: AH-ART-061
+record_type: artifact
+name: Aerial Mariners’ Forbidden Star Chart
+slug: aerial-mariners-forbidden-star-chart
+aliases: []
+last_updated: '2026-08-02'
+canon:
+  status: proposed
+  scope: []
+development:
+  status: concept
+disclosure:
+  level: creator-only
+artifact:
+  category: Background Lore and Transitional Artifacts
+production:
+  slate_number: 61
+  image_status: image-needed
+relationships:
+- target: AH-ORG-AERIAL-MARINERS-UNION
+  type: related-to
+  visibility: story-sensitive
+- target: AH-CHAR-MARA-VOSS
+  type: related-to
+  visibility: story-sensitive
 ---
-
 # Aerial Mariners’ Forbidden Star Chart
 
 > **Artifact Image Slate #61** · Background Lore and Transitional Artifacts · [Artifact standard](../docs/standards/CANON_MARKDOWN_STANDARD.md)

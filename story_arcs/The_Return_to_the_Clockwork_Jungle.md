@@ -1,34 +1,33 @@
 ---
-story_arc_id: AH-ARC-007
+schema_version: 1
+id: AH-ARC-007
+record_type: story_arc
 name: Return to the Clockwork Jungle
+slug: return-to-the-clockwork-jungle
 aliases:
-  - The Return to the Clockwork Jungle
-  - Return to the Vault, provisional
-type: Long-range revelation and return arc
-series: The Brass Guardian / The Aetherhaven Chronicles
-canon_status: Canonical future story arc concept
-canonical_scope: Later Aetherhaven volume; exact placement unresolved
-last_updated: 2026-08-02
-primary_characters:
-  - Amelia Hawthorne
-  - Professor Elias Hawthorne
-supporting_characters: []
-primary_locations:
-  - The Clockwork Jungle
-related_historical_events:
-  - The Clockwork Jungle Expedition
-related_artifacts:
-  - Professor Hawthorne's Field Journal
-  - The Aether Gauntlet: Exterior Study
-  - future expedition records
-central_themes:
-  - memory and evidence
-  - parental guilt and agency
-  - returning to the site of trauma
-  - inherited stories versus lived truth
-  - recognition without ownership
+- The Return to the Clockwork Jungle
+- Return to the Vault, provisional
+last_updated: '2026-08-02'
+canon:
+  status: canonical
+  scope:
+  - later-aetherhaven-volume-exact-placement-unresolved
+development:
+  status: concept
+disclosure:
+  level: creator-only
+descriptor: Long-range revelation and return arc
+relationships:
+- target: AH-CHAR-002
+  type: features-character
+  visibility: story-sensitive
+- target: AH-CHAR-001
+  type: features-character
+  visibility: story-sensitive
+- target: AH-LOC-PLACEHOLDER-028
+  type: features-location
+  visibility: story-sensitive
 ---
-
 # Return to the Clockwork Jungle
 
 ## Canonical Arc Purpose
@@ -347,3 +346,11 @@ The arc may resolve one or more of the following without resolving every mystery
 - [ ] Decide the original machine's purpose.
 - [ ] Outline the full return story.
 - [ ] Create visual development for the Clockwork Jungle and vault.
+
+## Schema Migration Preservation Notes
+
+> These values were preserved verbatim from pre-Version-1 front matter because the migration could not safely convert them into a canonical-ID field without inventing or resolving canon.
+
+- **related_historical_events:** `["The Clockwork Jungle Expedition"]`
+- **related_artifacts:** `["Professor Hawthorne's Field Journal",{"The Aether Gauntlet":"Exterior Study"},"future expedition records"]`
+- **central_themes:** `["memory and evidence","parental guilt and agency","returning to the site of trauma","inherited stories versus lived truth","recognition without ownership"]`

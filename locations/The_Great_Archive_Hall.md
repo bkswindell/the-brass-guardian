@@ -1,41 +1,73 @@
 ---
-location_id: AH-LOC-GREAT-ARCHIVE-HALL
+schema_version: 1
+id: AH-LOC-GREAT-ARCHIVE-HALL
+record_type: location
 name: The Great Archive Hall
-type: Public civic archive, library, and research hall
+slug: the-great-archive-hall
 aliases:
-  - The Great Hall
-  - Great Archive Hall
-series: The Brass Guardian / The Aetherhaven Chronicles
-canon_status: Canonical working profile
-canonical_scope: Aetherhaven volumes
-last_updated: 2026-08-10
-jurisdiction:
+- The Great Hall
+- Great Archive Hall
+last_updated: '2026-08-10'
+canon:
+  status: canonical
+  scope:
+  - aetherhaven-volumes
+development:
+  status: working
+  temporal_relevance: high
+disclosure:
+  level: story-sensitive
+descriptor: Public civic archive, library, and research hall
+assets:
+- id: map-1
+  path: art/Map_of_Aetherhaven.png
+  role: map
+  visibility: story-sensitive
+  alt: Canonical map reference associated with The Great Archive Hall.
+- id: reference-2
+  path: art/locations/aetherhaven_archive/AA-2.png
+  role: reference
+  visibility: story-sensitive
+  alt: Canonical visual reference for The Great Archive Hall.
+cartography:
+- map_id: aetherhaven-city
+  category: unlisted
+location:
+  jurisdiction:
   - The Aetherhaven Archives
   - The High Council of Aetherhaven
-access_status:
+  access_status:
   - Open Archive
   - Public access
-map_reference_category: unlisted
-map_number:
-parent_location:
-  - The Government District
-primary_connections:
-  - The Aetherhaven Archives
-  - The High Council of Aetherhaven
-  - The Government District
-  - Chancellor Octavia Vale
-points_of_interest: []
-related_markdown:
-  - organizations/The_Aetherhaven_Archives.md
-  - organizations/The_High_Council_of_Aetherhaven.md
-  - locations/The_Government_District.md
-  - characters/Chancellor_Octavia_Vale.md
-canonical_images:
-  - art/Map_of_Aetherhaven.png
-  - art/locations/aetherhaven_archive/AA-2.png
-temporal_relevance: High
+relationships:
+- target: AH-LOC-PLACEHOLDER-011
+  type: parent-location
+  visibility: story-sensitive
+- target: AH-ORG-PLACEHOLDER-004
+  type: connected-to
+  visibility: story-sensitive
+- target: AH-ORG-HIGH-COUNCIL
+  type: connected-to
+  visibility: story-sensitive
+- target: AH-LOC-PLACEHOLDER-011
+  type: connected-to
+  visibility: story-sensitive
+- target: AH-CHAR-OCTAVIA-VALE
+  type: connected-to
+  visibility: story-sensitive
+- target: AH-ORG-PLACEHOLDER-004
+  type: related-to
+  visibility: story-sensitive
+- target: AH-ORG-HIGH-COUNCIL
+  type: related-to
+  visibility: story-sensitive
+- target: AH-LOC-PLACEHOLDER-011
+  type: related-to
+  visibility: story-sensitive
+- target: AH-CHAR-OCTAVIA-VALE
+  type: related-to
+  visibility: story-sensitive
 ---
-
 # The Great Archive Hall
 
 ## Map Reference

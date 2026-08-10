@@ -1,25 +1,51 @@
 ---
-character_id: AH-CHAR-PLACEHOLDER-007
+schema_version: 1
+id: AH-CHAR-PLACEHOLDER-007
+record_type: character
 name: Barnaby Wren
-title: Proprietor of the Last Lantern
+slug: barnaby-wren
 aliases:
-  - Barnaby
-series: The Brass Guardian / The Aetherhaven Chronicles
-canon_status: Source-grounded placeholder
-canonical_scope: Aetherhaven volumes
-last_updated: 2026-08-02
-primary_locations:
-  - The Last Lantern
-affiliations: []
-key_connections:
-  - Professor Elias Hawthorne
-  - Amelia Hawthorne
-temporal_relevance: High
-source_basis:
-  - Aetherhaven.pdf
-  - Aetherhaven v3.pdf
+- Barnaby
+last_updated: '2026-08-02'
+canon:
+  status: canonical
+  scope:
+  - aetherhaven-volumes
+development:
+  status: placeholder
+  temporal_relevance: high
+disclosure:
+  level: story-sensitive
+provenance:
+  sources:
+  - kind: manuscript
+    ref: Aetherhaven.pdf
+  - kind: manuscript
+    ref: Aetherhaven v3.pdf
+character:
+  titles:
+  - Proprietor of the Last Lantern
+public_projection:
+  title: Barnaby Wren
+  summary: Barnaby Wren is the proprietor of the Last Lantern, the oldest shop in Aetherhaven’s Merchant District.
+  classification: public
+  archive_section: catalog
+  access_label: public
+  tags:
+  - character
+  - catalog-stub
+  related: []
+relationships:
+- target: AH-LOC-PLACEHOLDER-037
+  type: primary-location
+  visibility: story-sensitive
+- target: AH-CHAR-001
+  type: connected-to
+  visibility: story-sensitive
+- target: AH-CHAR-002
+  type: connected-to
+  visibility: story-sensitive
 ---
-
 # Barnaby Wren
 
 > **Placeholder profile.** This file preserves all currently supplied descriptions of Barnaby Wren without inventing an explanation for their temporal implications.

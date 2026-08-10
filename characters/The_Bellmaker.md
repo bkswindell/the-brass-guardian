@@ -1,21 +1,39 @@
 ---
-character_id: AH-CHAR-PLACEHOLDER-014
+schema_version: 1
+id: AH-CHAR-PLACEHOLDER-014
+record_type: character
 name: The Bellmaker
-title: Unremembered artisan
+slug: bellmaker
 aliases:
-  - Bellmaker
-series: The Brass Guardian / The Aetherhaven Chronicles
-canon_status: Source-grounded placeholder
-canonical_scope: Aetherhaven volumes
-last_updated: 2026-08-02
-primary_locations: []
-affiliations: []
-key_connections: []
-temporal_relevance: Unresolved
-source_basis:
-  - Aetherhaven v3.pdf
+- Bellmaker
+last_updated: '2026-08-02'
+canon:
+  status: canonical
+  scope:
+  - aetherhaven-volumes
+development:
+  status: placeholder
+  temporal_relevance: unresolved
+disclosure:
+  level: story-sensitive
+provenance:
+  sources:
+  - kind: manuscript
+    ref: Aetherhaven v3.pdf
+character:
+  titles:
+  - Unremembered artisan
+public_projection:
+  title: The Bellmaker
+  summary: The Bellmaker is indexed as a mysterious figure. Identity and fuller context remain sealed or withheld from the public catalog.
+  classification: teaser
+  archive_section: hidden
+  access_label: mysterious
+  tags:
+  - character
+  - hidden-archive
+  related: []
 ---
-
 # The Bellmaker
 
 > **Placeholder profile.** This file exists so references can resolve to one authoritative record. It records only what the cited source currently supports and does not supersede more developed canon elsewhere in the repository.

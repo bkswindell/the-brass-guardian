@@ -1,18 +1,31 @@
 ---
-artifact_id: AH-ART-044
-slate_number: 44
-name: "The First Mechanist Handwriting Comparison"
-category: "The Door That Remembered Amelia"
-canon_status: planned-artifact-concept
-image_status: image-needed
-last_updated: 2026-08-02
-related_markdown:
-  - "../story_arcs/The_Thirteenth_Chair.md"
-  - "../characters/Chancellor_Octavia_Vale.md"
-canonical_images:
-  - null
+schema_version: 1
+id: AH-ART-044
+record_type: artifact
+name: The First Mechanist Handwriting Comparison
+slug: the-first-mechanist-handwriting-comparison
+aliases: []
+last_updated: '2026-08-02'
+canon:
+  status: proposed
+  scope: []
+development:
+  status: concept
+disclosure:
+  level: creator-only
+artifact:
+  category: The Door That Remembered Amelia
+production:
+  slate_number: 44
+  image_status: image-needed
+relationships:
+- target: AH-ARC-THIRTEENTH-CHAIR
+  type: related-to
+  visibility: story-sensitive
+- target: AH-CHAR-OCTAVIA-VALE
+  type: related-to
+  visibility: story-sensitive
 ---
-
 # The First Mechanist Handwriting Comparison
 
 > **Artifact Image Slate #44** · The Door That Remembered [Amelia](../characters/Amelia_Hawthorne.md) · [Artifact standard](../docs/standards/CANON_MARKDOWN_STANDARD.md)

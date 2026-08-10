@@ -1,19 +1,34 @@
 ---
-artifact_id: AH-ART-026
-slate_number: 26
-name: "Dock Zero Restricted Photograph"
-category: "The Passenger of Dock Zero"
-canon_status: planned-artifact-concept
-image_status: image-needed
-last_updated: 2026-08-02
-related_markdown:
-  - "../locations/The_Aerial_Docks.md"
-  - "../characters/The_Passenger_of_Dock_Zero.md"
-  - "../characters/Captain_Mara_Voss.md"
-canonical_images:
-  - null
+schema_version: 1
+id: AH-ART-026
+record_type: artifact
+name: Dock Zero Restricted Photograph
+slug: dock-zero-restricted-photograph
+aliases: []
+last_updated: '2026-08-02'
+canon:
+  status: proposed
+  scope: []
+development:
+  status: concept
+disclosure:
+  level: creator-only
+artifact:
+  category: The Passenger of Dock Zero
+production:
+  slate_number: 26
+  image_status: image-needed
+relationships:
+- target: AH-LOC-AERIAL-DOCKS
+  type: related-to
+  visibility: story-sensitive
+- target: AH-CHAR-PASSENGER-DOCK-ZERO
+  type: related-to
+  visibility: story-sensitive
+- target: AH-CHAR-MARA-VOSS
+  type: related-to
+  visibility: story-sensitive
 ---
-
 # Dock Zero Restricted Photograph
 
 > **Artifact Image Slate #26** · [The Passenger of Dock Zero](../characters/The_Passenger_of_Dock_Zero.md) · [Artifact standard](../docs/standards/CANON_MARKDOWN_STANDARD.md)

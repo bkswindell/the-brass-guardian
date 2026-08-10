@@ -1,20 +1,43 @@
 ---
-artifact_id: AH-ART-004
-slate_number: 4
+schema_version: 1
+id: AH-ART-004
+record_type: artifact
 name: The First Mechanist’s Mark
-category: Foundational Canon Images
-canon_status: canonical-working-artifact
-image_status: image-linked
+slug: the-first-mechanists-mark
+aliases: []
 last_updated: '2026-08-02'
-related_markdown:
-- ../organizations/The_High_Council_of_Aetherhaven.md
-- ../story_arcs/The_Thirteenth_Chair.md
-- ../characters/Chancellor_Octavia_Vale.md
-canonical_images:
-- ../art/AH-1-003_The_First_Mechanist's_Mark.png
-visual_transcription_status: complete
+canon:
+  status: canonical
+  scope:
+  - aetherhaven-volumes
+development:
+  status: working
+disclosure:
+  level: story-sensitive
+assets:
+- id: plate-1
+  path: art/AH-1-003_The_First_Mechanist's_Mark.png
+  role: plate
+  visibility: story-sensitive
+  alt: Canonical archival plate for The First Mechanist’s Mark.
+artifact:
+  category: Foundational Canon Images
+  catalog_number: AH-1-003
+production:
+  slate_number: 4
+  image_status: image-linked
+  visual_transcription_status: complete
+relationships:
+- target: AH-ORG-HIGH-COUNCIL
+  type: related-to
+  visibility: story-sensitive
+- target: AH-ARC-THIRTEENTH-CHAIR
+  type: related-to
+  visibility: story-sensitive
+- target: AH-CHAR-OCTAVIA-VALE
+  type: related-to
+  visibility: story-sensitive
 ---
-
 # The First Mechanist’s Mark
 
 > **Artifact Image Slate #4** · Foundational Canon Images · [Artifact standard](../docs/standards/CANON_MARKDOWN_STANDARD.md)

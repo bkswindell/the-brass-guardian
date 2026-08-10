@@ -1,20 +1,42 @@
 ---
-artifact_id: AH-ART-017
-slate_number: 17
+schema_version: 1
+id: AH-ART-017
+record_type: artifact
 name: The Grand Atrium Architectural Lithograph
-category: The Clockwork Gardens
-canon_status: canonical-working-artifact
-image_status: image-linked
+slug: the-grand-atrium-architectural-lithograph
+aliases: []
 last_updated: '2026-08-02'
-related_markdown:
-- ../characters/Juniper_Bell.md
-- ../organizations/The_Conservancy_of_Living_Mechanisms.md
-- ../locations/The_Moon_Garden.md
-canonical_images:
-- ../art/The_Grand_Atrium.png
-visual_transcription_status: complete
+canon:
+  status: canonical
+  scope:
+  - aetherhaven-volumes
+development:
+  status: working
+disclosure:
+  level: story-sensitive
+assets:
+- id: plate-1
+  path: art/The_Grand_Atrium.png
+  role: plate
+  visibility: story-sensitive
+  alt: Canonical archival plate for The Grand Atrium Architectural Lithograph.
+artifact:
+  category: The Clockwork Gardens
+production:
+  slate_number: 17
+  image_status: image-linked
+  visual_transcription_status: complete
+relationships:
+- target: AH-CHAR-JUNIPER-BELL
+  type: related-to
+  visibility: story-sensitive
+- target: AH-ORG-CONSERVANCY-LIVING-MECHANISMS
+  type: related-to
+  visibility: story-sensitive
+- target: AH-LOC-MOON-GARDEN
+  type: related-to
+  visibility: story-sensitive
 ---
-
 # The Grand Atrium Architectural Lithograph
 
 > **Artifact Image Slate #17** · [The Clockwork Gardens](../locations/The_Clockwork_Gardens.md) · [Artifact standard](../docs/standards/CANON_MARKDOWN_STANDARD.md)

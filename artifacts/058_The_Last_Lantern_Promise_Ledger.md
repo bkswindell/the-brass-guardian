@@ -1,17 +1,28 @@
 ---
-artifact_id: AH-ART-058
-slate_number: 58
-name: "The Last Lantern Promise Ledger"
-category: "Background Lore and Transitional Artifacts"
-canon_status: planned-artifact-concept
-image_status: image-needed
-last_updated: 2026-08-02
-related_markdown:
-  - "../organizations/The_Lamplighters_Fellowship.md"
-canonical_images:
-  - null
+schema_version: 1
+id: AH-ART-058
+record_type: artifact
+name: The Last Lantern Promise Ledger
+slug: the-last-lantern-promise-ledger
+aliases: []
+last_updated: '2026-08-02'
+canon:
+  status: proposed
+  scope: []
+development:
+  status: concept
+disclosure:
+  level: creator-only
+artifact:
+  category: Background Lore and Transitional Artifacts
+production:
+  slate_number: 58
+  image_status: image-needed
+relationships:
+- target: AH-ORG-LAMPLIGHTERS-FELLOWSHIP
+  type: related-to
+  visibility: story-sensitive
 ---
-
 # The Last Lantern Promise Ledger
 
 > **Artifact Image Slate #58** · Background Lore and Transitional Artifacts · [Artifact standard](../docs/standards/CANON_MARKDOWN_STANDARD.md)

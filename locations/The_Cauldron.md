@@ -1,31 +1,63 @@
 ---
-location_id: AH-LOC-CAULDRON
+schema_version: 1
+id: AH-LOC-CAULDRON
+record_type: location
 name: The Cauldron
-type: Restricted industrial exile district
+slug: cauldron
 aliases:
-  - The Black Basin
-  - The Ash Quarter
-series: The Brass Guardian / The Aetherhaven Chronicles
-canon_status: Canonical working profile
-canonical_scope: Aetherhaven volumes
-last_updated: 2026-08-01
-jurisdiction:
+- The Black Basin
+- The Ash Quarter
+last_updated: '2026-08-01'
+canon:
+  status: canonical
+  scope:
+  - aetherhaven-volumes
+development:
+  status: working
+  temporal_relevance: moderate
+disclosure:
+  level: story-sensitive
+descriptor: Restricted industrial exile district
+location:
+  jurisdiction:
   - Outside ordinary Brass Watch governance
   - Governed through local custom, brokers, crews, and negotiated power
-access_status:
+  access_status:
   - Restricted to ordinary Aetherhaven citizens
   - Entry strongly discouraged and often prohibited
-primary_connections:
-  - The Ninth Guild
-  - The Unwound
-  - The Underclock
-  - The Brass Watch
-  - The High Council
-  - The Order of the Mended Hand
-  - The Cauldron Recovery House
-temporal_relevance: Moderate
+public_projection:
+  title: The Cauldron
+  summary: Map annotation records songs and screams. Further record sealed.
+  classification: teaser
+  archive_section: hidden
+  access_label: restricted
+  tags:
+  - restricted-location
+  - hidden-archive
+  related: []
+relationships:
+- target: AH-ORG-NINTH-GUILD
+  type: connected-to
+  visibility: story-sensitive
+- target: AH-ORG-UNWOUND
+  type: connected-to
+  visibility: story-sensitive
+- target: AH-ORG-UNDERCLOCK
+  type: connected-to
+  visibility: story-sensitive
+- target: AH-ORG-BRASS-WATCH
+  type: connected-to
+  visibility: story-sensitive
+- target: AH-ORG-HIGH-COUNCIL
+  type: connected-to
+  visibility: story-sensitive
+- target: AH-ORG-PLACEHOLDER-024
+  type: connected-to
+  visibility: story-sensitive
+- target: AH-LOC-PLACEHOLDER-050
+  type: connected-to
+  visibility: story-sensitive
 ---
-
 # The Cauldron
 
 ## Canonical Summary

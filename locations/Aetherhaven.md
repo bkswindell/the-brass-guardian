@@ -1,25 +1,74 @@
 ---
-location_id: AH-LOC-PLACEHOLDER-001
+schema_version: 1
+id: AH-LOC-PLACEHOLDER-001
+record_type: location
 name: Aetherhaven
-type: Placeholder location profile
+slug: aetherhaven
 aliases:
-  - City of Aetherhaven
-series: The Brass Guardian / The Aetherhaven Chronicles
-canon_status: Source-grounded placeholder
-canonical_scope: Aetherhaven volumes
-last_updated: 2026-08-02
-jurisdiction: []
-access_status: []
-map_reference_category: unlisted
-map_number: 
-parent_location: 
-primary_connections: []
-points_of_interest: []
-temporal_relevance: Unresolved
-source_basis:
-  - Aetherhaven v3.pdf
+- City of Aetherhaven
+last_updated: '2026-08-02'
+canon:
+  status: canonical
+  scope:
+  - aetherhaven-volumes
+development:
+  status: placeholder
+  temporal_relevance: unresolved
+disclosure:
+  level: story-sensitive
+provenance:
+  sources:
+  - kind: manuscript
+    ref: Aetherhaven v3.pdf
+cartography:
+- map_id: aetherhaven-city
+  category: unlisted
+assets:
+- id: public-image
+  path: art/Map_of_Aetherhaven.png
+  role: map
+  visibility: teaser
+  alt: Illustrated map of Aetherhaven showing a circular brass-and-canal city with twenty-four numbered points of interest, six lettered restricted areas, airship routes, rail lines, bridges, waterways, and surrounding mountains.
+public_projection:
+  title: Aetherhaven
+  summary: 'Aetherhaven is the City of Gears, Dreams and Discovery: a mountain city of brass streets, glass conservatories, canal bridges, workshops, crowded markets, and airship towers. Its people build, repair, teach, trade, argue, and explore among mechanisms older than the city’s best records. Some machines are understood. Others are maintained because they have always worked.'
+  classification: teaser
+  archive_section: catalog
+  access_label: teaser
+  tags:
+  - city
+  - map
+  - public-cartography
+  related:
+  - AH-LOC-PLACEHOLDER-003
+  - AH-LOC-AIRSHIP-LANDING
+  - AH-LOC-PLACEHOLDER-012
+  - AH-LOC-PLACEHOLDER-013
+  - AH-LOC-AERIAL-DOCKS
+  - AH-VESSEL-WAYFINDER
+  image:
+    asset: public-image
+    alt: Illustrated map of Aetherhaven showing a circular brass-and-canal city with twenty-four numbered points of interest, six lettered restricted areas, airship routes, rail lines, bridges, waterways, and surrounding mountains.
+relationships:
+- target: AH-LOC-PLACEHOLDER-003
+  type: public-related
+  visibility: teaser
+- target: AH-LOC-AIRSHIP-LANDING
+  type: public-related
+  visibility: teaser
+- target: AH-LOC-PLACEHOLDER-012
+  type: public-related
+  visibility: teaser
+- target: AH-LOC-PLACEHOLDER-013
+  type: public-related
+  visibility: teaser
+- target: AH-LOC-AERIAL-DOCKS
+  type: public-related
+  visibility: teaser
+- target: AH-VESSEL-WAYFINDER
+  type: public-related
+  visibility: teaser
 ---
-
 # Aetherhaven
 
 > **Placeholder profile.** This record provides a stable link target and preserves the source description until the location receives a complete profile.

@@ -1,25 +1,59 @@
 ---
-location_id: AH-LOC-PLACEHOLDER-003
+schema_version: 1
+id: AH-LOC-PLACEHOLDER-003
+record_type: location
 name: The Clockwork Gardens
-type: Placeholder location profile
+slug: clockwork-gardens
 aliases:
-  - Clockwork Gardens
-series: The Brass Guardian / The Aetherhaven Chronicles
-canon_status: Source-grounded placeholder
-canonical_scope: Aetherhaven volumes
-last_updated: 2026-08-02
-jurisdiction: []
-access_status: []
-map_reference_category: numbered
-map_number: 2
-parent_location: 
-primary_connections: []
-points_of_interest: []
-temporal_relevance: Unresolved
-source_basis:
-  - Aetherhaven v3.pdf
+- Clockwork Gardens
+last_updated: '2026-08-02'
+canon:
+  status: canonical
+  scope:
+  - aetherhaven-volumes
+development:
+  status: placeholder
+  temporal_relevance: unresolved
+disclosure:
+  level: story-sensitive
+provenance:
+  sources:
+  - kind: manuscript
+    ref: Aetherhaven v3.pdf
+cartography:
+- map_id: aetherhaven-city
+  category: numbered
+  reference: '2'
+assets:
+- id: public-image
+  path: art/Clockwork_Gardens_at_Night.png
+  role: reference
+  visibility: teaser
+  alt: Night view of the Clockwork Gardens, with glass conservatories, brass walkways, luminous mechanical flowers, canals, clocks, and airships beneath a full moon.
+public_projection:
+  title: The Clockwork Gardens
+  summary: The Clockwork Gardens form a living and mechanical ring near Aetherhaven’s center. Brass vines climb glasshouses, clockwork pollinators move among luminous flowers, and waterways pass beneath paths that do not always remain where gardeners left them. The Gardens are tended through care, observation, and cooperation—not command. Visitors may follow the public walks, but hidden paths reveal themselves on terms no mapmaker has mastered.
+  classification: teaser
+  archive_section: catalog
+  access_label: teaser
+  tags:
+  - gardens
+  - living-mechanisms
+  - map-location
+  related:
+  - AH-LOC-PLACEHOLDER-001
+  - AH-LOC-AIRSHIP-LANDING
+  image:
+    asset: public-image
+    alt: Night view of the Clockwork Gardens, with glass conservatories, brass walkways, luminous mechanical flowers, canals, clocks, and airships beneath a full moon.
+relationships:
+- target: AH-LOC-PLACEHOLDER-001
+  type: public-related
+  visibility: teaser
+- target: AH-LOC-AIRSHIP-LANDING
+  type: public-related
+  visibility: teaser
 ---
-
 # The Clockwork Gardens
 
 > **Placeholder profile.** This record provides a stable link target and preserves the source description until the location receives a complete profile.

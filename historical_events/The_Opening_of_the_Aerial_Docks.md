@@ -1,27 +1,30 @@
 ---
-historical_event_id: AH-HIST-011
+schema_version: 1
+id: AH-HIST-011
+record_type: historical_event
 name: The Opening of the Aerial Docks
+slug: the-opening-of-the-aerial-docks
 aliases: []
-type: Historical event
-series: The Brass Guardian / The Aetherhaven Chronicles
-canon_status: Historical event placeholder
-canonical_scope: Aetherhaven volumes
-last_updated: 2026-08-02
-date_status: unresolved
-chronology: []
-locations: []
-participants: []
-organizations: []
-related_artifacts: []
-related_story_arcs: []
-public_record_status: incomplete
-restricted_record_status: incomplete
-order_interest: unresolved
-source_basis:
-  - Current canonical Markdown
-  - Aetherhaven compiled manuscript where Markdown leaves gaps
+last_updated: '2026-08-02'
+canon:
+  status: canonical
+  scope:
+  - aetherhaven-volumes
+development:
+  status: placeholder
+disclosure:
+  level: story-sensitive
+descriptor: Historical event
+provenance:
+  sources:
+  - kind: canonical-record
+    ref: Current canonical Markdown
+  - kind: manuscript
+    ref: Aetherhaven compiled manuscript where Markdown leaves gaps
+historical_event:
+  public_record_status: incomplete
+  restricted_record_status: incomplete
 ---
-
 # The Opening of the Aerial Docks
 
 > **Historical-event record.** This file owns the objective event. It does not decide how Amelia learns the history or resolve mysteries not established by current canon.
@@ -111,3 +114,9 @@ Unknown.
 - Who designed the modern docks?
 - Why was Dock Zero incorporated rather than demolished?
 - When did the Quiet Hangar receive its present function?
+
+## Schema Migration Preservation Notes
+
+> These values were preserved verbatim from pre-Version-1 front matter because the migration could not safely convert them into a canonical-ID field without inventing or resolving canon.
+
+- **order_interest:** `unresolved`

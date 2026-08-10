@@ -1,50 +1,88 @@
 ---
-organization_id: AH-ORG-PLACEHOLDER-004
+schema_version: 1
+id: AH-ORG-PLACEHOLDER-004
+record_type: organization
 name: The Aetherhaven Archives
-type: Civic archival, knowledge, historical, cultural, scientific, and artifact repository network
+slug: aetherhaven-archives
 aliases:
-  - Aetherhaven Archives
-  - the Archives
-series: The Brass Guardian / The Aetherhaven Chronicles
-canon_status: Canonical working profile
-canonical_scope: Aetherhaven volumes
-last_updated: 2026-08-10
-headquarters:
-  - The Great Archive Hall, Government District
-primary_jurisdiction:
+- Aetherhaven Archives
+- the Archives
+last_updated: '2026-08-10'
+canon:
+  status: canonical
+  scope:
+  - aetherhaven-volumes
+development:
+  status: working
+  temporal_relevance: critical
+disclosure:
+  level: story-sensitive
+descriptor: Civic archival, knowledge, historical, cultural, scientific, and artifact repository network
+assets:
+- id: reference-1
+  path: art/locations/aetherhaven_archive/AA-2.png
+  role: reference
+  visibility: story-sensitive
+  alt: Canonical visual reference for The Aetherhaven Archives.
+organization:
+  jurisdiction:
   - Official civic records and historical collections
   - Archival knowledge and reference systems
   - Artifact custody and provenance records
   - Public museums, exhibits, and historical centers
   - Specialized archival workshops and scholarly collections
   - Restricted and hidden archival holdings under High Council authority
-leadership: []
-governing_authority:
-  - The High Council of Aetherhaven
-key_relationships:
-  - The High Council of Aetherhaven
-  - The Great Archive Hall
-  - The Government District
-  - The Great Workshops
-  - The Inventors' District
-  - The Academy of Invention
-  - The Brass Watch
-  - The Society of Explorers
-related_markdown:
-  - organizations/The_High_Council_of_Aetherhaven.md
-  - locations/The_Great_Archive_Hall.md
-  - locations/The_Government_District.md
-  - locations/The_Great_Workshops.md
-  - locations/The_Inventors_District.md
-  - organizations/The_Academy_of_Invention.md
-  - organizations/The_Brass_Watch.md
-  - organizations/The_Society_of_Explorers.md
-  - locations/The_Shrouded_Vaults.md
-canonical_images:
-  - art/locations/aetherhaven_archive/AA-2.png
-temporal_relevance: Critical
+  access_classes:
+  - Open Archives
+  - Scholarly Archives
+  - Restricted Archives
+  - Hidden Archives
+  - Lost Archives
+public_projection:
+  title: The Aetherhaven Archives
+  summary: The Aetherhaven Archives is the civic institution responsible for official records, transit documents, historical materials, and artifact custody.
+  classification: public
+  archive_section: catalog
+  access_label: public
+  tags:
+  - organization
+  - catalog-stub
+  related: []
+relationships:
+- target: AH-LOC-GREAT-ARCHIVE-HALL
+  type: headquartered-at
+  visibility: story-sensitive
+- target: AH-ORG-HIGH-COUNCIL
+  type: governed-by
+  visibility: story-sensitive
+- target: AH-ORG-HIGH-COUNCIL
+  type: related-to
+  visibility: story-sensitive
+- target: AH-LOC-GREAT-ARCHIVE-HALL
+  type: related-to
+  visibility: story-sensitive
+- target: AH-LOC-PLACEHOLDER-011
+  type: related-to
+  visibility: story-sensitive
+- target: AH-LOC-PLACEHOLDER-018
+  type: related-to
+  visibility: story-sensitive
+- target: AH-LOC-PLACEHOLDER-013
+  type: related-to
+  visibility: story-sensitive
+- target: AH-ORG-BRASS-WATCH
+  type: related-to
+  visibility: story-sensitive
+- target: AH-ORG-PLACEHOLDER-002
+  type: related-to
+  visibility: story-sensitive
+- target: AH-ORG-PLACEHOLDER-001
+  type: related-to
+  visibility: story-sensitive
+- target: AH-LOC-PLACEHOLDER-024
+  type: related-to
+  visibility: story-sensitive
 ---
-
 # The Aetherhaven Archives
 
 ## Visual Reference
@@ -347,3 +385,9 @@ A common Aetherhaven Archives catalog format does not imply that every catalogue
 6. Where is the secure Hidden Archives location, and how is an escorted visit conducted?
 7. Do any holdings currently classified as Lost Archives survive within the Shrouded Vaults or another unindexed repository?
 8. How are disputes resolved when two authentic Archive records contradict one another?
+
+## Schema Migration Preservation Notes
+
+> These values were preserved verbatim from pre-Version-1 front matter because the migration could not safely convert them into a canonical-ID field without inventing or resolving canon.
+
+- **key_relationships:** `The Academy of Invention`

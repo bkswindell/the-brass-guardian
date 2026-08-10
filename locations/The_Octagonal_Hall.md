@@ -1,25 +1,29 @@
 ---
-location_id: AH-LOC-PLACEHOLDER-041
+schema_version: 1
+id: AH-LOC-PLACEHOLDER-041
+record_type: location
 name: The Octagonal Hall
-type: Placeholder location profile
+slug: the-octagonal-hall
 aliases:
-  - Octagonal Hall
-series: The Brass Guardian / The Aetherhaven Chronicles
-canon_status: Source-grounded placeholder
-canonical_scope: Aetherhaven volumes
-last_updated: 2026-08-02
-jurisdiction: []
-access_status: []
-map_reference_category: unlisted
-map_number: 
-parent_location: 
-primary_connections: []
-points_of_interest: []
-temporal_relevance: Unresolved
-source_basis:
-  - Current canonical Markdown
+- Octagonal Hall
+last_updated: '2026-08-02'
+canon:
+  status: canonical
+  scope:
+  - aetherhaven-volumes
+development:
+  status: placeholder
+  temporal_relevance: unresolved
+disclosure:
+  level: story-sensitive
+provenance:
+  sources:
+  - kind: canonical-record
+    ref: Current canonical Markdown
+cartography:
+- map_id: aetherhaven-city
+  category: unlisted
 ---
-
 # The Octagonal Hall
 
 > **Placeholder profile.** This record provides a stable link target and preserves the source description until the location receives a complete profile.

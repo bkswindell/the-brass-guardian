@@ -1,21 +1,36 @@
 ---
-organization_id: AH-ORG-PLACEHOLDER-012
+schema_version: 1
+id: AH-ORG-PLACEHOLDER-012
+record_type: organization
 name: The Cinder Wardens
-type: Placeholder organization profile
+slug: cinder-wardens
 aliases:
-  - Cinder Wardens
-series: The Brass Guardian / The Aetherhaven Chronicles
-canon_status: Source-grounded placeholder
-canonical_scope: Aetherhaven volumes
-last_updated: 2026-08-02
-headquarters: []
-known_leadership: []
-primary_connections: []
-temporal_relevance: Unresolved
-source_basis:
-  - Current canonical Markdown
+- Cinder Wardens
+last_updated: '2026-08-02'
+canon:
+  status: canonical
+  scope:
+  - aetherhaven-volumes
+development:
+  status: placeholder
+  temporal_relevance: unresolved
+disclosure:
+  level: story-sensitive
+provenance:
+  sources:
+  - kind: canonical-record
+    ref: Current canonical Markdown
+public_projection:
+  title: The Cinder Wardens
+  summary: The Cinder Wardens has a restricted Archive reference. Identity, purpose, and fuller context remain sealed or withheld.
+  classification: teaser
+  archive_section: hidden
+  access_label: restricted
+  tags:
+  - organization
+  - hidden-archive
+  related: []
 ---
-
 # The Cinder Wardens
 
 > **Placeholder profile.** This file provides a stable link target while the organization awaits full development. It does not expand beyond the cited source.

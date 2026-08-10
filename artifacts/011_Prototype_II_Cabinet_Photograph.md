@@ -1,20 +1,43 @@
 ---
-artifact_id: AH-ART-011
-slate_number: 11
+schema_version: 1
+id: AH-ART-011
+record_type: artifact
 name: Prototype II Cabinet Photograph
-category: Amelia and the Aether Gauntlet
-canon_status: canonical-working-artifact
-image_status: image-linked
+slug: prototype-ii-cabinet-photograph
+aliases: []
 last_updated: '2026-08-02'
-related_markdown:
-- ../story_arcs/The_Black_Catalogue_Arc.md
-- ../organizations/The_Ninth_Guild.md
-- ../organizations/The_Order_of_the_Closed_Eye.md
-canonical_images:
-- ../art/AH-1-005_Prototype_II.png
-visual_transcription_status: complete
+canon:
+  status: canonical
+  scope:
+  - aetherhaven-volumes
+development:
+  status: working
+disclosure:
+  level: story-sensitive
+assets:
+- id: plate-1
+  path: art/AH-1-005_Prototype_II.png
+  role: plate
+  visibility: story-sensitive
+  alt: Canonical archival plate for Prototype II Cabinet Photograph.
+artifact:
+  category: Amelia and the Aether Gauntlet
+  catalog_number: AH-1-005
+production:
+  slate_number: 11
+  image_status: image-linked
+  visual_transcription_status: complete
+relationships:
+- target: AH-ARC-NINTH-GUILD
+  type: related-to
+  visibility: story-sensitive
+- target: AH-ORG-NINTH-GUILD
+  type: related-to
+  visibility: story-sensitive
+- target: AH-ORG-CLOSED-EYE
+  type: related-to
+  visibility: story-sensitive
 ---
-
 # Prototype II Cabinet Photograph
 
 > **Artifact Image Slate #11** · [Amelia](../characters/Amelia_Hawthorne.md) and the Aether Gauntlet · [Artifact standard](../docs/standards/CANON_MARKDOWN_STANDARD.md)

@@ -1,41 +1,62 @@
 ---
-historical_event_id: AH-HIST-001
+schema_version: 1
+id: AH-HIST-001
+record_type: historical_event
 name: The Gearbreaker Standoff
+slug: the-gearbreaker-standoff
 aliases:
-  - Gearbreaker Standoff
-  - The Day the Mountain Refused
-  - The Mine Gate Standoff
-type: Civic and labor confrontation
-series: The Brass Guardian / The Aetherhaven Chronicles
-canon_status: Canonical historical event
-canonical_scope: Aetherhaven volumes
-last_updated: 2026-08-02
-date_status: exact date unresolved
+- Gearbreaker Standoff
+- The Day the Mountain Refused
+- The Mine Gate Standoff
+last_updated: '2026-08-02'
+canon:
+  status: canonical
+  scope:
+  - aetherhaven-volumes
+development:
+  status: working
+disclosure:
+  level: story-sensitive
+descriptor: Civic and labor confrontation
+provenance:
+  sources:
+  - kind: author-decision
+    ref: Canon decisions recorded August 2, 2026
+  - kind: canonical-record
+    ref: Current canonical Markdown
 chronology:
-  - pre-Amelia main storyline
-locations:
-  - Gearbreaker Mines
-participants:
-  - Orin Flint
-  - Chancellor Octavia Vale
-  - Chief Inspector Beatrice Thorne
-  - unnamed young Brass Watch constable
-  - Gearbreaker mining crews
-organizations:
-  - High Council of Aetherhaven
-  - Brass Watch
-  - Miners' Guild
-related_artifacts: []
-related_story_arcs:
-  - The Watchman's Regret
-public_record_status: publicly known but rarely discussed
-restricted_record_status: official accounts incomplete and politically sensitive
-order_interest: no confirmed direct involvement
-source_basis:
-  - Canon decisions recorded August 2, 2026
-  - Current canonical Markdown
+  status: unknown
+  display: pre-Amelia main storyline
+  note: exact date unresolved
+historical_event:
+  public_record_status: publicly known but rarely discussed
+  restricted_record_status: official accounts incomplete and politically sensitive
+relationships:
+- target: AH-LOC-PLACEHOLDER-020
+  type: occurred-at
+  visibility: story-sensitive
+- target: AH-CHAR-005
+  type: participant
+  visibility: story-sensitive
+- target: AH-CHAR-OCTAVIA-VALE
+  type: participant
+  visibility: story-sensitive
+- target: AH-CHAR-BEATRICE-THORNE
+  type: participant
+  visibility: story-sensitive
+- target: AH-ORG-HIGH-COUNCIL
+  type: involved-organization
+  visibility: story-sensitive
+- target: AH-ORG-BRASS-WATCH
+  type: involved-organization
+  visibility: story-sensitive
+- target: AH-ORG-PLACEHOLDER-014
+  type: involved-organization
+  visibility: story-sensitive
+- target: AH-ARC-006
+  type: related-story-arc
+  visibility: story-sensitive
 ---
-
 # The Gearbreaker Standoff
 
 > **Canonical historical event.** This file owns the objective chronology, institutional consequences, conflicting accounts, and surviving evidence. [The Watchman's Regret](../story_arcs/The_Watchmans_Regret.md) owns Amelia's future discovery of the event through a former constable's account.
@@ -254,3 +275,11 @@ No direct Order of the Closed Eye involvement is established. Missing records ma
 - [ ] Determine the future Watchman's identity.
 - [ ] Establish the provenance of Orin's closure report.
 - [ ] Decide how much of the inquiry was sealed, lost, altered, or merely dispersed.
+
+## Schema Migration Preservation Notes
+
+> These values were preserved verbatim from pre-Version-1 front matter because the migration could not safely convert them into a canonical-ID field without inventing or resolving canon.
+
+- **participants:** `unnamed young Brass Watch constable`
+- **participants:** `Gearbreaker mining crews`
+- **order_interest:** `no confirmed direct involvement`

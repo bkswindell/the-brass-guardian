@@ -1,18 +1,31 @@
 ---
-artifact_id: AH-ART-006
-slate_number: 6
+schema_version: 1
+id: AH-ART-006
+record_type: artifact
 name: Canonical Aetherhaven Archive Label
-category: Foundational Canon Images
-canon_status: planned-artifact-concept
-image_status: working-placeholder
-last_updated: 2026-08-02
-related_markdown:
-- ../PROJECT_INDEX.md
-canonical_images:
-- ../art/AH-X-YYY.png
-visual_transcription_status: not-applicable-working-placeholder
+slug: canonical-aetherhaven-archive-label
+aliases: []
+last_updated: '2026-08-02'
+canon:
+  status: proposed
+  scope: []
+development:
+  status: placeholder
+disclosure:
+  level: creator-only
+assets:
+- id: plate-1
+  path: art/AH-X-YYY.png
+  role: plate
+  visibility: creator-only
+  alt: Canonical archival plate for Canonical Aetherhaven Archive Label.
+artifact:
+  category: Foundational Canon Images
+production:
+  slate_number: 6
+  image_status: working-placeholder
+  visual_transcription_status: not-applicable-working-placeholder
 ---
-
 # Canonical Aetherhaven Archive Label
 
 > **Artifact Image Slate #6** · Foundational Canon Images · [Artifact standard](../docs/standards/CANON_MARKDOWN_STANDARD.md)
@@ -53,3 +66,9 @@ This artifact concept provides the recurring graphic framework for [Aetherhaven]
 - [ ] Transcribe all visible text after the final asset is approved.
 - [ ] Document final fields, seals, stamps, and classification conventions.
 - [ ] Add the final format to every future artifact plate template.
+
+## Schema Migration Preservation Notes
+
+> These values were preserved verbatim from pre-Version-1 front matter because the migration could not safely convert them into a canonical-ID field without inventing or resolving canon.
+
+- **related_markdown:** `../PROJECT_INDEX.md`

@@ -1,18 +1,31 @@
 ---
-artifact_id: AH-ART-043
-slate_number: 43
-name: "Prototype II and Amelia’s Gauntlet Comparison"
-category: "The Door That Remembered Amelia"
-canon_status: planned-artifact-concept
-image_status: image-needed
-last_updated: 2026-08-02
-related_markdown:
-  - "../story_arcs/The_Black_Catalogue_Arc.md"
-  - "../story_arcs/The_Disappearance_of_Prototype_I.md"
-canonical_images:
-  - null
+schema_version: 1
+id: AH-ART-043
+record_type: artifact
+name: Prototype II and Amelia’s Gauntlet Comparison
+slug: prototype-ii-and-amelias-gauntlet-comparison
+aliases: []
+last_updated: '2026-08-02'
+canon:
+  status: proposed
+  scope: []
+development:
+  status: concept
+disclosure:
+  level: creator-only
+artifact:
+  category: The Door That Remembered Amelia
+production:
+  slate_number: 43
+  image_status: image-needed
+relationships:
+- target: AH-ARC-NINTH-GUILD
+  type: related-to
+  visibility: story-sensitive
+- target: AH-ARC-PROTOTYPE-I-DISAPPEARANCE
+  type: related-to
+  visibility: story-sensitive
 ---
-
 # Prototype II and Amelia’s Gauntlet Comparison
 
 > **Artifact Image Slate #43** · The Door That Remembered [Amelia](../characters/Amelia_Hawthorne.md) · [Artifact standard](../docs/standards/CANON_MARKDOWN_STANDARD.md)

@@ -1,19 +1,34 @@
 ---
-artifact_id: AH-ART-056
-slate_number: 56
-name: "High Council Thirteenth Seat Record"
-category: "Organizations and Secret Societies"
-canon_status: planned-artifact-concept
-image_status: image-needed
-last_updated: 2026-08-02
-related_markdown:
-  - "../organizations/The_High_Council_of_Aetherhaven.md"
-  - "../characters/Chancellor_Octavia_Vale.md"
-  - "../story_arcs/The_Thirteenth_Chair.md"
-canonical_images:
-  - null
+schema_version: 1
+id: AH-ART-056
+record_type: artifact
+name: High Council Thirteenth Seat Record
+slug: high-council-thirteenth-seat-record
+aliases: []
+last_updated: '2026-08-02'
+canon:
+  status: proposed
+  scope: []
+development:
+  status: concept
+disclosure:
+  level: creator-only
+artifact:
+  category: Organizations and Secret Societies
+production:
+  slate_number: 56
+  image_status: image-needed
+relationships:
+- target: AH-ORG-HIGH-COUNCIL
+  type: related-to
+  visibility: story-sensitive
+- target: AH-CHAR-OCTAVIA-VALE
+  type: related-to
+  visibility: story-sensitive
+- target: AH-ARC-THIRTEENTH-CHAIR
+  type: related-to
+  visibility: story-sensitive
 ---
-
 # High Council Thirteenth Seat Record
 
 > **Artifact Image Slate #56** · Organizations and Secret Societies · [Artifact standard](../docs/standards/CANON_MARKDOWN_STANDARD.md)

@@ -1,38 +1,73 @@
 ---
-organization_id: AH-ORG-CONSERVANCY-LIVING-MECHANISMS
+schema_version: 1
+id: AH-ORG-CONSERVANCY-LIVING-MECHANISMS
+record_type: organization
 name: The Conservancy of Living Mechanisms
-type: Pacifist stewardship fellowship, botanical-mechanical sanctuary, and guardian order
+slug: conservancy-of-living-mechanisms
 aliases:
-  - The Conservancy
-  - The Garden Tenders
-series: The Brass Guardian / The Aetherhaven Chronicles
-canon_status: Canonical working profile
-canonical_scope: Aetherhaven volumes
-last_updated: 2026-08-01
-headquarters:
-  - The Rootglass Cloister, Clockwork Gardens
-primary_jurisdiction:
+- The Conservancy
+- The Garden Tenders
+last_updated: '2026-08-01'
+canon:
+  status: canonical
+  scope:
+  - aetherhaven-volumes
+development:
+  status: working
+  temporal_relevance: high
+disclosure:
+  level: story-sensitive
+descriptor: Pacifist stewardship fellowship, botanical-mechanical sanctuary, and guardian order
+organization:
+  jurisdiction:
   - The Clockwork Gardens
   - Living mechanisms under Conservancy care
   - Botanical-mechanical sanctuaries
-leadership:
-  - The First Tender
-  - The Circle of Seasons
-oldest_rule:
-  - Never allow the Gardens to recognize you as an intruder.
-key_relationships:
-  - The Guild of Verdant Mechanists
-  - The Mechanists' Guild
-  - The Brass Watch
-  - The High Council
-  - The Ninth Guild
-  - The Order of the Closed Eye
-  - The Unwound
-  - Professor Elias Hawthorne
-  - Amelia Hawthorne
-temporal_relevance: High
+public_projection:
+  title: The Conservancy of Living Mechanisms
+  summary: The Conservancy is a pacifist fellowship of gardeners, healers, and mechanists who care for the Clockwork Gardens and their living machines.
+  classification: public
+  archive_section: catalog
+  access_label: public
+  tags:
+  - organization
+  - catalog-stub
+  related: []
+relationships:
+- target: AH-LOC-PLACEHOLDER-049
+  type: headquartered-at
+  visibility: story-sensitive
+- target: AH-CHAR-PLACEHOLDER-017
+  type: led-by
+  visibility: story-sensitive
+- target: AH-ORG-PLACEHOLDER-022
+  type: related-to
+  visibility: story-sensitive
+- target: AH-ORG-MECHANISTS-GUILD
+  type: related-to
+  visibility: story-sensitive
+- target: AH-ORG-BRASS-WATCH
+  type: related-to
+  visibility: story-sensitive
+- target: AH-ORG-HIGH-COUNCIL
+  type: related-to
+  visibility: story-sensitive
+- target: AH-ORG-NINTH-GUILD
+  type: related-to
+  visibility: story-sensitive
+- target: AH-ORG-CLOSED-EYE
+  type: related-to
+  visibility: story-sensitive
+- target: AH-ORG-UNWOUND
+  type: related-to
+  visibility: story-sensitive
+- target: AH-CHAR-001
+  type: related-to
+  visibility: story-sensitive
+- target: AH-CHAR-002
+  type: related-to
+  visibility: story-sensitive
 ---
-
 # The Conservancy of Living Mechanisms
 
 ## Canonical Summary
@@ -917,3 +952,10 @@ The exchange is practical, irregular, and often mediated through trusted individ
 10. What threat caused the last full Garden closure?
 11. Can a person regain the Gardens' trust after being recognized as an intruder?
 12. What lies beneath [the Rootglass Cloister](../locations/Rootglass_Cloister.md)?
+
+## Schema Migration Preservation Notes
+
+> These values were preserved verbatim from pre-Version-1 front matter because the migration could not safely convert them into a canonical-ID field without inventing or resolving canon.
+
+- **leadership:** `The Circle of Seasons`
+- **oldest_rule:** `["Never allow the Gardens to recognize you as an intruder."]`

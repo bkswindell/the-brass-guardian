@@ -1,27 +1,30 @@
 ---
-historical_event_id: AH-HIST-007
+schema_version: 1
+id: AH-HIST-007
+record_type: historical_event
 name: The Revision of the Society of Explorers Charter
+slug: the-revision-of-the-society-of-explorers-charter
 aliases: []
-type: Historical event
-series: The Brass Guardian / The Aetherhaven Chronicles
-canon_status: Canonical working historical event
-canonical_scope: Aetherhaven volumes
-last_updated: 2026-08-02
-date_status: unresolved
-chronology: []
-locations: []
-participants: []
-organizations: []
-related_artifacts: []
-related_story_arcs: []
-public_record_status: incomplete
-restricted_record_status: incomplete
-order_interest: unresolved
-source_basis:
-  - Current canonical Markdown
-  - Aetherhaven compiled manuscript where Markdown leaves gaps
+last_updated: '2026-08-02'
+canon:
+  status: canonical
+  scope:
+  - aetherhaven-volumes
+development:
+  status: working
+disclosure:
+  level: story-sensitive
+descriptor: Historical event
+provenance:
+  sources:
+  - kind: canonical-record
+    ref: Current canonical Markdown
+  - kind: manuscript
+    ref: Aetherhaven compiled manuscript where Markdown leaves gaps
+historical_event:
+  public_record_status: incomplete
+  restricted_record_status: incomplete
 ---
-
 # The Revision of the Society of Explorers Charter
 
 > **Historical-event record.** This file owns the objective event. It does not decide how Amelia learns the history or resolve mysteries not established by current canon.
@@ -113,3 +116,9 @@ Unknown.
 - What event forced the charter revision?
 - Did the Society expand into temporal work before or after the seal changed?
 - What formal or symbolic relationship exists with the Lamplighters?
+
+## Schema Migration Preservation Notes
+
+> These values were preserved verbatim from pre-Version-1 front matter because the migration could not safely convert them into a canonical-ID field without inventing or resolving canon.
+
+- **order_interest:** `unresolved`

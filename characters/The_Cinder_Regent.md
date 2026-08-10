@@ -1,21 +1,39 @@
 ---
-character_id: AH-CHAR-PLACEHOLDER-015
+schema_version: 1
+id: AH-CHAR-PLACEHOLDER-015
+record_type: character
 name: The Cinder Regent
-title: Unassigned ruler of the Cauldron
+slug: cinder-regent
 aliases:
-  - Cinder Regent
-series: The Brass Guardian / The Aetherhaven Chronicles
-canon_status: Source-grounded placeholder
-canonical_scope: Aetherhaven volumes
-last_updated: 2026-08-02
-primary_locations: []
-affiliations: []
-key_connections: []
-temporal_relevance: Unresolved
-source_basis:
-  - Current canonical Markdown
+- Cinder Regent
+last_updated: '2026-08-02'
+canon:
+  status: canonical
+  scope:
+  - aetherhaven-volumes
+development:
+  status: placeholder
+  temporal_relevance: unresolved
+disclosure:
+  level: story-sensitive
+provenance:
+  sources:
+  - kind: canonical-record
+    ref: Current canonical Markdown
+character:
+  titles:
+  - Unassigned ruler of the Cauldron
+public_projection:
+  title: The Cinder Regent
+  summary: The Cinder Regent is indexed as a restricted figure. Identity and fuller context remain sealed or withheld from the public catalog.
+  classification: teaser
+  archive_section: hidden
+  access_label: restricted
+  tags:
+  - character
+  - hidden-archive
+  related: []
 ---
-
 # The Cinder Regent
 
 > **Placeholder profile.** This file exists so references can resolve to one authoritative record. It records only what the cited source currently supports and does not supersede more developed canon elsewhere in the repository.

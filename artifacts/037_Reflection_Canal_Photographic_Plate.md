@@ -1,17 +1,28 @@
 ---
-artifact_id: AH-ART-037
-slate_number: 37
-name: "Reflection Canal Photographic Plate"
-category: "The Girl in the Reflection"
-canon_status: planned-artifact-concept
-image_status: image-needed
-last_updated: 2026-08-02
-related_markdown:
-  - "../characters/Chief_Inspector_Beatrice_Thorne.md"
-canonical_images:
-  - null
+schema_version: 1
+id: AH-ART-037
+record_type: artifact
+name: Reflection Canal Photographic Plate
+slug: reflection-canal-photographic-plate
+aliases: []
+last_updated: '2026-08-02'
+canon:
+  status: proposed
+  scope: []
+development:
+  status: concept
+disclosure:
+  level: creator-only
+artifact:
+  category: The Girl in the Reflection
+production:
+  slate_number: 37
+  image_status: image-needed
+relationships:
+- target: AH-CHAR-BEATRICE-THORNE
+  type: related-to
+  visibility: story-sensitive
 ---
-
 # Reflection Canal Photographic Plate
 
 > **Artifact Image Slate #37** · The Girl in the Reflection · [Artifact standard](../docs/standards/CANON_MARKDOWN_STANDARD.md)

@@ -1,25 +1,29 @@
 ---
-location_id: AH-LOC-PLACEHOLDER-029
+schema_version: 1
+id: AH-LOC-PLACEHOLDER-029
+record_type: location
 name: The Skyward Cliffs
-type: Placeholder location profile
+slug: the-skyward-cliffs
 aliases:
-  - Skyward Cliffs
-series: The Brass Guardian / The Aetherhaven Chronicles
-canon_status: Source-grounded placeholder
-canonical_scope: Aetherhaven volumes
-last_updated: 2026-08-02
-jurisdiction: []
-access_status: []
-map_reference_category: unlisted
-map_number: 
-parent_location: 
-primary_connections: []
-points_of_interest: []
-temporal_relevance: Unresolved
-source_basis:
-  - Aetherhaven v3.pdf
+- Skyward Cliffs
+last_updated: '2026-08-02'
+canon:
+  status: canonical
+  scope:
+  - aetherhaven-volumes
+development:
+  status: placeholder
+  temporal_relevance: unresolved
+disclosure:
+  level: story-sensitive
+provenance:
+  sources:
+  - kind: manuscript
+    ref: Aetherhaven v3.pdf
+cartography:
+- map_id: aetherhaven-city
+  category: unlisted
 ---
-
 # The Skyward Cliffs
 
 > **Placeholder profile.** This record provides a stable link target and preserves the source description until the location receives a complete profile.

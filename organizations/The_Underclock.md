@@ -1,33 +1,56 @@
 ---
-organization_id: AH-ORG-UNDERCLOCK
+schema_version: 1
+id: AH-ORG-UNDERCLOCK
+record_type: organization
 name: The Underclock
-type: Decentralized tunnel network, smuggling alliance, sanctuary system, and information exchange
+slug: underclock
 aliases:
-  - The Underclock Network
-  - Belowtime
-series: The Brass Guardian / The Aetherhaven Chronicles
-canon_status: Canonical working profile
-canonical_scope: Aetherhaven volumes
-last_updated: 2026-08-01
-primary_locations:
-  - Canal District service tunnels
-  - Old City passages
-  - The Cauldron
-  - Thirteenth Canal routes
-  - Forgotten maintenance corridors
-leadership:
-  - No confirmed central leader
-key_relationships:
-  - Tamsin Pike
-  - Captain Mara Voss
-  - The Brass Watch
-  - The Cauldron
-  - The Order of the Closed Eye
-  - The Ninth Guild
-  - The Unwound
-temporal_relevance: High
+- The Underclock Network
+- Belowtime
+last_updated: '2026-08-01'
+canon:
+  status: canonical
+  scope:
+  - aetherhaven-volumes
+development:
+  status: working
+  temporal_relevance: high
+disclosure:
+  level: story-sensitive
+descriptor: Decentralized tunnel network, smuggling alliance, sanctuary system, and information exchange
+public_projection:
+  title: The Underclock
+  summary: The Underclock has a restricted Archive reference. Identity, purpose, and fuller context remain sealed or withheld.
+  classification: teaser
+  archive_section: hidden
+  access_label: restricted
+  tags:
+  - organization
+  - hidden-archive
+  related: []
+relationships:
+- target: AH-CHAR-TAMSIN-PIKE
+  type: related-to
+  visibility: story-sensitive
+- target: AH-CHAR-MARA-VOSS
+  type: related-to
+  visibility: story-sensitive
+- target: AH-ORG-BRASS-WATCH
+  type: related-to
+  visibility: story-sensitive
+- target: AH-LOC-CAULDRON
+  type: related-to
+  visibility: story-sensitive
+- target: AH-ORG-CLOSED-EYE
+  type: related-to
+  visibility: story-sensitive
+- target: AH-ORG-NINTH-GUILD
+  type: related-to
+  visibility: story-sensitive
+- target: AH-ORG-UNWOUND
+  type: related-to
+  visibility: story-sensitive
 ---
-
 # The Underclock
 
 ## Canonical Summary
@@ -384,3 +407,10 @@ An Order Warden seals a route the Underclock has used for generations, claiming 
 8. Does the Order know the Underclock was manipulated?
 9. Which [Ninth Guild](The_Ninth_Guild.md) faction arranged the operation?
 10. Is an Order or Guild agent still embedded within the network?
+
+## Schema Migration Preservation Notes
+
+> These values were preserved verbatim from pre-Version-1 front matter because the migration could not safely convert them into a canonical-ID field without inventing or resolving canon.
+
+- **leadership:** `No confirmed central leader`
+- **primary_locations:** `["Canal District service tunnels","Old City passages","The Cauldron","Thirteenth Canal routes","Forgotten maintenance corridors"]`

@@ -1,17 +1,28 @@
 ---
-artifact_id: AH-ART-062
-slate_number: 62
-name: "Southern Docks Unclaimed Cargo Plate"
-category: "Background Lore and Transitional Artifacts"
-canon_status: planned-artifact-concept
-image_status: image-needed
-last_updated: 2026-08-02
-related_markdown:
-  - "../locations/The_Aerial_Docks.md"
-canonical_images:
-  - null
+schema_version: 1
+id: AH-ART-062
+record_type: artifact
+name: Southern Docks Unclaimed Cargo Plate
+slug: southern-docks-unclaimed-cargo-plate
+aliases: []
+last_updated: '2026-08-02'
+canon:
+  status: proposed
+  scope: []
+development:
+  status: concept
+disclosure:
+  level: creator-only
+artifact:
+  category: Background Lore and Transitional Artifacts
+production:
+  slate_number: 62
+  image_status: image-needed
+relationships:
+- target: AH-LOC-AERIAL-DOCKS
+  type: related-to
+  visibility: story-sensitive
 ---
-
 # Southern Docks Unclaimed Cargo Plate
 
 > **Artifact Image Slate #62** · Background Lore and Transitional Artifacts · [Artifact standard](../docs/standards/CANON_MARKDOWN_STANDARD.md)

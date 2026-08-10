@@ -1,18 +1,31 @@
 ---
-artifact_id: AH-ART-032
-slate_number: 32
-name: "Keeper Thirteen Witness Sketches"
-category: "The Bell Beneath the Clocktower"
-canon_status: planned-artifact-concept
-image_status: image-needed
-last_updated: 2026-08-02
-related_markdown:
-  - "../characters/Chief_Inspector_Beatrice_Thorne.md"
-  - "../organizations/The_Brass_Watch.md"
-canonical_images:
-  - null
+schema_version: 1
+id: AH-ART-032
+record_type: artifact
+name: Keeper Thirteen Witness Sketches
+slug: keeper-thirteen-witness-sketches
+aliases: []
+last_updated: '2026-08-02'
+canon:
+  status: proposed
+  scope: []
+development:
+  status: concept
+disclosure:
+  level: creator-only
+artifact:
+  category: The Bell Beneath the Clocktower
+production:
+  slate_number: 32
+  image_status: image-needed
+relationships:
+- target: AH-CHAR-BEATRICE-THORNE
+  type: related-to
+  visibility: story-sensitive
+- target: AH-ORG-BRASS-WATCH
+  type: related-to
+  visibility: story-sensitive
 ---
-
 # Keeper Thirteen Witness Sketches
 
 > **Artifact Image Slate #32** · The Bell Beneath the Clocktower · [Artifact standard](../docs/standards/CANON_MARKDOWN_STANDARD.md)
