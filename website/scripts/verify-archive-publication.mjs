@@ -1,24 +1,45 @@
 import { readFile, readdir, stat } from "node:fs/promises";
 import { fileURLToPath } from "node:url";
-import { join, relative, sep } from "node:path";
+import { join, relative, resolve, sep } from "node:path";
 
-import manifest from "../content/public/manifest.json" with { type: "json" };
-import presentation from "../content/public/archive-presentation.json" with { type: "json" };
-import release from "../content/public/archive-release.json" with { type: "json" };
+import publicationLedger from "../content/public/manifest.v2.json" with { type: "json" };
+import archivePresentation from "../content/public/archive-presentation.v2.json" with { type: "json" };
+import archiveRelease from "../content/public/archive-release.json" with { type: "json" };
+import assetRegistry from "../content/public/archive-assets.json" with { type: "json" };
+
 import {
-  approvedArchiveAssetFiles,
-  findInternalPublicationLeaks,
-  verifyArchiveAssetInventory,
-  verifyEmittedApprovedProjection,
-} from "./lib/archive-publication-verifier.mjs";
+  loadCanonRecords,
+  loadCanonRecordSources,
+} from "./lib/canon-record-loader.mjs";
+import { buildArchivePublicationV2 } from "./lib/archive-publication-v2-model.mjs";
+import {
+  approvedArchiveAssetFilesV2,
+  findInternalPublicationLeaksV2,
+  verifyArchiveAssetInventoryV2,
+  verifyEmittedArchiveProjectionV2,
+} from "./lib/archive-publication-verifier-v2.mjs";
 
 const root = fileURLToPath(new URL("../dist/", import.meta.url));
+const websiteRoot = fileURLToPath(new URL("../", import.meta.url));
+const repositoryRoot = resolve(websiteRoot, "..");
 const siteOrigin = "https://thebrassguardian.com";
 const failures = [];
 
 const expect = (condition, message) => {
   if (!condition) failures.push(message);
 };
+
+const records = await loadCanonRecords({ repositoryRoot });
+const sources = await loadCanonRecordSources({ repositoryRoot });
+const archive = await buildArchivePublicationV2({
+  records,
+  ledger: publicationLedger,
+  presentation: archivePresentation,
+  release: archiveRelease,
+  assetRegistry,
+  repositoryRoot,
+  preview: false,
+});
 
 const paths = (await readdir(root, { recursive: true, withFileTypes: true }))
   .filter((entry) => entry.isFile())
@@ -38,9 +59,15 @@ const recordPaths = archivePaths.filter(
   (path) => path.split("/").length === 4 && path.endsWith("/index.html"),
 );
 
+expect(records.length === 210, `Expected 210 Schema v1 canon records; found ${records.length}.`);
+expect(publicationLedger.entries.length === 95, `Expected 95 approved projection fingerprints; found ${publicationLedger.entries.length}.`);
 expect(htmlPaths.length === 72, `Production must emit 72 HTML pages; found ${htmlPaths.length}.`);
 expect(archivePaths.length === 70, `Production must emit 70 Archive pages; found ${archivePaths.length}.`);
 expect(recordPaths.length === 67, `Production must emit 67 public record routes; found ${recordPaths.length}.`);
+expect(archive.entries.length === 67, `Publication model must contain 67 public records; found ${archive.entries.length}.`);
+expect(archive.hiddenEntries.length === 28, `Publication model must contain 28 Hidden Archive teasers; found ${archive.hiddenEntries.length}.`);
+expect(archive.mapEntries.length + archive.hiddenMapEntries.length === 30, "Publication model must resolve all 30 canonical map references.");
+expect(archive.curatorRoute.length === 8, "Publication model must preserve all eight Curator Route steps.");
 
 for (const path of archivePaths) {
   const html = htmlByPath.get(path);
@@ -64,17 +91,7 @@ const archiveHtml = htmlByPath.get("archive/index.html") ?? "";
 const mapHtml = htmlByPath.get("archive/map/index.html") ?? "";
 const hiddenHtml = htmlByPath.get("archive/hidden/index.html") ?? "";
 
-// The emitted site remains the authoritative parity target during source-of-truth
-// realignment. This comparison intentionally uses the frozen C1 baseline rather
-// than importing Astro's virtual content module from raw Node.
-failures.push(
-  ...verifyEmittedApprovedProjection({
-    htmlByPath,
-    manifest,
-    presentation,
-    release,
-  }),
-);
+failures.push(...verifyEmittedArchiveProjectionV2({ htmlByPath, archive }));
 
 expect(
   homeHtml.includes("Enter Archive") && homeHtml.includes('href="/archive/"'),
@@ -89,21 +106,6 @@ expect(
     archiveHtml.includes("Enter with spoiler warning"),
   "Published Archive entrance must retain the warned Hidden Archives doorway.",
 );
-
-for (const marker of [
-  ...Array.from({ length: 24 }, (_, index) => String(index + 1)),
-  "A",
-  "B",
-  "C",
-  "D",
-  "E",
-  "F",
-]) {
-  expect(
-    mapHtml.includes(`data-map-marker="${marker}"`),
-    `Published map must expose linked region ${marker}.`,
-  );
-}
 expect(
   (mapHtml.match(/class="map-link-overlay"/gu) ?? []).length === 1 &&
     (mapHtml.match(/data-map-marker=/gu) ?? []).length === 30 &&
@@ -125,26 +127,7 @@ expect(
   "Published Hidden Archive drawers must remain closed by default.",
 );
 
-for (const mapEntry of presentation.mapEntries) {
-  expect(
-    mapHtml.includes(`data-map-marker="${mapEntry.mapMarker}"`) &&
-      mapHtml.includes(
-        `cx="${mapEntry.mapRegion.cx}" cy="${mapEntry.mapRegion.cy}" r="${mapEntry.mapRegion.r}"`,
-      ) &&
-      mapHtml.includes(
-        `x="${mapEntry.mapLabel.x}" y="${mapEntry.mapLabel.y}" width="${mapEntry.mapLabel.width}" height="${mapEntry.mapLabel.height}"`,
-      ),
-    `Published map geometry must match approved presentation ${mapEntry.mapMarker}.`,
-  );
-}
-for (const step of presentation.curatorRoute) {
-  expect(
-    archiveHtml.includes(step.label) && archiveHtml.includes(step.note),
-    `Published Curator Route must match approved annotation ${step.id}.`,
-  );
-}
-
-for (const asset of approvedArchiveAssetFiles) {
+for (const asset of approvedArchiveAssetFilesV2) {
   expect(
     await stat(join(root, "images", "archive", asset))
       .then((entry) => entry.isFile())
@@ -154,30 +137,46 @@ for (const asset of approvedArchiveAssetFiles) {
 }
 
 failures.push(
-  ...(await verifyArchiveAssetInventory({
+  ...(await verifyArchiveAssetInventoryV2({
     archiveAssetRoot: join(root, "images", "archive"),
   })),
 );
-failures.push(...(await findInternalPublicationLeaks({ outputRoot: root, manifest })));
+failures.push(
+  ...(await findInternalPublicationLeaksV2({
+    outputRoot: root,
+    canonicalSourcePaths: sources.map((source) => source.relativePath),
+  })),
+);
 
 const emittedHtml = [...htmlByPath.values()].join("\n");
-for (const privateField of ["sourcePaths", "publicationStatus", "approvedBy"]) {
+for (const privateField of [
+  "projectionHash",
+  "approvedBy",
+  "approvedOn",
+  "schema_version",
+  "public_projection",
+  "disclosure",
+]) {
   expect(
     !emittedHtml.includes(privateField),
-    `Published HTML must not expose manifest field ${privateField}.`,
+    `Published HTML must not expose internal publication field ${privateField}.`,
   );
 }
 
 const hrefPattern = /\shref="([^"]+)"/gu;
 for (const [sourcePath, html] of htmlByPath) {
   for (const [, href] of html.matchAll(hrefPattern)) {
-    const url = new URL(href, `${siteOrigin}/${sourcePath.replace(/index\.html$/u, "")}`);
+    const url = new URL(
+      href,
+      `${siteOrigin}/${sourcePath.replace(/index\.html$/u, "")}`,
+    );
     if (url.origin !== siteOrigin) continue;
     if (/\.[a-z0-9]+$/iu.test(url.pathname)) continue;
 
-    const targetPath = url.pathname === "/"
-      ? "index.html"
-      : `${url.pathname.replace(/^\//u, "").replace(/\/$/u, "")}/index.html`;
+    const targetPath =
+      url.pathname === "/"
+        ? "index.html"
+        : `${url.pathname.replace(/^\//u, "").replace(/\/$/u, "")}/index.html`;
     const targetHtml = htmlByPath.get(targetPath);
     expect(Boolean(targetHtml), `${sourcePath} links to missing route ${url.pathname}.`);
     if (targetHtml && url.hash) {
@@ -197,5 +196,5 @@ if (failures.length > 0) {
 }
 
 console.log(
-  "Archive publication verification passed: 72 pages, 67 public records, 30 map links, 28 closed Hidden Archive teasers, canonical/indexable routes, exact C1 emitted projection, approved assets, and valid internal links.",
+  "Archive publication verification passed: 210 Schema v1 records, 95 hash-approved projections, 72 pages, 67 public records, 30 canonical map links, 28 closed Hidden Archive teasers, exact emitted projection, approved assets, and valid internal links.",
 );
