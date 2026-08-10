@@ -57,6 +57,10 @@ relationships:
 - target: AH-LOC-PLACEHOLDER-050
   type: connected-to
   visibility: story-sensitive
+cartography:
+- map_id: aetherhaven-city
+  category: restricted
+  reference: E
 ---
 # The Cauldron
 
