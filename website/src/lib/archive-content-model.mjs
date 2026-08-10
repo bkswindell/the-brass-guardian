@@ -100,7 +100,7 @@ export const normalizeProjectionFingerprint = (
       ? {
           assetId: asset.id,
           alt: imageAlt,
-          sourceSha256,
+          sourceSha256: sourceAssetSha256,
         }
       : null,
   };
