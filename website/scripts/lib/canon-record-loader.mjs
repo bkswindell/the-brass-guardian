@@ -1,5 +1,5 @@
 import { readdir, readFile } from "node:fs/promises";
-import { resolve } from "node:path";
+import { relative, resolve, sep } from "node:path";
 
 import { JSON_SCHEMA, load as parseYaml } from "js-yaml";
 
@@ -28,8 +28,8 @@ export const parseCanonFrontmatter = (source, path = "canonical Markdown") => {
   return parsed;
 };
 
-export const loadCanonRecords = async ({ repositoryRoot }) => {
-  const records = [];
+export const loadCanonRecordSources = async ({ repositoryRoot }) => {
+  const sources = [];
   for (const directory of canonicalRecordRoots) {
     const directoryPath = resolve(repositoryRoot, directory);
     const entries = await readdir(directoryPath, { withFileTypes: true });
@@ -38,9 +38,24 @@ export const loadCanonRecords = async ({ repositoryRoot }) => {
         continue;
       }
       const path = resolve(directoryPath, entry.name);
-      const record = parseCanonFrontmatter(await readFile(path, "utf8"), path);
-      records.push(record);
+      sources.push({
+        path,
+        relativePath: relative(repositoryRoot, path).split(sep).join("/"),
+      });
     }
+  }
+  return sources;
+};
+
+export const loadCanonRecords = async ({ repositoryRoot }) => {
+  const sources = await loadCanonRecordSources({ repositoryRoot });
+  const records = [];
+  for (const source of sources) {
+    const record = parseCanonFrontmatter(
+      await readFile(source.path, "utf8"),
+      source.path,
+    );
+    records.push(record);
   }
   validateCanonRecords(records);
   return records;
