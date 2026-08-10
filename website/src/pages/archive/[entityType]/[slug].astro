@@ -28,15 +28,9 @@ const nextStep =
 const description = entry.publicSummary;
 const entryHref = (related) =>
   `/archive/${related.entityType}/${related.slug}/`;
-
-const responsiveSources = {
-  "location-aetherhaven":
-    "/images/archive/map-of-aetherhaven-768.webp 768w, /images/archive/map-of-aetherhaven-1152.webp 1152w, /images/archive/map-of-aetherhaven-1539.webp 1539w",
-  "location-clockwork-gardens":
-    "/images/archive/clockwork-gardens-at-night-480.webp 480w, /images/archive/clockwork-gardens-at-night-767.webp 767w",
-  "vessel-wayfinder":
-    "/images/archive/wayfinder-above-clouds-640.webp 640w, /images/archive/wayfinder-above-clouds-1024.webp 1024w",
-};
+const responsiveSrcset = entry.image?.sources?.length
+  ? entry.image.sources.map((source) => `${source.src} ${source.width}w`).join(", ")
+  : undefined;
 ---
 
 <ArchiveLayout
@@ -62,7 +56,7 @@ const responsiveSources = {
     <span aria-current="page">{entry.publicTitle}</span>
   </nav>
 
-  <article class:list={["record-sheet", { "has-image": entry.image }]}>
+  <article class:list={["record-sheet", { "has-image": entry.image }]}> 
     <header class="record-header">
       <p class="record-accession">
         <span>{entry.entityType}</span>
@@ -78,11 +72,11 @@ const responsiveSources = {
 
     {
       entry.image && (
-        <figure class:list={["record-image", `image-${entry.id}`]}>
+        <figure class:list={["record-image", `image-${entry.slug}`]}>
           <picture>
-            {responsiveSources[entry.id] && (
+            {responsiveSrcset && (
               <source
-                srcset={responsiveSources[entry.id]}
+                srcset={responsiveSrcset}
                 sizes="(max-width: 66rem) 92vw, 39rem"
                 type="image/webp"
               />
@@ -299,7 +293,7 @@ const responsiveSources = {
     object-fit: contain;
   }
 
-  .record-image.image-location-aetherhaven picture {
+  .record-image.image-aetherhaven picture {
     padding: 0.6rem;
   }
 

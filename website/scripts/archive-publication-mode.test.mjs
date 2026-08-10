@@ -15,9 +15,9 @@ const v2SourceUrl = new URL(
   "../src/lib/archive-publication-v2.mjs",
   import.meta.url,
 );
-const ledgerUrl = new URL("../content/public/manifest.v2.json", import.meta.url);
+const ledgerUrl = new URL("../content/public/manifest.json", import.meta.url);
 const presentationUrl = new URL(
-  "../content/public/archive-presentation.v2.json",
+  "../content/public/archive-presentation.json",
   import.meta.url,
 );
 const releaseUrl = new URL(
@@ -43,7 +43,7 @@ test("Archive facade routes through Schema v1/v2 without raw Preview catalogs", 
   assert.match(v2, /projectionFingerprintForRecord/u);
 });
 
-test("Version 2 approval ledger contains the exact 95-record C1 approval set", async () => {
+test("active Version 2 approval ledger contains the exact 95-record C1 approval set", async () => {
   const ledger = validatePublicationLedgerV2(await readJson(ledgerUrl));
   assert.equal(ledger.entries.length, 95);
   assert.equal(new Set(ledger.entries.map((entry) => entry.id)).size, 95);
@@ -56,7 +56,7 @@ test("Version 2 approval ledger contains the exact 95-record C1 approval set", a
   );
 });
 
-test("Version 2 presentation keeps 30 map geometries and eight Curator Route steps", async () => {
+test("active Version 2 presentation keeps 30 map geometries and eight Curator Route steps", async () => {
   const presentation = validateArchivePresentationV2(
     await readJson(presentationUrl),
   );

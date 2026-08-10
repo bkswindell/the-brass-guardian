@@ -1,9 +1,8 @@
-import { readFile } from "node:fs/promises";
 import { dirname, resolve } from "node:path";
 import { fileURLToPath } from "node:url";
 
-import publicationLedger from "../content/public/manifest.v2.json" with { type: "json" };
-import archivePresentation from "../content/public/archive-presentation.v2.json" with { type: "json" };
+import publicationLedger from "../content/public/manifest.json" with { type: "json" };
+import archivePresentation from "../content/public/archive-presentation.json" with { type: "json" };
 import archiveRelease from "../content/public/archive-release.json" with { type: "json" };
 import assetRegistry from "../content/public/archive-assets.json" with { type: "json" };
 

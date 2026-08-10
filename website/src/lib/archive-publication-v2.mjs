@@ -2,9 +2,9 @@ import { resolve } from "node:path";
 
 import { getCollection } from "astro:content";
 
-import publicationLedger from "../../content/public/manifest.v2.json" with { type: "json" };
+import publicationLedger from "../../content/public/manifest.json" with { type: "json" };
 import archiveRelease from "../../content/public/archive-release.json" with { type: "json" };
-import archivePresentation from "../../content/public/archive-presentation.v2.json" with { type: "json" };
+import archivePresentation from "../../content/public/archive-presentation.json" with { type: "json" };
 import assetRegistry from "../../content/public/archive-assets.json" with { type: "json" };
 
 import { validateCanonRecords } from "../../scripts/lib/canon-schema-v1.mjs";
