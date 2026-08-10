@@ -84,4 +84,4 @@ These are directional, not yet a locked sitemap.
 
 ### Next Recommended Step
 
-Commit and refresh the author-approved `feat/world-entrance-map` Vercel Preview for final C1 review. Keep its map, copy, classifications, and images labeled as proposals until the author approves the final production projection; then move only the accepted records through the approved public manifest and merge gate. Milestone C2 remains pending until C1 review is complete.
+Review the refreshed C1 branch Preview at `https://the-brass-guardian-git-feat-world-e-d63112-bkswindells-projects.vercel.app/`. Keep its map, copy, classifications, and images labeled as proposals until the author approves the final production projection; then move only the accepted records through the approved public manifest and merge gate. Milestone C2 remains pending until C1 review is complete.
