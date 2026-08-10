@@ -1,113 +1,127 @@
-name: Build Historical Event Library
+name: Validate Canon Library
 
 on:
   workflow_dispatch:
   pull_request:
     paths:
+      - characters/**
+      - locations/**
+      - organizations/**
+      - artifacts/**
+      - vessels/**
+      - historical_events/**
       - story_drafts/**
+      - story_arcs/**
       - media_reactions/**
-      - scripts/build_historical_event_library.py
-      - scripts/finalize_historical_event_migration.py
-      - scripts/normalize_historical_event_output.py
-      - scripts/refine_orin_amelia_watchmans_regret.py
-      - scripts/finalize_hawthorne_core_profiles.py
-      - scripts/build_vital_mechanics_placeholder.py
-      - scripts/refine_vital_mechanics_moral_ambiguity.py
-      - scripts/rename_mended_hand.py
-      - scripts/clarify_order_shorthand.py
-      - scripts/polish_order_shorthand_grammar.py
-      - scripts/integrate_canonical_story_drafts.py
-      - scripts/add_story_draft_artwork.py
-      - scripts/integrate_media_reactions.py
-      - scripts/polish_media_reaction_formatting.py
+      - templates/**
+      - docs/standards/AETHERHAVEN_CONTENT_SCHEMA.md
+      - docs/standards/CANON_MARKDOWN_STANDARD.md
+      - website/scripts/lib/canon-schema-v1.mjs
+      - website/scripts/canon-schema-v1.test.mjs
+      - website/scripts/canon-schema-v1-templates.test.mjs
       - scripts/verify_media_reaction_markdown.py
       - .github/workflows/build-historical-event-library.yml
 
 permissions:
-  contents: write
+  contents: read
 
 concurrency:
-  group: historical-events-${{ github.event.pull_request.number || github.ref }}
+  group: canon-validation-${{ github.event.pull_request.number || github.ref }}
   cancel-in-progress: true
 
 jobs:
-  build-history:
-    if: github.actor != 'github-actions[bot]'
+  validate-canon:
     runs-on: ubuntu-latest
     steps:
-      - name: Check out pull-request branch
+      - name: Check out proposed canon
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
           ref: ${{ github.event.pull_request.head.ref || github.ref_name }}
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22.14.0'
 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.12'
 
-      - name: Build historical event library
+      - name: Parse all canonical Markdown front matter
         run: |
-          python scripts/build_historical_event_library.py
-          python scripts/normalize_historical_event_output.py
-          python scripts/finalize_historical_event_migration.py
-          python scripts/refine_orin_amelia_watchmans_regret.py
-          python scripts/finalize_hawthorne_core_profiles.py
-          python scripts/build_vital_mechanics_placeholder.py
-          python scripts/refine_vital_mechanics_moral_ambiguity.py
-          python scripts/rename_mended_hand.py
-          python scripts/clarify_order_shorthand.py
-          python scripts/polish_order_shorthand_grammar.py
-          python scripts/integrate_canonical_story_drafts.py
-          python scripts/add_story_draft_artwork.py
-          python scripts/integrate_media_reactions.py
-          python scripts/polish_media_reaction_formatting.py
+          ruby <<'RUBY'
+          require 'yaml'
+          require 'json'
+          require 'date'
 
-      - name: Refresh development TODO
-        run: |
-          python scripts/build_canon_development_todo.py
-          python scripts/link_canon_development_todo.py
+          roots = %w[characters locations organizations artifacts vessels historical_events story_drafts story_arcs]
+          records = []
+          failures = []
 
-      - name: Verify deterministic output
-        shell: bash
+          roots.each do |root|
+            next unless Dir.exist?(root)
+            Dir.glob("#{root}/*.md").sort.each do |path|
+              next if File.basename(path) == 'README.md'
+              text = File.read(path, encoding: 'UTF-8')
+              match = text.match(/\A---\s*\n(.*?)\n---\s*\n/m)
+              unless match
+                failures << "#{path}: missing YAML front matter"
+                next
+              end
+
+              begin
+                meta = YAML.safe_load(match[1], permitted_classes: [Date, Time, DateTime], aliases: false)
+              rescue Psych::SyntaxError => error
+                failures << "#{path}: invalid YAML: #{error.message.lines.first.strip}"
+                next
+              end
+
+              unless meta.is_a?(Hash) && meta['schema_version'] == 1
+                failures << "#{path}: canonical record is not migrated to schema_version: 1"
+                next
+              end
+              records << meta
+            end
+          end
+
+          unless failures.empty?
+            warn failures.join("\n")
+            exit 1
+          end
+
+          File.write('/tmp/canon-schema-v1-records.json', JSON.pretty_generate(records) + "\n")
+          puts "Parsed #{records.length} Version 1 canonical records."
+          RUBY
+
+      - name: Validate complete canonical record graph
         run: |
-          find . -type f -name '*.md' -not -path './.git/*' -not -path './unused/*' -print0 \
-            | sort -z | xargs -0 sha256sum > /tmp/history-before.sha256
-          python scripts/build_historical_event_library.py
-          python scripts/normalize_historical_event_output.py
-          python scripts/finalize_historical_event_migration.py
-          python scripts/refine_orin_amelia_watchmans_regret.py
-          python scripts/finalize_hawthorne_core_profiles.py
-          python scripts/build_vital_mechanics_placeholder.py
-          python scripts/refine_vital_mechanics_moral_ambiguity.py
-          python scripts/rename_mended_hand.py
-          python scripts/clarify_order_shorthand.py
-          python scripts/polish_order_shorthand_grammar.py
-          python scripts/integrate_canonical_story_drafts.py
-          python scripts/add_story_draft_artwork.py
-          python scripts/integrate_media_reactions.py
-          python scripts/polish_media_reaction_formatting.py
-          python scripts/build_canon_development_todo.py
-          python scripts/link_canon_development_todo.py
-          find . -type f -name '*.md' -not -path './.git/*' -not -path './unused/*' -print0 \
-            | sort -z | xargs -0 sha256sum > /tmp/history-after.sha256
-          diff -u /tmp/history-before.sha256 /tmp/history-after.sha256
+          node --input-type=module <<'NODE'
+          import { readFileSync } from 'node:fs';
+          import { validateCanonRecords } from './website/scripts/lib/canon-schema-v1.mjs';
+          const records = JSON.parse(readFileSync('/tmp/canon-schema-v1-records.json', 'utf8'));
+          validateCanonRecords(records);
+          console.log(`Validated ${records.length} canonical records against locked Schema Version 1.`);
+          NODE
+
+      - name: Run schema and template regression tests
+        run: |
+          node --test \
+            website/scripts/canon-schema-v1.test.mjs \
+            website/scripts/canon-schema-v1-templates.test.mjs
+
+      - name: Verify immutable public-reaction formatting
+        run: python scripts/verify_media_reaction_markdown.py
 
       - name: Verify Markdown patch
-        shell: bash
-        run: |
-          git diff --check -- . ':(exclude)media_reactions/*.md'
-          python scripts/verify_media_reaction_markdown.py
+        run: git diff --check -- . ':(exclude)media_reactions/*.md'
 
-      - name: Commit generated canon
-        shell: bash
+      - name: Confirm validation is read-only
         run: |
-          if [ -z "$(git status --porcelain)" ]; then
-            echo "Historical event library is current."
-            exit 0
+          if [ -n "$(git status --porcelain)" ]; then
+            echo 'Canon validation modified the checkout; validation workflows must be read-only.' >&2
+            git status --short
+            exit 1
           fi
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -- '*.md' '**/*.md' scripts/*.py
-          git commit -m "Refresh public reaction source hashes"
-          git push origin HEAD:${{ github.event.pull_request.head.ref || github.ref_name }}
+          echo 'Canon validation completed without modifying repository content.'
