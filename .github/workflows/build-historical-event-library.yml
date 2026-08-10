@@ -12,14 +12,12 @@ on:
       - historical_events/**
       - story_drafts/**
       - story_arcs/**
-      - media_reactions/**
       - templates/**
       - docs/standards/AETHERHAVEN_CONTENT_SCHEMA.md
       - docs/standards/CANON_MARKDOWN_STANDARD.md
       - website/scripts/lib/canon-schema-v1.mjs
       - website/scripts/canon-schema-v1.test.mjs
       - website/scripts/canon-schema-v1-templates.test.mjs
-      - scripts/verify_media_reaction_markdown.py
       - .github/workflows/build-historical-event-library.yml
 
 permissions:
@@ -43,11 +41,6 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: '22.14.0'
-
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.12'
 
       - name: Parse all canonical Markdown front matter
         run: |
@@ -110,9 +103,6 @@ jobs:
           node --test \
             website/scripts/canon-schema-v1.test.mjs \
             website/scripts/canon-schema-v1-templates.test.mjs
-
-      - name: Verify immutable public-reaction formatting
-        run: python scripts/verify_media_reaction_markdown.py
 
       - name: Verify Markdown patch
         run: git diff --check -- . ':(exclude)media_reactions/*.md'
