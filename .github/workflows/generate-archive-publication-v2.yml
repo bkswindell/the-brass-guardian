@@ -23,20 +23,24 @@ jobs:
           ref: website/schema-v1-content-source
           fetch-depth: 0
 
+      - name: Repair canonical cartography from exact approved C1 map
+        run: ruby scripts/migrations/repair_c1_cartography.rb
+
       - name: Generate approval ledger and presentation candidates
         run: ruby scripts/migrations/generate_archive_publication_v2.rb
 
-      - name: Commit generated candidate files
+      - name: Commit generated candidate files and cartography repairs
         run: |
           git config user.name 'Aetherhaven Publication Migration'
           git config user.email 'actions@users.noreply.github.com'
           git add \
+            locations \
             website/content/public/manifest.v2.json \
             website/content/public/archive-presentation.v2.json \
             docs/development/AETHERHAVEN_ARCHIVE_PUBLICATION_V2_GENERATION.md
           if git diff --cached --quiet; then
-            echo 'Publication v2 candidates are current.'
+            echo 'Publication v2 candidates and canonical C1 cartography are current.'
             exit 0
           fi
-          git commit -m 'migrate(website): generate Archive publication v2 candidates'
+          git commit -m 'migrate(website): align C1 cartography and publication v2 candidates'
           git push origin HEAD:website/schema-v1-content-source
