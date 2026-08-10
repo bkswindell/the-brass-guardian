@@ -8,18 +8,20 @@ This standard keeps *The Brass Guardian* repository interconnected, visually gro
 
 Structured front matter and machine-readable canon are governed by [AETHERHAVEN_CONTENT_SCHEMA.md](AETHERHAVEN_CONTENT_SCHEMA.md).
 
-The content schema is currently in design phase. Its Version 1 field dictionary has **not** yet been frozen, but its schema-change governance is active.
+**Aetherhaven Content Schema Version `1.0.0` is LOCKED and author-approved.** It is now the authoritative structured-content contract.
 
-Until Version 1 is explicitly author-approved and marked **LOCKED**:
+Rules:
 
-- preserve the current valid front matter on existing canon files;
-- do not begin a repository-wide metadata rewrite;
-- do not invent new global metadata conventions merely to satisfy one website component;
-- do not duplicate canonical content into website code as a permanent source;
-- use adapters or presentation configuration for temporary consumer-specific needs;
-- record proposed schema changes using [Aetherhaven_Schema_Change_Proposal.md](../../templates/Aetherhaven_Schema_Change_Proposal.md) rather than silently changing the contract.
+- new canonical records must use the Version 1 structure defined by the schema and the current templates;
+- existing legacy front matter remains valid only until the controlled Version 1 migration reaches that record;
+- do not introduce new global metadata conventions outside the locked schema;
+- do not duplicate canonical/public-projection content into website code as a permanent source;
+- keep presentation configuration and derived output outside canon metadata;
+- publication approval remains separate from a record's `public_projection`;
+- any material schema change must use [Aetherhaven_Schema_Change_Proposal.md](../../templates/Aetherhaven_Schema_Change_Proposal.md) and receive explicit author approval before implementation;
+- before bulk migration, executable validators and templates must match the locked contract and representative pressure tests must pass.
 
-Once Version 1 is locked, the schema document becomes the authoritative contract for structured metadata, while this standard continues to govern Markdown organization, visual evidence, cross-linking, duplication, and editorial practices.
+This standard continues to govern Markdown organization, visual evidence, cross-linking, duplication, and editorial practices while the schema governs structured metadata.
 
 ## Historical-Event Records
 
@@ -45,7 +47,6 @@ Every historical event ends with an **Archival Status** section containing:
 
 - Public Record,
 - Restricted Record,
-- Order Interest,
 - Primary Sources,
 - and Outstanding Historical Questions.
 
@@ -62,35 +63,48 @@ Artifacts should link to relevant historical events through a **Related Historic
 
 ## Required Structure
 
-Every canonical Markdown file should contain:
+After migration to Version 1, every schema-governed canonical Markdown record must contain the universal fields required by `AETHERHAVEN_CONTENT_SCHEMA.md`, including:
 
-- YAML front matter with a stable ID, canon status, last-updated date, related Markdown paths, and image paths.
-- A concise canonical summary.
-- A **Visual Reference** section using active compiled art when available.
-- Direct relative hyperlinks whenever another character, location, organization, artifact, historical event, or story arc is named as a meaningful relationship.
-- A **Continuity Notes** section defining what the file owns and what belongs in linked files.
-- A **TODO / Production Checklist** using Markdown checkboxes.
-- Open questions or intentionally unresolved canon where appropriate.
+- `schema_version: 1`;
+- one stable canonical `id`;
+- one canonical `record_type`;
+- canonical `name`, durable `slug`, aliases, and real `last_updated` date;
+- separate `canon`, `development`, and `disclosure` objects;
+- type-specific extensions only where permitted by the locked schema;
+- canonical-ID `relationships` for machine links when target records exist;
+- structured active `assets` rather than legacy image lists;
+- `cartography` and `chronology` when applicable;
+- an optional `public_projection` only when reader-safe content has been deliberately prepared.
 
-These requirements describe the current repository baseline. The final Version 1 schema may normalize the exact front-matter shape after the required website/content audit and author approval.
+The Markdown body should continue to contain:
+
+- a concise canonical summary;
+- a **Visual Reference** section when visual canon exists;
+- direct relative hyperlinks for human GitHub navigation;
+- a **Continuity Notes** section defining what the file owns;
+- a **TODO / Production Checklist**;
+- open questions or intentionally unresolved canon where appropriate.
+
+Do not mechanically rewrite narrative prose merely to normalize metadata.
 
 ## Visual Requirements by File Type
 
 ### Locations
 
 - Include a callout to the [Map of Aetherhaven](../../art/Map_of_Aetherhaven.png) when the location appears on the city map.
-- Include at least one canonical image of the location when available.
+- Include at least one active approved location asset when available.
 - Until location art exists, include a checked or unchecked TODO rather than using substitute or unused art.
+- Store the in-world map reference in `cartography`; website pixel geometry remains presentation data.
 
 ### Characters
 
-- Include a canonical portrait, photograph, silhouette, or clearly identified visual reference when available.
+- Include an approved portrait, photograph, silhouette, or clearly identified visual reference when available.
 - Do not use a group image as a permanent substitute unless the character is clearly identifiable and the file says it is a temporary reference.
 
 ### Organizations
 
-- Include a crest, seal, badge, document, artifact, uniform element, headquarters image, or other relevant visual asset.
-- Link to the authoritative artifact file for the asset rather than repeating its full history.
+- Include an approved crest, seal, badge, document, artifact, uniform element, headquarters image, or other relevant visual asset when available.
+- Link to the authoritative artifact file for an artifact rather than repeating its full history.
 
 ### Artifacts
 
@@ -106,29 +120,32 @@ These requirements describe the current repository baseline. The final Version 1
 ### Historical Events
 
 - Link the event's public and restricted evidence, involved profiles, related story arcs, and authoritative artifact records.
-- Include a canonical historical illustration, evidence collage, photograph, document, map, or artifact set when one exists.
+- Include an approved historical illustration, evidence collage, photograph, document, map, or artifact set when one exists.
 - Do not depict an unresolved witness account, mediator identity, chronology, or disputed action as settled fact.
 - Treat the historical-event file as the authoritative owner of the event chronology.
 
-#### Story Drafts
+### Story Drafts
 
-- Story prose belongs in `story_drafts/`; long-range plotting and reveal planning belong in `story_arcs/`.
-- A file marked **Canonical story draft** is authoritative for its character relationships, events, emotional truth, and explicitly stated continuity even while the title and wording remain under revision.
-- Preserve the current full prose before making structural revisions.
+- Story prose belongs in `story_drafts/` during the initial migration; long-range plotting and reveal planning belong in `story_arcs/`.
+- Schema Version 1 uses `record_type: story` for canonical story drafts.
+- A canonical story draft may have working wording/title/placement while retaining `canon.status: canonical`; development state and canon authority are separate.
+- Preserve the current full prose before structural revisions.
 - Separate exact draft text from editorial notes, continuity notes, placement options, and unresolved terminology.
-- Working titles may change without changing the story's canonical status.
+- Working titles may change without changing the story's canonical authority.
 - Do not treat every fairy-tale explanation, metaphor, remembered detail, or narrator simplification as settled technical lore when the draft explicitly preserves that ambiguity.
 - Opening stories should avoid premature exposition when their purpose is to establish present-day character attachment, wonder, domestic life, or tone.
-- Link the draft to the character, location, artifact, historical-event, and story-arc records that own its deeper continuity.
+- Link the draft to the records that own deeper character, location, vessel, artifact, event, and story-arc continuity.
 
 ## Story Arcs
 
-- Link to the involved characters, organizations, locations, and artifacts.
-- Use a representative canonical image only when it does not spoil more than the arc file already reveals.
+- Use `record_type: story_arc`.
+- Link involved characters, organizations, locations, vessels, artifacts, events, and stories through canonical-ID relationships where records exist.
+- Use a representative approved asset only when it does not spoil more than the arc file already reveals.
+- Delayed-reveal/hidden status belongs in `disclosure`, not canon authority or record type.
 
 ## Public Reaction Records
 
-Files in `media_reactions/` are non-canonical development evidence.
+Files in `media_reactions/` are non-canonical development evidence and are outside the Version 1 canonical-record roots.
 
 - Preserve source transcripts, articles, blogs, and reviews exactly between `<!-- SOURCE CONTENT START: IMMUTABLE PUBLIC REACTION -->` and `<!-- SOURCE CONTENT END: IMMUTABLE PUBLIC REACTION -->`.
 - Store a SHA-256 checksum for each immutable source block.
@@ -155,22 +172,25 @@ On first meaningful reference in a file or scene, use the appropriate full forma
 
 Whenever a Markdown file makes a meaningful named reference to another documented entity, use a relative Markdown link on the first important occurrence in that section. Repeated links in every sentence are unnecessary.
 
-Use an artifact file as the authoritative source for an object or image. Use character, location, organization, historical-event, and arc files as the authoritative sources for their broader subjects.
+Relative Markdown links serve humans reading GitHub. Version 1 `relationships` use stable canonical IDs for machine-readable structure. Keep both where useful; they serve different purposes.
+
+Use an artifact file as the authoritative source for an object or image. Use character, location, organization, vessel, historical-event, story, and story-arc files as the authoritative sources for their broader subjects.
 
 ## Duplication Rule
 
 Summarize and link; do not copy full sections between files. A local file may contain the facts necessary to understand its own subject, but detailed history should live only in the profile that owns that history.
 
-The same principle applies to downstream consumers: website code, manifests, indexes, and generated data should not become permanent second owners of canonical prose or relationships when that information has an owning Markdown record.
+The same principle applies to downstream consumers: website code, approval ledgers, presentation manifests, indexes, and generated data must not become permanent second owners of canonical prose or relationships.
 
 ## AI-Agent Optimization
 
 - Prefer explicit names over pronouns in summaries and relationship lists.
-- Use stable IDs and relative paths in YAML.
-- Separate established canon, staged revelations, proposed concepts, and open questions.
-- Never allow a TODO, theory, or original slate recommendation to appear indistinguishable from confirmed canon.
+- Use stable canonical IDs in structured relationships and relative Markdown paths for human links.
+- Separate canon authority, development maturity, disclosure sensitivity, public projection, and publication approval.
+- Never allow a TODO, theory, or recommendation to appear indistinguishable from confirmed canon.
 - Keep headings predictable across files.
-- Follow `AETHERHAVEN_CONTENT_SCHEMA.md` for structured metadata and schema-change governance.
+- Follow `AETHERHAVEN_CONTENT_SCHEMA.md` for all structured metadata and schema-change governance.
+- When a new content need does not fit Version 1, use the schema-change process rather than inventing a field locally.
 
 ## Repository Migration Checklist
 
@@ -180,10 +200,15 @@ The same principle applies to downstream consumers: website code, manifests, ind
 - [x] Transcribe and fully describe every completed active artifact plate currently available.
 - [x] Create the historical-event template and `historical_events/` index.
 - [x] Separate objective historical events from story arcs that reveal or revisit them.
-- [ ] Complete and approve Aetherhaven Content Schema Version 1 before repository-wide metadata normalization.
-- [ ] Add visual-reference sections to every existing character profile.
-- [ ] Add map and location-art sections to every existing location profile.
-- [ ] Add crest, seal, or representative-art sections to every existing organization profile.
-- [ ] Add representative art and complete cross-links to every story-arc profile.
-- [ ] Add backlinks from existing profiles to all directly referenced artifact files.
+- [x] Complete, approve, and lock Aetherhaven Content Schema Version `1.0.0`.
+- [x] Add Version 1 story and vessel templates.
+- [x] Align existing reusable profile templates with Version 1.
+- [ ] Complete executable validator pressure tests before bulk migration.
+- [ ] Migrate active canonical profile front matter to Version 1.
+- [ ] Create the first-class Wayfinder vessel record from already-approved canon.
+- [ ] Realign Astro/publication ingestion after migrated Markdown validates and C1 parity can be proven.
+- [ ] Add visual-reference sections to every existing character profile where needed.
+- [ ] Add map and location-art sections to every existing location profile where needed.
+- [ ] Add crest, seal, or representative-art sections to every existing organization profile where needed.
+- [ ] Add representative art and complete cross-links to every story-arc profile where useful.
 - [ ] Review the repository periodically for broken links and duplicated canon text.
