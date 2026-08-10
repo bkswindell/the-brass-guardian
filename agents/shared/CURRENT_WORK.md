@@ -85,3 +85,31 @@ These are directional, not yet a locked sitemap.
 ### Next Recommended Step
 
 Begin Milestone C2 with the Amelia and Elias Core Introduction slice. Keep C1 map copy, classifications, Hidden Archives, and Archive images labeled as proposals until the author approves the final production projection; move only exact accepted records through the approved public manifest and publication gate.
+
+## Parallel Architecture Work — Aetherhaven Content Schema
+
+**Branch:** `content/archive-source-of-truth`  
+**Branch status:** **ACTIVE / DO NOT MERGE WHILE HERMES WEBSITE PASS IS STILL MOVING**
+
+The author approved establishing schema governance before the final website/content audit is complete.
+
+Current staged work on this branch:
+
+- `docs/standards/AETHERHAVEN_CONTENT_SCHEMA.md` created as Version `0.1.0`, with governance active but the field dictionary intentionally unfrozen;
+- `/templates/Aetherhaven_Schema_Change_Proposal.md` created for future controlled schema changes;
+- `AGENTS.md`, the canon Markdown standard, and Hermes instructions updated to require schema-change control;
+- no canonical profile metadata has been migrated;
+- no website code has been realigned on this branch.
+
+The purpose is to establish guardrails now without racing Hermes' active website implementation.
+
+After Hermes completes the current website pass:
+
+1. refresh/reconcile this branch against current `main`;
+2. audit the final Astro implementation, manifest/publication boundary, catalog data, map data, route generation, assets, and content consumers;
+3. complete the Version 1 data dictionary;
+4. pressure-test representative record families;
+5. obtain explicit author approval to mark Version `1.0.0` **LOCKED**;
+6. only then begin the repository-wide canonical Markdown metadata migration.
+
+The final source-of-truth migration must preserve the existing approved site layout and user experience unless the author separately requests a design change.
