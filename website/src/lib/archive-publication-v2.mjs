@@ -1,6 +1,5 @@
 import { createHash } from "node:crypto";
 import { readFile } from "node:fs/promises";
-import { fileURLToPath } from "node:url";
 import { resolve } from "node:path";
 
 import { getCollection } from "astro:content";
@@ -16,14 +15,13 @@ import { validatePublicationLedgerV2 } from "../../scripts/lib/publication-bound
 import { validateArchivePresentationV2 } from "../../scripts/lib/archive-presentation-v2.mjs";
 import {
   archiveEntryHref,
-  getAetherhavenMapReference,
   normalizeProjectionFingerprint,
   projectionHash,
   selectedProjectionAsset,
   toArchiveEntry,
 } from "./archive-content-model.mjs";
 
-const repositoryRoot = fileURLToPath(new URL("../../../", import.meta.url));
+const repositoryRoot = resolve(process.cwd(), "..");
 const expectedMapMarkers = [
   ...Array.from({ length: 24 }, (_, index) => String(index + 1)),
   "A",
