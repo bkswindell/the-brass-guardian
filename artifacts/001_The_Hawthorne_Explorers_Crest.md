@@ -22,16 +22,7 @@ assets:
   alt: Canonical archival plate for The Hawthorne Explorer’s Crest.
 artifact:
   category: Foundational Canon Images
-  catalog_number: |-
-    - **The Hawthorne Explorer’s Crest**
-
-    ### Printed description
-
-    > Family crest and expedition seal of Professor Elias Hawthorne and the Hawthorne line. Commonly found on documents, instrument cases, field journals, and the Wayfinder.
-
-    ### Recovery information
-
-    - **DATE DISCOVERED:**
+  catalog_number: AH-1-001
 production:
   slate_number: 1
   image_status: image-linked

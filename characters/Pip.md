@@ -32,6 +32,19 @@ relationships:
 - target: AH-LOC-PLACEHOLDER-003
   type: primary-location
   visibility: story-sensitive
+- target: AH-CHAR-002
+  type: affiliated-with
+  visibility: story-sensitive
+- target: AH-CHAR-JUNIPER-BELL
+  type: possible-connection
+  visibility: story-sensitive
+- target: AH-ARC-KEEPER-OF-DREAMS
+  type: possible-connection
+  visibility: story-sensitive
+- target: AH-LOC-MOON-GARDEN
+  type: possible-connection
+  visibility: story-sensitive
+character: {}
 ---
 # Pip
 
@@ -244,5 +257,3 @@ Possible recurring details include:
 > These values were preserved verbatim from pre-Version-1 front matter because the migration could not safely convert them into a canonical-ID field without inventing or resolving canon.
 
 - **primary_locations:** `The Hawthorne workshop`
-- **affiliation:** `["Amelia Hawthorne"]`
-- **possible_connection:** `["Juniper Bell","The Keeper of Dreams","The Moon Garden"]`

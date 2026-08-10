@@ -36,6 +36,37 @@ relationships:
 - target: AH-LOC-MOON-GARDEN
   type: primary-location
   visibility: story-sensitive
+- target: AH-CHAR-002
+  type: connected-to
+  visibility: story-sensitive
+- target: AH-CHAR-001
+  type: connected-to
+  visibility: story-sensitive
+- target: AH-ORG-CONSERVANCY-LIVING-MECHANISMS
+  type: connected-to
+  visibility: story-sensitive
+- target: AH-ORG-PLACEHOLDER-022
+  type: connected-to
+  visibility: story-sensitive
+- target: AH-CHAR-OCTAVIA-VALE
+  type: connected-to
+  visibility: story-sensitive
+- target: AH-CHAR-BEATRICE-THORNE
+  type: connected-to
+  visibility: story-sensitive
+- target: AH-ORG-CLOSED-EYE
+  type: connected-to
+  visibility: story-sensitive
+- target: AH-ORG-NINTH-GUILD
+  type: connected-to
+  visibility: story-sensitive
+- target: AH-ORG-CONSERVANCY-LIVING-MECHANISMS
+  type: affiliated-with
+  visibility: story-sensitive
+character:
+  titles:
+  - Keeper of the Clockwork Gardens
+  age_status: Unchanged adult age across known records
 ---
 # Juniper Bell
 
@@ -1038,10 +1069,6 @@ Juniper disappears, leaving her coat walking the Gardens through the movements o
 
 > These values were preserved verbatim from pre-Version-1 front matter because the migration could not safely convert them into a canonical-ID field without inventing or resolving canon.
 
-- **formal_title:** `["Keeper of the Clockwork Gardens"]`
 - **possible_hidden_title:** `["Keeper of Dreams"]`
-- **public_affiliation:** `["The Conservancy of Living Mechanisms"]`
 - **organizational_position:** `["Public Keeper and Garden intermediary","Not the First Tender"]`
-- **apparent_age:** `["Unchanged adult age across known records"]`
-- **key_relationships:** `["Amelia Hawthorne","Professor Elias Hawthorne","The Conservancy of Living Mechanisms","The Guild of Verdant Mechanists","Chancellor Octavia Vale","Chief Inspector Beatrice Thorne","The Order of the Closed Eye","The Ninth Guild"]`
 - **signature_objects:** `["Green many-pocketed coat","Mechanical insects","Personal Introduction Bell","Silver dream flower"]`

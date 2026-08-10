@@ -30,9 +30,9 @@ provenance:
 assets:
 - id: portrait-1
   path: art/AH-1-006_The_Wayfinder.png
-  role: portrait
+  role: reference
   visibility: story-sensitive
-  alt: Canonical visual reference portrait for Amelia Hawthorne.
+  alt: Canonical visual reference for Amelia Hawthorne.
 - id: reference-2
   path: art/AH-1-004_The_Aether_Gauntlet-Exterior_Study.png
   role: reference

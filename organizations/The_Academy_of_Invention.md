@@ -35,6 +35,15 @@ relationships:
 - target: AH-LOC-PLACEHOLDER-022
   type: headquartered-at
   visibility: story-sensitive
+- target: AH-CHAR-PLACEHOLDER-003
+  type: led-by
+  visibility: story-sensitive
+- target: AH-ORG-PLACEHOLDER-024
+  type: related-to
+  visibility: story-sensitive
+- target: AH-CHAR-PLACEHOLDER-003
+  type: related-to
+  visibility: story-sensitive
 ---
 # The Academy of Invention
 
@@ -88,10 +97,3 @@ Neither Academy review nor Hand approval guarantees that an experiment is safe, 
 1. Is this organization independent, subordinate, informal, historical, or partly mythical?
 2. Who leads it, and what authority does it actually possess?
 3. Which current relationships and conflicts require a full profile?
-
-## Schema Migration Preservation Notes
-
-> These values were preserved verbatim from pre-Version-1 front matter because the migration could not safely convert them into a canonical-ID field without inventing or resolving canon.
-
-- **known_leadership:** `["Doctor Elara Quill"]`
-- **primary_connections:** `["The Order of the Mended Hand","Doctor Elara Quill"]`

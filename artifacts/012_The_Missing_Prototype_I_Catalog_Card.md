@@ -22,7 +22,7 @@ assets:
   alt: Canonical archival plate for The Missing Prototype I Catalog Card.
 artifact:
   category: Amelia and the Aether Gauntlet
-  catalog_number: "- **RECORD TYPE:**"
+  catalog_number: AH-1-014
 production:
   slate_number: 12
   image_status: image-linked

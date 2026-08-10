@@ -22,7 +22,7 @@ assets:
   alt: Canonical archival plate for Prototype II Cabinet Photograph.
 artifact:
   category: Amelia and the Aether Gauntlet
-  catalog_number: "### Cabinet label\n\n> **PROTOTYPE II**  \n> Property of Aetherhaven Academy  \n> For Study and Preservation Only\n\n### Catalog data card\n\n- **DESIGNATION:**"
+  catalog_number: AH-1-005
 production:
   slate_number: 11
   image_status: image-linked

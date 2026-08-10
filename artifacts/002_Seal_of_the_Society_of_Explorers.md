@@ -26,16 +26,7 @@ assets:
   alt: Canonical archival plate for Seal of the Society of Explorers.
 artifact:
   category: Foundational Canon Images
-  catalog_number: |-
-    - **Seal of [the Society of Explorers](../organizations/The_Society_of_Explorers.md)**
-
-    ### Printed description
-
-    > Official seal of [the Society of Explorers](../organizations/The_Society_of_Explorers.md) of [Aetherhaven](../locations/Aetherhaven.md). Impression found on authenticated expedition documents, charter licenses, and field dispatches. First issued in the Year 769 A.H. Current iteration adopted in the Year 1043 A.H.
-
-    ### Recovery information
-
-    - **DATE RECOVERED:**
+  catalog_number: SE-1-002
 production:
   slate_number: 2
   image_status: provisional-variants

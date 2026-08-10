@@ -60,6 +60,12 @@ relationships:
 - target: AH-LOC-CAULDRON
   type: related-to
   visibility: story-sensitive
+- target: AH-LOC-PLACEHOLDER-040
+  type: seated-at
+  visibility: story-sensitive
+- target: AH-CHAR-OCTAVIA-VALE
+  type: presided-by
+  visibility: story-sensitive
 ---
 # The High Council of Aetherhaven
 
@@ -1143,8 +1149,6 @@ The event remains politically embarrassing and is rarely discussed in formal ses
 > These values were preserved verbatim from pre-Version-1 front matter because the migration could not safely convert them into a canonical-ID field without inventing or resolving canon.
 
 - **key_relationships:** `The Academy of Invention`
-- **seat:** `["The High Chamber, Government District"]`
-- **presiding_officer:** `["Chancellor Octavia Vale"]`
 - **active_seats:** `["Eight Founding Guild Seats","Four Civic Quarter Seats"]`
 - **sealed_seat:** `["The Thirteenth Chair of the First Mechanist"]`
 - **founding_principle:** `["The Heart Engine must continue operating."]`

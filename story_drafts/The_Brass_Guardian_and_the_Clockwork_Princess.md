@@ -25,7 +25,7 @@ assets:
   visibility: story-sensitive
   alt: Canonical cover illustration for The Brass Guardian and the Clockwork Princess.
 chronology:
-  status: disputed
+  status: relative
   display: Present-day Hawthorne life before the primary Book One conflict
 story:
   subtitle: A Bedtime Adventure for Amelia

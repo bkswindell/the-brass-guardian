@@ -41,6 +41,39 @@ relationships:
 - target: AH-ORG-BRASS-WATCH
   type: related-to
   visibility: story-sensitive
+- target: AH-ORG-PLACEHOLDER-005
+  type: governed-by
+  visibility: story-sensitive
+- target: AH-LOC-PLACEHOLDER-041
+  type: meets-at
+  visibility: story-sensitive
+- target: AH-ORG-MECHANISTS-GUILD
+  type: federated-as
+  visibility: story-sensitive
+- target: AH-ORG-PLACEHOLDER-015
+  type: has-member
+  visibility: story-sensitive
+- target: AH-ORG-PLACEHOLDER-016
+  type: has-member
+  visibility: story-sensitive
+- target: AH-ORG-PLACEHOLDER-017
+  type: has-member
+  visibility: story-sensitive
+- target: AH-ORG-PLACEHOLDER-018
+  type: has-member
+  visibility: story-sensitive
+- target: AH-ORG-PLACEHOLDER-019
+  type: has-member
+  visibility: story-sensitive
+- target: AH-ORG-PLACEHOLDER-020
+  type: has-member
+  visibility: story-sensitive
+- target: AH-ORG-PLACEHOLDER-021
+  type: has-member
+  visibility: story-sensitive
+- target: AH-ORG-PLACEHOLDER-022
+  type: has-member
+  visibility: story-sensitive
 ---
 # The Eight Founding Engineering Guilds
 
@@ -445,7 +478,3 @@ Possibilities include:
 > These values were preserved verbatim from pre-Version-1 front matter because the migration could not safely convert them into a canonical-ID field without inventing or resolving canon.
 
 - **key_relationships:** `The Academy of Invention`
-- **governing_body:** `["The Conclave of Eight"]`
-- **meeting_place:** `["The Octagonal Hall"]`
-- **modern_federation:** `["The Mechanists' Guild"]`
-- **member_guilds:** `["The Guild of Framewrights","The Guild of Enginewrights","The Guild of Aetherwrights","The Guild of Canalwrights","The Guild of Skywrights","The Guild of Clockwrights","The Guild of Artificers","The Guild of Verdant Mechanists"]`

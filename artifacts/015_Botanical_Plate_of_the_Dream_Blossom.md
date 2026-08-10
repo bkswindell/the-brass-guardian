@@ -22,10 +22,7 @@ assets:
   alt: Canonical archival plate for Botanical Plate of the Dream Blossom.
 artifact:
   category: The Clockwork Gardens
-  catalog_number: |-
-    ### Specimen card
-
-    - **SPECIMEN:**
+  catalog_number: AH-1-006
 production:
   slate_number: 15
   image_status: image-linked

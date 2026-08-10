@@ -29,6 +29,22 @@ relationships:
 - target: AH-LOC-PLACEHOLDER-016
   type: primary-location
   visibility: story-sensitive
+- target: AH-CHAR-002
+  type: connected-to
+  visibility: story-sensitive
+- target: AH-CHAR-001
+  type: connected-to
+  visibility: story-sensitive
+- target: AH-ORG-UNDERCLOCK
+  type: connected-to
+  visibility: story-sensitive
+- target: AH-CHAR-MARA-VOSS
+  type: connected-to
+  visibility: story-sensitive
+- target: AH-ART-021
+  type: signature-artifact
+  visibility: story-sensitive
+character: {}
 ---
 # Tamsin Pike
 
@@ -189,5 +205,3 @@ Her clothing may include inherited repairs or old canal-family markings.
 
 - **primary_locations:** `Old City passages`
 - **primary_locations:** `Underclock routes`
-- **key_relationships:** `["Amelia Hawthorne","Professor Elias Hawthorne","The Underclock","Captain Mara Voss"]`
-- **signature_artifact:** `["Tamsin Pike's brass key"]`

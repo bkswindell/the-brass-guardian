@@ -22,16 +22,7 @@ assets:
   alt: Canonical archival plate for The Six-Key Sigil.
 artifact:
   category: Foundational Canon Images
-  catalog_number: |-
-    - **The Six-Key Sigil**
-
-    ### Printed description
-
-    > Ancient symbol discovered carved into basalt slab beneath debris field in the Null Zone, Sector F-12. Associated with references to the “Six Keys” in early Aetherhaven texts. Purpose unknown.
-
-    ### Recovery and condition information
-
-    - **DATE DISCOVERED:**
+  catalog_number: AH-1-002
 production:
   slate_number: 3
   image_status: image-linked

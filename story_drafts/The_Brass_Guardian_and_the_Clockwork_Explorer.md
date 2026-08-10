@@ -49,7 +49,7 @@ assets:
   alt: Canonical visual reference for The Brass Guardian and the Clockwork Explorer.
   placement: after the final Heart Engine hum
 chronology:
-  status: disputed
+  status: relative
   display: Present-day Hawthorne life before the primary Book One conflict
 story:
   subtitle: A Day Aboard the Wayfinder

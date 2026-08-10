@@ -22,7 +22,7 @@ assets:
   alt: Canonical archival plate for The Wayfinder Technical Plate.
 artifact:
   category: Foundational Canon Images
-  catalog_number: "- **The Wayfinder**\n- **HAWTHORNE MODEL W-7A • EXPLORER CLASS AIRSHIP**\n\n### Quotation\n\n> “Not just a machine, but a companion.”  \n> “She has carried us farther than any map.”  \n> — A. Hawthorne\n\n### Specifications\n\n- **Length:**"
+  catalog_number: AH-1-006
 production:
   slate_number: 7
   image_status: image-linked

@@ -31,6 +31,13 @@ public_projection:
   - organization
   - catalog-stub
   related: []
+relationships:
+- target: AH-ORG-PLACEHOLDER-024
+  type: related-to
+  visibility: story-sensitive
+- target: AH-CHAR-001
+  type: related-to
+  visibility: story-sensitive
 ---
 # The Society of Explorers
 
@@ -84,9 +91,3 @@ Whether a Hand practitioner accompanied the Clockwork Jungle expedition remains 
 1. Is this organization independent, subordinate, informal, historical, or partly mythical?
 2. Who leads it, and what authority does it actually possess?
 3. Which current relationships and conflicts require a full profile?
-
-## Schema Migration Preservation Notes
-
-> These values were preserved verbatim from pre-Version-1 front matter because the migration could not safely convert them into a canonical-ID field without inventing or resolving canon.
-
-- **primary_connections:** `["The Order of the Mended Hand","Professor Elias Hawthorne"]`

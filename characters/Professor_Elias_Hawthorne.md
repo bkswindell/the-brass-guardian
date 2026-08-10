@@ -29,9 +29,9 @@ provenance:
 assets:
 - id: portrait-1
   path: art/AH-1-006_The_Wayfinder.png
-  role: portrait
+  role: reference
   visibility: story-sensitive
-  alt: Canonical visual reference portrait for Professor Elias Hawthorne.
+  alt: Canonical visual reference for Professor Elias Hawthorne.
 character:
   titles:
   - The Brass Guardian

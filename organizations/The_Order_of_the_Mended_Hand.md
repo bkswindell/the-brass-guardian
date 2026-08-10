@@ -36,6 +36,42 @@ relationships:
 - target: AH-LOC-HALL-VITAL-MECHANICS
   type: headquartered-at
   visibility: story-sensitive
+- target: AH-LOC-PLACEHOLDER-011
+  type: related-to
+  visibility: story-sensitive
+- target: AH-LOC-PLACEHOLDER-018
+  type: related-to
+  visibility: story-sensitive
+- target: AH-LOC-CAULDRON
+  type: related-to
+  visibility: story-sensitive
+- target: AH-ORG-BRASS-WATCH
+  type: related-to
+  visibility: story-sensitive
+- target: AH-ORG-MECHANISTS-GUILD
+  type: related-to
+  visibility: story-sensitive
+- target: AH-ORG-PLACEHOLDER-002
+  type: related-to
+  visibility: story-sensitive
+- target: AH-CHAR-001
+  type: related-to
+  visibility: story-sensitive
+- target: AH-CHAR-002
+  type: related-to
+  visibility: story-sensitive
+- target: AH-HIST-016
+  type: related-to
+  visibility: story-sensitive
+- target: AH-ORG-UNWOUND
+  type: related-to
+  visibility: story-sensitive
+- target: AH-ORG-CLOSED-EYE
+  type: related-to
+  visibility: story-sensitive
+- target: AH-ORG-CONSERVANCY-LIVING-MECHANISMS
+  type: related-to
+  visibility: story-sensitive
 ---
 # The Order of the Mended Hand
 

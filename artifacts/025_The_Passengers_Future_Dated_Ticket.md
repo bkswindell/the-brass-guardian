@@ -22,7 +22,7 @@ assets:
   alt: Canonical archival plate for The Passenger’s Future-Dated Ticket.
 artifact:
   category: The Passenger of Dock Zero
-  catalog_number: "- **TITLE:**"
+  catalog_number: AH-1-018
 production:
   slate_number: 25
   image_status: image-linked

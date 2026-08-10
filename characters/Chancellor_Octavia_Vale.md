@@ -26,6 +26,29 @@ public_projection:
   - character
   - catalog-stub
   related: []
+character: {}
+relationships:
+- target: AH-LOC-PLACEHOLDER-011
+  type: primary-location
+  visibility: story-sensitive
+- target: AH-ORG-HIGH-COUNCIL
+  type: connected-to
+  visibility: story-sensitive
+- target: AH-ORG-CLOSED-EYE
+  type: connected-to
+  visibility: story-sensitive
+- target: AH-CHAR-BEATRICE-THORNE
+  type: connected-to
+  visibility: story-sensitive
+- target: AH-CHAR-001
+  type: connected-to
+  visibility: story-sensitive
+- target: AH-CHAR-002
+  type: connected-to
+  visibility: story-sensitive
+- target: AH-CHAR-MARA-VOSS
+  type: connected-to
+  visibility: story-sensitive
 ---
 # Chancellor Octavia Vale
 
@@ -376,6 +399,4 @@ The incident remains a public embarrassment. Orin does not exploit it, and Vale 
 
 > These values were preserved verbatim from pre-Version-1 front matter because the migration could not safely convert them into a canonical-ID field without inventing or resolving canon.
 
-- **primary_location:** `["Government District"]`
 - **public_office:** `["Chancellor of the High Council"]`
-- **key_relationships:** `["The High Council of Aetherhaven","The Order of the Closed Eye","Chief Inspector Beatrice Thorne","Professor Elias Hawthorne","Amelia Hawthorne","Captain Mara Voss"]`

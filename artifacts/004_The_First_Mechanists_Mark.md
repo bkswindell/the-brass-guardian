@@ -22,18 +22,7 @@ assets:
   alt: Canonical archival plate for The First Mechanist’s Mark.
 artifact:
   category: Foundational Canon Images
-  catalog_number: |-
-    - **The First Mechanist’s Mark**
-
-    ### Printed description
-
-    > Maker’s mark attributed to the First Mechanist, legendary architect of the Heart Engine and creator of the Six Keys.
-
-    > Found on machines, structures, documents, and stone throughout Aetherhaven and beneath.
-
-    ### Recovery and condition information
-
-    - **DATE DISCOVERED:**
+  catalog_number: AH-1-003
 production:
   slate_number: 4
   image_status: image-linked

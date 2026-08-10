@@ -27,19 +27,7 @@ assets:
   alt: Canonical archival plate for The Changing Paths of the Gardens.
 artifact:
   category: The Clockwork Gardens
-  catalog_number: |-
-    - **The Changing Paths of the Gardens**
-    - **THREE SURVEYS OF AETHERHAVEN’S [CLOCKWORK GARDENS](../locations/The_Clockwork_Gardens.md)**
-
-    ### Introductory statement
-
-    > The layout of the paths is not static but follows unknown laws. When aligned to true north, the arrangement of the third survey forms [the Six-Key Sigil](003_The_Six_Key_Sigil.md).
-
-    ### Survey I
-
-    - **SURVEY I**
-    - **Pre-Rising**
-    -
+  catalog_number: AH-1-008
 production:
   slate_number: 18
   image_status: image-linked

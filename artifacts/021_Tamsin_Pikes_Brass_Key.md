@@ -22,13 +22,7 @@ assets:
   alt: Canonical archival plate for Tamsin Pike’s Brass Key.
 artifact:
   category: The Thirteenth Canal
-  catalog_number: |-
-    - **TAMSIN PIKE’S BRASS KEY**
-
-    ### Family identification
-
-    - **Family Heirloom — Pike Line**
-    -
+  catalog_number: AH-1-017
 production:
   slate_number: 21
   image_status: image-linked

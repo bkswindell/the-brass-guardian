@@ -50,6 +50,9 @@ relationships:
 - target: AH-ORG-PLACEHOLDER-024
   type: related-to
   visibility: story-sensitive
+- target: AH-ORG-PLACEHOLDER-005
+  type: governed-by
+  visibility: story-sensitive
 ---
 # The Mechanists' Guild
 
@@ -525,5 +528,4 @@ Guild certification does not guarantee that an intervention is the best choice f
 > These values were preserved verbatim from pre-Version-1 front matter because the migration could not safely convert them into a canonical-ID field without inventing or resolving canon.
 
 - **key_relationships:** `The Academy of Invention`
-- **governing_body:** `["The Conclave of Eight"]`
 - **member_orders:** `["The Guild of Framewrights","The Guild of Enginewrights","The Guild of Aetherwrights","The Guild of Canalwrights","The Guild of Skywrights","The Guild of Clockwrights","The Guild of Artificers","The Guild of Verdant Mechanists"]`

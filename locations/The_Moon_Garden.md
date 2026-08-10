@@ -23,6 +23,25 @@ relationships:
 - target: AH-LOC-PLACEHOLDER-003
   type: parent-location
   visibility: story-sensitive
+- target: AH-CHAR-JUNIPER-BELL
+  type: guarded-by
+  visibility: story-sensitive
+- target: AH-CHAR-002
+  type: connected-to
+  visibility: story-sensitive
+- target: AH-CHAR-PIP
+  type: connected-to
+  visibility: story-sensitive
+- target: AH-ARC-KEEPER-OF-DREAMS
+  type: connected-to
+  visibility: story-sensitive
+- target: AH-ORG-CONSERVANCY-LIVING-MECHANISMS
+  type: connected-to
+  visibility: story-sensitive
+location:
+  access_status:
+  - Not officially acknowledged
+  - Invitation or recognition by the Gardens
 ---
 # The Moon Garden
 
@@ -525,8 +544,4 @@ Children across [Aetherhaven](Aetherhaven.md) share a dream of a path beneath [t
 
 > These values were preserved verbatim from pre-Version-1 front matter because the migration could not safely convert them into a canonical-ID field without inventing or resolving canon.
 
-- **public_access:** `["Not officially acknowledged"]`
-- **actual_access:** `["Invitation or recognition by the Gardens"]`
-- **primary_guardian:** `["Juniper Bell"]`
 - **primary_mechanism:** `["The Dream Engine"]`
-- **key_connections:** `["Amelia Hawthorne","Pip","The Keeper of Dreams","The Conservancy of Living Mechanisms"]`

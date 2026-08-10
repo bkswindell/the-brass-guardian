@@ -22,7 +22,7 @@ assets:
   alt: 'Canonical archival plate for The Aether Gauntlet: Exterior Study.'
 artifact:
   category: Amelia and the Aether Gauntlet
-  catalog_number: "- **The Aether Gauntlet — Exterior Study**\n\n### Printed description\n\n> Primary interface and receptacle for the Aether Heart. Designed and constructed by Prof. Elias Hawthorne for his daughter, Amelia Hawthorne. Purpose: Channel, protect, and amplify Aetheric power through precision mechanisms.\n\n### Quotation\n\n> “It is not merely a machine, but a bridge between flesh and force.”  \n> — E.H.\n\n### Date tag\n\n- **DATE:**"
+  catalog_number: AH-1-004
 production:
   slate_number: 9
   image_status: image-linked
