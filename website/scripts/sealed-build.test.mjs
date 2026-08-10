@@ -25,6 +25,7 @@ const canonicalSourcePaths = [
   "story_arcs",
   "story_drafts",
   "artifacts",
+  "vessels",
 ];
 const excludedDirectories = new Set([
   "node_modules",
