@@ -7,6 +7,7 @@ on:
     paths:
       - .github/workflows/migrate-content-schema-v1.yml
       - scripts/migrations/migrate_content_schema_v1.rb
+      - scripts/migrations/enrich_content_schema_v1.rb
   pull_request:
     branches:
       - main
@@ -34,8 +35,71 @@ jobs:
         with:
           node-version: '22.14.0'
 
-      - name: Run deterministic Markdown migration
-        run: ruby scripts/migrations/migrate_content_schema_v1.rb
+      - name: Normalize known legacy YAML spacing and preflight syntax
+        run: |
+          ruby <<'RUBY'
+          require 'yaml'
+          require 'date'
+          roots = %w[characters locations organizations artifacts vessels historical_events story_drafts story_arcs]
+          failed = false
+          roots.each do |root|
+            next unless Dir.exist?(root)
+            Dir.glob("#{root}/*.md").sort.each do |path|
+              next if File.basename(path) == 'README.md'
+              text = File.read(path, encoding: 'UTF-8')
+              normalized = text.gsub(/^aliases:\[\]\s*$/, 'aliases: []')
+              File.write(path, normalized, encoding: 'UTF-8') if normalized != text
+              match = normalized.match(/\A---\s*\n(.*?)\n---\s*\n/m)
+              unless match
+                warn "MISSING FRONTMATTER: #{path}"
+                failed = true
+                next
+              end
+              begin
+                YAML.safe_load(match[1], permitted_classes: [Date, Time, DateTime], aliases: false)
+              rescue Psych::SyntaxError => error
+                warn "INVALID YAML: #{path}: #{error.message.lines.first.strip}"
+                failed = true
+              end
+            end
+          end
+          exit 1 if failed
+          puts 'YAML preflight passed.'
+          RUBY
+
+      - name: Run deterministic Markdown migration once
+        run: |
+          if [ -f docs/development/AETHERHAVEN_CONTENT_SCHEMA_V1_MIGRATION_REPORT.md ]; then
+            echo 'Deterministic migration already committed on this branch; preserving its original report.'
+          else
+            ruby scripts/migrations/migrate_content_schema_v1.rb
+          fi
+
+      - name: Run semantic migration audit and enrichment
+        run: ruby scripts/migrations/enrich_content_schema_v1.rb
+
+      - name: Export current Version 1 metadata for complete validation
+        run: |
+          ruby <<'RUBY'
+          require 'yaml'
+          require 'json'
+          require 'date'
+          roots = %w[characters locations organizations artifacts vessels historical_events story_drafts story_arcs]
+          records = []
+          roots.each do |root|
+            next unless Dir.exist?(root)
+            Dir.glob("#{root}/*.md").sort.each do |path|
+              next if File.basename(path) == 'README.md'
+              text = File.read(path, encoding: 'UTF-8')
+              match = text.match(/\A---\s*\n(.*?)\n---\s*\n/m)
+              next unless match
+              meta = YAML.safe_load(match[1], permitted_classes: [Date, Time, DateTime], aliases: false)
+              records << meta if meta && meta['schema_version'] == 1
+            end
+          end
+          File.write('website/.canon-schema-v1-migration-records.json', JSON.pretty_generate(records) + "\n")
+          puts "Exported #{records.length} Version 1 records for locked-schema validation."
+          RUBY
 
       - name: Validate every migrated metadata object with locked Version 1 validator
         run: |
@@ -50,14 +114,14 @@ jobs:
       - name: Remove transient validation export
         run: rm website/.canon-schema-v1-migration-records.json
 
-      - name: Commit migrated canonical metadata
+      - name: Commit audited canonical metadata
         run: |
           git config user.name 'Aetherhaven Schema Migration'
           git config user.email 'actions@users.noreply.github.com'
-          git add characters locations organizations artifacts vessels historical_events story_drafts story_arcs docs/development/AETHERHAVEN_CONTENT_SCHEMA_V1_MIGRATION_REPORT.md
+          git add characters locations organizations artifacts vessels historical_events story_drafts story_arcs docs/development/AETHERHAVEN_CONTENT_SCHEMA_V1_MIGRATION_REPORT.md docs/development/AETHERHAVEN_CONTENT_SCHEMA_V1_SEMANTIC_AUDIT.md
           if git diff --cached --quiet; then
-            echo 'Migration produced no changes.'
+            echo 'Migration audit produced no additional changes.'
             exit 0
           fi
-          git commit -m 'migrate(canon): apply Aetherhaven Content Schema v1'
+          git commit -m 'migrate(canon): audit Aetherhaven Content Schema v1 semantics'
           git push origin HEAD:migration/content-schema-v1
