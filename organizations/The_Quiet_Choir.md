@@ -1,22 +1,37 @@
 ---
-organization_id: AH-ORG-PLACEHOLDER-003
+schema_version: 1
+id: AH-ORG-PLACEHOLDER-003
+record_type: organization
 name: The Quiet Choir
-type: Placeholder organization profile
+slug: quiet-choir
 aliases:
-  - Quiet Choir
-  - the Choir
-series: The Brass Guardian / The Aetherhaven Chronicles
-canon_status: Source-grounded placeholder
-canonical_scope: Aetherhaven volumes
-last_updated: 2026-08-02
-headquarters: []
-known_leadership: []
-primary_connections: []
-temporal_relevance: Unresolved
-source_basis:
-  - Aetherhaven v3.pdf
+- Quiet Choir
+- the Choir
+last_updated: '2026-08-02'
+canon:
+  status: canonical
+  scope:
+  - aetherhaven-volumes
+development:
+  status: placeholder
+  temporal_relevance: unresolved
+disclosure:
+  level: story-sensitive
+provenance:
+  sources:
+  - kind: manuscript
+    ref: Aetherhaven v3.pdf
+public_projection:
+  title: The Quiet Choir
+  summary: The Quiet Choir has a restricted Archive reference. Identity, purpose, and fuller context remain sealed or withheld.
+  classification: teaser
+  archive_section: hidden
+  access_label: restricted
+  tags:
+  - organization
+  - hidden-archive
+  related: []
 ---
-
 # The Quiet Choir
 
 > **Placeholder profile.** This file provides a stable link target while the organization awaits full development. It does not expand beyond the cited source.

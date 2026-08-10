@@ -1,21 +1,36 @@
 ---
-organization_id: AH-ORG-PLACEHOLDER-009
+schema_version: 1
+id: AH-ORG-PLACEHOLDER-009
+record_type: organization
 name: The Free Spring Assembly
-type: Placeholder organization profile
+slug: free-spring-assembly
 aliases:
-  - Free Spring Assembly
-series: The Brass Guardian / The Aetherhaven Chronicles
-canon_status: Source-grounded placeholder
-canonical_scope: Aetherhaven volumes
-last_updated: 2026-08-02
-headquarters: []
-known_leadership: []
-primary_connections: []
-temporal_relevance: Unresolved
-source_basis:
-  - Current canonical Markdown
+- Free Spring Assembly
+last_updated: '2026-08-02'
+canon:
+  status: canonical
+  scope:
+  - aetherhaven-volumes
+development:
+  status: placeholder
+  temporal_relevance: unresolved
+disclosure:
+  level: story-sensitive
+provenance:
+  sources:
+  - kind: canonical-record
+    ref: Current canonical Markdown
+public_projection:
+  title: The Free Spring Assembly
+  summary: The Free Spring Assembly is a public reform wing of the Unwound associated with petitions, debate, transparency, and accountable infrastructure.
+  classification: public
+  archive_section: catalog
+  access_label: public
+  tags:
+  - organization
+  - catalog-stub
+  related: []
 ---
-
 # The Free Spring Assembly
 
 > **Placeholder profile.** This file provides a stable link target while the organization awaits full development. It does not expand beyond the cited source.

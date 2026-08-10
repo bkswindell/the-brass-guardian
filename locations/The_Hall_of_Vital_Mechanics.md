@@ -1,35 +1,54 @@
 ---
-location_id: AH-LOC-HALL-VITAL-MECHANICS
+schema_version: 1
+id: AH-LOC-HALL-VITAL-MECHANICS
+record_type: location
 name: The Hall of Vital Mechanics
-type: Unlisted civic hospital, medical institute, and emergency-coordination center
+slug: the-hall-of-vital-mechanics
 aliases:
-  - Vital Hall
-  - The Central Order, provisional
-series: The Brass Guardian / The Aetherhaven Chronicles
-canon_status: Owner-directed canonical placeholder
-canonical_scope: Aetherhaven volumes
-last_updated: 2026-08-02
-jurisdiction:
+- Vital Hall
+- The Central Order, provisional
+last_updated: '2026-08-02'
+canon:
+  status: canonical
+  scope:
+  - aetherhaven-volumes
+development:
+  status: placeholder
+  temporal_relevance: moderate
+disclosure:
+  level: story-sensitive
+descriptor: Unlisted civic hospital, medical institute, and emergency-coordination center
+provenance:
+  sources:
+  - kind: author-decision
+    ref: Owner canon decision recorded August 2, 2026
+cartography:
+- map_id: aetherhaven-city
+  category: unlisted
+location:
+  jurisdiction:
   - The Order of the Mended Hand
   - Civic medical regulation and emergency coordination, exact authority unresolved
-access_status:
+  access_status:
   - Public clinical areas
   - Restricted surgical, research, records, and implant laboratories
-map_reference_category: unlisted
-map_number:
-parent_location: The Government District
-primary_connections:
-  - The Order of the Mended Hand
-  - The High Council of Aetherhaven
-  - The Brass Watch
-  - The Academy of Invention
-  - The Mechanists' Guild
-points_of_interest: []
-temporal_relevance: Moderate
-source_basis:
-  - Owner canon decision recorded August 2, 2026
+relationships:
+- target: AH-LOC-PLACEHOLDER-011
+  type: parent-location
+  visibility: story-sensitive
+- target: AH-ORG-PLACEHOLDER-024
+  type: connected-to
+  visibility: story-sensitive
+- target: AH-ORG-HIGH-COUNCIL
+  type: connected-to
+  visibility: story-sensitive
+- target: AH-ORG-BRASS-WATCH
+  type: connected-to
+  visibility: story-sensitive
+- target: AH-ORG-MECHANISTS-GUILD
+  type: connected-to
+  visibility: story-sensitive
 ---
-
 # The Hall of Vital Mechanics
 
 > **Canonical working placeholder.** This unnumbered institution exists within the Government District. Its exact architecture, departments, leadership, and final public name remain unresolved.
@@ -185,3 +204,9 @@ Avoid a gothic asylum caricature, but do not make the Hall reassuring by default
 - [ ] Define departments and leadership.
 - [ ] Create representative art or an architectural artifact.
 - [ ] Link recurring medical staff when created.
+
+## Schema Migration Preservation Notes
+
+> These values were preserved verbatim from pre-Version-1 front matter because the migration could not safely convert them into a canonical-ID field without inventing or resolving canon.
+
+- **primary_connections:** `The Academy of Invention`

@@ -1,18 +1,31 @@
 ---
-artifact_id: AH-ART-024
-slate_number: 24
-name: "Underclock Passage Token"
-category: "The Thirteenth Canal"
-canon_status: planned-artifact-concept
-image_status: image-needed
-last_updated: 2026-08-02
-related_markdown:
-  - "../organizations/The_Underclock.md"
-  - "../characters/Tamsin_Pike.md"
-canonical_images:
-  - null
+schema_version: 1
+id: AH-ART-024
+record_type: artifact
+name: Underclock Passage Token
+slug: underclock-passage-token
+aliases: []
+last_updated: '2026-08-02'
+canon:
+  status: proposed
+  scope: []
+development:
+  status: concept
+disclosure:
+  level: creator-only
+artifact:
+  category: The Thirteenth Canal
+production:
+  slate_number: 24
+  image_status: image-needed
+relationships:
+- target: AH-ORG-UNDERCLOCK
+  type: related-to
+  visibility: story-sensitive
+- target: AH-CHAR-TAMSIN-PIKE
+  type: related-to
+  visibility: story-sensitive
 ---
-
 # Underclock Passage Token
 
 > **Artifact Image Slate #24** · [The Thirteenth Canal](../locations/The_Thirteenth_Canal.md) · [Artifact standard](../docs/standards/CANON_MARKDOWN_STANDARD.md)

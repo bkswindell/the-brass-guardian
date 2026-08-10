@@ -1,17 +1,28 @@
 ---
-artifact_id: AH-ART-036
-slate_number: 36
-name: "Fragment Recovered from Behind the Wall"
-category: "The Machine Behind the Wall"
-canon_status: planned-artifact-concept
-image_status: image-needed
-last_updated: 2026-08-02
-related_markdown:
-  - "../story_arcs/The_Black_Catalogue_Arc.md"
-canonical_images:
-  - null
+schema_version: 1
+id: AH-ART-036
+record_type: artifact
+name: Fragment Recovered from Behind the Wall
+slug: fragment-recovered-from-behind-the-wall
+aliases: []
+last_updated: '2026-08-02'
+canon:
+  status: proposed
+  scope: []
+development:
+  status: concept
+disclosure:
+  level: creator-only
+artifact:
+  category: The Machine Behind the Wall
+production:
+  slate_number: 36
+  image_status: image-needed
+relationships:
+- target: AH-ARC-NINTH-GUILD
+  type: related-to
+  visibility: story-sensitive
 ---
-
 # Fragment Recovered from Behind the Wall
 
 > **Artifact Image Slate #36** · The Machine Behind the Wall · [Artifact standard](../docs/standards/CANON_MARKDOWN_STANDARD.md)

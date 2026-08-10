@@ -1,25 +1,51 @@
 ---
-character_id: AH-CHAR-PLACEHOLDER-006
+schema_version: 1
+id: AH-CHAR-PLACEHOLDER-006
+record_type: character
 name: Lucian Wren
-title: Aetherhaven's Celebrated Inventor
+slug: lucian-wren
 aliases:
-  - Lucian
-series: The Brass Guardian / The Aetherhaven Chronicles
-canon_status: Source-grounded placeholder
-canonical_scope: Aetherhaven volumes
-last_updated: 2026-08-02
-primary_locations:
-  - Inventors' District
-affiliations: []
-key_connections:
-  - Professor Elias Hawthorne
-  - Amelia Hawthorne
-temporal_relevance: Unresolved
-source_basis:
-  - Aetherhaven.pdf
-  - Aetherhaven v3.pdf
+- Lucian
+last_updated: '2026-08-02'
+canon:
+  status: canonical
+  scope:
+  - aetherhaven-volumes
+development:
+  status: placeholder
+  temporal_relevance: unresolved
+disclosure:
+  level: story-sensitive
+provenance:
+  sources:
+  - kind: manuscript
+    ref: Aetherhaven.pdf
+  - kind: manuscript
+    ref: Aetherhaven v3.pdf
+character:
+  titles:
+  - Aetherhaven's Celebrated Inventor
+public_projection:
+  title: Lucian Wren
+  summary: Lucian Wren is a celebrated public inventor whose theatrical demonstrations attract crowds throughout Aetherhaven.
+  classification: public
+  archive_section: catalog
+  access_label: public
+  tags:
+  - character
+  - catalog-stub
+  related: []
+relationships:
+- target: AH-LOC-PLACEHOLDER-013
+  type: primary-location
+  visibility: story-sensitive
+- target: AH-CHAR-001
+  type: connected-to
+  visibility: story-sensitive
+- target: AH-CHAR-002
+  type: connected-to
+  visibility: story-sensitive
 ---
-
 # Lucian Wren
 
 > **Placeholder profile.** This file preserves the supplied descriptions of Lucian Wren without resolving differences that require later canon review.

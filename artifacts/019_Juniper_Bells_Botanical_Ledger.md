@@ -1,18 +1,31 @@
 ---
-artifact_id: AH-ART-019
-slate_number: 19
-name: "Juniper Bell’s Botanical Ledger"
-category: "The Clockwork Gardens"
-canon_status: planned-artifact-concept
-image_status: image-needed
-last_updated: 2026-08-02
-related_markdown:
-  - "../characters/Juniper_Bell.md"
-  - "../organizations/The_Conservancy_of_Living_Mechanisms.md"
-canonical_images:
-  - null
+schema_version: 1
+id: AH-ART-019
+record_type: artifact
+name: Juniper Bell’s Botanical Ledger
+slug: juniper-bells-botanical-ledger
+aliases: []
+last_updated: '2026-08-02'
+canon:
+  status: proposed
+  scope: []
+development:
+  status: concept
+disclosure:
+  level: creator-only
+artifact:
+  category: The Clockwork Gardens
+production:
+  slate_number: 19
+  image_status: image-needed
+relationships:
+- target: AH-CHAR-JUNIPER-BELL
+  type: related-to
+  visibility: story-sensitive
+- target: AH-ORG-CONSERVANCY-LIVING-MECHANISMS
+  type: related-to
+  visibility: story-sensitive
 ---
-
 # Juniper Bell’s Botanical Ledger
 
 > **Artifact Image Slate #19** · [The Clockwork Gardens](../locations/The_Clockwork_Gardens.md) · [Artifact standard](../docs/standards/CANON_MARKDOWN_STANDARD.md)

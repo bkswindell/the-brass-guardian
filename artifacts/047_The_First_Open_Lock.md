@@ -1,18 +1,31 @@
 ---
-artifact_id: AH-ART-047
-slate_number: 47
-name: "The First Open Lock"
-category: "The Living Key"
-canon_status: planned-artifact-concept
-image_status: image-needed
-last_updated: 2026-08-02
-related_markdown:
-  - "../story_arcs/The_Thirteenth_Chair.md"
-  - "../organizations/The_Order_of_the_Closed_Eye.md"
-canonical_images:
-  - null
+schema_version: 1
+id: AH-ART-047
+record_type: artifact
+name: The First Open Lock
+slug: the-first-open-lock
+aliases: []
+last_updated: '2026-08-02'
+canon:
+  status: proposed
+  scope: []
+development:
+  status: concept
+disclosure:
+  level: creator-only
+artifact:
+  category: The Living Key
+production:
+  slate_number: 47
+  image_status: image-needed
+relationships:
+- target: AH-ARC-THIRTEENTH-CHAIR
+  type: related-to
+  visibility: story-sensitive
+- target: AH-ORG-CLOSED-EYE
+  type: related-to
+  visibility: story-sensitive
 ---
-
 # The First Open Lock
 
 > **Artifact Image Slate #47** · The Living Key · [Artifact standard](../docs/standards/CANON_MARKDOWN_STANDARD.md)

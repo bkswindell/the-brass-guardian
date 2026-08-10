@@ -1,43 +1,42 @@
 ---
-character_id: AH-CHAR-JUNIPER-BELL
+schema_version: 1
+id: AH-CHAR-JUNIPER-BELL
+record_type: character
 name: Juniper Bell
-formal_title:
-  - Keeper of the Clockwork Gardens
-possible_hidden_title:
-  - Keeper of Dreams
-type: Public Conservancy caretaker, Garden intermediary, and temporal mystery
-series: The Brass Guardian / The Aetherhaven Chronicles
-canon_status: Canonical working profile
-canonical_scope: Aetherhaven volumes
-last_updated: 2026-08-01
-primary_locations:
-  - The Clockwork Gardens
-  - The Rootglass Cloister
-  - The Moon Garden
-public_affiliation:
-  - The Conservancy of Living Mechanisms
-organizational_position:
-  - Public Keeper and Garden intermediary
-  - Not the First Tender
-apparent_age:
-  - Unchanged adult age across known records
-key_relationships:
-  - Amelia Hawthorne
-  - Professor Elias Hawthorne
-  - The Conservancy of Living Mechanisms
-  - The Guild of Verdant Mechanists
-  - Chancellor Octavia Vale
-  - Chief Inspector Beatrice Thorne
-  - The Order of the Closed Eye
-  - The Ninth Guild
-signature_objects:
-  - Green many-pocketed coat
-  - Mechanical insects
-  - Personal Introduction Bell
-  - Silver dream flower
-temporal_relevance: Critical
+slug: juniper-bell
+aliases: []
+last_updated: '2026-08-01'
+canon:
+  status: canonical
+  scope:
+  - aetherhaven-volumes
+development:
+  status: working
+  temporal_relevance: critical
+disclosure:
+  level: story-sensitive
+descriptor: Public Conservancy caretaker, Garden intermediary, and temporal mystery
+public_projection:
+  title: Juniper Bell
+  summary: Juniper Bell is the gentle and eccentric public Keeper of the Clockwork Gardens.
+  classification: public
+  archive_section: catalog
+  access_label: public
+  tags:
+  - character
+  - catalog-stub
+  related: []
+relationships:
+- target: AH-LOC-PLACEHOLDER-003
+  type: primary-location
+  visibility: story-sensitive
+- target: AH-LOC-PLACEHOLDER-049
+  type: primary-location
+  visibility: story-sensitive
+- target: AH-LOC-MOON-GARDEN
+  type: primary-location
+  visibility: story-sensitive
 ---
-
 # Juniper Bell
 
 ## Canonical Summary
@@ -1034,3 +1033,15 @@ Juniper disappears, leaving her coat walking the Gardens through the movements o
 17. Did Juniper invite [Amelia](Amelia_Hawthorne.md), or did the Garden instruct her?
 18. How many hidden gardens does Juniper tend?
 19. What does Juniper mean by “the Clockwork Princess”?
+
+## Schema Migration Preservation Notes
+
+> These values were preserved verbatim from pre-Version-1 front matter because the migration could not safely convert them into a canonical-ID field without inventing or resolving canon.
+
+- **formal_title:** `["Keeper of the Clockwork Gardens"]`
+- **possible_hidden_title:** `["Keeper of Dreams"]`
+- **public_affiliation:** `["The Conservancy of Living Mechanisms"]`
+- **organizational_position:** `["Public Keeper and Garden intermediary","Not the First Tender"]`
+- **apparent_age:** `["Unchanged adult age across known records"]`
+- **key_relationships:** `["Amelia Hawthorne","Professor Elias Hawthorne","The Conservancy of Living Mechanisms","The Guild of Verdant Mechanists","Chancellor Octavia Vale","Chief Inspector Beatrice Thorne","The Order of the Closed Eye","The Ninth Guild"]`
+- **signature_objects:** `["Green many-pocketed coat","Mechanical insects","Personal Introduction Bell","Silver dream flower"]`

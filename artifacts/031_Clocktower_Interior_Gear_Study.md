@@ -1,17 +1,28 @@
 ---
-artifact_id: AH-ART-031
-slate_number: 31
-name: "Clocktower Interior Gear Study"
-category: "The Bell Beneath the Clocktower"
-canon_status: planned-artifact-concept
-image_status: image-needed
-last_updated: 2026-08-02
-related_markdown:
-  - "../organizations/The_Brass_Watch.md"
-canonical_images:
-  - null
+schema_version: 1
+id: AH-ART-031
+record_type: artifact
+name: Clocktower Interior Gear Study
+slug: clocktower-interior-gear-study
+aliases: []
+last_updated: '2026-08-02'
+canon:
+  status: proposed
+  scope: []
+development:
+  status: concept
+disclosure:
+  level: creator-only
+artifact:
+  category: The Bell Beneath the Clocktower
+production:
+  slate_number: 31
+  image_status: image-needed
+relationships:
+- target: AH-ORG-BRASS-WATCH
+  type: related-to
+  visibility: story-sensitive
 ---
-
 # Clocktower Interior Gear Study
 
 > **Artifact Image Slate #31** · The Bell Beneath the Clocktower · [Artifact standard](../docs/standards/CANON_MARKDOWN_STANDARD.md)

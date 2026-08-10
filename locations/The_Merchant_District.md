@@ -1,25 +1,47 @@
 ---
-location_id: AH-LOC-PLACEHOLDER-012
+schema_version: 1
+id: AH-LOC-PLACEHOLDER-012
+record_type: location
 name: The Merchant District
-type: Placeholder location profile
+slug: merchant-district
 aliases:
-  - Merchant District
-series: The Brass Guardian / The Aetherhaven Chronicles
-canon_status: Source-grounded placeholder
-canonical_scope: Aetherhaven volumes
-last_updated: 2026-08-02
-jurisdiction: []
-access_status: []
-map_reference_category: numbered
-map_number: 12
-parent_location: 
-primary_connections: []
-points_of_interest: []
-temporal_relevance: Unresolved
-source_basis:
-  - Aetherhaven v3.pdf
+- Merchant District
+last_updated: '2026-08-02'
+canon:
+  status: canonical
+  scope:
+  - aetherhaven-volumes
+development:
+  status: placeholder
+  temporal_relevance: unresolved
+disclosure:
+  level: story-sensitive
+subtype: district
+provenance:
+  sources:
+  - kind: manuscript
+    ref: Aetherhaven v3.pdf
+cartography:
+- map_id: aetherhaven-city
+  category: numbered
+  reference: '12'
+public_projection:
+  title: The Merchant District
+  summary: 'The Merchant District is a busy quarter of exchanges, counting houses, shops, warehouses, guild offices, and markets serving citizens and visiting traders. Goods arrive by canal and airship, prices change with weather and rumor, and every street seems to specialize in something different. It is one of the easiest places to hear how large Aetherhaven really is: listen long enough, and nearly every district passes through its stalls.'
+  classification: public
+  archive_section: catalog
+  access_label: public
+  tags:
+  - commerce
+  - markets
+  - map-location
+  related:
+  - AH-LOC-PLACEHOLDER-001
+relationships:
+- target: AH-LOC-PLACEHOLDER-001
+  type: public-related
+  visibility: teaser
 ---
-
 # The Merchant District
 
 > **Placeholder profile.** This record provides a stable link target and preserves the source description until the location receives a complete profile.

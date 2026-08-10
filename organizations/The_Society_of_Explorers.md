@@ -1,24 +1,37 @@
 ---
-organization_id: AH-ORG-PLACEHOLDER-002
+schema_version: 1
+id: AH-ORG-PLACEHOLDER-002
+record_type: organization
 name: The Society of Explorers
-type: Placeholder organization profile
+slug: society-of-explorers
 aliases:
-  - Society of Explorers
-  - Explorers' Society
-series: The Brass Guardian / The Aetherhaven Chronicles
-canon_status: Source-grounded placeholder
-canonical_scope: Aetherhaven volumes
-last_updated: 2026-08-02
-headquarters: []
-known_leadership: []
-primary_connections:
-  - The Order of the Mended Hand
-  - Professor Elias Hawthorne
-temporal_relevance: Unresolved
-source_basis:
-  - Aetherhaven v3.pdf
+- Society of Explorers
+- Explorers' Society
+last_updated: '2026-08-02'
+canon:
+  status: canonical
+  scope:
+  - aetherhaven-volumes
+development:
+  status: placeholder
+  temporal_relevance: unresolved
+disclosure:
+  level: story-sensitive
+provenance:
+  sources:
+  - kind: manuscript
+    ref: Aetherhaven v3.pdf
+public_projection:
+  title: The Society of Explorers
+  summary: The Society of Explorers is a chartered institution associated with expedition credentials, maps, field reports, and the Hawthornes.
+  classification: public
+  archive_section: catalog
+  access_label: public
+  tags:
+  - organization
+  - catalog-stub
+  related: []
 ---
-
 # The Society of Explorers
 
 > **Placeholder profile.** This file provides a stable link target while the organization awaits full development. It does not expand beyond the cited source.
@@ -71,3 +84,9 @@ Whether a Hand practitioner accompanied the Clockwork Jungle expedition remains 
 1. Is this organization independent, subordinate, informal, historical, or partly mythical?
 2. Who leads it, and what authority does it actually possess?
 3. Which current relationships and conflicts require a full profile?
+
+## Schema Migration Preservation Notes
+
+> These values were preserved verbatim from pre-Version-1 front matter because the migration could not safely convert them into a canonical-ID field without inventing or resolving canon.
+
+- **primary_connections:** `["The Order of the Mended Hand","Professor Elias Hawthorne"]`

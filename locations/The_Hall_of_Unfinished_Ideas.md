@@ -1,25 +1,33 @@
 ---
-location_id: AH-LOC-PLACEHOLDER-039
+schema_version: 1
+id: AH-LOC-PLACEHOLDER-039
+record_type: location
 name: The Hall of Unfinished Ideas
-type: Placeholder location profile
+slug: the-hall-of-unfinished-ideas
 aliases:
-  - Hall of Unfinished Ideas
-series: The Brass Guardian / The Aetherhaven Chronicles
-canon_status: Source-grounded placeholder
-canonical_scope: Aetherhaven volumes
-last_updated: 2026-08-02
-jurisdiction: []
-access_status: []
-map_reference_category: unlisted
-map_number: 
-parent_location: The Academy of Invention Campus
-primary_connections: []
-points_of_interest: []
-temporal_relevance: Unresolved
-source_basis:
-  - Aetherhaven v3.pdf
+- Hall of Unfinished Ideas
+last_updated: '2026-08-02'
+canon:
+  status: canonical
+  scope:
+  - aetherhaven-volumes
+development:
+  status: placeholder
+  temporal_relevance: unresolved
+disclosure:
+  level: story-sensitive
+provenance:
+  sources:
+  - kind: manuscript
+    ref: Aetherhaven v3.pdf
+cartography:
+- map_id: aetherhaven-city
+  category: unlisted
+relationships:
+- target: AH-LOC-PLACEHOLDER-022
+  type: parent-location
+  visibility: story-sensitive
 ---
-
 # The Hall of Unfinished Ideas
 
 > **Placeholder profile.** This record provides a stable link target and preserves the source description until the location receives a complete profile.

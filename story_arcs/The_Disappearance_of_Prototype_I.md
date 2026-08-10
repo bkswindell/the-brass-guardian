@@ -1,20 +1,21 @@
 ---
-story_arc_id: AH-ARC-PROTOTYPE-I-DISAPPEARANCE
-title: The Disappearance of Prototype I
-series: The Brass Guardian / The Aetherhaven Chronicles
-canon_status: Canonical hidden arc
-canonical_scope: Aetherhaven volumes
-last_updated: 2026-08-01
-primary_factions:
-  - The Order of the Closed Eye
-  - The Ninth Guild
-  - The Underclock
-  - The Academy of Invention
-primary_mystery:
-  - Prototype I
-temporal_relevance: High
+schema_version: 1
+id: AH-ARC-PROTOTYPE-I-DISAPPEARANCE
+record_type: story_arc
+name: The Disappearance of Prototype I
+slug: the-disappearance-of-prototype-i-story-arc
+aliases: []
+last_updated: '2026-08-01'
+canon:
+  status: canonical
+  scope:
+  - aetherhaven-volumes
+development:
+  status: working
+  temporal_relevance: high
+disclosure:
+  level: creator-only
 ---
-
 # The Disappearance of Prototype I
 
 ## Hidden Canonical Sequence
@@ -88,3 +89,10 @@ For [Elara](../characters/Doctor_Elara_Quill.md), it may expose what she knew, w
 - Neither the Order nor [Ninth Guild](../organizations/The_Ninth_Guild.md) is confirmed to possess Prototype I.
 - Prototype I must retain the possibility of agency.
 - The mystery should unfold across multiple stories rather than one exposition scene.
+
+## Schema Migration Preservation Notes
+
+> These values were preserved verbatim from pre-Version-1 front matter because the migration could not safely convert them into a canonical-ID field without inventing or resolving canon.
+
+- **primary_factions:** `["The Order of the Closed Eye","The Ninth Guild","The Underclock","The Academy of Invention"]`
+- **primary_mystery:** `["Prototype I"]`

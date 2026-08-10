@@ -1,33 +1,29 @@
 ---
-location_id: AH-LOC-MOON-GARDEN
+schema_version: 1
+id: AH-LOC-MOON-GARDEN
+record_type: location
 name: The Moon Garden
-type: Hidden nocturnal layer of the Clockwork Gardens
+slug: the-moon-garden
 aliases:
-  - The Silver Garden
-  - The Garden After Sunset
-  - The Dreaming Garden
-series: The Brass Guardian / The Aetherhaven Chronicles
-canon_status: Canonical hidden location
-canonical_scope: Aetherhaven volumes
-last_updated: 2026-08-01
-parent_location:
-  - The Clockwork Gardens
-public_access:
-  - Not officially acknowledged
-actual_access:
-  - Invitation or recognition by the Gardens
-primary_guardian:
-  - Juniper Bell
-primary_mechanism:
-  - The Dream Engine
-key_connections:
-  - Amelia Hawthorne
-  - Pip
-  - The Keeper of Dreams
-  - The Conservancy of Living Mechanisms
-temporal_relevance: Critical
+- The Silver Garden
+- The Garden After Sunset
+- The Dreaming Garden
+last_updated: '2026-08-01'
+canon:
+  status: canonical
+  scope:
+  - aetherhaven-volumes
+development:
+  status: working
+  temporal_relevance: critical
+disclosure:
+  level: story-sensitive
+descriptor: Hidden nocturnal layer of the Clockwork Gardens
+relationships:
+- target: AH-LOC-PLACEHOLDER-003
+  type: parent-location
+  visibility: story-sensitive
 ---
-
 # The Moon Garden
 
 ## Public Rumors
@@ -524,3 +520,13 @@ Children across [Aetherhaven](Aetherhaven.md) share a dream of a path beneath [t
 8. Why do some rumors describe locations outside the visible Gardens?
 9. What happens when the Moon Garden refuses [Juniper](../characters/Juniper_Bell.md)?
 10. Can a visitor be invited by the Garden without [Juniper](../characters/Juniper_Bell.md)'s knowledge?
+
+## Schema Migration Preservation Notes
+
+> These values were preserved verbatim from pre-Version-1 front matter because the migration could not safely convert them into a canonical-ID field without inventing or resolving canon.
+
+- **public_access:** `["Not officially acknowledged"]`
+- **actual_access:** `["Invitation or recognition by the Gardens"]`
+- **primary_guardian:** `["Juniper Bell"]`
+- **primary_mechanism:** `["The Dream Engine"]`
+- **key_connections:** `["Amelia Hawthorne","Pip","The Keeper of Dreams","The Conservancy of Living Mechanisms"]`

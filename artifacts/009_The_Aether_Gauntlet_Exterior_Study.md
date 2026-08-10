@@ -1,19 +1,40 @@
 ---
-artifact_id: AH-ART-009
-slate_number: 9
+schema_version: 1
+id: AH-ART-009
+record_type: artifact
 name: 'The Aether Gauntlet: Exterior Study'
-category: Amelia and the Aether Gauntlet
-canon_status: canonical-working-artifact
-image_status: image-linked
+slug: the-aether-gauntlet-exterior-study
+aliases: []
 last_updated: '2026-08-02'
-related_markdown:
-- ../story_arcs/The_Black_Catalogue_Arc.md
-- ../story_arcs/The_Keeper_of_Dreams.md
-canonical_images:
-- ../art/AH-1-004_The_Aether_Gauntlet-Exterior_Study.png
-visual_transcription_status: complete
+canon:
+  status: canonical
+  scope:
+  - aetherhaven-volumes
+development:
+  status: working
+disclosure:
+  level: story-sensitive
+assets:
+- id: plate-1
+  path: art/AH-1-004_The_Aether_Gauntlet-Exterior_Study.png
+  role: plate
+  visibility: story-sensitive
+  alt: 'Canonical archival plate for The Aether Gauntlet: Exterior Study.'
+artifact:
+  category: Amelia and the Aether Gauntlet
+  catalog_number: "- **The Aether Gauntlet — Exterior Study**\n\n### Printed description\n\n> Primary interface and receptacle for the Aether Heart. Designed and constructed by Prof. Elias Hawthorne for his daughter, Amelia Hawthorne. Purpose: Channel, protect, and amplify Aetheric power through precision mechanisms.\n\n### Quotation\n\n> “It is not merely a machine, but a bridge between flesh and force.”  \n> — E.H.\n\n### Date tag\n\n- **DATE:**"
+production:
+  slate_number: 9
+  image_status: image-linked
+  visual_transcription_status: complete
+relationships:
+- target: AH-ARC-NINTH-GUILD
+  type: related-to
+  visibility: story-sensitive
+- target: AH-ARC-KEEPER-OF-DREAMS
+  type: related-to
+  visibility: story-sensitive
 ---
-
 # The Aether Gauntlet: Exterior Study
 
 > **Artifact Image Slate #9** · [Amelia](../characters/Amelia_Hawthorne.md) and the Aether Gauntlet · [Artifact standard](../docs/standards/CANON_MARKDOWN_STANDARD.md)

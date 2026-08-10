@@ -1,18 +1,31 @@
 ---
-artifact_id: AH-ART-033
-slate_number: 33
-name: "Gearbreaker Excavation Photograph"
-category: "The Machine Behind the Wall"
-canon_status: planned-artifact-concept
-image_status: image-needed
-last_updated: 2026-08-02
-related_markdown:
-  - "../organizations/The_Mechanists_Guild.md"
-  - "../organizations/The_Eight_Founding_Engineering_Guilds.md"
-canonical_images:
-  - null
+schema_version: 1
+id: AH-ART-033
+record_type: artifact
+name: Gearbreaker Excavation Photograph
+slug: gearbreaker-excavation-photograph
+aliases: []
+last_updated: '2026-08-02'
+canon:
+  status: proposed
+  scope: []
+development:
+  status: concept
+disclosure:
+  level: creator-only
+artifact:
+  category: The Machine Behind the Wall
+production:
+  slate_number: 33
+  image_status: image-needed
+relationships:
+- target: AH-ORG-MECHANISTS-GUILD
+  type: related-to
+  visibility: story-sensitive
+- target: AH-ORG-EIGHT-FOUNDING-GUILDS
+  type: related-to
+  visibility: story-sensitive
 ---
-
 # Gearbreaker Excavation Photograph
 
 > **Artifact Image Slate #33** · The Machine Behind the Wall · [Artifact standard](../docs/standards/CANON_MARKDOWN_STANDARD.md)

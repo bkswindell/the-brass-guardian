@@ -1,36 +1,42 @@
 ---
-organization_id: AH-ORG-PLACEHOLDER-024
+schema_version: 1
+id: AH-ORG-PLACEHOLDER-024
+record_type: organization
 name: The Order of the Mended Hand
-type: Chartered hospitaller medical order, surgical network, rehabilitation authority, prosthetics service, and field-response organization
+slug: order-of-the-mended-hand
 aliases:
-  - The Mended Hand
-  - The Hand
-series: The Brass Guardian / The Aetherhaven Chronicles
-canon_status: Owner-directed canonical placeholder
-canonical_scope: Aetherhaven volumes
-last_updated: 2026-08-02
-headquarters:
-  - The Hall of Vital Mechanics, Government District
-known_leadership: []
-primary_connections:
-  - The Government District
-  - The Academy of Invention
-  - The Great Workshops
-  - The Cauldron
-  - The Brass Watch
-  - The Mechanists' Guild
-  - The Society of Explorers
-  - Professor Elias Hawthorne
-  - Amelia Hawthorne
-  - The Clockwork Jungle Expedition
-  - The Unwound
-  - The Order of the Closed Eye
-  - The Conservancy of Living Mechanisms, occasional resource exchange only
-temporal_relevance: High
-source_basis:
-  - Owner canon decision recorded August 2, 2026
+- The Mended Hand
+- The Hand
+last_updated: '2026-08-02'
+canon:
+  status: canonical
+  scope:
+  - aetherhaven-volumes
+development:
+  status: placeholder
+  temporal_relevance: high
+disclosure:
+  level: story-sensitive
+descriptor: Chartered hospitaller medical order, surgical network, rehabilitation authority, prosthetics service, and field-response organization
+provenance:
+  sources:
+  - kind: author-decision
+    ref: Owner canon decision recorded August 2, 2026
+public_projection:
+  title: The Order of the Mended Hand
+  summary: The Mended Hand is Aetherhaven’s principal institution for severe medicine, surgery, trauma care, rehabilitation, prosthetics, and field response.
+  classification: public
+  archive_section: catalog
+  access_label: public
+  tags:
+  - organization
+  - catalog-stub
+  related: []
+relationships:
+- target: AH-LOC-HALL-VITAL-MECHANICS
+  type: headquartered-at
+  visibility: story-sensitive
 ---
-
 # The Order of the Mended Hand
 
 > **Canonical working placeholder.** This institution exists throughout Aetherhaven and its expeditionary networks. Its formal name and common shorthand are canonical. Its leadership, internal ranks, branch names, founding history, and full historical role remain open for later development.
@@ -536,3 +542,9 @@ Avoid modern visual shorthand such as perfect sterility, effortless diagnostics,
 - [ ] Select a recurring compassionate practitioner and a recurring morally compromised practitioner when stories require them.
 - [ ] Create the Hand seal and field-medical visual language.
 - [ ] Resolve the exact Clockwork Jungle medical-response sequence only when the arc requires it.
+
+## Schema Migration Preservation Notes
+
+> These values were preserved verbatim from pre-Version-1 front matter because the migration could not safely convert them into a canonical-ID field without inventing or resolving canon.
+
+- **primary_connections:** `["The Government District","The Academy of Invention","The Great Workshops","The Cauldron","The Brass Watch","The Mechanists' Guild","The Society of Explorers","Professor Elias Hawthorne","Amelia Hawthorne","The Clockwork Jungle Expedition","The Unwound","The Order of the Closed Eye","The Conservancy of Living Mechanisms, occasional resource exchange only"]`

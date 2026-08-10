@@ -1,29 +1,42 @@
 ---
-location_id: AH-LOC-PLACEHOLDER-028
+schema_version: 1
+id: AH-LOC-PLACEHOLDER-028
+record_type: location
 name: The Clockwork Jungle
-type: Placeholder location profile
+slug: the-clockwork-jungle
 aliases:
-  - Clockwork Jungle
-series: The Brass Guardian / The Aetherhaven Chronicles
-canon_status: Source-grounded placeholder
-canonical_scope: Aetherhaven volumes
-last_updated: 2026-08-02
-jurisdiction: []
-access_status: []
-map_reference_category: unlisted
-map_number: 
-parent_location: 
-primary_connections:
-  - Professor Elias Hawthorne
-  - Amelia Hawthorne
-  - The Clockwork Jungle Expedition
-  - Return to the Clockwork Jungle
-points_of_interest: []
-temporal_relevance: Unresolved
-source_basis:
-  - Aetherhaven v3.pdf
+- Clockwork Jungle
+last_updated: '2026-08-02'
+canon:
+  status: canonical
+  scope:
+  - aetherhaven-volumes
+development:
+  status: placeholder
+  temporal_relevance: unresolved
+disclosure:
+  level: story-sensitive
+provenance:
+  sources:
+  - kind: manuscript
+    ref: Aetherhaven v3.pdf
+cartography:
+- map_id: aetherhaven-city
+  category: unlisted
+relationships:
+- target: AH-CHAR-001
+  type: connected-to
+  visibility: story-sensitive
+- target: AH-CHAR-002
+  type: connected-to
+  visibility: story-sensitive
+- target: AH-HIST-016
+  type: connected-to
+  visibility: story-sensitive
+- target: AH-ARC-007
+  type: connected-to
+  visibility: story-sensitive
 ---
-
 # The Clockwork Jungle
 
 > **Placeholder profile.** This record provides a stable link target and preserves the source description until the location receives a complete profile.

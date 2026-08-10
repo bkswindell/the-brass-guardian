@@ -1,25 +1,40 @@
 ---
-location_id: AH-LOC-PLACEHOLDER-025
+schema_version: 1
+id: AH-LOC-PLACEHOLDER-025
+record_type: location
 name: The Echoing Depths
-type: Placeholder location profile
+slug: echoing-depths
 aliases:
-  - Echoing Depths
-series: The Brass Guardian / The Aetherhaven Chronicles
-canon_status: Source-grounded placeholder
-canonical_scope: Aetherhaven volumes
-last_updated: 2026-08-02
-jurisdiction: []
-access_status: []
-map_reference_category: restricted
-map_number: C
-parent_location: 
-primary_connections: []
-points_of_interest: []
-temporal_relevance: Unresolved
-source_basis:
-  - Aetherhaven v3.pdf
+- Echoing Depths
+last_updated: '2026-08-02'
+canon:
+  status: canonical
+  scope:
+  - aetherhaven-volumes
+development:
+  status: placeholder
+  temporal_relevance: unresolved
+disclosure:
+  level: story-sensitive
+provenance:
+  sources:
+  - kind: manuscript
+    ref: Aetherhaven v3.pdf
+cartography:
+- map_id: aetherhaven-city
+  category: restricted
+  reference: C
+public_projection:
+  title: The Echoing Depths
+  summary: 'Map annotation: “No one returns.” Further record sealed.'
+  classification: teaser
+  archive_section: hidden
+  access_label: restricted
+  tags:
+  - restricted-location
+  - hidden-archive
+  related: []
 ---
-
 # The Echoing Depths
 
 > **Placeholder profile.** This record provides a stable link target and preserves the source description until the location receives a complete profile.

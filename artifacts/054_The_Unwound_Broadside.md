@@ -1,19 +1,34 @@
 ---
-artifact_id: AH-ART-054
-slate_number: 54
-name: "The Unwound Broadside"
-category: "Organizations and Secret Societies"
-canon_status: planned-artifact-concept
-image_status: image-needed
-last_updated: 2026-08-02
-related_markdown:
-  - "../organizations/The_Unwound.md"
-  - "../organizations/The_Severed_Coil.md"
-  - "../story_arcs/The_Severed_Coil_Conflict.md"
-canonical_images:
-  - null
+schema_version: 1
+id: AH-ART-054
+record_type: artifact
+name: The Unwound Broadside
+slug: the-unwound-broadside
+aliases: []
+last_updated: '2026-08-02'
+canon:
+  status: proposed
+  scope: []
+development:
+  status: concept
+disclosure:
+  level: creator-only
+artifact:
+  category: Organizations and Secret Societies
+production:
+  slate_number: 54
+  image_status: image-needed
+relationships:
+- target: AH-ORG-UNWOUND
+  type: related-to
+  visibility: story-sensitive
+- target: AH-ORG-SEVERED-COIL
+  type: related-to
+  visibility: story-sensitive
+- target: AH-ARC-SEVERED-COIL-CONFLICT
+  type: related-to
+  visibility: story-sensitive
 ---
-
 # The Unwound Broadside
 
 > **Artifact Image Slate #54** · Organizations and Secret Societies · [Artifact standard](../docs/standards/CANON_MARKDOWN_STANDARD.md)

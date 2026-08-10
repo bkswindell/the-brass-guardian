@@ -1,43 +1,61 @@
 ---
-historical_event_id: AH-HIST-016
+schema_version: 1
+id: AH-HIST-016
+record_type: historical_event
 name: The Clockwork Jungle Expedition
+slug: the-clockwork-jungle-expedition
 aliases:
-  - The Clockwork Jungle Accident
-  - The Vault Awakening
-  - The Hawthorne Jungle Expedition
-type: Expedition disaster and Ancient-mechanism awakening
-series: The Brass Guardian / The Aetherhaven Chronicles
-canon_status: Canonical historical event with restricted chronology
-canonical_scope: Aetherhaven volumes
-last_updated: 2026-08-02
-date_status: exact date unresolved
+- The Clockwork Jungle Accident
+- The Vault Awakening
+- The Hawthorne Jungle Expedition
+last_updated: '2026-08-02'
+canon:
+  status: canonical
+  scope:
+  - aetherhaven-volumes
+development:
+  status: working
+disclosure:
+  level: story-sensitive
+descriptor: Expedition disaster and Ancient-mechanism awakening
+provenance:
+  sources:
+  - kind: manuscript
+    ref: Aetherhaven v3.pdf
+  - kind: canonical-record
+    ref: Current canonical Markdown
+  - kind: author-decision
+    ref: Canon decisions recorded August 2, 2026
 chronology:
-  - before Volume 1
-locations:
-  - The Clockwork Jungle
-participants:
-  - Professor Elias Hawthorne
-  - Amelia Hawthorne
-  - additional expedition members unresolved
-organizations:
-  - Society of Explorers, possible sponsor or record-holder
-  - Academy of Invention, possible research connection
-  - The Order of the Mended Hand, possible medical support
-related_artifacts:
-  - The Aether Gauntlet: Exterior Study
-  - Professor Hawthorne's Field Journal
-  - The Aether Heart
-related_story_arcs:
-  - Return to the Clockwork Jungle
-public_record_status: simplified and incomplete
-restricted_record_status: fragmented, contradictory, and partly withheld
-order_interest: possible but unconfirmed
-source_basis:
-  - Aetherhaven v3.pdf
-  - Current canonical Markdown
-  - Canon decisions recorded August 2, 2026
+  status: relative
+  display: before Volume 1
+  note: exact date unresolved
+historical_event:
+  public_record_status: simplified and incomplete
+  restricted_record_status: fragmented, contradictory, and partly withheld
+relationships:
+- target: AH-LOC-PLACEHOLDER-028
+  type: occurred-at
+  visibility: story-sensitive
+- target: AH-CHAR-001
+  type: participant
+  visibility: story-sensitive
+- target: AH-CHAR-002
+  type: participant
+  visibility: story-sensitive
+- target: AH-ORG-PLACEHOLDER-002
+  type: involved-organization
+  visibility: story-sensitive
+- target: AH-ORG-PLACEHOLDER-024
+  type: involved-organization
+  visibility: story-sensitive
+- target: AH-ART-008
+  type: related-artifact
+  visibility: story-sensitive
+- target: AH-ARC-007
+  type: related-story-arc
+  visibility: story-sensitive
 ---
-
 # The Clockwork Jungle Expedition
 
 > **Canonical historical event.** This file owns the limited objective history currently established for the expedition and disaster. [Return to the Clockwork Jungle](../story_arcs/The_Return_to_the_Clockwork_Jungle.md) owns the later story in which Amelia, Elias, and the reader revisit the site and test the surviving accounts.
@@ -331,3 +349,13 @@ Possible but unconfirmed. Missing records must not automatically be attributed t
 - [ ] Determine the machine's trigger and purpose.
 - [ ] Determine the origin and timing of the Aether Heart.
 - [ ] Determine which memories and records were altered, lost, or misunderstood.
+
+## Schema Migration Preservation Notes
+
+> These values were preserved verbatim from pre-Version-1 front matter because the migration could not safely convert them into a canonical-ID field without inventing or resolving canon.
+
+- **participants:** `additional expedition members unresolved`
+- **organizations:** `Academy of Invention, possible research connection`
+- **related_artifacts:** `{"The Aether Gauntlet":"Exterior Study"}`
+- **related_artifacts:** `The Aether Heart`
+- **order_interest:** `possible but unconfirmed`

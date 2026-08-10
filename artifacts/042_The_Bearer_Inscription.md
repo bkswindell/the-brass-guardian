@@ -1,18 +1,31 @@
 ---
-artifact_id: AH-ART-042
-slate_number: 42
-name: "The Bearer Inscription"
-category: "The Door That Remembered Amelia"
-canon_status: planned-artifact-concept
-image_status: image-needed
-last_updated: 2026-08-02
-related_markdown:
-  - "../story_arcs/The_Thirteenth_Chair.md"
-  - "../organizations/The_Order_of_the_Closed_Eye.md"
-canonical_images:
-  - null
+schema_version: 1
+id: AH-ART-042
+record_type: artifact
+name: The Bearer Inscription
+slug: the-bearer-inscription
+aliases: []
+last_updated: '2026-08-02'
+canon:
+  status: proposed
+  scope: []
+development:
+  status: concept
+disclosure:
+  level: creator-only
+artifact:
+  category: The Door That Remembered Amelia
+production:
+  slate_number: 42
+  image_status: image-needed
+relationships:
+- target: AH-ARC-THIRTEENTH-CHAIR
+  type: related-to
+  visibility: story-sensitive
+- target: AH-ORG-CLOSED-EYE
+  type: related-to
+  visibility: story-sensitive
 ---
-
 # The Bearer Inscription
 
 > **Artifact Image Slate #42** · The Door That Remembered [Amelia](../characters/Amelia_Hawthorne.md) · [Artifact standard](../docs/standards/CANON_MARKDOWN_STANDARD.md)

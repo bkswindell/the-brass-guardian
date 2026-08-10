@@ -1,20 +1,46 @@
 ---
-artifact_id: AH-ART-015
-slate_number: 15
+schema_version: 1
+id: AH-ART-015
+record_type: artifact
 name: Botanical Plate of the Dream Blossom
-category: The Clockwork Gardens
-canon_status: canonical-working-artifact
-image_status: image-linked
+slug: botanical-plate-of-the-dream-blossom
+aliases: []
 last_updated: '2026-08-02'
-related_markdown:
-- ../characters/Juniper_Bell.md
-- ../locations/The_Moon_Garden.md
-- ../story_arcs/The_Keeper_of_Dreams.md
-canonical_images:
-- ../art/AH-1-006_Dream_Blossom.png
-visual_transcription_status: complete
----
+canon:
+  status: canonical
+  scope:
+  - aetherhaven-volumes
+development:
+  status: working
+disclosure:
+  level: story-sensitive
+assets:
+- id: plate-1
+  path: art/AH-1-006_Dream_Blossom.png
+  role: plate
+  visibility: story-sensitive
+  alt: Canonical archival plate for Botanical Plate of the Dream Blossom.
+artifact:
+  category: The Clockwork Gardens
+  catalog_number: |-
+    ### Specimen card
 
+    - **SPECIMEN:**
+production:
+  slate_number: 15
+  image_status: image-linked
+  visual_transcription_status: complete
+relationships:
+- target: AH-CHAR-JUNIPER-BELL
+  type: related-to
+  visibility: story-sensitive
+- target: AH-LOC-MOON-GARDEN
+  type: related-to
+  visibility: story-sensitive
+- target: AH-ARC-KEEPER-OF-DREAMS
+  type: related-to
+  visibility: story-sensitive
+---
 # Botanical Plate of the Dream Blossom
 
 > **Artifact Image Slate #15** · [The Clockwork Gardens](../locations/The_Clockwork_Gardens.md) · [Artifact standard](../docs/standards/CANON_MARKDOWN_STANDARD.md)

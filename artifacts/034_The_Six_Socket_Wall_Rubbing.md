@@ -1,18 +1,31 @@
 ---
-artifact_id: AH-ART-034
-slate_number: 34
-name: "The Six-Socket Wall Rubbing"
-category: "The Machine Behind the Wall"
-canon_status: planned-artifact-concept
-image_status: image-needed
-last_updated: 2026-08-02
-related_markdown:
-  - "../story_arcs/The_Thirteenth_Chair.md"
-  - "../organizations/The_Eight_Founding_Engineering_Guilds.md"
-canonical_images:
-  - null
+schema_version: 1
+id: AH-ART-034
+record_type: artifact
+name: The Six-Socket Wall Rubbing
+slug: the-six-socket-wall-rubbing
+aliases: []
+last_updated: '2026-08-02'
+canon:
+  status: proposed
+  scope: []
+development:
+  status: concept
+disclosure:
+  level: creator-only
+artifact:
+  category: The Machine Behind the Wall
+production:
+  slate_number: 34
+  image_status: image-needed
+relationships:
+- target: AH-ARC-THIRTEENTH-CHAIR
+  type: related-to
+  visibility: story-sensitive
+- target: AH-ORG-EIGHT-FOUNDING-GUILDS
+  type: related-to
+  visibility: story-sensitive
 ---
-
 # The Six-Socket Wall Rubbing
 
 > **Artifact Image Slate #34** · The Machine Behind the Wall · [Artifact standard](../docs/standards/CANON_MARKDOWN_STANDARD.md)

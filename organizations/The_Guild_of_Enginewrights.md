@@ -1,22 +1,37 @@
 ---
-organization_id: AH-ORG-PLACEHOLDER-016
+schema_version: 1
+id: AH-ORG-PLACEHOLDER-016
+record_type: organization
 name: The Guild of Enginewrights
-type: Placeholder organization profile
+slug: guild-of-enginewrights
 aliases:
-  - Guild of Enginewrights
-  - Enginewrights
-series: The Brass Guardian / The Aetherhaven Chronicles
-canon_status: Source-grounded placeholder
-canonical_scope: Aetherhaven volumes
-last_updated: 2026-08-02
-headquarters: []
-known_leadership: []
-primary_connections: []
-temporal_relevance: Unresolved
-source_basis:
-  - Current canonical Markdown
+- Guild of Enginewrights
+- Enginewrights
+last_updated: '2026-08-02'
+canon:
+  status: canonical
+  scope:
+  - aetherhaven-volumes
+development:
+  status: placeholder
+  temporal_relevance: unresolved
+disclosure:
+  level: story-sensitive
+provenance:
+  sources:
+  - kind: canonical-record
+    ref: Current canonical Markdown
+public_projection:
+  title: The Guild of Enginewrights
+  summary: The Guild of Enginewrights specializes in steam, pressure, turbines, heavy machinery, and engine systems.
+  classification: public
+  archive_section: catalog
+  access_label: public
+  tags:
+  - organization
+  - catalog-stub
+  related: []
 ---
-
 # The Guild of Enginewrights
 
 > **Placeholder profile.** This file provides a stable link target while the organization awaits full development. It does not expand beyond the cited source.

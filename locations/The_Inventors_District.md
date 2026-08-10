@@ -1,26 +1,48 @@
 ---
-location_id: AH-LOC-PLACEHOLDER-013
+schema_version: 1
+id: AH-LOC-PLACEHOLDER-013
+record_type: location
 name: The Inventors' District
-type: Placeholder location profile
+slug: inventors-district
 aliases:
-  - Inventors' District
-  - Inventors District
-series: The Brass Guardian / The Aetherhaven Chronicles
-canon_status: Source-grounded placeholder
-canonical_scope: Aetherhaven volumes
-last_updated: 2026-08-02
-jurisdiction: []
-access_status: []
-map_reference_category: numbered
-map_number: 13
-parent_location: 
-primary_connections: []
-points_of_interest: []
-temporal_relevance: Unresolved
-source_basis:
-  - Aetherhaven v3.pdf
+- Inventors' District
+- Inventors District
+last_updated: '2026-08-02'
+canon:
+  status: canonical
+  scope:
+  - aetherhaven-volumes
+development:
+  status: placeholder
+  temporal_relevance: unresolved
+disclosure:
+  level: story-sensitive
+subtype: district
+provenance:
+  sources:
+  - kind: manuscript
+    ref: Aetherhaven v3.pdf
+cartography:
+- map_id: aetherhaven-city
+  category: numbered
+  reference: '13'
+public_projection:
+  title: The Inventors’ District
+  summary: The Inventors’ District gathers workshops, laboratories, lecture rooms, prototype halls, and rented attics around the Academy of Invention. Students hurry between demonstrations, mechanists test ideas in narrow courtyards, and shop windows display devices whose purposes are not always immediately obvious. The district values curiosity, practical skill, and the courage to admit when an invention needs one more revision—preferably before it reaches the street.
+  classification: public
+  archive_section: catalog
+  access_label: public
+  tags:
+  - invention
+  - workshops
+  - map-location
+  related:
+  - AH-LOC-PLACEHOLDER-001
+relationships:
+- target: AH-LOC-PLACEHOLDER-001
+  type: public-related
+  visibility: teaser
 ---
-
 # The Inventors' District
 
 > **Placeholder profile.** This record provides a stable link target and preserves the source description until the location receives a complete profile.

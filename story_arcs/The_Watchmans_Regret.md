@@ -1,30 +1,28 @@
 ---
-story_arc_id: AH-ARC-006
+schema_version: 1
+id: AH-ARC-006
+record_type: story_arc
 name: The Watchman's Regret
+slug: the-watchmans-regret
 aliases: []
-type: Coming-of-age story concept
-series: The Brass Guardian / The Aetherhaven Chronicles
-canon_status: Canonical future story concept
-canonical_scope: Volume 2 or later; exact placement unresolved
-last_updated: 2026-08-02
-primary_characters:
-  - Amelia Hawthorne
-  - unnamed veteran Brass Watch officer
-  - Orin Flint
-supporting_characters:
-  - Chief Inspector Beatrice Thorne
-  - Professor Elias Hawthorne
-primary_locations: []
-related_historical_events:
-  - The Gearbreaker Standoff
-related_artifacts: []
-central_themes:
-  - certainty versus understanding
-  - good people on opposing sides
-  - responsibility and authority
-  - mentorship after failure
+last_updated: '2026-08-02'
+canon:
+  status: canonical
+  scope:
+  - volume-2-or-later-exact-placement-unresolved
+development:
+  status: concept
+disclosure:
+  level: creator-only
+descriptor: Coming-of-age story concept
+relationships:
+- target: AH-CHAR-002
+  type: features-character
+  visibility: story-sensitive
+- target: AH-CHAR-005
+  type: features-character
+  visibility: story-sensitive
 ---
-
 # The Watchman's Regret
 
 ## Canonical Story Purpose
@@ -251,3 +249,12 @@ Whether they ever spoke privately after the Standoff remains unresolved.
 - [ ] Decide the restrained Orin-Amelia coda.
 - [ ] Outline the present-day plot.
 - [ ] Draft the complete story.
+
+## Schema Migration Preservation Notes
+
+> These values were preserved verbatim from pre-Version-1 front matter because the migration could not safely convert them into a canonical-ID field without inventing or resolving canon.
+
+- **primary_characters:** `unnamed veteran Brass Watch officer`
+- **supporting_characters:** `["Chief Inspector Beatrice Thorne","Professor Elias Hawthorne"]`
+- **related_historical_events:** `["The Gearbreaker Standoff"]`
+- **central_themes:** `["certainty versus understanding","good people on opposing sides","responsibility and authority","mentorship after failure"]`

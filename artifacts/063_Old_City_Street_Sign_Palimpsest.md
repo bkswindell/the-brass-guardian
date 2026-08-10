@@ -1,18 +1,31 @@
 ---
-artifact_id: AH-ART-063
-slate_number: 63
-name: "Old City Street Sign Palimpsest"
-category: "Background Lore and Transitional Artifacts"
-canon_status: planned-artifact-concept
-image_status: image-needed
-last_updated: 2026-08-02
-related_markdown:
-  - "../organizations/The_Lamplighters_Fellowship.md"
-  - "../organizations/The_Underclock.md"
-canonical_images:
-  - null
+schema_version: 1
+id: AH-ART-063
+record_type: artifact
+name: Old City Street Sign Palimpsest
+slug: old-city-street-sign-palimpsest
+aliases: []
+last_updated: '2026-08-02'
+canon:
+  status: proposed
+  scope: []
+development:
+  status: concept
+disclosure:
+  level: creator-only
+artifact:
+  category: Background Lore and Transitional Artifacts
+production:
+  slate_number: 63
+  image_status: image-needed
+relationships:
+- target: AH-ORG-LAMPLIGHTERS-FELLOWSHIP
+  type: related-to
+  visibility: story-sensitive
+- target: AH-ORG-UNDERCLOCK
+  type: related-to
+  visibility: story-sensitive
 ---
-
 # Old City Street Sign Palimpsest
 
 > **Artifact Image Slate #63** · Background Lore and Transitional Artifacts · [Artifact standard](../docs/standards/CANON_MARKDOWN_STANDARD.md)

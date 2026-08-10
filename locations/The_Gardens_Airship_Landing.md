@@ -1,42 +1,81 @@
 ---
-location_id: AH-LOC-AIRSHIP-LANDING
+schema_version: 1
+id: AH-LOC-AIRSHIP-LANDING
+record_type: location
 name: The Gardens Airship Landing
-map_number: 8
-type: Restricted civic, courier, exploration, and emergency airship platform
+slug: gardens-airship-landing
 aliases:
-  - The Garden Landing
-  - The Explorer's Berth
-  - The Inner Landing
-series: The Brass Guardian / The Aetherhaven Chronicles
-canon_status: Canonical working profile
-canonical_scope: Aetherhaven volumes
-last_updated: 2026-08-01
-jurisdiction:
+- The Garden Landing
+- The Explorer's Berth
+- The Inner Landing
+last_updated: '2026-08-01'
+canon:
+  status: canonical
+  scope:
+  - aetherhaven-volumes
+development:
+  status: working
+  temporal_relevance: high
+disclosure:
+  level: story-sensitive
+descriptor: Restricted civic, courier, exploration, and emergency airship platform
+cartography:
+- map_id: aetherhaven-city
+  category: numbered
+  reference: '8'
+location:
+  jurisdiction:
   - Clockwork Gardens administration
   - Harbormaster's Office
   - Brass Watch security for official arrivals
-access_status:
+  access_status:
   - Restricted to approved explorers, couriers, officials, emergency vessels, and invited guests
-map_reference_category: numbered
-primary_connections:
-  - The Clockwork Gardens
-  - The Wayfinder
-  - The Morningstar berth
-  - Captain Mara Voss
-  - Elias Hawthorne
-  - Amelia Hawthorne
-  - Dock Zero
-points_of_interest:
-  - The Landing Terrace
-  - The Wayfinder Berth
-  - The Morningstar Berth
-  - The Emergency Repair Cradle
-  - The Courier House
-  - The Windglass Pavilion
-  - The Garden Signal Mast
-temporal_relevance: High
+public_projection:
+  title: The Gardens Airship Landing
+  summary: The Gardens Airship Landing is a quiet elevated platform for explorers, couriers, official visitors, and vessels needing urgent assistance. Brass walkways, flowering terraces, and luminous guide lamps overlook the Reflection Canals, while the Wayfinder rests at her familiar berth between expeditions. One polished berth remains reserved for a vessel called the Morningstar. No such ship appears in the current registry. The gardeners polish the nameplate anyway.
+  classification: teaser
+  archive_section: catalog
+  access_label: teaser
+  tags:
+  - airships
+  - clockwork-gardens
+  - map-location
+  related:
+  - AH-LOC-PLACEHOLDER-001
+  - AH-LOC-PLACEHOLDER-003
+  - AH-VESSEL-WAYFINDER
+relationships:
+- target: AH-LOC-PLACEHOLDER-003
+  type: connected-to
+  visibility: teaser
+- target: AH-VESSEL-WAYFINDER
+  type: connected-to
+  visibility: teaser
+- target: AH-LOC-PLACEHOLDER-045
+  type: connected-to
+  visibility: story-sensitive
+- target: AH-CHAR-MARA-VOSS
+  type: connected-to
+  visibility: story-sensitive
+- target: AH-CHAR-001
+  type: connected-to
+  visibility: story-sensitive
+- target: AH-CHAR-002
+  type: connected-to
+  visibility: story-sensitive
+- target: AH-LOC-PLACEHOLDER-043
+  type: connected-to
+  visibility: story-sensitive
+- target: AH-LOC-PLACEHOLDER-046
+  type: contains
+  visibility: story-sensitive
+- target: AH-LOC-PLACEHOLDER-045
+  type: contains
+  visibility: story-sensitive
+- target: AH-LOC-PLACEHOLDER-001
+  type: public-related
+  visibility: teaser
 ---
-
 # The Gardens Airship Landing
 
 ## Public Map Reference
@@ -418,3 +457,13 @@ Dockworkers find both the Wayfinder and Morningstar berths under tension, as tho
 8. What unexplained components are stored at [the Wayfinder Berth](The_Wayfinder_Berth.md)?
 9. Who delivers the Courier House messages without landing?
 10. What would happen if another vessel attempted to occupy [the Morningstar Berth](The_Morningstar_Berth.md)?
+
+## Schema Migration Preservation Notes
+
+> These values were preserved verbatim from pre-Version-1 front matter because the migration could not safely convert them into a canonical-ID field without inventing or resolving canon.
+
+- **points_of_interest:** `The Landing Terrace`
+- **points_of_interest:** `The Emergency Repair Cradle`
+- **points_of_interest:** `The Courier House`
+- **points_of_interest:** `The Windglass Pavilion`
+- **points_of_interest:** `The Garden Signal Mast`

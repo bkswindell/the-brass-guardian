@@ -1,17 +1,28 @@
 ---
-artifact_id: AH-ART-013
-slate_number: 13
-name: "Aether Gauntlet Activation Imprint"
-category: "Amelia and the Aether Gauntlet"
-canon_status: planned-artifact-concept
-image_status: image-needed
-last_updated: 2026-08-02
-related_markdown:
-  - "../story_arcs/The_Thirteenth_Chair.md"
-canonical_images:
-  - null
+schema_version: 1
+id: AH-ART-013
+record_type: artifact
+name: Aether Gauntlet Activation Imprint
+slug: aether-gauntlet-activation-imprint
+aliases: []
+last_updated: '2026-08-02'
+canon:
+  status: proposed
+  scope: []
+development:
+  status: concept
+disclosure:
+  level: creator-only
+artifact:
+  category: Amelia and the Aether Gauntlet
+production:
+  slate_number: 13
+  image_status: image-needed
+relationships:
+- target: AH-ARC-THIRTEENTH-CHAIR
+  type: related-to
+  visibility: story-sensitive
 ---
-
 # Aether Gauntlet Activation Imprint
 
 > **Artifact Image Slate #13** · [Amelia](../characters/Amelia_Hawthorne.md) and the Aether Gauntlet · [Artifact standard](../docs/standards/CANON_MARKDOWN_STANDARD.md)

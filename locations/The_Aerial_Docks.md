@@ -1,43 +1,70 @@
 ---
-location_id: AH-LOC-AERIAL-DOCKS
+schema_version: 1
+id: AH-LOC-AERIAL-DOCKS
+record_type: location
 name: The Aerial Docks
-map_number: 19
-type: Primary commercial airship port
+slug: aerial-docks
 aliases:
-  - The High Port
-  - The Sky Docks
-series: The Brass Guardian / The Aetherhaven Chronicles
-canon_status: Canonical working profile
-canonical_scope: Aetherhaven volumes
-last_updated: 2026-08-01
-jurisdiction:
+- The High Port
+- The Sky Docks
+last_updated: '2026-08-01'
+canon:
+  status: canonical
+  scope:
+  - aetherhaven-volumes
+development:
+  status: working
+  temporal_relevance: critical
+disclosure:
+  level: story-sensitive
+descriptor: Primary commercial airship port
+cartography:
+- map_id: aetherhaven-city
+  category: numbered
+  reference: '19'
+location:
+  jurisdiction:
   - Harbormaster's Office
   - Brass Watch customs and criminal enforcement
   - High Council transit and trade law
-access_status:
+  access_status:
   - Public commercial district
   - Restricted access to active mooring towers, customs platforms, and sealed hangars
-map_reference_category: numbered
-primary_connections:
-  - Captain Mara Voss
-  - The Passenger of Dock Zero
-  - The Morningstar
-  - The Resolute
-  - The Brass Watch
-  - Aerial Mariners' Union
-points_of_interest:
-  - The Mooring Crown
-  - Harbormaster's Tower
-  - The Customs Concourse
-  - The Cargo Exchange
-  - Hangar Row
-  - Dock Zero
-  - The Storm Lantern Array
-  - The Navigator's Gallery
-  - The Quiet Hangar
-temporal_relevance: Critical
+public_projection:
+  title: The Aerial Docks
+  summary: The Aerial Docks are Aetherhaven’s great gateway to the skies. Mooring towers, cargo cranes, customs platforms, and immense dirigible hangars rise above a constant bustle of crews, merchants, couriers, and travelers. From the Mooring Crown, vessels depart for distant settlements and the Skyward Isles. At the far end of Hangar Row stands Dock Zero, a locked structure older than the port around it. On stormy nights, its lights sometimes wake to guide a ship no one can see.
+  classification: teaser
+  archive_section: catalog
+  access_label: teaser
+  tags:
+  - airships
+  - port
+  - map-location
+  related:
+  - AH-LOC-PLACEHOLDER-001
+relationships:
+- target: AH-CHAR-MARA-VOSS
+  type: connected-to
+  visibility: story-sensitive
+- target: AH-CHAR-PASSENGER-DOCK-ZERO
+  type: connected-to
+  visibility: story-sensitive
+- target: AH-ORG-BRASS-WATCH
+  type: connected-to
+  visibility: story-sensitive
+- target: AH-ORG-AERIAL-MARINERS-UNION
+  type: connected-to
+  visibility: story-sensitive
+- target: AH-LOC-PLACEHOLDER-043
+  type: contains
+  visibility: story-sensitive
+- target: AH-LOC-PLACEHOLDER-044
+  type: contains
+  visibility: story-sensitive
+- target: AH-LOC-PLACEHOLDER-001
+  type: public-related
+  visibility: teaser
 ---
-
 # The Aerial Docks
 
 ## Public Map Reference
@@ -469,3 +496,17 @@ A traveler is detained because two people claim ownership of the same childhood 
 8. Has the Morningstar already arrived in another chronology?
 9. What does [Mara](../characters/Captain_Mara_Voss.md) know that she has not entered in any ledger?
 10. Which distant port first recorded [Aetherhaven](Aetherhaven.md) before the city recorded it?
+
+## Schema Migration Preservation Notes
+
+> These values were preserved verbatim from pre-Version-1 front matter because the migration could not safely convert them into a canonical-ID field without inventing or resolving canon.
+
+- **primary_connections:** `The Morningstar`
+- **primary_connections:** `The Resolute`
+- **points_of_interest:** `The Mooring Crown`
+- **points_of_interest:** `Harbormaster's Tower`
+- **points_of_interest:** `The Customs Concourse`
+- **points_of_interest:** `The Cargo Exchange`
+- **points_of_interest:** `Hangar Row`
+- **points_of_interest:** `The Storm Lantern Array`
+- **points_of_interest:** `The Navigator's Gallery`

@@ -1,17 +1,28 @@
 ---
-artifact_id: AH-ART-039
-slate_number: 39
-name: "The Sixth Door Warning"
-category: "The Girl in the Reflection"
-canon_status: planned-artifact-concept
-image_status: image-needed
-last_updated: 2026-08-02
-related_markdown:
-  - "../story_arcs/The_Thirteenth_Chair.md"
-canonical_images:
-  - null
+schema_version: 1
+id: AH-ART-039
+record_type: artifact
+name: The Sixth Door Warning
+slug: the-sixth-door-warning
+aliases: []
+last_updated: '2026-08-02'
+canon:
+  status: proposed
+  scope: []
+development:
+  status: concept
+disclosure:
+  level: creator-only
+artifact:
+  category: The Girl in the Reflection
+production:
+  slate_number: 39
+  image_status: image-needed
+relationships:
+- target: AH-ARC-THIRTEENTH-CHAIR
+  type: related-to
+  visibility: story-sensitive
 ---
-
 # The Sixth Door Warning
 
 > **Artifact Image Slate #39** · The Girl in the Reflection · [Artifact standard](../docs/standards/CANON_MARKDOWN_STANDARD.md)

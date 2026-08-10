@@ -1,29 +1,62 @@
 ---
-location_id: AH-LOC-ENTERTAINMENT-DISTRICT
+schema_version: 1
+id: AH-LOC-ENTERTAINMENT-DISTRICT
+record_type: location
 name: The Entertainment District
-type: Civic nightlife, theater, commerce, and border district
+slug: entertainment-district
 aliases:
-  - The Lantern Quarter
-  - The Brightside
-series: The Brass Guardian / The Aetherhaven Chronicles
-canon_status: Canonical working profile
-canonical_scope: Aetherhaven volumes
-last_updated: 2026-08-01
-jurisdiction:
+- The Lantern Quarter
+- The Brightside
+last_updated: '2026-08-01'
+canon:
+  status: canonical
+  scope:
+  - aetherhaven-volumes
+development:
+  status: working
+  temporal_relevance: moderate
+disclosure:
+  level: story-sensitive
+descriptor: Civic nightlife, theater, commerce, and border district
+subtype: district
+location:
+  jurisdiction:
   - Full Brass Watch jurisdiction
   - Heavy Watch and intelligence presence
-access_status:
+  access_status:
   - Public
   - Closely monitored near Cauldron approaches
-primary_connections:
-  - The Cauldron
-  - The Brass Watch
-  - Theatre of Impossible Things
-  - The Underclock
-  - Merchant District
-temporal_relevance: Moderate
+public_projection:
+  title: The Entertainment District
+  summary: The Entertainment District is catalogued as map reference 17 on the illustrated city chart. This stub preserves the mapped public name while a fuller source-grounded extract is prepared.
+  classification: public
+  archive_section: catalog
+  access_label: public
+  tags:
+  - map-location
+  - map-17
+  related:
+  - AH-LOC-PLACEHOLDER-001
+relationships:
+- target: AH-LOC-CAULDRON
+  type: connected-to
+  visibility: story-sensitive
+- target: AH-ORG-BRASS-WATCH
+  type: connected-to
+  visibility: story-sensitive
+- target: AH-LOC-PLACEHOLDER-038
+  type: connected-to
+  visibility: story-sensitive
+- target: AH-ORG-UNDERCLOCK
+  type: connected-to
+  visibility: story-sensitive
+- target: AH-LOC-PLACEHOLDER-012
+  type: connected-to
+  visibility: story-sensitive
+- target: AH-LOC-PLACEHOLDER-001
+  type: public-related
+  visibility: teaser
 ---
-
 # The Entertainment District
 
 ## Canonical Summary

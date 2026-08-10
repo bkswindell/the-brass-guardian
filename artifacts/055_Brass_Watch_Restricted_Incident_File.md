@@ -1,19 +1,34 @@
 ---
-artifact_id: AH-ART-055
-slate_number: 55
-name: "Brass Watch Restricted Incident File"
-category: "Organizations and Secret Societies"
-canon_status: planned-artifact-concept
-image_status: image-needed
-last_updated: 2026-08-02
-related_markdown:
-  - "../organizations/The_Brass_Watch.md"
-  - "../characters/Chief_Inspector_Beatrice_Thorne.md"
-  - "../organizations/The_Order_of_the_Closed_Eye.md"
-canonical_images:
-  - null
+schema_version: 1
+id: AH-ART-055
+record_type: artifact
+name: Brass Watch Restricted Incident File
+slug: brass-watch-restricted-incident-file
+aliases: []
+last_updated: '2026-08-02'
+canon:
+  status: proposed
+  scope: []
+development:
+  status: concept
+disclosure:
+  level: creator-only
+artifact:
+  category: Organizations and Secret Societies
+production:
+  slate_number: 55
+  image_status: image-needed
+relationships:
+- target: AH-ORG-BRASS-WATCH
+  type: related-to
+  visibility: story-sensitive
+- target: AH-CHAR-BEATRICE-THORNE
+  type: related-to
+  visibility: story-sensitive
+- target: AH-ORG-CLOSED-EYE
+  type: related-to
+  visibility: story-sensitive
 ---
-
 # Brass Watch Restricted Incident File
 
 > **Artifact Image Slate #55** · Organizations and Secret Societies · [Artifact standard](../docs/standards/CANON_MARKDOWN_STANDARD.md)

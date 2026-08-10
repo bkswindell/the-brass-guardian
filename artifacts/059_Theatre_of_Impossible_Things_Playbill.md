@@ -1,17 +1,28 @@
 ---
-artifact_id: AH-ART-059
-slate_number: 59
-name: "Theatre of Impossible Things Playbill"
-category: "Background Lore and Transitional Artifacts"
-canon_status: planned-artifact-concept
-image_status: image-needed
-last_updated: 2026-08-02
-related_markdown:
-  - "../locations/The_Entertainment_District.md"
-canonical_images:
-  - null
+schema_version: 1
+id: AH-ART-059
+record_type: artifact
+name: Theatre of Impossible Things Playbill
+slug: theatre-of-impossible-things-playbill
+aliases: []
+last_updated: '2026-08-02'
+canon:
+  status: proposed
+  scope: []
+development:
+  status: concept
+disclosure:
+  level: creator-only
+artifact:
+  category: Background Lore and Transitional Artifacts
+production:
+  slate_number: 59
+  image_status: image-needed
+relationships:
+- target: AH-LOC-ENTERTAINMENT-DISTRICT
+  type: related-to
+  visibility: story-sensitive
 ---
-
 # Theatre of Impossible Things Playbill
 
 > **Artifact Image Slate #59** · Background Lore and Transitional Artifacts · [Artifact standard](../docs/standards/CANON_MARKDOWN_STANDARD.md)

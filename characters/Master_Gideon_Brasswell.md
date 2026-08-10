@@ -1,36 +1,72 @@
 ---
-character_id: AH-CHAR-GIDEON-BRASSWELL
+schema_version: 1
+id: AH-CHAR-GIDEON-BRASSWELL
+record_type: character
 name: Master Gideon Brasswell
-title: Keeper of the Engine Complex
+slug: master-gideon-brasswell
 aliases:
-  - Gideon Brasswell
-  - Gideon
-series: The Brass Guardian / The Aetherhaven Chronicles
-canon_status: Canonical working profile
-canonical_scope: Aetherhaven volumes
-last_updated: 2026-08-02
-primary_locations:
-  - Engine Complex
-  - Pulse Chamber
-  - Great Workshops
-affiliations:
-  - The Mechanists' Guild
-  - The Guild of Enginewrights
-key_connections:
-  - Professor Elias Hawthorne
-  - Amelia Hawthorne
-  - Master Gideon's guild medallion
-  - The Heart Engine
-  - The Brass Watch
-temporal_relevance: Moderate
-source_basis:
-  - Aetherhaven.pdf
-  - Aetherhaven v3.pdf
-  - Current canonical Markdown
-canonical_images:
-  - null
+- Gideon Brasswell
+- Gideon
+last_updated: '2026-08-02'
+canon:
+  status: canonical
+  scope:
+  - aetherhaven-volumes
+development:
+  status: working
+  temporal_relevance: moderate
+disclosure:
+  level: story-sensitive
+provenance:
+  sources:
+  - kind: manuscript
+    ref: Aetherhaven.pdf
+  - kind: manuscript
+    ref: Aetherhaven v3.pdf
+  - kind: canonical-record
+    ref: Current canonical Markdown
+character:
+  titles:
+  - Keeper of the Engine Complex
+public_projection:
+  title: Master Gideon Brasswell
+  summary: Master Gideon Brasswell is the respected Keeper of the Engine Complex and a veteran engineer trusted by Aetherhaven’s workers.
+  classification: public
+  archive_section: catalog
+  access_label: public
+  tags:
+  - character
+  - catalog-stub
+  related: []
+relationships:
+- target: AH-LOC-PLACEHOLDER-019
+  type: primary-location
+  visibility: story-sensitive
+- target: AH-LOC-PLACEHOLDER-042
+  type: primary-location
+  visibility: story-sensitive
+- target: AH-LOC-PLACEHOLDER-018
+  type: primary-location
+  visibility: story-sensitive
+- target: AH-ORG-MECHANISTS-GUILD
+  type: affiliated-with
+  visibility: story-sensitive
+- target: AH-ORG-PLACEHOLDER-016
+  type: affiliated-with
+  visibility: story-sensitive
+- target: AH-CHAR-001
+  type: connected-to
+  visibility: story-sensitive
+- target: AH-CHAR-002
+  type: connected-to
+  visibility: story-sensitive
+- target: AH-LOC-PLACEHOLDER-002
+  type: connected-to
+  visibility: story-sensitive
+- target: AH-ORG-BRASS-WATCH
+  type: connected-to
+  visibility: story-sensitive
 ---
-
 # Master Gideon Brasswell
 
 ## Canonical Summary
@@ -669,3 +705,9 @@ His central thematic question is:
 - [ ] Determine the cause of Gideon's hand-loss accident.
 - [ ] Determine the nature of the breathing beyond the Pulse Chamber.
 - [ ] Add backlinks from Elias, Amelia, the Engine Complex, Pulse Chamber, Mechanists' Guild, Enginewrights, Thirteenth Chair arc, and related profiles.
+
+## Schema Migration Preservation Notes
+
+> These values were preserved verbatim from pre-Version-1 front matter because the migration could not safely convert them into a canonical-ID field without inventing or resolving canon.
+
+- **key_connections:** `Master Gideon's guild medallion`

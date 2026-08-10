@@ -1,20 +1,38 @@
 ---
-character_id: AH-CHAR-PLACEHOLDER-018
+schema_version: 1
+id: AH-CHAR-PLACEHOLDER-018
+record_type: character
 name: Euphemia Pike
-title: Pike family figure
-aliases:[]
-series: The Brass Guardian / The Aetherhaven Chronicles
-canon_status: Source-grounded placeholder
-canonical_scope: Aetherhaven volumes
-last_updated: 2026-08-02
-primary_locations: []
-affiliations: []
-key_connections: []
-temporal_relevance: Unresolved
-source_basis:
-  - Canonical artifact plate and current Markdown
+slug: euphemia-pike
+aliases: []
+last_updated: '2026-08-02'
+canon:
+  status: canonical
+  scope:
+  - aetherhaven-volumes
+development:
+  status: placeholder
+  temporal_relevance: unresolved
+disclosure:
+  level: story-sensitive
+provenance:
+  sources:
+  - kind: external
+    ref: Canonical artifact plate and current Markdown
+character:
+  titles:
+  - Pike family figure
+public_projection:
+  title: Euphemia Pike
+  summary: Euphemia Pike is a Pike family name preserved on the plate for Tamsin Pike’s brass key; no further biography is established.
+  classification: public
+  archive_section: catalog
+  access_label: public
+  tags:
+  - character
+  - catalog-stub
+  related: []
 ---
-
 # Euphemia Pike
 
 > **Placeholder profile.** This file exists so references can resolve to one authoritative record. It records only what the cited source currently supports and does not supersede more developed canon elsewhere in the repository.

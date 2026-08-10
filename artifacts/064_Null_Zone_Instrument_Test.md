@@ -1,18 +1,31 @@
 ---
-artifact_id: AH-ART-064
-slate_number: 64
-name: "Null Zone Instrument Test"
-category: "Background Lore and Transitional Artifacts"
-canon_status: planned-artifact-concept
-image_status: image-needed
-last_updated: 2026-08-02
-related_markdown:
-  - "../organizations/The_Order_of_the_Closed_Eye.md"
-  - "../story_arcs/The_Thirteenth_Chair.md"
-canonical_images:
-  - null
+schema_version: 1
+id: AH-ART-064
+record_type: artifact
+name: Null Zone Instrument Test
+slug: null-zone-instrument-test
+aliases: []
+last_updated: '2026-08-02'
+canon:
+  status: proposed
+  scope: []
+development:
+  status: concept
+disclosure:
+  level: creator-only
+artifact:
+  category: Background Lore and Transitional Artifacts
+production:
+  slate_number: 64
+  image_status: image-needed
+relationships:
+- target: AH-ORG-CLOSED-EYE
+  type: related-to
+  visibility: story-sensitive
+- target: AH-ARC-THIRTEENTH-CHAIR
+  type: related-to
+  visibility: story-sensitive
 ---
-
 # Null Zone Instrument Test
 
 > **Artifact Image Slate #64** · Background Lore and Transitional Artifacts · [Artifact standard](../docs/standards/CANON_MARKDOWN_STANDARD.md)

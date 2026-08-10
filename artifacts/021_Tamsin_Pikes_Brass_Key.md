@@ -1,20 +1,49 @@
 ---
-artifact_id: AH-ART-021
-slate_number: 21
+schema_version: 1
+id: AH-ART-021
+record_type: artifact
 name: Tamsin Pike’s Brass Key
-category: The Thirteenth Canal
-canon_status: canonical-working-artifact
-image_status: image-linked
+slug: tamsin-pikes-brass-key
+aliases: []
 last_updated: '2026-08-02'
-related_markdown:
-- ../characters/Tamsin_Pike.md
-- ../organizations/The_Underclock.md
-- ../story_arcs/The_Disappearance_of_Prototype_I.md
-canonical_images:
-- ../art/AH-1-017_Tamsin_Pike's_Brass_Key.png
-visual_transcription_status: complete
----
+canon:
+  status: canonical
+  scope:
+  - aetherhaven-volumes
+development:
+  status: working
+disclosure:
+  level: story-sensitive
+assets:
+- id: plate-1
+  path: art/AH-1-017_Tamsin_Pike's_Brass_Key.png
+  role: plate
+  visibility: story-sensitive
+  alt: Canonical archival plate for Tamsin Pike’s Brass Key.
+artifact:
+  category: The Thirteenth Canal
+  catalog_number: |-
+    - **TAMSIN PIKE’S BRASS KEY**
 
+    ### Family identification
+
+    - **Family Heirloom — Pike Line**
+    -
+production:
+  slate_number: 21
+  image_status: image-linked
+  visual_transcription_status: complete
+relationships:
+- target: AH-CHAR-TAMSIN-PIKE
+  type: related-to
+  visibility: story-sensitive
+- target: AH-ORG-UNDERCLOCK
+  type: related-to
+  visibility: story-sensitive
+- target: AH-ARC-PROTOTYPE-I-DISAPPEARANCE
+  type: related-to
+  visibility: story-sensitive
+---
 # Tamsin Pike’s Brass Key
 
 > **Artifact Image Slate #21** · [The Thirteenth Canal](../locations/The_Thirteenth_Canal.md) · [Artifact standard](../docs/standards/CANON_MARKDOWN_STANDARD.md)

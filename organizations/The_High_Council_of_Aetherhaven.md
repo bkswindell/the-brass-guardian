@@ -1,41 +1,66 @@
 ---
-organization_id: AH-ORG-HIGH-COUNCIL
+schema_version: 1
+id: AH-ORG-HIGH-COUNCIL
+record_type: organization
 name: The High Council of Aetherhaven
-type: Central civic government, legislative council, and executive authority
+slug: high-council-of-aetherhaven
 aliases:
-  - The High Council
-  - The Council
-  - The Twelve
-series: The Brass Guardian / The Aetherhaven Chronicles
-canon_status: Canonical working profile
-canonical_scope: Aetherhaven volumes
-last_updated: 2026-08-01
-seat:
-  - The High Chamber, Government District
-presiding_officer:
-  - Chancellor Octavia Vale
-active_seats:
-  - Eight Founding Guild Seats
-  - Four Civic Quarter Seats
-sealed_seat:
-  - The Thirteenth Chair of the First Mechanist
-founding_principle:
-  - The Heart Engine must continue operating.
-key_relationships:
-  - The Eight Founding Engineering Guilds
-  - The Mechanists' Guild
-  - The Brass Watch
-  - The Order of the Closed Eye
-  - The Aerial Mariners' Union
-  - The Conservancy of Living Mechanisms
-  - The Academy of Invention
-  - The Society of Explorers
-  - The Unwound
-  - The Underclock
-  - The Cauldron
-temporal_relevance: Critical
+- The High Council
+- The Council
+- The Twelve
+last_updated: '2026-08-01'
+canon:
+  status: canonical
+  scope:
+  - aetherhaven-volumes
+development:
+  status: working
+  temporal_relevance: critical
+disclosure:
+  level: story-sensitive
+descriptor: Central civic government, legislative council, and executive authority
+public_projection:
+  title: The High Council of Aetherhaven
+  summary: The High Council is Aetherhaven’s central governing body for law, trade, infrastructure, taxation, public safety, and civic relations.
+  classification: public
+  archive_section: catalog
+  access_label: public
+  tags:
+  - organization
+  - catalog-stub
+  related: []
+relationships:
+- target: AH-ORG-EIGHT-FOUNDING-GUILDS
+  type: related-to
+  visibility: story-sensitive
+- target: AH-ORG-MECHANISTS-GUILD
+  type: related-to
+  visibility: story-sensitive
+- target: AH-ORG-BRASS-WATCH
+  type: related-to
+  visibility: story-sensitive
+- target: AH-ORG-CLOSED-EYE
+  type: related-to
+  visibility: story-sensitive
+- target: AH-ORG-AERIAL-MARINERS-UNION
+  type: related-to
+  visibility: story-sensitive
+- target: AH-ORG-CONSERVANCY-LIVING-MECHANISMS
+  type: related-to
+  visibility: story-sensitive
+- target: AH-ORG-PLACEHOLDER-002
+  type: related-to
+  visibility: story-sensitive
+- target: AH-ORG-UNWOUND
+  type: related-to
+  visibility: story-sensitive
+- target: AH-ORG-UNDERCLOCK
+  type: related-to
+  visibility: story-sensitive
+- target: AH-LOC-CAULDRON
+  type: related-to
+  visibility: story-sensitive
 ---
-
 # The High Council of Aetherhaven
 
 ## Canonical Summary
@@ -1112,3 +1137,14 @@ The event remains politically embarrassing and is rarely discussed in formal ses
 13. Why was a letter addressed to [Amelia](../characters/Amelia_Hawthorne.md) before her birth?
 14. What truth would cause [Octavia](../characters/Chancellor_Octavia_Vale.md) to reject the Doctrine of Continuance?
 15. What happens when the Council learns [Aetherhaven](../locations/Aetherhaven.md) may be feeding [the Heart Engine](../locations/The_Aetherium.md) rather than merely receiving power from it?
+
+## Schema Migration Preservation Notes
+
+> These values were preserved verbatim from pre-Version-1 front matter because the migration could not safely convert them into a canonical-ID field without inventing or resolving canon.
+
+- **key_relationships:** `The Academy of Invention`
+- **seat:** `["The High Chamber, Government District"]`
+- **presiding_officer:** `["Chancellor Octavia Vale"]`
+- **active_seats:** `["Eight Founding Guild Seats","Four Civic Quarter Seats"]`
+- **sealed_seat:** `["The Thirteenth Chair of the First Mechanist"]`
+- **founding_principle:** `["The Heart Engine must continue operating."]`

@@ -1,41 +1,56 @@
 ---
-organization_id: AH-ORG-UNWOUND
+schema_version: 1
+id: AH-ORG-UNWOUND
+record_type: organization
 name: The Unwound
-type: Reform movement with decentralized civic, philosophical, and radical factions
+slug: unwound
 aliases:
-  - The Free Spring Movement
-  - The Unwound Movement
-series: The Brass Guardian / The Aetherhaven Chronicles
-canon_status: Canonical working profile
-canonical_scope: Aetherhaven volumes
-last_updated: 2026-08-01
-primary_locations:
-  - Workers' Dormitories
-  - Old City
-  - Canal District
-  - The Cauldron
-  - Great Workshops
-public_affiliations:
-  - Independent craft cooperatives
-  - Worker mutual-aid halls
-  - Manual infrastructure societies
-suspected_affiliations:
-  - The Underclock
-  - Dissident Mechanists' Guild members
-  - Former Academy scholars
-hostile_splinter:
-  - The Severed Coil
-key_relationships:
-  - The Brass Watch
-  - Chief Inspector Beatrice Thorne
-  - Professor Elias Hawthorne
-  - Amelia Hawthorne
-  - The High Council
-  - The Mechanists' Guild
-  - The Ninth Guild
-temporal_relevance: High
+- The Free Spring Movement
+- The Unwound Movement
+last_updated: '2026-08-01'
+canon:
+  status: canonical
+  scope:
+  - aetherhaven-volumes
+development:
+  status: working
+  temporal_relevance: high
+disclosure:
+  level: story-sensitive
+descriptor: Reform movement with decentralized civic, philosophical, and radical factions
+public_projection:
+  title: The Unwound
+  summary: The Unwound is a broad reform movement seeking infrastructure that citizens can understand, repair, interrupt, and hold accountable.
+  classification: public
+  archive_section: catalog
+  access_label: public
+  tags:
+  - organization
+  - catalog-stub
+  related: []
+relationships:
+- target: AH-ORG-BRASS-WATCH
+  type: related-to
+  visibility: story-sensitive
+- target: AH-CHAR-BEATRICE-THORNE
+  type: related-to
+  visibility: story-sensitive
+- target: AH-CHAR-001
+  type: related-to
+  visibility: story-sensitive
+- target: AH-CHAR-002
+  type: related-to
+  visibility: story-sensitive
+- target: AH-ORG-HIGH-COUNCIL
+  type: related-to
+  visibility: story-sensitive
+- target: AH-ORG-MECHANISTS-GUILD
+  type: related-to
+  visibility: story-sensitive
+- target: AH-ORG-NINTH-GUILD
+  type: related-to
+  visibility: story-sensitive
 ---
-
 # The Unwound
 
 ## Canonical Summary
@@ -576,3 +591,12 @@ No formal organizational alliance is established. Individual affiliation may sup
 13. Which respected Watch officer secretly belongs to a Handwright Circle?
 14. Did [Elias](../characters/Professor_Elias_Hawthorne.md) once work with an early Unwound founder?
 15. Will [the Severed Coil](The_Severed_Coil.md) eventually become an enemy, an ally, or both?
+
+## Schema Migration Preservation Notes
+
+> These values were preserved verbatim from pre-Version-1 front matter because the migration could not safely convert them into a canonical-ID field without inventing or resolving canon.
+
+- **primary_locations:** `["Workers' Dormitories","Old City","Canal District","The Cauldron","Great Workshops"]`
+- **public_affiliations:** `["Independent craft cooperatives","Worker mutual-aid halls","Manual infrastructure societies"]`
+- **suspected_affiliations:** `["The Underclock","Dissident Mechanists' Guild members","Former Academy scholars"]`
+- **hostile_splinter:** `["The Severed Coil"]`

@@ -1,53 +1,118 @@
 ---
-character_id: AH-CHAR-002
+schema_version: 1
+id: AH-CHAR-002
+record_type: character
 name: Amelia Hawthorne
-title: The Clockwork Explorer
+slug: amelia-hawthorne
 aliases:
-  - Amelia
-  - The Bearer
-  - Bearer of the Living Key
-  - The Clockwork Princess, used only by Juniper Bell
-series: The Brass Guardian / The Aetherhaven Chronicles
-canon_status: Canonical working profile
-canonical_scope: Aetherhaven volumes
-last_updated: 2026-08-02
-age_status: compiled source identifies Amelia as nine; exact series chronology unresolved
-primary_locations:
-  - The Wayfinder
-  - Aetherhaven
-  - The Clockwork Gardens
-  - The Gearbreaker Mines, restricted access
-  - The Clockwork Jungle, historical
-affiliations:
-  - Hawthorne exploration household and crew
-  - Society of Explorers, apprentice or family association unresolved
-key_connections:
-  - Professor Elias Hawthorne
-  - The Aether Gauntlet
-  - The Aether Heart
-  - Pip
-  - Juniper Bell
-  - Tamsin Pike
-  - Master Gideon Brasswell
-  - Orin Flint
-  - Chief Inspector Beatrice Thorne
-  - Chancellor Octavia Vale
-  - The First Mechanist
-  - The Six Aether Keys
-  - The Heart Engine
-  - The Clockwork Jungle Expedition
-  - The Order of the Mended Hand
-temporal_relevance: Very high
-source_basis:
-  - Aetherhaven.pdf
-  - Aetherhaven v3.pdf
-  - Current canonical Markdown
-canonical_images:
-  - ../art/AH-1-006_The_Wayfinder.png
-  - ../art/AH-1-004_The_Aether_Gauntlet-Exterior_Study.png
-  - ../art/AH-1-005_Prototype_II.png
+- Amelia
+- The Bearer
+- Bearer of the Living Key
+- The Clockwork Princess, used only by Juniper Bell
+last_updated: '2026-08-02'
+canon:
+  status: canonical
+  scope:
+  - aetherhaven-volumes
+development:
+  status: working
+  temporal_relevance: very-high
+disclosure:
+  level: story-sensitive
+provenance:
+  sources:
+  - kind: manuscript
+    ref: Aetherhaven.pdf
+  - kind: manuscript
+    ref: Aetherhaven v3.pdf
+  - kind: canonical-record
+    ref: Current canonical Markdown
+assets:
+- id: portrait-1
+  path: art/AH-1-006_The_Wayfinder.png
+  role: portrait
+  visibility: story-sensitive
+  alt: Canonical visual reference portrait for Amelia Hawthorne.
+- id: reference-2
+  path: art/AH-1-004_The_Aether_Gauntlet-Exterior_Study.png
+  role: reference
+  visibility: story-sensitive
+  alt: Canonical visual reference for Amelia Hawthorne.
+- id: reference-3
+  path: art/AH-1-005_Prototype_II.png
+  role: reference
+  visibility: story-sensitive
+  alt: Canonical visual reference for Amelia Hawthorne.
+character:
+  titles:
+  - The Clockwork Explorer
+  age_status: compiled source identifies Amelia as nine; exact series chronology unresolved
+public_projection:
+  title: Amelia Hawthorne
+  summary: Amelia Hawthorne is a young mechanic and apprentice explorer who lives and travels aboard the Wayfinder with her father, Professor Elias Hawthorne.
+  classification: public
+  archive_section: catalog
+  access_label: public
+  tags:
+  - character
+  - catalog-stub
+  related: []
+relationships:
+- target: AH-VESSEL-WAYFINDER
+  type: primary-location
+  visibility: story-sensitive
+- target: AH-LOC-PLACEHOLDER-001
+  type: primary-location
+  visibility: story-sensitive
+- target: AH-LOC-PLACEHOLDER-003
+  type: primary-location
+  visibility: story-sensitive
+- target: AH-LOC-PLACEHOLDER-020
+  type: primary-location
+  visibility: story-sensitive
+- target: AH-LOC-PLACEHOLDER-028
+  type: primary-location
+  visibility: story-sensitive
+- target: AH-ORG-PLACEHOLDER-002
+  type: affiliated-with
+  visibility: story-sensitive
+- target: AH-CHAR-001
+  type: connected-to
+  visibility: story-sensitive
+- target: AH-CHAR-PIP
+  type: connected-to
+  visibility: story-sensitive
+- target: AH-CHAR-JUNIPER-BELL
+  type: connected-to
+  visibility: story-sensitive
+- target: AH-CHAR-TAMSIN-PIKE
+  type: connected-to
+  visibility: story-sensitive
+- target: AH-CHAR-GIDEON-BRASSWELL
+  type: connected-to
+  visibility: story-sensitive
+- target: AH-CHAR-005
+  type: connected-to
+  visibility: story-sensitive
+- target: AH-CHAR-BEATRICE-THORNE
+  type: connected-to
+  visibility: story-sensitive
+- target: AH-CHAR-OCTAVIA-VALE
+  type: connected-to
+  visibility: story-sensitive
+- target: AH-CHAR-PLACEHOLDER-010
+  type: connected-to
+  visibility: story-sensitive
+- target: AH-LOC-PLACEHOLDER-002
+  type: connected-to
+  visibility: story-sensitive
+- target: AH-HIST-016
+  type: connected-to
+  visibility: story-sensitive
+- target: AH-ORG-PLACEHOLDER-024
+  type: connected-to
+  visibility: story-sensitive
 ---
-
 # Amelia Hawthorne
 
 ## Visual Reference
@@ -732,3 +797,12 @@ The gauntlet should not appear oversized, weaponized, detachable, or like a cost
 - [ ] Define ordinary physical and maintenance experiences of the gauntlet.
 - [ ] Decide what Amelia remembers at the beginning of Volume 1.
 - [ ] Define the first major decision that establishes Amelia as an explorer in her own right.
+
+## Schema Migration Preservation Notes
+
+> These values were preserved verbatim from pre-Version-1 front matter because the migration could not safely convert them into a canonical-ID field without inventing or resolving canon.
+
+- **affiliations:** `Hawthorne exploration household and crew`
+- **key_connections:** `The Aether Gauntlet`
+- **key_connections:** `The Aether Heart`
+- **key_connections:** `The Six Aether Keys`

@@ -1,18 +1,31 @@
 ---
-artifact_id: AH-ART-048
-slate_number: 48
-name: "The Living Key Prophecy Fragment"
-category: "The Living Key"
-canon_status: planned-artifact-concept
-image_status: image-needed
-last_updated: 2026-08-02
-related_markdown:
-  - "../organizations/The_Order_of_the_Closed_Eye.md"
-  - "../story_arcs/The_Thirteenth_Chair.md"
-canonical_images:
-  - null
+schema_version: 1
+id: AH-ART-048
+record_type: artifact
+name: The Living Key Prophecy Fragment
+slug: the-living-key-prophecy-fragment
+aliases: []
+last_updated: '2026-08-02'
+canon:
+  status: proposed
+  scope: []
+development:
+  status: concept
+disclosure:
+  level: creator-only
+artifact:
+  category: The Living Key
+production:
+  slate_number: 48
+  image_status: image-needed
+relationships:
+- target: AH-ORG-CLOSED-EYE
+  type: related-to
+  visibility: story-sensitive
+- target: AH-ARC-THIRTEENTH-CHAIR
+  type: related-to
+  visibility: story-sensitive
 ---
-
 # The Living Key Prophecy Fragment
 
 > **Artifact Image Slate #48** · The Living Key · [Artifact standard](../docs/standards/CANON_MARKDOWN_STANDARD.md)

@@ -1,20 +1,38 @@
 ---
-character_id: AH-CHAR-PLACEHOLDER-009
+schema_version: 1
+id: AH-CHAR-PLACEHOLDER-009
+record_type: character
 name: Keeper Thirteen
-title: Unresolved keeper designation
-aliases:[]
-series: The Brass Guardian / The Aetherhaven Chronicles
-canon_status: Source-grounded placeholder
-canonical_scope: Aetherhaven volumes
-last_updated: 2026-08-02
-primary_locations: []
-affiliations: []
-key_connections: []
-temporal_relevance: Unresolved
-source_basis:
-  - Aetherhaven v3.pdf
+slug: keeper-thirteen
+aliases: []
+last_updated: '2026-08-02'
+canon:
+  status: canonical
+  scope:
+  - aetherhaven-volumes
+development:
+  status: placeholder
+  temporal_relevance: unresolved
+disclosure:
+  level: story-sensitive
+provenance:
+  sources:
+  - kind: manuscript
+    ref: Aetherhaven v3.pdf
+character:
+  titles:
+  - Unresolved keeper designation
+public_projection:
+  title: Keeper Thirteen
+  summary: Keeper Thirteen is indexed as a restricted figure. Identity and fuller context remain sealed or withheld from the public catalog.
+  classification: teaser
+  archive_section: hidden
+  access_label: restricted
+  tags:
+  - character
+  - hidden-archive
+  related: []
 ---
-
 # Keeper Thirteen
 
 > **Placeholder profile.** This file exists so references can resolve to one authoritative record. It records only what the cited source currently supports and does not supersede more developed canon elsewhere in the repository.

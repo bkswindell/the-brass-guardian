@@ -1,34 +1,53 @@
 ---
-location_id: AH-LOC-PLACEHOLDER-050
+schema_version: 1
+id: AH-LOC-PLACEHOLDER-050
+record_type: location
 name: The Cauldron Recovery House
-type: Unlisted rehabilitation, adaptive-care, and community medical facility
+slug: the-cauldron-recovery-house
 aliases:
-  - The Recovery House
-  - Cauldron Rehabilitation House
-series: The Brass Guardian / The Aetherhaven Chronicles
-canon_status: Owner-directed canonical placeholder
-canonical_scope: Aetherhaven volumes
-last_updated: 2026-08-02
-jurisdiction:
+- The Recovery House
+- Cauldron Rehabilitation House
+last_updated: '2026-08-02'
+canon:
+  status: canonical
+  scope:
+  - aetherhaven-volumes
+development:
+  status: placeholder
+  temporal_relevance: moderate
+disclosure:
+  level: story-sensitive
+descriptor: Unlisted rehabilitation, adaptive-care, and community medical facility
+provenance:
+  sources:
+  - kind: author-decision
+    ref: Owner canon decision recorded August 2, 2026
+cartography:
+- map_id: aetherhaven-city
+  category: unlisted
+location:
+  jurisdiction:
   - Local Cauldron compact and Order affiliation, exact balance unresolved
-access_status:
+  access_status:
   - Community medical access
   - Neutral-care protections expected but not formally defined
-map_reference_category: unlisted
-map_number:
-parent_location: The Cauldron
-primary_connections:
-  - The Order of the Mended Hand
-  - The Cauldron
-  - Neighborhood Compacts
-  - The Mechanists' Guild, limited technical support
-  - The Brass Watch, restricted emergency coordination
-points_of_interest: []
-temporal_relevance: Moderate
-source_basis:
-  - Owner canon decision recorded August 2, 2026
+relationships:
+- target: AH-LOC-CAULDRON
+  type: parent-location
+  visibility: story-sensitive
+- target: AH-ORG-PLACEHOLDER-024
+  type: connected-to
+  visibility: story-sensitive
+- target: AH-LOC-CAULDRON
+  type: connected-to
+  visibility: story-sensitive
+- target: AH-ORG-MECHANISTS-GUILD
+  type: connected-to
+  visibility: story-sensitive
+- target: AH-ORG-BRASS-WATCH
+  type: connected-to
+  visibility: story-sensitive
 ---
-
 # The Cauldron Recovery House
 
 > **Canonical working placeholder.** A rehabilitation and community-care facility exists within the Cauldron. Its final name, exact founders, governance, staff, and relationship with the central Order remain unresolved.
@@ -143,3 +162,9 @@ Avoid portraying it as morally pure merely because it opposes upper-city control
 - [ ] Approve final name and governance.
 - [ ] Define staff and neighborhood relationships.
 - [ ] Create representative art when the location enters a story.
+
+## Schema Migration Preservation Notes
+
+> These values were preserved verbatim from pre-Version-1 front matter because the migration could not safely convert them into a canonical-ID field without inventing or resolving canon.
+
+- **primary_connections:** `Neighborhood Compacts`

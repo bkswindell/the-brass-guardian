@@ -1,21 +1,46 @@
 ---
-artifact_id: AH-ART-007
-slate_number: 7
+schema_version: 1
+id: AH-ART-007
+record_type: artifact
 name: The Wayfinder Technical Plate
-category: Foundational Canon Images
-canon_status: canonical-working-artifact
-image_status: image-linked
+slug: the-wayfinder-technical-plate
+aliases: []
 last_updated: '2026-08-02'
-related_markdown:
-- ../locations/The_Gardens_Airship_Landing.md
-- ../organizations/The_Aerial_Mariners_Union.md
-- ../characters/Pip.md
-- ../characters/Captain_Mara_Voss.md
-canonical_images:
-- ../art/AH-1-006_The_Wayfinder.png
-visual_transcription_status: complete
+canon:
+  status: canonical
+  scope:
+  - aetherhaven-volumes
+development:
+  status: working
+disclosure:
+  level: story-sensitive
+assets:
+- id: plate-1
+  path: art/AH-1-006_The_Wayfinder.png
+  role: plate
+  visibility: story-sensitive
+  alt: Canonical archival plate for The Wayfinder Technical Plate.
+artifact:
+  category: Foundational Canon Images
+  catalog_number: "- **The Wayfinder**\n- **HAWTHORNE MODEL W-7A • EXPLORER CLASS AIRSHIP**\n\n### Quotation\n\n> “Not just a machine, but a companion.”  \n> “She has carried us farther than any map.”  \n> — A. Hawthorne\n\n### Specifications\n\n- **Length:**"
+production:
+  slate_number: 7
+  image_status: image-linked
+  visual_transcription_status: complete
+relationships:
+- target: AH-LOC-AIRSHIP-LANDING
+  type: related-to
+  visibility: story-sensitive
+- target: AH-ORG-AERIAL-MARINERS-UNION
+  type: related-to
+  visibility: story-sensitive
+- target: AH-CHAR-PIP
+  type: related-to
+  visibility: story-sensitive
+- target: AH-CHAR-MARA-VOSS
+  type: related-to
+  visibility: story-sensitive
 ---
-
 # The Wayfinder Technical Plate
 
 > **Artifact Image Slate #7** · Foundational Canon Images · [Artifact standard](../docs/standards/CANON_MARKDOWN_STANDARD.md)

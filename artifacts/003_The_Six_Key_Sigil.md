@@ -1,19 +1,49 @@
 ---
-artifact_id: AH-ART-003
-slate_number: 3
+schema_version: 1
+id: AH-ART-003
+record_type: artifact
 name: The Six-Key Sigil
-category: Foundational Canon Images
-canon_status: canonical-working-artifact
-image_status: image-linked
+slug: the-six-key-sigil
+aliases: []
 last_updated: '2026-08-02'
-related_markdown:
-- ../story_arcs/The_Thirteenth_Chair.md
-- ../organizations/The_Eight_Founding_Engineering_Guilds.md
-canonical_images:
-- ../art/AH-1-002_The_Six-Key_Sigil.png
-visual_transcription_status: complete
----
+canon:
+  status: canonical
+  scope:
+  - aetherhaven-volumes
+development:
+  status: working
+disclosure:
+  level: story-sensitive
+assets:
+- id: plate-1
+  path: art/AH-1-002_The_Six-Key_Sigil.png
+  role: plate
+  visibility: story-sensitive
+  alt: Canonical archival plate for The Six-Key Sigil.
+artifact:
+  category: Foundational Canon Images
+  catalog_number: |-
+    - **The Six-Key Sigil**
 
+    ### Printed description
+
+    > Ancient symbol discovered carved into basalt slab beneath debris field in the Null Zone, Sector F-12. Associated with references to the “Six Keys” in early Aetherhaven texts. Purpose unknown.
+
+    ### Recovery and condition information
+
+    - **DATE DISCOVERED:**
+production:
+  slate_number: 3
+  image_status: image-linked
+  visual_transcription_status: complete
+relationships:
+- target: AH-ARC-THIRTEENTH-CHAIR
+  type: related-to
+  visibility: story-sensitive
+- target: AH-ORG-EIGHT-FOUNDING-GUILDS
+  type: related-to
+  visibility: story-sensitive
+---
 # The Six-Key Sigil
 
 > **Artifact Image Slate #3** · Foundational Canon Images · [Artifact standard](../docs/standards/CANON_MARKDOWN_STANDARD.md)

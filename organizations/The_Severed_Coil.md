@@ -1,38 +1,35 @@
 ---
-organization_id: AH-ORG-SEVERED-COIL
+schema_version: 1
+id: AH-ORG-SEVERED-COIL
+record_type: organization
 name: The Severed Coil
-type: Violent extremist faction and clandestine sabotage network
+slug: severed-coil
 aliases:
-  - The Coil
-  - The Cutters
-  - The Broken Spring
-series: The Brass Guardian / The Aetherhaven Chronicles
-canon_status: Canonical working profile
-canonical_scope: Aetherhaven volumes
-last_updated: 2026-08-01
-operational_status: Active, deeply underground
-known_locations:
-  - Hidden cells beneath the Industrial District
-  - The Cauldron
-  - Abandoned Golden Vein access tunnels
-  - Unregistered workshops
-  - Unknown safehouses throughout Aetherhaven
-parent_movement:
-  - The Unwound
-public_enemy:
-  - The Brass Watch
-suspected_connections:
-  - The Ninth Guild
-  - The Underclock, disputed and unconfirmed
-  - Corrupt Council intermediaries, unconfirmed
-key_connections:
-  - Chief Inspector Beatrice Thorne
-  - Captain Mara Voss
-  - Professor Elias Hawthorne
-  - Amelia Hawthorne
-temporal_relevance: High
+- The Coil
+- The Cutters
+- The Broken Spring
+last_updated: '2026-08-01'
+canon:
+  status: canonical
+  scope:
+  - aetherhaven-volumes
+development:
+  status: working
+  temporal_relevance: high
+disclosure:
+  level: story-sensitive
+descriptor: Violent extremist faction and clandestine sabotage network
+public_projection:
+  title: The Severed Coil
+  summary: The Severed Coil is a violent extremist splinter of the Unwound known publicly for attacking civic infrastructure and endangering bystanders.
+  classification: public
+  archive_section: catalog
+  access_label: public
+  tags:
+  - organization
+  - catalog-stub
+  related: []
 ---
-
 # The Severed Coil
 
 ## Canonical Summary
@@ -630,3 +627,14 @@ A captured operative claims the Inner Coil has already met [Amelia](../character
 13. Does the Coil know [Amelia](../characters/Amelia_Hawthorne.md) is the Bearer of the Living Key?
 14. Will a moderate [Unwound](The_Unwound.md) leader become its target?
 15. What is the first confirmed Severed Coil operative the Hawthornes will meet?
+
+## Schema Migration Preservation Notes
+
+> These values were preserved verbatim from pre-Version-1 front matter because the migration could not safely convert them into a canonical-ID field without inventing or resolving canon.
+
+- **operational_status:** `Active, deeply underground`
+- **known_locations:** `["Hidden cells beneath the Industrial District","The Cauldron","Abandoned Golden Vein access tunnels","Unregistered workshops","Unknown safehouses throughout Aetherhaven"]`
+- **parent_movement:** `["The Unwound"]`
+- **public_enemy:** `["The Brass Watch"]`
+- **suspected_connections:** `["The Ninth Guild","The Underclock, disputed and unconfirmed","Corrupt Council intermediaries, unconfirmed"]`
+- **key_connections:** `["Chief Inspector Beatrice Thorne","Captain Mara Voss","Professor Elias Hawthorne","Amelia Hawthorne"]`

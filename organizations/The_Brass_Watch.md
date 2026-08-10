@@ -1,35 +1,61 @@
 ---
-organization_id: AH-ORG-BRASS-WATCH
+schema_version: 1
+id: AH-ORG-BRASS-WATCH
+record_type: organization
 name: The Brass Watch
-type: Constabulary, emergency service, and anomalous-incident authority
+slug: brass-watch
 aliases:
-  - The Watch
-  - Aetherhaven Brass Watch
-series: The Brass Guardian / The Aetherhaven Chronicles
-canon_status: Canonical working profile
-canonical_scope: Aetherhaven volumes
-last_updated: 2026-08-01
-headquarters:
-  - Brass Watch Headquarters, Government District
-primary_jurisdiction:
+- The Watch
+- Aetherhaven Brass Watch
+last_updated: '2026-08-01'
+canon:
+  status: canonical
+  scope:
+  - aetherhaven-volumes
+development:
+  status: working
+  temporal_relevance: critical
+disclosure:
+  level: story-sensitive
+descriptor: Constabulary, emergency service, and anomalous-incident authority
+organization:
+  jurisdiction:
   - Streets, canals, civic buildings, and public safety
   - Criminal investigations
   - Emergency and disaster response
   - Clockwork sentinel deployment
   - Restricted-area enforcement
   - Temporal and anomalous incidents
-leadership:
-  - Chief Inspector Beatrice Thorne
-key_relationships:
-  - The High Council of Aetherhaven
-  - Captain Mara Voss and the Harbormaster's Office
-  - Professor Elias Hawthorne
-  - Amelia Hawthorne
-  - The Underclock
-  - The Order of the Mended Hand
-temporal_relevance: Critical
+public_projection:
+  title: The Brass Watch
+  summary: The Brass Watch is Aetherhaven’s constabulary, emergency service, investigative authority, and canal patrol.
+  classification: public
+  archive_section: catalog
+  access_label: public
+  tags:
+  - organization
+  - catalog-stub
+  related: []
+relationships:
+- target: AH-CHAR-BEATRICE-THORNE
+  type: led-by
+  visibility: story-sensitive
+- target: AH-ORG-HIGH-COUNCIL
+  type: related-to
+  visibility: story-sensitive
+- target: AH-CHAR-001
+  type: related-to
+  visibility: story-sensitive
+- target: AH-CHAR-002
+  type: related-to
+  visibility: story-sensitive
+- target: AH-ORG-UNDERCLOCK
+  type: related-to
+  visibility: story-sensitive
+- target: AH-ORG-PLACEHOLDER-024
+  type: related-to
+  visibility: story-sensitive
 ---
-
 # The Brass Watch
 
 ## Canonical Summary
@@ -613,3 +639,10 @@ The boundary between medical transport and custody should remain a recurring ins
 13. What will happen when every sentinel receives the same ancient command?
 14. How much truth can the Watch reveal without causing panic?
 15. Does a future Brass Watch already know [Amelia](../characters/Amelia_Hawthorne.md) as the Bearer of the Living Key?
+
+## Schema Migration Preservation Notes
+
+> These values were preserved verbatim from pre-Version-1 front matter because the migration could not safely convert them into a canonical-ID field without inventing or resolving canon.
+
+- **headquarters:** `Brass Watch Headquarters, Government District`
+- **key_relationships:** `Captain Mara Voss and the Harbormaster's Office`

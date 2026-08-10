@@ -1,26 +1,41 @@
 ---
-organization_id: AH-ORG-PLACEHOLDER-001
+schema_version: 1
+id: AH-ORG-PLACEHOLDER-001
+record_type: organization
 name: The Academy of Invention
-type: Placeholder organization profile
+slug: academy-of-invention
 aliases:
-  - Academy of Invention
-  - the Academy
-series: The Brass Guardian / The Aetherhaven Chronicles
-canon_status: Source-grounded placeholder
-canonical_scope: Aetherhaven volumes
-last_updated: 2026-08-02
-headquarters:
-  - The Academy of Invention Campus
-known_leadership:
-  - Doctor Elara Quill
-primary_connections:
-  - The Order of the Mended Hand
-  - Doctor Elara Quill
-temporal_relevance: Unresolved
-source_basis:
-  - Aetherhaven v3.pdf
+- Academy of Invention
+- the Academy
+last_updated: '2026-08-02'
+canon:
+  status: canonical
+  scope:
+  - aetherhaven-volumes
+development:
+  status: placeholder
+  temporal_relevance: unresolved
+disclosure:
+  level: story-sensitive
+provenance:
+  sources:
+  - kind: manuscript
+    ref: Aetherhaven v3.pdf
+public_projection:
+  title: The Academy of Invention
+  summary: The Academy of Invention is Aetherhaven’s principal institution for engineering education, experimental research, and the preservation of unfinished ideas.
+  classification: public
+  archive_section: catalog
+  access_label: public
+  tags:
+  - organization
+  - catalog-stub
+  related: []
+relationships:
+- target: AH-LOC-PLACEHOLDER-022
+  type: headquartered-at
+  visibility: story-sensitive
 ---
-
 # The Academy of Invention
 
 > **Placeholder profile.** This file provides a stable link target while the organization awaits full development. It does not expand beyond the cited source.
@@ -73,3 +88,10 @@ Neither Academy review nor Hand approval guarantees that an experiment is safe, 
 1. Is this organization independent, subordinate, informal, historical, or partly mythical?
 2. Who leads it, and what authority does it actually possess?
 3. Which current relationships and conflicts require a full profile?
+
+## Schema Migration Preservation Notes
+
+> These values were preserved verbatim from pre-Version-1 front matter because the migration could not safely convert them into a canonical-ID field without inventing or resolving canon.
+
+- **known_leadership:** `["Doctor Elara Quill"]`
+- **primary_connections:** `["The Order of the Mended Hand","Doctor Elara Quill"]`

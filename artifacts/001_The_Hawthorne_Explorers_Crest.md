@@ -1,18 +1,42 @@
 ---
-artifact_id: AH-ART-001
-slate_number: 1
+schema_version: 1
+id: AH-ART-001
+record_type: artifact
 name: The Hawthorne Explorer’s Crest
-category: Foundational Canon Images
-canon_status: canonical-working-artifact
-image_status: image-linked
+slug: the-hawthorne-explorers-crest
+aliases: []
 last_updated: '2026-08-02'
-related_markdown:
-- ../README.md
-canonical_images:
-- ../art/AH-1-001_The_Hawthorne_Explorer's_Crest.png
-visual_transcription_status: complete
----
+canon:
+  status: canonical
+  scope:
+  - aetherhaven-volumes
+development:
+  status: working
+disclosure:
+  level: story-sensitive
+assets:
+- id: plate-1
+  path: art/AH-1-001_The_Hawthorne_Explorer's_Crest.png
+  role: plate
+  visibility: story-sensitive
+  alt: Canonical archival plate for The Hawthorne Explorer’s Crest.
+artifact:
+  category: Foundational Canon Images
+  catalog_number: |-
+    - **The Hawthorne Explorer’s Crest**
 
+    ### Printed description
+
+    > Family crest and expedition seal of Professor Elias Hawthorne and the Hawthorne line. Commonly found on documents, instrument cases, field journals, and the Wayfinder.
+
+    ### Recovery information
+
+    - **DATE DISCOVERED:**
+production:
+  slate_number: 1
+  image_status: image-linked
+  visual_transcription_status: complete
+---
 # The Hawthorne Explorer’s Crest
 
 > **Artifact Image Slate #1** · Foundational Canon Images · [Artifact standard](../docs/standards/CANON_MARKDOWN_STANDARD.md)
@@ -166,3 +190,9 @@ The plate names the *Wayfinder* and [Professor Elias Hawthorne](../characters/Pr
 - [ ] Add backlinks from every active profile that directly references this artifact.
 - [ ] Resolve documented plate/canon discrepancies only through an explicit canon decision.
 - [ ] Approve a publication-safe caption.
+
+## Schema Migration Preservation Notes
+
+> These values were preserved verbatim from pre-Version-1 front matter because the migration could not safely convert them into a canonical-ID field without inventing or resolving canon.
+
+- **related_markdown:** `../README.md`

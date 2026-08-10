@@ -1,26 +1,37 @@
 ---
-story_arc_id: AH-ARC-KEEPER-OF-DREAMS
-title: The Keeper of Dreams
-series: The Brass Guardian / The Aetherhaven Chronicles
-canon_status: Canonical delayed-reveal arc
-canonical_scope: Aetherhaven volumes
-last_updated: 2026-08-01
-primary_character:
-  - Juniper Bell
-primary_protagonist:
-  - Amelia Hawthorne
-primary_locations:
-  - Clockwork Gardens
-  - Moon Garden
-related_story_drafts:
-  - ../story_drafts/The_Brass_Guardian_and_the_Clockwork_Princess.md
-primary_artifacts:
-  - Silver dream flower
-  - Dream Engine
-  - Brass sparrow with blue ribbon
-temporal_relevance: High
+schema_version: 1
+id: AH-ARC-KEEPER-OF-DREAMS
+record_type: story_arc
+name: The Keeper of Dreams
+slug: the-keeper-of-dreams
+aliases: []
+last_updated: '2026-08-01'
+canon:
+  status: canonical
+  scope:
+  - aetherhaven-volumes
+development:
+  status: working
+  temporal_relevance: high
+disclosure:
+  level: creator-only
+relationships:
+- target: AH-CHAR-JUNIPER-BELL
+  type: features-character
+  visibility: story-sensitive
+- target: AH-CHAR-002
+  type: features-character
+  visibility: story-sensitive
+- target: AH-LOC-PLACEHOLDER-003
+  type: features-location
+  visibility: story-sensitive
+- target: AH-LOC-MOON-GARDEN
+  type: features-location
+  visibility: story-sensitive
+- target: AH-STORY-DRAFT-001
+  type: related-story
+  visibility: story-sensitive
 ---
-
 # The Keeper of Dreams
 
 ## Arc Premise
@@ -189,3 +200,11 @@ Its theme is:
 - The Dream Engine must be a living mechanism, not a simple dream factory.
 - The reveal must deepen [Juniper](../characters/Juniper_Bell.md) rather than replace her public personality with a different character.
 - [Juniper](../characters/Juniper_Bell.md)'s exact metaphysical nature may remain unresolved after the reveal.
+
+## Schema Migration Preservation Notes
+
+> These values were preserved verbatim from pre-Version-1 front matter because the migration could not safely convert them into a canonical-ID field without inventing or resolving canon.
+
+- **primary_artifacts:** `Silver dream flower`
+- **primary_artifacts:** `Dream Engine`
+- **primary_artifacts:** `Brass sparrow with blue ribbon`

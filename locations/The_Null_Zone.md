@@ -1,25 +1,40 @@
 ---
-location_id: AH-LOC-PLACEHOLDER-027
+schema_version: 1
+id: AH-LOC-PLACEHOLDER-027
+record_type: location
 name: The Null Zone
-type: Placeholder location profile
+slug: null-zone
 aliases:
-  - Null Zone
-series: The Brass Guardian / The Aetherhaven Chronicles
-canon_status: Source-grounded placeholder
-canonical_scope: Aetherhaven volumes
-last_updated: 2026-08-02
-jurisdiction: []
-access_status: []
-map_reference_category: restricted
-map_number: F
-parent_location: 
-primary_connections: []
-points_of_interest: []
-temporal_relevance: Unresolved
-source_basis:
-  - Aetherhaven v3.pdf
+- Null Zone
+last_updated: '2026-08-02'
+canon:
+  status: canonical
+  scope:
+  - aetherhaven-volumes
+development:
+  status: placeholder
+  temporal_relevance: unresolved
+disclosure:
+  level: story-sensitive
+provenance:
+  sources:
+  - kind: manuscript
+    ref: Aetherhaven v3.pdf
+cartography:
+- map_id: aetherhaven-city
+  category: restricted
+  reference: F
+public_projection:
+  title: The Null Zone
+  summary: 'Map annotation: “Machines fail here.” Further record sealed.'
+  classification: teaser
+  archive_section: hidden
+  access_label: restricted
+  tags:
+  - restricted-location
+  - hidden-archive
+  related: []
 ---
-
 # The Null Zone
 
 > **Placeholder profile.** This record provides a stable link target and preserves the source description until the location receives a complete profile.

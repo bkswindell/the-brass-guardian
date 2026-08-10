@@ -1,38 +1,56 @@
 ---
-organization_id: AH-ORG-MECHANISTS-GUILD
-name: The Mechanists' Guild
-type: Professional engineering federation, certification authority, and civic safety order
+schema_version: 1
+id: AH-ORG-MECHANISTS-GUILD
+record_type: organization
+name: The Mechanists’ Guild
+slug: mechanists-guild
 aliases:
-  - The Guild
-  - The Federated Mechanists
-series: The Brass Guardian / The Aetherhaven Chronicles
-canon_status: Canonical working profile
-canonical_scope: Aetherhaven volumes
-last_updated: 2026-08-01
-headquarters:
-  - The Octagonal Hall
-governing_body:
-  - The Conclave of Eight
-member_orders:
-  - The Guild of Framewrights
-  - The Guild of Enginewrights
-  - The Guild of Aetherwrights
-  - The Guild of Canalwrights
-  - The Guild of Skywrights
-  - The Guild of Clockwrights
-  - The Guild of Artificers
-  - The Guild of Verdant Mechanists
-key_relationships:
-  - The Eight Founding Engineering Guilds
-  - The High Council
-  - The Academy of Invention
-  - The Brass Watch
-  - The Aerial Mariners' Union
-  - The Ninth Guild
-  - The Order of the Mended Hand
-temporal_relevance: High
+- The Guild
+- The Federated Mechanists
+last_updated: '2026-08-01'
+canon:
+  status: canonical
+  scope:
+  - aetherhaven-volumes
+development:
+  status: working
+  temporal_relevance: high
+disclosure:
+  level: story-sensitive
+descriptor: Professional engineering federation, certification authority, and civic safety order
+public_projection:
+  title: The Mechanists’ Guild
+  summary: The Mechanists’ Guild is Aetherhaven’s professional engineering federation, certification authority, and civic machinery safety order.
+  classification: public
+  archive_section: catalog
+  access_label: public
+  tags:
+  - organization
+  - catalog-stub
+  related: []
+relationships:
+- target: AH-LOC-PLACEHOLDER-041
+  type: headquartered-at
+  visibility: story-sensitive
+- target: AH-ORG-EIGHT-FOUNDING-GUILDS
+  type: related-to
+  visibility: story-sensitive
+- target: AH-ORG-HIGH-COUNCIL
+  type: related-to
+  visibility: story-sensitive
+- target: AH-ORG-BRASS-WATCH
+  type: related-to
+  visibility: story-sensitive
+- target: AH-ORG-AERIAL-MARINERS-UNION
+  type: related-to
+  visibility: story-sensitive
+- target: AH-ORG-NINTH-GUILD
+  type: related-to
+  visibility: story-sensitive
+- target: AH-ORG-PLACEHOLDER-024
+  type: related-to
+  visibility: story-sensitive
 ---
-
 # The Mechanists' Guild
 
 ## Canonical Summary
@@ -501,3 +519,11 @@ Guild certification does not guarantee that an intervention is the best choice f
 8. Will [the Conclave](The_Conclave_of_Eight.md) recognize conscious automata as persons?
 9. Can the Guild create a safety standard for temporal machinery?
 10. What happens if [Amelia](../characters/Amelia_Hawthorne.md)'s gauntlet is recognized as a guild artifact rather than [Elias](../characters/Professor_Elias_Hawthorne.md)'s invention?
+
+## Schema Migration Preservation Notes
+
+> These values were preserved verbatim from pre-Version-1 front matter because the migration could not safely convert them into a canonical-ID field without inventing or resolving canon.
+
+- **key_relationships:** `The Academy of Invention`
+- **governing_body:** `["The Conclave of Eight"]`
+- **member_orders:** `["The Guild of Framewrights","The Guild of Enginewrights","The Guild of Aetherwrights","The Guild of Canalwrights","The Guild of Skywrights","The Guild of Clockwrights","The Guild of Artificers","The Guild of Verdant Mechanists"]`

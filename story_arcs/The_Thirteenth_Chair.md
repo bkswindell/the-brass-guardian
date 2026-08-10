@@ -1,26 +1,21 @@
 ---
-story_arc_id: AH-ARC-THIRTEENTH-CHAIR
-title: The Thirteenth Chair
-series: The Brass Guardian / The Aetherhaven Chronicles
-canon_status: Canonical long-range political and mystery arc
-canonical_scope: Aetherhaven volumes
-last_updated: 2026-08-01
-primary_institutions:
-  - The High Council of Aetherhaven
-  - The Order of the Closed Eye
-  - The Mechanists' Guild
-primary_figures:
-  - Chancellor Octavia Vale
-  - Amelia Hawthorne
-  - Professor Elias Hawthorne
-  - Chief Inspector Beatrice Thorne
-primary_mysteries:
-  - The First Mechanist
-  - The sealed Thirteenth Chair
-  - The Doctrine of Continuance
-temporal_relevance: Critical
+schema_version: 1
+id: AH-ARC-THIRTEENTH-CHAIR
+record_type: story_arc
+name: The Thirteenth Chair
+slug: the-thirteenth-chair
+aliases: []
+last_updated: '2026-08-01'
+canon:
+  status: canonical
+  scope:
+  - aetherhaven-volumes
+development:
+  status: working
+  temporal_relevance: critical
+disclosure:
+  level: creator-only
 ---
-
 # The Thirteenth Chair
 
 ## Arc Premise
@@ -137,3 +132,11 @@ Must uphold law while investigating the institution that defines it.
 - The Order has suppressed knowledge concerning it.
 - The chair cannot become an ordinary throne or simple magical prize.
 - The political consequences must matter as much as the mechanical mystery.
+
+## Schema Migration Preservation Notes
+
+> These values were preserved verbatim from pre-Version-1 front matter because the migration could not safely convert them into a canonical-ID field without inventing or resolving canon.
+
+- **primary_institutions:** `["The High Council of Aetherhaven","The Order of the Closed Eye","The Mechanists' Guild"]`
+- **primary_figures:** `["Chancellor Octavia Vale","Amelia Hawthorne","Professor Elias Hawthorne","Chief Inspector Beatrice Thorne"]`
+- **primary_mysteries:** `["The First Mechanist","The sealed Thirteenth Chair","The Doctrine of Continuance"]`

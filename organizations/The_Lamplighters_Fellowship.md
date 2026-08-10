@@ -1,39 +1,62 @@
 ---
-organization_id: AH-ORG-LAMPLIGHTERS-FELLOWSHIP
-name: The Lamplighters' Fellowship
-type: Working-class civic service fellowship, lighting authority, and informal witness network
+schema_version: 1
+id: AH-ORG-LAMPLIGHTERS-FELLOWSHIP
+record_type: organization
+name: The Lamplighters’ Fellowship
+slug: lamplighters-fellowship
 aliases:
-  - The Lamplighters
-  - The Fellowship
-series: The Brass Guardian / The Aetherhaven Chronicles
-canon_status: Canonical working profile
-canonical_scope: Aetherhaven volumes
-last_updated: 2026-08-01
-headquarters:
-  - Lamplighters' Hall
-principal_artifact:
-  - The Homecoming Flame
-traditional_greeting:
-  - Keep a light for those still coming home.
-primary_duties:
-  - Streetlamps
-  - Bridge lights
-  - Canal lights
-  - Public stair and tunnel lamps
-  - Aerial beacons
-  - Emergency route lighting
-key_relationships:
-  - The Brass Watch
-  - The Order of the Closed Eye
-  - The Aerial Mariners' Union
-  - The Society of Explorers
-  - The Underclock
-  - Captain Mara Voss
-  - Chief Inspector Beatrice Thorne
-  - Amelia Hawthorne
-temporal_relevance: High
+- The Lamplighters
+- The Fellowship
+last_updated: '2026-08-01'
+canon:
+  status: canonical
+  scope:
+  - aetherhaven-volumes
+development:
+  status: working
+  temporal_relevance: high
+disclosure:
+  level: story-sensitive
+descriptor: Working-class civic service fellowship, lighting authority, and informal witness network
+public_projection:
+  title: The Lamplighters’ Fellowship
+  summary: The Lamplighters’ Fellowship maintains Aetherhaven’s streetlamps, bridge lights, canal markers, public stair lamps, and aerial beacons.
+  classification: public
+  archive_section: catalog
+  access_label: public
+  tags:
+  - organization
+  - catalog-stub
+  related: []
+relationships:
+- target: AH-LOC-PLACEHOLDER-047
+  type: headquartered-at
+  visibility: story-sensitive
+- target: AH-ORG-BRASS-WATCH
+  type: related-to
+  visibility: story-sensitive
+- target: AH-ORG-CLOSED-EYE
+  type: related-to
+  visibility: story-sensitive
+- target: AH-ORG-AERIAL-MARINERS-UNION
+  type: related-to
+  visibility: story-sensitive
+- target: AH-ORG-PLACEHOLDER-002
+  type: related-to
+  visibility: story-sensitive
+- target: AH-ORG-UNDERCLOCK
+  type: related-to
+  visibility: story-sensitive
+- target: AH-CHAR-MARA-VOSS
+  type: related-to
+  visibility: story-sensitive
+- target: AH-CHAR-BEATRICE-THORNE
+  type: related-to
+  visibility: story-sensitive
+- target: AH-CHAR-002
+  type: related-to
+  visibility: story-sensitive
 ---
-
 # The Lamplighters' Fellowship
 
 ## Canonical Summary
@@ -837,3 +860,11 @@ A Lamplighter refuses to abandon a route because someone who vanished years ago 
 10. Why do some lamps respond to [Amelia](../characters/Amelia_Hawthorne.md)'s Aether Heart?
 11. Has the Homecoming Flame ever changed color before?
 12. What happens if the flame goes out?
+
+## Schema Migration Preservation Notes
+
+> These values were preserved verbatim from pre-Version-1 front matter because the migration could not safely convert them into a canonical-ID field without inventing or resolving canon.
+
+- **principal_artifact:** `["The Homecoming Flame"]`
+- **traditional_greeting:** `["Keep a light for those still coming home."]`
+- **primary_duties:** `["Streetlamps","Bridge lights","Canal lights","Public stair and tunnel lamps","Aerial beacons","Emergency route lighting"]`

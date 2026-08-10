@@ -1,28 +1,55 @@
 ---
-location_id: AH-LOC-PLACEHOLDER-011
+schema_version: 1
+id: AH-LOC-PLACEHOLDER-011
+record_type: location
 name: The Government District
-type: Placeholder location profile
+slug: government-district
 aliases:
-  - Government District
-series: The Brass Guardian / The Aetherhaven Chronicles
-canon_status: Source-grounded placeholder
-canonical_scope: Aetherhaven volumes
-last_updated: 2026-08-02
-jurisdiction: []
-access_status: []
-map_reference_category: numbered
-map_number: 11
-parent_location: 
-primary_connections:
-  - The Hall of Vital Mechanics
-  - The Order of the Mended Hand
-points_of_interest:
-  - The Hall of Vital Mechanics
-temporal_relevance: Unresolved
-source_basis:
-  - Aetherhaven v3.pdf
+- Government District
+last_updated: '2026-08-02'
+canon:
+  status: canonical
+  scope:
+  - aetherhaven-volumes
+development:
+  status: placeholder
+  temporal_relevance: unresolved
+disclosure:
+  level: story-sensitive
+subtype: district
+provenance:
+  sources:
+  - kind: manuscript
+    ref: Aetherhaven v3.pdf
+cartography:
+- map_id: aetherhaven-city
+  category: numbered
+  reference: '11'
+public_projection:
+  title: The Government District
+  summary: The Government District is catalogued as map reference 11 on the illustrated city chart. This stub preserves the mapped public name while a fuller source-grounded extract is prepared.
+  classification: public
+  archive_section: catalog
+  access_label: public
+  tags:
+  - map-location
+  - map-11
+  related:
+  - AH-LOC-PLACEHOLDER-001
+relationships:
+- target: AH-LOC-HALL-VITAL-MECHANICS
+  type: connected-to
+  visibility: story-sensitive
+- target: AH-ORG-PLACEHOLDER-024
+  type: connected-to
+  visibility: story-sensitive
+- target: AH-LOC-HALL-VITAL-MECHANICS
+  type: contains
+  visibility: story-sensitive
+- target: AH-LOC-PLACEHOLDER-001
+  type: public-related
+  visibility: teaser
 ---
-
 # The Government District
 
 > **Placeholder profile.** This record provides a stable link target and preserves the source description until the location receives a complete profile.

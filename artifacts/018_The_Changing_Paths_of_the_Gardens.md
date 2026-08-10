@@ -1,21 +1,60 @@
 ---
-artifact_id: AH-ART-018
-slate_number: 18
+schema_version: 1
+id: AH-ART-018
+record_type: artifact
 name: The Changing Paths of the Gardens
-category: The Clockwork Gardens
-canon_status: canonical-working-artifact
-image_status: image-linked
+slug: the-changing-paths-of-the-gardens
+aliases: []
 last_updated: '2026-08-02'
-related_markdown:
-- ../characters/Juniper_Bell.md
-- ../organizations/The_Conservancy_of_Living_Mechanisms.md
-- ../locations/The_Moon_Garden.md
-canonical_images:
-- ../art/AH-1-001_The_Changing_Paths_of_the_Gardens.png
-- ../art/AH-1-007_The_Changing_Paths_of_the_Gardens.png
-visual_transcription_status: complete
----
+canon:
+  status: canonical
+  scope:
+  - aetherhaven-volumes
+development:
+  status: working
+disclosure:
+  level: story-sensitive
+assets:
+- id: plate-1
+  path: art/AH-1-001_The_Changing_Paths_of_the_Gardens.png
+  role: plate
+  visibility: story-sensitive
+  alt: Canonical archival plate for The Changing Paths of the Gardens.
+- id: plate-2
+  path: art/AH-1-007_The_Changing_Paths_of_the_Gardens.png
+  role: plate
+  visibility: story-sensitive
+  alt: Canonical archival plate for The Changing Paths of the Gardens.
+artifact:
+  category: The Clockwork Gardens
+  catalog_number: |-
+    - **The Changing Paths of the Gardens**
+    - **THREE SURVEYS OF AETHERHAVEN’S [CLOCKWORK GARDENS](../locations/The_Clockwork_Gardens.md)**
 
+    ### Introductory statement
+
+    > The layout of the paths is not static but follows unknown laws. When aligned to true north, the arrangement of the third survey forms [the Six-Key Sigil](003_The_Six_Key_Sigil.md).
+
+    ### Survey I
+
+    - **SURVEY I**
+    - **Pre-Rising**
+    -
+production:
+  slate_number: 18
+  image_status: image-linked
+  visual_transcription_status: complete
+relationships:
+- target: AH-CHAR-JUNIPER-BELL
+  type: related-to
+  visibility: story-sensitive
+- target: AH-ORG-CONSERVANCY-LIVING-MECHANISMS
+  type: related-to
+  visibility: story-sensitive
+- target: AH-LOC-MOON-GARDEN
+  type: related-to
+  visibility: story-sensitive
+---
 # The Changing Paths of the Gardens
 
 > **Artifact Image Slate #18** · [The Clockwork Gardens](../locations/The_Clockwork_Gardens.md) · [Artifact standard](../docs/standards/CANON_MARKDOWN_STANDARD.md)

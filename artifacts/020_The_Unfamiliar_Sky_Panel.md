@@ -1,18 +1,31 @@
 ---
-artifact_id: AH-ART-020
-slate_number: 20
-name: "The Unfamiliar Sky Panel"
-category: "The Clockwork Gardens"
-canon_status: planned-artifact-concept
-image_status: image-needed
-last_updated: 2026-08-02
-related_markdown:
-  - "../locations/The_Moon_Garden.md"
-  - "../story_arcs/The_Keeper_of_Dreams.md"
-canonical_images:
-  - null
+schema_version: 1
+id: AH-ART-020
+record_type: artifact
+name: The Unfamiliar Sky Panel
+slug: the-unfamiliar-sky-panel
+aliases: []
+last_updated: '2026-08-02'
+canon:
+  status: proposed
+  scope: []
+development:
+  status: concept
+disclosure:
+  level: creator-only
+artifact:
+  category: The Clockwork Gardens
+production:
+  slate_number: 20
+  image_status: image-needed
+relationships:
+- target: AH-LOC-MOON-GARDEN
+  type: related-to
+  visibility: story-sensitive
+- target: AH-ARC-KEEPER-OF-DREAMS
+  type: related-to
+  visibility: story-sensitive
 ---
-
 # The Unfamiliar Sky Panel
 
 > **Artifact Image Slate #20** · [The Clockwork Gardens](../locations/The_Clockwork_Gardens.md) · [Artifact standard](../docs/standards/CANON_MARKDOWN_STANDARD.md)

@@ -1,22 +1,37 @@
 ---
-organization_id: AH-ORG-PLACEHOLDER-014
-name: The Miners' Guild
-type: Placeholder organization profile
+schema_version: 1
+id: AH-ORG-PLACEHOLDER-014
+record_type: organization
+name: The Miners’ Guild
+slug: miners-guild
 aliases:
-  - Miners' Guild
-  - Miner's Guild
-series: The Brass Guardian / The Aetherhaven Chronicles
-canon_status: Source-grounded placeholder
-canonical_scope: Aetherhaven volumes
-last_updated: 2026-08-02
-headquarters: []
-known_leadership: []
-primary_connections: []
-temporal_relevance: Unresolved
-source_basis:
-  - Aetherhaven v3.pdf
+- Miners' Guild
+- Miner's Guild
+last_updated: '2026-08-02'
+canon:
+  status: canonical
+  scope:
+  - aetherhaven-volumes
+development:
+  status: placeholder
+  temporal_relevance: unresolved
+disclosure:
+  level: story-sensitive
+provenance:
+  sources:
+  - kind: manuscript
+    ref: Aetherhaven v3.pdf
+public_projection:
+  title: The Miners’ Guild
+  summary: The Miners’ Guild represents the workers associated with the Gearbreaker Mines, tunnel safety, extraction, and knowledge of the mountain.
+  classification: public
+  archive_section: catalog
+  access_label: public
+  tags:
+  - organization
+  - catalog-stub
+  related: []
 ---
-
 # The Miners' Guild
 
 > **Placeholder profile.** This file provides a stable link target while the organization awaits full development. It does not expand beyond the cited source.

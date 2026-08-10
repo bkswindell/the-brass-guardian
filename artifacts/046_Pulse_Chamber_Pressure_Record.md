@@ -1,18 +1,31 @@
 ---
-artifact_id: AH-ART-046
-slate_number: 46
-name: "Pulse Chamber Pressure Record"
-category: "The Living Key"
-canon_status: planned-artifact-concept
-image_status: image-needed
-last_updated: 2026-08-02
-related_markdown:
-  - "../organizations/The_High_Council_of_Aetherhaven.md"
-  - "../story_arcs/The_Thirteenth_Chair.md"
-canonical_images:
-  - null
+schema_version: 1
+id: AH-ART-046
+record_type: artifact
+name: Pulse Chamber Pressure Record
+slug: pulse-chamber-pressure-record
+aliases: []
+last_updated: '2026-08-02'
+canon:
+  status: proposed
+  scope: []
+development:
+  status: concept
+disclosure:
+  level: creator-only
+artifact:
+  category: The Living Key
+production:
+  slate_number: 46
+  image_status: image-needed
+relationships:
+- target: AH-ORG-HIGH-COUNCIL
+  type: related-to
+  visibility: story-sensitive
+- target: AH-ARC-THIRTEENTH-CHAIR
+  type: related-to
+  visibility: story-sensitive
 ---
-
 # Pulse Chamber Pressure Record
 
 > **Artifact Image Slate #46** · The Living Key · [Artifact standard](../docs/standards/CANON_MARKDOWN_STANDARD.md)

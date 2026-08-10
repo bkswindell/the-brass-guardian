@@ -1,18 +1,31 @@
 ---
-artifact_id: AH-ART-005
-slate_number: 5
-name: "The Living Key Emblem"
-category: "Foundational Canon Images"
-canon_status: planned-artifact-concept
-image_status: image-needed
-last_updated: 2026-08-02
-related_markdown:
-  - "../story_arcs/The_Thirteenth_Chair.md"
-  - "../story_arcs/The_Black_Catalogue_Arc.md"
-canonical_images:
-  - null
+schema_version: 1
+id: AH-ART-005
+record_type: artifact
+name: The Living Key Emblem
+slug: the-living-key-emblem
+aliases: []
+last_updated: '2026-08-02'
+canon:
+  status: proposed
+  scope: []
+development:
+  status: concept
+disclosure:
+  level: creator-only
+artifact:
+  category: Foundational Canon Images
+production:
+  slate_number: 5
+  image_status: image-needed
+relationships:
+- target: AH-ARC-THIRTEENTH-CHAIR
+  type: related-to
+  visibility: story-sensitive
+- target: AH-ARC-NINTH-GUILD
+  type: related-to
+  visibility: story-sensitive
 ---
-
 # The Living Key Emblem
 
 > **Artifact Image Slate #5** · Foundational Canon Images · [Artifact standard](../docs/standards/CANON_MARKDOWN_STANDARD.md)

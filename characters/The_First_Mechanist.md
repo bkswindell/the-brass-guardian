@@ -1,21 +1,39 @@
 ---
-character_id: AH-CHAR-PLACEHOLDER-010
+schema_version: 1
+id: AH-CHAR-PLACEHOLDER-010
+record_type: character
 name: The First Mechanist
-title: Ancient civic and engineering authority
+slug: first-mechanist
 aliases:
-  - First Mechanist
-series: The Brass Guardian / The Aetherhaven Chronicles
-canon_status: Source-grounded placeholder
-canonical_scope: Aetherhaven volumes
-last_updated: 2026-08-02
-primary_locations: []
-affiliations: []
-key_connections: []
-temporal_relevance: Unresolved
-source_basis:
-  - Aetherhaven v3.pdf and current canonical Markdown
+- First Mechanist
+last_updated: '2026-08-02'
+canon:
+  status: canonical
+  scope:
+  - aetherhaven-volumes
+development:
+  status: placeholder
+  temporal_relevance: unresolved
+disclosure:
+  level: story-sensitive
+provenance:
+  sources:
+  - kind: canonical-record
+    ref: Aetherhaven v3.pdf and current canonical Markdown
+character:
+  titles:
+  - Ancient civic and engineering authority
+public_projection:
+  title: The First Mechanist
+  summary: The First Mechanist is indexed as a mysterious figure. Identity and fuller context remain sealed or withheld from the public catalog.
+  classification: teaser
+  archive_section: hidden
+  access_label: mysterious
+  tags:
+  - character
+  - hidden-archive
+  related: []
 ---
-
 # The First Mechanist
 
 > **Placeholder profile.** This file exists so references can resolve to one authoritative record. It records only what the cited source currently supports and does not supersede more developed canon elsewhere in the repository.
