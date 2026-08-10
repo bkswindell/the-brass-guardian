@@ -34,6 +34,35 @@ jobs:
         with:
           node-version: '22.14.0'
 
+      - name: Preflight legacy YAML syntax
+        run: |
+          ruby <<'RUBY'
+          require 'yaml'
+          require 'date'
+          roots = %w[characters locations organizations artifacts historical_events story_drafts story_arcs]
+          failed = false
+          roots.each do |root|
+            Dir.glob("#{root}/*.md").sort.each do |path|
+              next if File.basename(path) == 'README.md'
+              text = File.read(path, encoding: 'UTF-8')
+              match = text.match(/\A---\s*\n(.*?)\n---\s*\n/m)
+              unless match
+                warn "MISSING FRONTMATTER: #{path}"
+                failed = true
+                next
+              end
+              begin
+                YAML.safe_load(match[1], permitted_classes: [Date, Time, DateTime], aliases: false)
+              rescue Psych::SyntaxError => error
+                warn "INVALID YAML: #{path}: #{error.message.lines.first.strip}"
+                failed = true
+              end
+            end
+          end
+          exit 1 if failed
+          puts 'Legacy YAML preflight passed.'
+          RUBY
+
       - name: Run deterministic Markdown migration
         run: ruby scripts/migrations/migrate_content_schema_v1.rb
 
