@@ -1,27 +1,38 @@
 ---
-artifact_id: AH-ART-UNASSIGNED
-slate_number:
-name:
-category:
-series: The Brass Guardian / The Aetherhaven Chronicles
-canon_status: planned-artifact-concept
-image_status: image-needed
-source:
-source_scope:
-last_updated:
-visual_transcription_status: pending-image
-related_markdown: []
-canonical_images:
-  - null
+schema_version: 1
+id: AH-ART-UNASSIGNED
+record_type: artifact
+name: Artifact Name
+slug: artifact-name
+aliases: []
+last_updated: YYYY-MM-DD
+canon:
+  status: proposed
+  scope: []
+development:
+  status: concept
+disclosure:
+  level: creator-only
+artifact:
+  category:
+  catalog_number:
+production:
+  slate_number:
+  image_status:
+  visual_transcription_status:
+relationships: []
+assets: []
+provenance:
+  sources: []
 ---
 
 # Artifact Name
 
-> **Artifact classification:** Add artifact type, slate number, or archive classification.
+> **Template state:** New records begin as `proposed` / `creator-only`. The canonical `id` is the repository identity; `artifact.catalog_number` is a separate in-world Archive/catalog identifier and must never replace the canonical ID.
 
 ## Visual Reference
 
-> **Image pending:** Link only active art from `art/`. Never use material from `unused/`.
+> **Image pending:** Link only active approved project/reference art through `assets`. Never use material from `unused/`.
 
 ## Plate Text Transcription — Visual Evidence Only
 
@@ -29,11 +40,11 @@ canonical_images:
 
 ## Complete Plate Description — Visual Evidence Only
 
-Describe the entire composition as visible: artifact form, materials, colors, arrangement, damage, mounting, photographs, rubbings, sketches, callouts, seals, evidence handling, and every visually identifiable feature. Do not add story facts that cannot be seen on the plate.
+Describe the entire visible composition as seen. Do not add story facts that cannot be established from the plate itself.
 
 ## Non-Visual Canon References and Story Context
 
-State the artifact's canonical purpose, broader history, and story relationships here. Clearly identify conflicts between the visible plate and newer Markdown canon. Link to authoritative character, organization, location, and story-arc files instead of duplicating their full content.
+State the artifact's canonical purpose, broader history, and story relationships here. Link authoritative character, organization, location, historical-event, and story-arc records rather than duplicating their full content.
 
 ## Related Canon
 
@@ -41,23 +52,24 @@ State the artifact's canonical purpose, broader history, and story relationships
 
 ## Continuity Notes
 
-- This file is authoritative for the artifact image and its visible content.
+- This file owns the artifact image and visible evidence.
 - Linked profiles remain authoritative for broader people, places, organizations, and plot arcs.
 - Visible text is preserved even when later canon differs; discrepancies are documented rather than silently corrected.
-- Do not duplicate long passages from linked files.
+- Responsive website derivatives and dimensions are generated presentation data, not canonical asset metadata.
 
 ## TODO / Production Checklist
 
-- [ ] Active art image linked.
+- [ ] Stable canonical ID assigned.
+- [ ] Slug confirmed.
+- [ ] Canon/development/disclosure metadata reviewed.
+- [ ] Artifact category and in-world catalog number recorded if established.
+- [ ] Active asset(s) linked.
 - [ ] All visible text transcribed.
-- [ ] Dates, signatures, seals, redactions, names, places, and identifying marks documented.
 - [ ] Complete visual-only description added.
 - [ ] Non-visual canon separated from plate evidence.
-- [ ] Final catalog number and classification confirmed.
-- [ ] Public caption written.
-- [ ] Related Markdown files linked.
-- [ ] Backlinks added from direct references.
-- [ ] Accessibility text and AI-ingestion description reviewed.
+- [ ] Production status fields updated where applicable.
+- [ ] Public projection added only if deliberately prepared and safe.
+- [ ] Passes the Version 1 executable validator.
 
 ## Open Questions
 
