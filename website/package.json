@@ -6,11 +6,12 @@
   "scripts": {
     "assets:archive": "node scripts/run-archive-assets.mjs",
     "dev": "astro dev",
-    "prebuild": "npm run verify:publication",
+    "prebuild": "npm run verify:content-schema && npm run verify:publication",
     "build": "node scripts/run-astro-build.mjs",
     "build:archive-preview": "PUBLICATION_PREVIEW=1 npm run build -- --outDir dist-preview",
     "preview": "astro preview",
     "test": "node --test scripts/*.test.mjs",
+    "verify:content-schema": "node --test scripts/canon-schema-v1.test.mjs scripts/canon-schema-v1-templates.test.mjs",
     "verify:publication": "node scripts/verify-publication-boundary.mjs",
     "verify": "npm run test && npm run build && node scripts/verify-site.mjs && node scripts/verify-archive-publication.mjs",
     "verify:archive-publication": "npm run test && npm run build && node scripts/verify-site.mjs && node scripts/verify-archive-publication.mjs",
