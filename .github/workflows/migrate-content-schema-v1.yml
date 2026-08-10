@@ -1,0 +1,55 @@
+name: One-time Aetherhaven Content Schema v1 migration
+
+on:
+  push:
+    branches:
+      - migration/content-schema-v1
+    paths:
+      - .github/workflows/migrate-content-schema-v1.yml
+      - scripts/migrations/migrate_content_schema_v1.rb
+
+permissions:
+  contents: write
+
+jobs:
+  migrate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out migration branch
+        uses: actions/checkout@v4
+        with:
+          ref: migration/content-schema-v1
+          fetch-depth: 0
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22.14.0'
+
+      - name: Run deterministic Markdown migration
+        run: ruby scripts/migrations/migrate_content_schema_v1.rb
+
+      - name: Validate every migrated metadata object with locked Version 1 validator
+        run: |
+          node --input-type=module <<'NODE'
+          import { readFileSync } from 'node:fs';
+          import { validateCanonRecords } from './website/scripts/lib/canon-schema-v1.mjs';
+          const records = JSON.parse(readFileSync('./website/.canon-schema-v1-migration-records.json', 'utf8'));
+          validateCanonRecords(records);
+          console.log(`Validated ${records.length} migrated canonical records against Schema Version 1.`);
+          NODE
+
+      - name: Remove transient validation export
+        run: rm website/.canon-schema-v1-migration-records.json
+
+      - name: Commit migrated canonical metadata
+        run: |
+          git config user.name 'Aetherhaven Schema Migration'
+          git config user.email 'actions@users.noreply.github.com'
+          git add characters locations organizations artifacts vessels historical_events story_drafts story_arcs docs/development/AETHERHAVEN_CONTENT_SCHEMA_V1_MIGRATION_REPORT.md
+          if git diff --cached --quiet; then
+            echo 'Migration produced no changes.'
+            exit 0
+          fi
+          git commit -m 'migrate(canon): apply Aetherhaven Content Schema v1'
+          git push origin HEAD:migration/content-schema-v1
