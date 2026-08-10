@@ -1,14 +1,14 @@
 # Aetherhaven Content Schema
 
 **Schema:** Aetherhaven Canon Content Model  
-**Current version:** `0.2.0`  
-**Status:** **VERSION 1 CANDIDATE — FIELD MODEL COMPLETE / AWAITING AUTHOR APPROVAL**  
-**Authority:** Author-approved schema governance; Version 1 field contract not yet locked  
+**Current version:** `1.0.0`  
+**Status:** **LOCKED — AUTHOR APPROVED**  
+**Authority:** Author-approved Version 1 schema contract  
 **Applies to:** Canonical Markdown, website content ingestion, public Archive projections, derived indexes, validators, and future tools that consume repository canon
 
-> This document is the governing contract for structured content in *The Brass Guardian / Aetherhaven* repository. The website/content audit is complete. The field model below is the proposed Version 1 contract. **No repository-wide profile migration begins until the author explicitly approves Version `1.0.0` as LOCKED.**
+> This document is the governing contract for structured content in *The Brass Guardian / Aetherhaven* repository. The website/content audit is complete and the Version 1 field contract was explicitly approved by the author on 2026-08-10. **Bulk profile migration may begin only after executable validators and templates are updated to this locked contract.**
 
-See [`docs/development/AETHERHAVEN_CONTENT_MODEL_V1_AUDIT.md`](../development/AETHERHAVEN_CONTENT_MODEL_V1_AUDIT.md) for the implementation audit that produced this candidate.
+See [`docs/development/AETHERHAVEN_CONTENT_MODEL_V1_AUDIT.md`](../development/AETHERHAVEN_CONTENT_MODEL_V1_AUDIT.md) for the implementation audit that produced this schema.
 
 ---
 
@@ -157,7 +157,7 @@ This prevents routine world growth from requiring a schema revision merely to ad
 
 ## 4. Schema Authority and Change Control
 
-Once Version `1.0.0` is declared **LOCKED**, this schema is infrastructure.
+Version `1.0.0` is **LOCKED** and is infrastructure.
 
 No AI agent, website implementation, build script, migration utility, or convenience refactor may change the schema contract unilaterally.
 
@@ -1434,7 +1434,7 @@ Any content difference is a publication change and requires author review rather
 
 ## 47. Version 1 Freeze Criteria
 
-Version `1.0.0` may be declared **LOCKED** only when:
+Version `1.0.0` is **LOCKED**. The freeze criteria are:
 
 - [x] Hermes completed the current website implementation pass.
 - [x] Final website content consumers were audited.
@@ -1443,11 +1443,11 @@ Version `1.0.0` may be declared **LOCKED** only when:
 - [x] Canon content, public projection, publication approval, presentation data, and derived data were explicitly separated.
 - [x] Required representative edge cases were pressure-tested conceptually.
 - [x] Candidate Version 1 data dictionary is complete in this document.
-- [ ] Author reviews and approves the field contract.
-- [ ] Document version is promoted to `1.0.0 — LOCKED`.
+- [x] Author reviewed and approved the field contract on 2026-08-10.
+- [x] Document version promoted to `1.0.0 — LOCKED`.
 - [ ] Executable validators/templates are updated to the locked contract before the bulk profile migration begins.
 
-No bulk profile migration occurs while either of the last three approval/lock steps remains incomplete.
+**No bulk profile migration begins until the remaining validator/template prerequisite is complete.**
 
 ---
 
@@ -1679,9 +1679,25 @@ The visible plate transcription remains below the front matter in Markdown.
 
 ## 55. Change History
 
+### 1.0.0 — 2026-08-10
+
+**Status:** LOCKED / AUTHOR APPROVED.
+
+The author explicitly approved the complete Version 1 field contract represented by the `0.2.0` candidate. Version 1 is now the governing structured-content contract for the repository.
+
+This lock authorizes the next implementation phase in this order:
+
+1. update executable validators to the Version 1 contract;
+2. update canonical record templates;
+3. pressure-test validator/template behavior;
+4. then begin the controlled repository-wide metadata migration;
+5. realign Astro/publication ingestion only after migrated Markdown validates and the C1 public-output parity gate can be enforced.
+
+The lock does **not** authorize changing canon prose, public copy, publication scope, website layout, routes, map behavior, Hidden Archive behavior, or other reader-facing content outside the approved migration/parity work.
+
 ### 0.2.0 — 2026-08-10
 
-**Status:** Version 1 field model complete; awaiting explicit author approval.
+**Status:** Historical candidate; superseded by approved Version `1.0.0`.
 
 Added after the final Hermes/C1 website audit:
 
@@ -1707,7 +1723,7 @@ Added after the final Hermes/C1 website audit:
 - C1 public-output parity gate;
 - freeze checklist and illustrative shapes.
 
-No canonical profile migration is authorized by Version `0.2.0`.
+No canonical profile migration was performed under Version `0.2.0`.
 
 ### 0.1.0 — 2026-08-10
 
