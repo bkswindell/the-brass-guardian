@@ -1,5 +1,6 @@
 name: One-time Aetherhaven Content Schema v1 migration
 
+# Triggered after the migration harness was established on main.
 on:
   push:
     branches:
