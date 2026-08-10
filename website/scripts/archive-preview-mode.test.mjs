@@ -37,7 +37,7 @@ test("enables proposal records only for explicit local or Vercel preview builds"
 
   const preview = getWorldEntrancePreview({ VERCEL_ENV: "preview" });
   assert.equal(preview.enabled, true);
-  assert.equal(preview.entries.length, 7);
+  assert.equal(preview.entries.length, 67);
   assert.deepEqual(
     preview.curatorRoute.map((step) => step.id),
     [

@@ -60,7 +60,8 @@ const archive = getWorldEntrancePreview();
         <a href="/archive/#curators-route">Curator’s Route</a>
         <a href="/archive/map/">Map Room</a>
         <a href="/archive/#open-catalog">Open Catalog</a>
-        <a href="/">Main exhibit</a>
+        <a class="hidden-archive-nav" href="/archive/hidden/">Hidden Archives</a>
+        <a href="/">Main Exhibit</a>
       </nav>
     </header>
 
@@ -312,6 +313,10 @@ const archive = getWorldEntrancePreview();
     border-color: var(--archive-line);
     color: var(--archive-ink);
     background: rgb(197 138 54 / 7%);
+  }
+
+  .archive-header nav .hidden-archive-nav {
+    color: #c98970;
   }
 
   .archive-main {

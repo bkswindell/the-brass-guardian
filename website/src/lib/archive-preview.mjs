@@ -1,4 +1,12 @@
-const worldEntranceEntries = [
+import {
+  hiddenArchiveEntries,
+  hiddenMapEntries,
+  publicCharacterEntries,
+  publicMapEntries,
+  publicOrganizationEntries,
+} from "./archive-catalog.mjs";
+
+const featuredWorldEntranceEntries = [
   {
     id: "location-aetherhaven",
     slug: "aetherhaven",
@@ -147,6 +155,29 @@ const worldEntranceEntries = [
   },
 ];
 
+const worldEntranceMapEntries = publicMapEntries.map((entry) => {
+  const featured = featuredWorldEntranceEntries.find(
+    (candidate) => candidate.mapMarker === entry.mapMarker,
+  );
+
+  return featured
+    ? {
+        ...entry,
+        ...featured,
+        archiveSection: "public",
+        mapRegion: entry.mapRegion,
+        mapLabel: entry.mapLabel,
+      }
+    : entry;
+});
+
+const worldEntranceEntries = [
+  ...featuredWorldEntranceEntries.filter((entry) => !entry.mapMarker),
+  ...worldEntranceMapEntries,
+  ...publicCharacterEntries,
+  ...publicOrganizationEntries,
+];
+
 const curatorRouteDefinition = [
   {
     id: "location-aetherhaven",
@@ -221,6 +252,9 @@ export const getWorldEntrancePreview = (env = process.env) => {
   return {
     enabled,
     entries: enabled ? worldEntranceEntries : [],
+    mapEntries: enabled ? worldEntranceMapEntries : [],
+    hiddenEntries: enabled ? hiddenArchiveEntries : [],
+    hiddenMapEntries: enabled ? hiddenMapEntries : [],
     curatorRoute: enabled ? worldEntranceCuratorRoute : [],
   };
 };

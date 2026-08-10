@@ -3,8 +3,8 @@ import ArchiveLayout from "../../../layouts/ArchiveLayout.astro";
 import { getWorldEntrancePreview } from "../../../lib/archive-preview.mjs";
 
 const archive = getWorldEntrancePreview();
-const mapEntries = archive.entries.filter((entry) => entry.mapMarker);
-const initialEntry = mapEntries[0];
+const mapEntries = archive.mapEntries;
+const hiddenMapEntries = archive.hiddenMapEntries;
 const routeIndex = archive.curatorRoute.findIndex((step) => step.id === "map-room");
 const previousStep = archive.curatorRoute[routeIndex - 1];
 const nextStep = archive.curatorRoute[routeIndex + 1];
@@ -12,6 +12,10 @@ const description =
   "Explore the proposal preview of the illustrated Map of Aetherhaven and its first cleared archive records.";
 const entryHref = (entry) =>
   `/archive/${entry.entityType}/${entry.slug}/`;
+const mapEntryHref = (entry) =>
+  entry.archiveSection === "hidden"
+    ? `/archive/hidden/#map-${entry.mapMarker}`
+    : entryHref(entry);
 ---
 
 <ArchiveLayout title="Map of Aetherhaven" description={description} section="Public Cartography Division">
@@ -21,8 +25,9 @@ const entryHref = (entry) =>
         <aside class="proposal-notice" aria-label="Proposal preview notice">
           <span class="proposal-dot" aria-hidden="true"></span>
           <span>
-            <strong>Proposal preview.</strong> Five map records are active for design
-            review. Every other numbered or restricted location remains sealed.
+            <strong>Proposal preview.</strong> All twenty-four public map references
+            now open catalog stubs. Lettered restricted sites lead to the separately
+            warned Hidden Archives.
           </span>
         </aside>
 
@@ -32,9 +37,9 @@ const entryHref = (entry) =>
             <h1 class="archive-title">Map of Aetherhaven</h1>
           </div>
           <p class="archive-lede">
-            Twenty-four points of interest and six restricted areas appear on this
-            city chart. Select a glowing marker to inspect one of the records
-            currently cleared for preview.
+            Select a named region or its label directly on the chart. Numbered
+            locations open public catalog stubs; A–F cross the marked threshold into
+            spoiler-sensitive Hidden Archives.
           </p>
         </header>
 
@@ -56,60 +61,96 @@ const entryHref = (entry) =>
             </div>
           </div>
 
-          <div class="map-grid">
-            <div id="map-viewport" class="map-viewport" tabindex="0" aria-label="Scrollable illustrated map">
-              <div id="map-canvas" class="map-canvas">
-                <picture>
-                  <source
-                    srcset="/images/archive/map-of-aetherhaven-768.webp 768w, /images/archive/map-of-aetherhaven-1152.webp 1152w, /images/archive/map-of-aetherhaven-1539.webp 1539w"
-                    sizes="(max-width: 70rem) 96vw, 68rem"
-                    type="image/webp"
-                  />
-                  <img
-                    src="/images/archive/map-of-aetherhaven-1539.webp"
-                    alt="Illustrated map of Aetherhaven showing a circular brass-and-canal city with twenty-four numbered points of interest, six lettered restricted areas, airship routes, rail lines, bridges, waterways, and surrounding mountains."
-                    width="1539"
-                    height="1152"
-                    decoding="async"
-                    fetchpriority="high"
-                  />
-                </picture>
+          <p class="map-instruction" id="map-instruction">
+            Every outlined label and surrounding district is one link. Use Tab to
+            move through the chart, or use the complete text index below. On smaller
+            screens, swipe to move across the chart.
+          </p>
 
-                <div class="map-hotspots" aria-label="Cleared map markers">
-                  {mapEntries.map((entry) => (
-                    <button
-                      class="map-hotspot"
-                      type="button"
-                      style={`--marker-x:${entry.mapPosition.x}%;--marker-y:${entry.mapPosition.y}%`}
-                      data-map-marker={entry.mapMarker}
-                      data-title={entry.publicTitle}
-                      data-summary={entry.publicSummary}
-                      data-classification={entry.spoilerClassification}
-                      data-href={entryHref(entry)}
+          <div
+            id="map-viewport"
+            class="map-viewport"
+            tabindex="0"
+            aria-label="Scrollable illustrated map with linked regions"
+            aria-describedby="map-instruction"
+          >
+            <div id="map-canvas" class="map-canvas">
+              <picture>
+                <source
+                  srcset="/images/archive/map-of-aetherhaven-768.webp 768w, /images/archive/map-of-aetherhaven-1152.webp 1152w, /images/archive/map-of-aetherhaven-1539.webp 1539w"
+                  sizes="(max-width: 92rem) 96vw, 88rem"
+                  type="image/webp"
+                />
+                <img
+                  src="/images/archive/map-of-aetherhaven-1539.webp"
+                  alt="Illustrated map of Aetherhaven showing a circular brass-and-canal city with twenty-four numbered points of interest, six lettered restricted areas, airship routes, rail lines, bridges, waterways, and surrounding mountains."
+                  width="1539"
+                  height="1152"
+                  decoding="async"
+                  fetchpriority="high"
+                />
+              </picture>
+
+              <svg
+                class="map-link-overlay"
+                viewBox="0 0 1539 1152"
+                role="group"
+                aria-label="Linked Aetherhaven map regions and labels"
+                preserveAspectRatio="xMidYMid meet"
+              >
+                {
+                  mapEntries.map((entry) => (
+                    <a
+                      href={mapEntryHref(entry)}
                       aria-label={`Map ${entry.mapMarker}: ${entry.publicTitle}`}
-                      aria-controls="map-record-detail"
+                      data-map-marker={entry.mapMarker}
                     >
-                      <span>{entry.mapMarker}</span>
-                    </button>
-                  ))}
-                </div>
-              </div>
+                      <title>{`Map ${entry.mapMarker}: ${entry.publicTitle}`}</title>
+                      <circle
+                        class="map-region-target"
+                        cx={entry.mapRegion.cx}
+                        cy={entry.mapRegion.cy}
+                        r={entry.mapRegion.r}
+                      />
+                      <rect
+                        class="map-label-target"
+                        x={entry.mapLabel.x}
+                        y={entry.mapLabel.y}
+                        width={entry.mapLabel.width}
+                        height={entry.mapLabel.height}
+                        rx="8"
+                      />
+                    </a>
+                  ))
+                }
+                {
+                  hiddenMapEntries.map((entry) => (
+                    <a
+                      class="restricted-map-link"
+                      href={mapEntryHref(entry)}
+                      aria-label={`Restricted map ${entry.mapMarker}: ${entry.publicTitle}; opens Hidden Archives`}
+                      data-map-marker={entry.mapMarker}
+                    >
+                      <title>{`Restricted map ${entry.mapMarker}: ${entry.publicTitle}`}</title>
+                      <circle
+                        class="map-region-target"
+                        cx={entry.mapRegion.cx}
+                        cy={entry.mapRegion.cy}
+                        r={entry.mapRegion.r}
+                      />
+                      <rect
+                        class="map-label-target"
+                        x={entry.mapLabel.x}
+                        y={entry.mapLabel.y}
+                        width={entry.mapLabel.width}
+                        height={entry.mapLabel.height}
+                        rx="8"
+                      />
+                    </a>
+                  ))
+                }
+              </svg>
             </div>
-
-            <aside id="map-record-detail" class="map-record-detail" aria-live="polite">
-              <p class="detail-code">
-                <span id="detail-marker">Map {initialEntry.mapMarker}</span>
-                <span id="detail-classification">{initialEntry.spoilerClassification}</span>
-              </p>
-              <h2 id="detail-title">{initialEntry.publicTitle}</h2>
-              <p id="detail-summary">{initialEntry.publicSummary}</p>
-              <a id="detail-link" class="archive-button" href={entryHref(initialEntry)}>
-                Open proposal record
-              </a>
-              <p class="sealed-note">
-                Unlit locations remain catalogued but sealed during this preview.
-              </p>
-            </aside>
           </div>
         </section>
 
@@ -131,19 +172,38 @@ const entryHref = (entry) =>
         <section class="accessible-records" aria-labelledby="accessible-records-title">
           <header>
             <p class="archive-kicker">Text alternative</p>
-            <h2 id="accessible-records-title">Accessible map records</h2>
+            <h2 id="accessible-records-title">Accessible map index</h2>
           </header>
-          <ol>
-            {mapEntries.map((entry) => (
-              <li>
-                <a href={entryHref(entry)}>
-                  <span>Map {entry.mapMarker}</span>
-                  <strong>{entry.publicTitle}</strong>
-                  <em>{entry.spoilerClassification}</em>
-                </a>
-              </li>
-            ))}
-          </ol>
+          <div class="map-index-columns">
+            <section aria-labelledby="public-map-index-title">
+              <h3 id="public-map-index-title">Public locations • 1–24</h3>
+              <ol>
+                {mapEntries.map((entry) => (
+                  <li>
+                    <a href={entryHref(entry)}>
+                      <span>Map {entry.mapMarker}</span>
+                      <strong>{entry.publicTitle}</strong>
+                      <em>Public stub</em>
+                    </a>
+                  </li>
+                ))}
+              </ol>
+            </section>
+            <section class="restricted-index" aria-labelledby="restricted-map-index-title">
+              <h3 id="restricted-map-index-title">Restricted references • A–F</h3>
+              <ol>
+                {hiddenMapEntries.map((entry) => (
+                  <li>
+                    <a href={mapEntryHref(entry)}>
+                      <span>Restricted {entry.mapMarker}</span>
+                      <strong>{entry.publicTitle}</strong>
+                      <em>Hidden Archives</em>
+                    </a>
+                  </li>
+                ))}
+              </ol>
+            </section>
+          </div>
         </section>
 
         <script>
@@ -153,12 +213,6 @@ const entryHref = (entry) =>
           const zoomIn = document.querySelector<HTMLButtonElement>("#map-zoom-in");
           const zoomOut = document.querySelector<HTMLButtonElement>("#map-zoom-out");
           const reset = document.querySelector<HTMLButtonElement>("#map-reset");
-          const detailMarker = document.querySelector<HTMLElement>("#detail-marker");
-          const detailClassification = document.querySelector<HTMLElement>("#detail-classification");
-          const detailTitle = document.querySelector<HTMLElement>("#detail-title");
-          const detailSummary = document.querySelector<HTMLElement>("#detail-summary");
-          const detailLink = document.querySelector<HTMLAnchorElement>("#detail-link");
-          const hotspots = document.querySelectorAll<HTMLButtonElement>(".map-hotspot");
           const levels = [1, 1.25, 1.5, 1.75, 2];
           let levelIndex = 0;
 
@@ -173,7 +227,7 @@ const entryHref = (entry) =>
                 ? (viewport.scrollTop + viewport.clientHeight / 2) / canvas.offsetHeight
                 : 0.5;
 
-            if (canvas) canvas.style.width = `${scale * 100}%`;
+            if (canvas) canvas.style.width = `max(${scale * 100}%, ${scale * 48}rem)`;
             if (zoomOutput) zoomOutput.value = `${Math.round(scale * 100)}%`;
             if (zoomOut) zoomOut.disabled = levelIndex === 0;
             if (zoomIn) zoomIn.disabled = levelIndex === levels.length - 1;
@@ -184,18 +238,6 @@ const entryHref = (entry) =>
                 top: centerRatioY * canvas.offsetHeight - viewport.clientHeight / 2,
               });
             }
-          };
-
-          const selectHotspot = (hotspot: HTMLButtonElement) => {
-            hotspots.forEach((item) => item.removeAttribute("aria-current"));
-            hotspot.setAttribute("aria-current", "true");
-            if (detailMarker) detailMarker.textContent = `Map ${hotspot.dataset.mapMarker}`;
-            if (detailClassification) {
-              detailClassification.textContent = hotspot.dataset.classification ?? "";
-            }
-            if (detailTitle) detailTitle.textContent = hotspot.dataset.title ?? "";
-            if (detailSummary) detailSummary.textContent = hotspot.dataset.summary ?? "";
-            if (detailLink) detailLink.href = hotspot.dataset.href ?? "/archive/";
           };
 
           zoomIn?.addEventListener("click", () => {
@@ -211,14 +253,11 @@ const entryHref = (entry) =>
           reset?.addEventListener("click", () => {
             levelIndex = 0;
             updateZoom(false);
-            viewport?.scrollTo({ top: 0, left: 0, behavior: "smooth" });
+            const behavior = window.matchMedia("(prefers-reduced-motion: reduce)").matches
+              ? "auto"
+              : "smooth";
+            viewport?.scrollTo({ top: 0, left: 0, behavior });
           });
-
-          hotspots.forEach((hotspot) => {
-            hotspot.addEventListener("click", () => selectHotspot(hotspot));
-          });
-
-          if (hotspots[0]) selectHotspot(hotspots[0]);
           updateZoom(false);
         </script>
       </>
@@ -322,14 +361,19 @@ const entryHref = (entry) =>
     text-align: center;
   }
 
-  .map-grid {
-    display: grid;
-    grid-template-columns: minmax(0, 1fr) minmax(17rem, 22rem);
+  .map-instruction {
+    margin: 0;
+    padding: 0.85rem 1rem;
+    border-bottom: 1px solid var(--archive-line);
+    color: var(--archive-muted);
+    background: rgb(101 199 228 / 5%);
+    font-size: 0.76rem;
+    line-height: 1.55;
   }
 
   .map-viewport {
     overflow: auto;
-    max-height: min(72vh, 54rem);
+    max-height: min(82vh, 66rem);
     background: #100e0a;
     scrollbar-color: var(--archive-brass) #08121b;
   }
@@ -351,91 +395,68 @@ const entryHref = (entry) =>
     filter: saturate(0.9) contrast(1.025);
   }
 
-  .map-hotspots {
+  .map-link-overlay {
     position: absolute;
     inset: 0;
-    pointer-events: none;
+    display: block;
+    width: 100%;
+    height: 100%;
   }
 
-  .map-hotspot {
-    position: absolute;
-    top: var(--marker-y);
-    left: var(--marker-x);
-    display: grid;
-    width: clamp(1.7rem, 3.3vw, 2.55rem);
-    aspect-ratio: 1;
-    padding: 0;
-    border: 1px solid #edbe68;
-    border-radius: 50%;
-    color: #fff3cb;
-    background: rgb(3 14 22 / 86%);
-    box-shadow:
-      0 0 0 5px rgb(101 199 228 / 11%),
-      0 0 1.2rem rgb(101 199 228 / 68%);
-    font: inherit;
-    font-size: clamp(0.65rem, 1.4vw, 0.86rem);
-    font-weight: 700;
-    place-items: center;
-    transform: translate(-50%, -50%);
-    pointer-events: auto;
+  .map-link-overlay a {
     cursor: pointer;
   }
 
-  .map-hotspot:hover,
-  .map-hotspot[aria-current="true"] {
-    color: #07111b;
-    background: #f0c36e;
-    box-shadow:
-      0 0 0 6px rgb(101 199 228 / 20%),
-      0 0 1.7rem rgb(101 199 228 / 90%);
+  .map-region-target,
+  .map-label-target {
+    fill: rgb(101 199 228 / 1%);
+    stroke: rgb(101 199 228 / 22%);
+    stroke-width: 2;
+    vector-effect: non-scaling-stroke;
+    transition:
+      fill 150ms ease,
+      stroke 150ms ease,
+      stroke-width 150ms ease;
   }
 
-  .map-record-detail {
-    display: flex;
-    min-height: 26rem;
-    padding: clamp(1.25rem, 3vw, 2rem);
-    border-left: 1px solid var(--archive-line);
-    background:
-      linear-gradient(145deg, rgb(197 138 54 / 9%), transparent 42%),
-      var(--archive-panel);
-    flex-direction: column;
+  .map-label-target {
+    fill: rgb(197 138 54 / 3%);
+    stroke: rgb(237 190 104 / 30%);
   }
 
-  .detail-code {
-    display: flex;
-    justify-content: space-between;
-    margin: 0;
-    color: var(--archive-brass);
-    font-size: 0.64rem;
-    letter-spacing: 0.12em;
-    text-transform: uppercase;
+  .map-link-overlay a:hover .map-region-target,
+  .map-link-overlay a:focus .map-region-target,
+  .map-link-overlay a:focus-visible .map-region-target {
+    fill: rgb(101 199 228 / 16%);
+    stroke: #8be3f7;
+    stroke-width: 4;
   }
 
-  .map-record-detail h2 {
-    margin: 2rem 0 1rem;
-    font-size: clamp(1.6rem, 3vw, 2.45rem);
-    font-weight: 400;
-    line-height: 1.05;
+  .map-link-overlay a:hover .map-label-target,
+  .map-link-overlay a:focus .map-label-target,
+  .map-link-overlay a:focus-visible .map-label-target {
+    fill: rgb(5 18 28 / 48%);
+    stroke: #f0c36e;
+    stroke-width: 4;
   }
 
-  .map-record-detail > p:not(.detail-code, .sealed-note) {
-    margin: 0;
-    color: #bdd1d6;
-    line-height: 1.72;
+  .map-link-overlay a:focus {
+    outline: none;
   }
 
-  .map-record-detail .archive-button {
-    align-self: flex-start;
-    margin-top: 1.7rem;
+  .map-link-overlay .restricted-map-link .map-region-target,
+  .map-link-overlay .restricted-map-link .map-label-target {
+    fill: rgb(143 79 46 / 3%);
+    stroke: rgb(233 126 82 / 36%);
+    stroke-dasharray: 7 5;
   }
 
-  .sealed-note {
-    margin: auto 0 0;
-    padding-top: 1.5rem;
-    border-top: 1px solid var(--archive-line);
-    color: #7898a1;
-    font-size: 0.72rem;
-    line-height: 1.5;
+  .map-link-overlay .restricted-map-link:hover .map-region-target,
+  .map-link-overlay .restricted-map-link:focus .map-region-target,
+  .map-link-overlay .restricted-map-link:hover .map-label-target,
+  .map-link-overlay .restricted-map-link:focus .map-label-target {
+    fill: rgb(143 79 46 / 22%);
+    stroke: #f29a72;
   }
 
   .map-route-nav {
@@ -508,9 +529,31 @@ const entryHref = (entry) =>
     font-weight: 400;
   }
 
+  .map-index-columns {
+    display: grid;
+    grid-template-columns: minmax(0, 3fr) minmax(17rem, 1fr);
+    margin-top: 1.4rem;
+    gap: 1rem;
+  }
+
+  .map-index-columns > section {
+    padding: 1rem;
+    border: 1px solid var(--archive-line);
+    background: rgb(4 15 24 / 70%);
+  }
+
+  .map-index-columns h3 {
+    margin: 0;
+    color: var(--archive-paper);
+    font-size: 0.78rem;
+    font-weight: 400;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+  }
+
   .accessible-records ol {
     display: grid;
-    grid-template-columns: repeat(5, minmax(0, 1fr));
+    grid-template-columns: repeat(4, minmax(0, 1fr));
     padding: 0;
     margin: 1.4rem 0 0;
     list-style: none;
@@ -551,23 +594,28 @@ const entryHref = (entry) =>
     color: var(--archive-brass);
   }
 
+  .restricted-index {
+    border-color: rgb(173 80 46 / 62%) !important;
+    background:
+      linear-gradient(145deg, rgb(143 79 46 / 12%), transparent 45%),
+      rgb(9 12 17 / 80%) !important;
+  }
+
+  .restricted-index ol {
+    grid-template-columns: 1fr;
+  }
+
+  .restricted-index a {
+    min-height: 7rem;
+  }
+
   .sealed-state .archive-button {
     margin-top: 2rem;
   }
 
   @media (max-width: 70rem) {
-    .map-grid {
+    .map-index-columns {
       grid-template-columns: 1fr;
-    }
-
-    .map-record-detail {
-      min-height: 0;
-      border-top: 1px solid var(--archive-line);
-      border-left: 0;
-    }
-
-    .sealed-note {
-      margin-top: 2rem;
     }
 
     .accessible-records ol {
@@ -576,6 +624,10 @@ const entryHref = (entry) =>
   }
 
   @media (max-width: 48rem) {
+    .map-canvas {
+      min-width: 48rem;
+    }
+
     .map-heading {
       align-items: start;
       grid-template-columns: 1fr;

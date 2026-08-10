@@ -1,0 +1,337 @@
+---
+import ArchiveLayout from "../../../layouts/ArchiveLayout.astro";
+import { getWorldEntrancePreview } from "../../../lib/archive-preview.mjs";
+
+const archive = getWorldEntrancePreview();
+const restrictedLocations = archive.hiddenMapEntries;
+const hiddenFigures = archive.hiddenEntries.filter(
+  (entry) => entry.entityType === "character",
+);
+const hiddenOrganizations = archive.hiddenEntries.filter(
+  (entry) => entry.entityType === "organization",
+);
+const description =
+  "Enter the warned Hidden Archives subsection for restricted Aetherhaven records, mysterious figures, and spoiler-sensitive organizations.";
+---
+
+<ArchiveLayout title="Hidden Archives" description={description} section="Restricted Records Division">
+  {
+    archive.enabled ? (
+      <>
+        <aside class="restricted-notice" aria-label="Hidden Archives spoiler warning">
+          <span aria-hidden="true">!</span>
+          <div>
+            <strong>Spoiler and sensitive-material warning</strong>
+            <p>
+              The Hidden Archives is a restricted subsection of the Aetherhaven Archives.
+              Its closed records may name mysterious figures, concealed organizations,
+              future-story material, and information that does not belong in the main
+              public catalog. Opening a drawer is optional.
+            </p>
+          </div>
+        </aside>
+
+        <nav class="hidden-breadcrumb" aria-label="Breadcrumb">
+          <a href="/archive/">Aetherhaven Archives</a>
+          <span aria-hidden="true">/</span>
+          <span aria-current="page">Hidden Archives</span>
+        </nav>
+
+        <header class="hidden-heading">
+          <p class="archive-kicker">Restricted Records Division • Preview only</p>
+          <h1 class="archive-title">Hidden Archives</h1>
+          <p class="archive-lede">
+            These drawers are separated from public records on purpose. Titles remain
+            visible for review, but every sensitive extract stays closed until you
+            choose to open it. Unknown identities remain sealed or withheld; unresolved
+            mysteries are not answered here merely because the drawer exists.
+          </p>
+        </header>
+
+        <section class="hidden-section" aria-labelledby="restricted-locations-title">
+          <header>
+            <p class="archive-kicker">Cartographic restrictions • A–F</p>
+            <h2 id="restricted-locations-title">Restricted locations</h2>
+          </header>
+          <div class="hidden-records map-restrictions">
+            {restrictedLocations.map((entry) => (
+              <details id={`map-${entry.mapMarker}`} class="hidden-record">
+                <summary>
+                  <span>Restricted {entry.mapMarker}</span>
+                  <strong>{entry.publicTitle}</strong>
+                  <em>{entry.spoilerClassification}</em>
+                  <span class="drawer-state" aria-hidden="true">+</span>
+                </summary>
+                <div>
+                  <p>{entry.publicSummary}</p>
+                  <a href="/archive/map/">Return to its marked map region</a>
+                </div>
+              </details>
+            ))}
+          </div>
+        </section>
+
+        <section class="hidden-section" aria-labelledby="hidden-figures-title">
+          <header>
+            <p class="archive-kicker">Restricted character index</p>
+            <h2 id="hidden-figures-title">Hidden and mysterious figures</h2>
+          </header>
+          <div class="hidden-records">
+            {hiddenFigures.map((entry) => (
+              <details id={entry.slug} class="hidden-record">
+                <summary>
+                  <span>Figure</span>
+                  <strong>{entry.publicTitle}</strong>
+                  <em>{entry.spoilerClassification}</em>
+                  <span class="drawer-state" aria-hidden="true">+</span>
+                </summary>
+                <div>
+                  <p>{entry.publicSummary}</p>
+                  <p class="sealed-identity">
+                    Identity remains sealed or withheld unless the source explicitly
+                    establishes a public identity.
+                  </p>
+                </div>
+              </details>
+            ))}
+          </div>
+        </section>
+
+        <section class="hidden-section" aria-labelledby="hidden-organizations-title">
+          <header>
+            <p class="archive-kicker">Restricted organization index</p>
+            <h2 id="hidden-organizations-title">Concealed and sensitive organizations</h2>
+          </header>
+          <div class="hidden-records">
+            {hiddenOrganizations.map((entry) => (
+              <details id={entry.slug} class="hidden-record">
+                <summary>
+                  <span>Organization</span>
+                  <strong>{entry.publicTitle}</strong>
+                  <em>{entry.spoilerClassification}</em>
+                  <span class="drawer-state" aria-hidden="true">+</span>
+                </summary>
+                <div>
+                  <p>{entry.publicSummary}</p>
+                  <p class="sealed-identity">
+                    Membership, leadership, and purpose remain sealed or withheld from
+                    the main public archives.
+                  </p>
+                </div>
+              </details>
+            ))}
+          </div>
+        </section>
+
+        <nav class="hidden-exit" aria-label="Leave Hidden Archives">
+          <a href="/archive/">Return to the public Archive entrance</a>
+          <a href="/archive/map/">Return to the Map Room</a>
+        </nav>
+      </>
+    ) : (
+      <section class="sealed-state">
+        <p class="archive-kicker">Restricted division sealed</p>
+        <h1 class="archive-title">Hidden Archives unavailable</h1>
+        <p class="archive-lede">
+          Restricted records are enabled only in an authorized branch preview.
+        </p>
+        <a class="archive-button" href="/">Return to the main exhibit</a>
+      </section>
+    )
+  }
+</ArchiveLayout>
+
+<style>
+  .restricted-notice {
+    display: grid;
+    grid-template-columns: auto minmax(0, 1fr);
+    padding: 1.2rem;
+    border: 1px solid rgb(196 82 49 / 72%);
+    color: #e5c6b9;
+    background:
+      linear-gradient(130deg, rgb(143 79 46 / 22%), transparent 52%),
+      rgb(13 12 16 / 90%);
+    box-shadow: 0 1.5rem 4rem rgb(0 0 0 / 32%);
+    gap: 1rem;
+  }
+
+  .restricted-notice > span {
+    display: grid;
+    width: 2.3rem;
+    height: 2.3rem;
+    border: 1px solid #e98359;
+    border-radius: 50%;
+    color: #ffd9c7;
+    place-items: center;
+    font-weight: 700;
+  }
+
+  .restricted-notice strong {
+    color: #ffd9c7;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+  }
+
+  .restricted-notice p {
+    max-width: 78ch;
+    margin: 0.45rem 0 0;
+    line-height: 1.65;
+  }
+
+  .hidden-breadcrumb {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-top: 1.5rem;
+    color: var(--archive-muted);
+    font-size: 0.7rem;
+    letter-spacing: 0.1em;
+    gap: 0.6rem;
+    text-transform: uppercase;
+  }
+
+  .hidden-heading {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) minmax(20rem, 0.72fr);
+    align-items: end;
+    padding: clamp(4rem, 10vw, 8rem) 0 clamp(2rem, 6vw, 4rem);
+    gap: clamp(2rem, 7vw, 7rem);
+  }
+
+  .hidden-heading .archive-title {
+    max-width: 9ch;
+  }
+
+  .hidden-heading .archive-lede {
+    margin: 0;
+  }
+
+  .hidden-section {
+    padding: clamp(2.5rem, 6vw, 5rem) 0;
+    border-top: 1px solid rgb(196 82 49 / 36%);
+  }
+
+  .hidden-section h2 {
+    margin: 0;
+    font-size: clamp(1.8rem, 4vw, 3.2rem);
+    font-weight: 400;
+  }
+
+  .hidden-records {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    margin-top: 1.5rem;
+    gap: 0.75rem;
+  }
+
+  .hidden-record {
+    border: 1px solid rgb(143 79 46 / 60%);
+    background:
+      linear-gradient(145deg, rgb(143 79 46 / 11%), transparent 44%),
+      rgb(5 14 22 / 88%);
+  }
+
+  .hidden-record summary {
+    position: relative;
+    display: grid;
+    grid-template-columns: auto minmax(0, 1fr) auto;
+    align-items: center;
+    min-height: 5.3rem;
+    padding: 1rem 3rem 1rem 1rem;
+    cursor: pointer;
+    gap: 1rem;
+  }
+
+  .hidden-record summary:hover {
+    background: rgb(143 79 46 / 10%);
+  }
+
+  .hidden-record summary span,
+  .hidden-record summary em {
+    color: #c98970;
+    font-size: 0.62rem;
+    font-style: normal;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+  }
+
+  .hidden-record summary strong {
+    color: var(--archive-paper);
+    font-weight: 400;
+  }
+
+  .hidden-record summary .drawer-state {
+    position: absolute;
+    top: 50%;
+    right: 1rem;
+    color: #f29a72;
+    font-size: 1.2rem;
+    line-height: 1;
+    transform: translateY(-50%);
+    transition: transform 150ms ease;
+  }
+
+  .hidden-record[open] .drawer-state {
+    transform: translateY(-50%) rotate(45deg);
+  }
+
+  .hidden-record > div {
+    padding: 1.1rem;
+    border-top: 1px solid rgb(143 79 46 / 44%);
+    color: #b8cbd0;
+    line-height: 1.7;
+  }
+
+  .hidden-record > div p {
+    margin: 0;
+  }
+
+  .hidden-record > div p + p,
+  .hidden-record > div p + a {
+    display: inline-block;
+    margin-top: 1rem;
+  }
+
+  .hidden-record > div a {
+    color: var(--archive-blue);
+    text-underline-offset: 0.25rem;
+  }
+
+  .sealed-identity {
+    color: #8aa3aa;
+    font-size: 0.78rem;
+  }
+
+  .hidden-exit {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding: 1.2rem;
+    border: 1px solid var(--archive-line);
+    background: var(--archive-panel);
+    gap: 1rem;
+  }
+
+  .hidden-exit a {
+    color: var(--archive-blue);
+    text-underline-offset: 0.25rem;
+  }
+
+  @media (max-width: 54rem) {
+    .hidden-heading,
+    .hidden-records {
+      grid-template-columns: 1fr;
+    }
+
+    .hidden-heading {
+      align-items: start;
+    }
+  }
+
+  @media (max-width: 38rem) {
+    .hidden-record summary {
+      grid-template-columns: 1fr;
+      gap: 0.45rem;
+    }
+  }
+</style>

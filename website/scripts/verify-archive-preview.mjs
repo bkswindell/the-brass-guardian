@@ -18,6 +18,7 @@ const exists = async (path) =>
 const routes = [
   ["archive/index.html", "Explore Aetherhaven"],
   ["archive/map/index.html", "Map of Aetherhaven"],
+  ["archive/hidden/index.html", "Hidden Archives"],
   ["archive/location/aetherhaven/index.html", "Aetherhaven"],
   ["archive/location/clockwork-gardens/index.html", "The Clockwork Gardens"],
   [
@@ -28,6 +29,8 @@ const routes = [
   ["archive/district/inventors-district/index.html", "The Inventors’ District"],
   ["archive/location/aerial-docks/index.html", "The Aerial Docks"],
   ["archive/vessel/wayfinder/index.html", "The Wayfinder"],
+  ["archive/character/amelia-hawthorne/index.html", "Amelia Hawthorne"],
+  ["archive/organization/aetherhaven-archives/index.html", "The Aetherhaven Archives"],
 ];
 
 for (const [path, expectedHeading] of routes) {
@@ -39,7 +42,9 @@ for (const [path, expectedHeading] of routes) {
     `${path} must remain noindex during preview refinement.`,
   );
   expect(
-    html.includes("Proposal preview") || path === "archive/map/index.html",
+    html.includes("Proposal preview") ||
+      html.includes("Preview only") ||
+      path === "archive/map/index.html",
     `${path} must identify non-canonical proposal content.`,
   );
   expect(
@@ -85,7 +90,7 @@ expect(
   "Archive entrance must link clearly to the map.",
 );
 expect(
-  archiveHtml.includes("7 records cleared for preview"),
+  archiveHtml.includes("67 public records are indexed for this Preview"),
   "Archive entrance must report the preview record count.",
 );
 expect(
@@ -95,10 +100,17 @@ expect(
 );
 expect(
   archiveHtml.includes("Open Catalog") &&
-    archiveHtml.includes('id="catalog-search"') &&
-    archiveHtml.includes('id="catalog-result-count"'),
+  archiveHtml.includes('id="catalog-search"') &&
+  archiveHtml.includes('id="catalog-result-count"') &&
+  archiveHtml.includes('data-catalog-filter="character"') &&
+  archiveHtml.includes('data-catalog-filter="organization"'),
   "Archive entrance must also offer a searchable, accessible open catalog.",
-);
+  );
+  expect(
+  archiveHtml.includes('href="/archive/hidden/"') &&
+  archiveHtml.includes("Enter with spoiler warning"),
+  "Archive entrance must separate sensitive records behind a warned Hidden Archives doorway.",
+  );
 
 const aetherhavenHtml = await readText("archive/location/aetherhaven/index.html");
 expect(
@@ -108,12 +120,18 @@ expect(
 );
 
 const mapHtml = await readText("archive/map/index.html");
-for (const marker of ["2", "8", "12", "13", "19"]) {
+for (const marker of [...Array.from({ length: 24 }, (_, index) => String(index + 1)), "A", "B", "C", "D", "E", "F"]) {
   expect(
     mapHtml.includes(`data-map-marker="${marker}"`),
-    `Interactive map must expose marker ${marker}.`,
+    `Interactive map must expose linked region ${marker}.`,
   );
 }
+expect(
+  mapHtml.includes('class="map-link-overlay"') &&
+    mapHtml.includes('viewBox="0 0 1539 1152"') &&
+    !mapHtml.includes("map-hotspot"),
+  "Map must use responsive semantic region-and-label links instead of floating marker buttons.",
+);
 expect(
   mapHtml.includes("map-of-aetherhaven-768.webp") &&
     mapHtml.includes("map-of-aetherhaven-1539.webp"),
@@ -130,8 +148,22 @@ expect(
   "Map must announce zoom-level changes to assistive technology.",
 );
 expect(
-  mapHtml.includes("Accessible map records"),
-  "Map must provide a non-visual record list equivalent to the hotspots.",
+  mapHtml.includes("Accessible map index") &&
+    mapHtml.includes("Public locations • 1–24") &&
+    mapHtml.includes("Restricted references • A–F"),
+  "Map must provide a non-visual index equivalent to its linked regions.",
+);
+
+const hiddenHtml = await readText("archive/hidden/index.html");
+expect(
+  hiddenHtml.includes("Spoiler and sensitive-material warning") &&
+    hiddenHtml.includes("Hidden and mysterious figures") &&
+    hiddenHtml.includes("Concealed and sensitive organizations"),
+  "Hidden Archives must warn visitors and separate restricted locations, figures, and organizations.",
+);
+expect(
+  (hiddenHtml.match(/<details /g) ?? []).length === 28,
+  "Hidden Archives must emit all 28 closed restricted record stubs.",
 );
 expect(
   await exists("images/archive/map-of-aetherhaven-1539.webp"),
@@ -154,5 +186,5 @@ if (failures.length > 0) {
 }
 
 console.log(
-  "Archive preview verification passed: scene-first entrance, interactive map, seven proposal records, noindex controls, responsive art, and accessible navigation.",
+  "Archive preview verification passed: 67 public records, 30 direct map links, 28 closed Hidden Archive records, noindex controls, responsive art, and accessible navigation.",
 );

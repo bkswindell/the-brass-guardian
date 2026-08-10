@@ -125,8 +125,10 @@ const entryHref = (entry) =>
               <h2 id="catalog-title">Open Catalog</h2>
             </div>
             <p>
-              7 records cleared for preview. Search by name or subject, narrow the
-              cabinets by record class, or return to the map and choose by place.
+              {entries.length} public records are indexed for this Preview: all
+              twenty-four mapped locations, public characters and organizations, the
+              city overview, and the Wayfinder. Search by name or narrow the cabinets
+              by record class.
             </p>
           </header>
 
@@ -144,6 +146,8 @@ const entryHref = (entry) =>
               <button type="button" data-catalog-filter="all" aria-pressed="true">All records</button>
               <button type="button" data-catalog-filter="location" aria-pressed="false">Places</button>
               <button type="button" data-catalog-filter="district" aria-pressed="false">Districts</button>
+              <button type="button" data-catalog-filter="character" aria-pressed="false">Characters</button>
+              <button type="button" data-catalog-filter="organization" aria-pressed="false">Organizations</button>
               <button type="button" data-catalog-filter="vessel" aria-pressed="false">Vessels</button>
             </div>
             <output id="catalog-result-count" for="catalog-search" aria-live="polite">
@@ -175,6 +179,19 @@ const entryHref = (entry) =>
             No cleared records match this inquiry. Try another term or open all drawers.
           </p>
         </section>
+
+        <aside class="hidden-archive-callout" aria-labelledby="hidden-archive-callout-title">
+          <div>
+            <p class="archive-kicker">Restricted records division</p>
+            <h2 id="hidden-archive-callout-title">The Hidden Archives</h2>
+            <p>
+              Mysterious figures, concealed organizations, restricted map references,
+              and spoiler-sensitive material are kept apart from the public catalog.
+              Records remain closed until a visitor chooses to open them.
+            </p>
+          </div>
+          <a href="/archive/hidden/">Enter with spoiler warning</a>
+        </aside>
 
         <script>
           const search = document.querySelector<HTMLInputElement>("#catalog-search");
@@ -696,6 +713,45 @@ const entryHref = (entry) =>
     text-transform: uppercase;
   }
 
+  .hidden-archive-callout {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) auto;
+    align-items: center;
+    margin-top: clamp(3rem, 8vw, 7rem);
+    padding: clamp(1.4rem, 4vw, 2.5rem);
+    border: 1px solid rgb(143 79 46 / 66%);
+    background:
+      linear-gradient(135deg, rgb(143 79 46 / 16%), transparent 52%),
+      rgb(8 13 19 / 88%);
+    gap: 2rem;
+  }
+
+  .hidden-archive-callout h2 {
+    margin: 0;
+    font-size: clamp(1.7rem, 4vw, 2.8rem);
+    font-weight: 400;
+  }
+
+  .hidden-archive-callout p:not(.archive-kicker) {
+    max-width: 68ch;
+    margin: 0.8rem 0 0;
+    color: #b9cbd0;
+    line-height: 1.7;
+  }
+
+  .hidden-archive-callout > a {
+    padding: 0.9rem 1.1rem;
+    border: 1px solid #c98970;
+    color: #f0d7ca;
+    text-decoration: none;
+    white-space: nowrap;
+  }
+
+  .hidden-archive-callout > a:hover,
+  .hidden-archive-callout > a:focus-visible {
+    background: rgb(143 79 46 / 22%);
+  }
+
   .sealed-state .archive-button {
     margin-top: 2rem;
   }
@@ -726,6 +782,14 @@ const entryHref = (entry) =>
 
     .catalog-controls {
       grid-template-columns: 1fr;
+    }
+
+    .hidden-archive-callout {
+      grid-template-columns: 1fr;
+    }
+
+    .hidden-archive-callout > a {
+      justify-self: start;
     }
 
     #catalog-result-count {

@@ -113,45 +113,54 @@ const responsiveSources = {
     </section>
   </article>
 
-  <nav class="curator-route-nav" aria-label="Curator’s Route">
-    <header>
-      <p class="archive-kicker">Suggested passage</p>
-      <p>
-        Stop {routeIndex + 1} of {curatorRoute.length} on the Curator’s Route
-      </p>
-    </header>
-    <div>
-      {
-        previousStep ? (
-          <a class="route-direction previous" href={previousStep.href}>
-            <small>Previous stop</small>
-            <strong>{previousStep.title}</strong>
+  {
+    routeIndex >= 0 ? (
+      <nav class="curator-route-nav" aria-label="Curator’s Route">
+        <header>
+          <p class="archive-kicker">Suggested passage</p>
+          <p>
+            Stop {routeIndex + 1} of {curatorRoute.length} on the Curator’s Route
+          </p>
+        </header>
+        <div>
+          {
+            previousStep ? (
+              <a class="route-direction previous" href={previousStep.href}>
+                <small>Previous stop</small>
+                <strong>{previousStep.title}</strong>
+              </a>
+            ) : (
+              <a class="route-direction previous" href="/archive/#curators-route">
+                <small>Route index</small>
+                <strong>View all eight stops</strong>
+              </a>
+            )
+          }
+          <a class="leave-route" href="/archive/#open-catalog">
+            Leave the route and browse freely
           </a>
-        ) : (
-          <a class="route-direction previous" href="/archive/#curators-route">
-            <small>Route index</small>
-            <strong>View all eight stops</strong>
-          </a>
-        )
-      }
-      <a class="leave-route" href="/archive/#open-catalog">
-        Leave the route and browse freely
-      </a>
-      {
-        nextStep ? (
-          <a class="route-direction next" href={nextStep.href}>
-            <small>Next stop: {nextStep.title}</small>
-            <strong>{nextStep.note}</strong>
-          </a>
-        ) : (
-          <a class="route-direction next" href="/archive/#open-catalog">
-            <small>Route complete</small>
-            <strong>Continue through the Open Catalog</strong>
-          </a>
-        )
-      }
-    </div>
-  </nav>
+          {
+            nextStep ? (
+              <a class="route-direction next" href={nextStep.href}>
+                <small>Next stop: {nextStep.title}</small>
+                <strong>{nextStep.note}</strong>
+              </a>
+            ) : (
+              <a class="route-direction next" href="/archive/#open-catalog">
+                <small>Route complete</small>
+                <strong>Continue through the Open Catalog</strong>
+              </a>
+            )
+          }
+        </div>
+      </nav>
+    ) : (
+      <nav class="catalog-record-nav" aria-label="Catalog record navigation">
+        <a href="/archive/#open-catalog">Return to the Open Catalog</a>
+        {entry.mapMarker && <a href="/archive/map/">Return to the Map Room</a>}
+      </nav>
+    )
+  }
 
   {
     relatedEntries.length > 0 && (
@@ -342,6 +351,22 @@ const responsiveSources = {
     color: var(--archive-muted);
     line-height: 1.5;
     text-transform: capitalize;
+  }
+
+  .catalog-record-nav {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-top: 1rem;
+    padding: 1rem;
+    border: 1px solid var(--archive-line);
+    background: rgb(4 12 19 / 82%);
+    gap: 1rem;
+  }
+
+  .catalog-record-nav a {
+    color: var(--archive-blue);
+    text-underline-offset: 0.25rem;
   }
 
   .related-records {
