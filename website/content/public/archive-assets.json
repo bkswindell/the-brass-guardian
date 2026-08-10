@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "assets": {
+    "art/Map_of_Aetherhaven.png": {
+      "src": "/images/archive/map-of-aetherhaven-1539.webp",
+      "width": 1539,
+      "height": 1152,
+      "sources": [
+        { "src": "/images/archive/map-of-aetherhaven-768.webp", "width": 768 },
+        { "src": "/images/archive/map-of-aetherhaven-1152.webp", "width": 1152 },
+        { "src": "/images/archive/map-of-aetherhaven-1539.webp", "width": 1539 }
+      ]
+    },
+    "art/Clockwork_Gardens_at_Night.png": {
+      "src": "/images/archive/clockwork-gardens-at-night-767.webp",
+      "width": 767,
+      "height": 1151,
+      "sources": [
+        { "src": "/images/archive/clockwork-gardens-at-night-480.webp", "width": 480 },
+        { "src": "/images/archive/clockwork-gardens-at-night-767.webp", "width": 767 }
+      ]
+    },
+    "art/Wayfinder_Above_the_Clouds.png": {
+      "src": "/images/archive/wayfinder-above-clouds-1024.webp",
+      "width": 1024,
+      "height": 1536,
+      "sources": [
+        { "src": "/images/archive/wayfinder-above-clouds-640.webp", "width": 640 },
+        { "src": "/images/archive/wayfinder-above-clouds-1024.webp", "width": 1024 }
+      ]
+    }
+  }
+}

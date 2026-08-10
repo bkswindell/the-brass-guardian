@@ -56,6 +56,10 @@ relationships:
 - target: AH-LOC-PLACEHOLDER-001
   type: public-related
   visibility: teaser
+cartography:
+- map_id: aetherhaven-city
+  category: numbered
+  reference: '17'
 ---
 # The Entertainment District
 

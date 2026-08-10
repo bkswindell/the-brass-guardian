@@ -42,3 +42,11 @@ export const validateArchiveRelease = (release) => {
 
   return release;
 };
+
+export const isArchivePreviewBuild = (env = process.env) => {
+  if (env.VERCEL_ENV === "production") return false;
+  return env.PUBLICATION_PREVIEW === "1" || env.VERCEL_ENV === "preview";
+};
+
+export const isArchiveEnabledForBuild = (release, env = process.env) =>
+  isArchivePreviewBuild(env) || validateArchiveRelease(release).status === "published";

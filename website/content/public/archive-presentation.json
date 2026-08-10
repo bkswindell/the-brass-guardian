@@ -1,13 +1,12 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "approval": {
     "approvedBy": "author",
     "approvedOn": "2026-08-10"
   },
   "mapEntries": [
     {
-      "id": "location-aetherium",
-      "mapMarker": "1",
+      "id": "AH-LOC-PLACEHOLDER-002",
       "mapRegion": {
         "cx": 770,
         "cy": 500,
@@ -21,8 +20,7 @@
       }
     },
     {
-      "id": "location-clockwork-gardens",
-      "mapMarker": "2",
+      "id": "AH-LOC-PLACEHOLDER-003",
       "mapPosition": {
         "x": 50,
         "y": 51
@@ -40,8 +38,7 @@
       }
     },
     {
-      "id": "location-grand-atrium",
-      "mapMarker": "3",
+      "id": "AH-LOC-PLACEHOLDER-004",
       "mapRegion": {
         "cx": 972,
         "cy": 463,
@@ -55,8 +52,7 @@
       }
     },
     {
-      "id": "location-clocktower-spire",
-      "mapMarker": "4",
+      "id": "AH-LOC-PLACEHOLDER-005",
       "mapRegion": {
         "cx": 770,
         "cy": 326,
@@ -70,8 +66,7 @@
       }
     },
     {
-      "id": "location-waterfall-cascades",
-      "mapMarker": "5",
+      "id": "AH-LOC-PLACEHOLDER-006",
       "mapRegion": {
         "cx": 454,
         "cy": 183,
@@ -85,8 +80,7 @@
       }
     },
     {
-      "id": "location-reflection-canals",
-      "mapMarker": "6",
+      "id": "AH-LOC-PLACEHOLDER-007",
       "mapRegion": {
         "cx": 599,
         "cy": 466,
@@ -100,8 +94,7 @@
       }
     },
     {
-      "id": "location-starlight-walkways",
-      "mapMarker": "7",
+      "id": "AH-LOC-PLACEHOLDER-008",
       "mapRegion": {
         "cx": 666,
         "cy": 667,
@@ -115,8 +108,7 @@
       }
     },
     {
-      "id": "location-gardens-airship-landing",
-      "mapMarker": "8",
+      "id": "AH-LOC-AIRSHIP-LANDING",
       "mapPosition": {
         "x": 28,
         "y": 59
@@ -134,8 +126,7 @@
       }
     },
     {
-      "id": "location-southern-docks",
-      "mapMarker": "9",
+      "id": "AH-LOC-PLACEHOLDER-009",
       "mapRegion": {
         "cx": 1008,
         "cy": 843,
@@ -149,8 +140,7 @@
       }
     },
     {
-      "id": "location-brass-gate",
-      "mapMarker": "10",
+      "id": "AH-LOC-PLACEHOLDER-010",
       "mapRegion": {
         "cx": 774,
         "cy": 899,
@@ -164,8 +154,7 @@
       }
     },
     {
-      "id": "district-government",
-      "mapMarker": "11",
+      "id": "AH-LOC-PLACEHOLDER-011",
       "mapRegion": {
         "cx": 612,
         "cy": 232,
@@ -179,8 +168,7 @@
       }
     },
     {
-      "id": "district-merchant",
-      "mapMarker": "12",
+      "id": "AH-LOC-PLACEHOLDER-012",
       "mapPosition": {
         "x": 29.3,
         "y": 29.2
@@ -198,8 +186,7 @@
       }
     },
     {
-      "id": "district-inventors",
-      "mapMarker": "13",
+      "id": "AH-LOC-PLACEHOLDER-013",
       "mapPosition": {
         "x": 57,
         "y": 23.4
@@ -217,8 +204,7 @@
       }
     },
     {
-      "id": "district-industrial",
-      "mapMarker": "14",
+      "id": "AH-LOC-PLACEHOLDER-014",
       "mapRegion": {
         "cx": 1203,
         "cy": 419,
@@ -232,8 +218,7 @@
       }
     },
     {
-      "id": "location-old-city",
-      "mapMarker": "15",
+      "id": "AH-LOC-PLACEHOLDER-015",
       "mapRegion": {
         "cx": 362,
         "cy": 514,
@@ -247,8 +232,7 @@
       }
     },
     {
-      "id": "district-canal",
-      "mapMarker": "16",
+      "id": "AH-LOC-PLACEHOLDER-016",
       "mapRegion": {
         "cx": 922,
         "cy": 705,
@@ -262,8 +246,7 @@
       }
     },
     {
-      "id": "district-entertainment",
-      "mapMarker": "17",
+      "id": "AH-LOC-ENTERTAINMENT-DISTRICT",
       "mapRegion": {
         "cx": 542,
         "cy": 838,
@@ -277,8 +260,7 @@
       }
     },
     {
-      "id": "location-workers-dormitories",
-      "mapMarker": "18",
+      "id": "AH-LOC-PLACEHOLDER-017",
       "mapRegion": {
         "cx": 1203,
         "cy": 610,
@@ -292,8 +274,7 @@
       }
     },
     {
-      "id": "location-aerial-docks",
-      "mapMarker": "19",
+      "id": "AH-LOC-AERIAL-DOCKS",
       "mapPosition": {
         "x": 22,
         "y": 24.2
@@ -311,8 +292,7 @@
       }
     },
     {
-      "id": "location-great-workshops",
-      "mapMarker": "20",
+      "id": "AH-LOC-PLACEHOLDER-018",
       "mapRegion": {
         "cx": 1100,
         "cy": 231,
@@ -326,8 +306,7 @@
       }
     },
     {
-      "id": "location-engine-complex",
-      "mapMarker": "21",
+      "id": "AH-LOC-PLACEHOLDER-019",
       "mapRegion": {
         "cx": 1302,
         "cy": 472,
@@ -341,8 +320,7 @@
       }
     },
     {
-      "id": "location-gearbreaker-mines",
-      "mapMarker": "22",
+      "id": "AH-LOC-PLACEHOLDER-020",
       "mapRegion": {
         "cx": 1420,
         "cy": 202,
@@ -356,8 +334,7 @@
       }
     },
     {
-      "id": "location-observatory",
-      "mapMarker": "23",
+      "id": "AH-LOC-PLACEHOLDER-021",
       "mapRegion": {
         "cx": 458,
         "cy": 987,
@@ -371,8 +348,7 @@
       }
     },
     {
-      "id": "location-academy-of-invention",
-      "mapMarker": "24",
+      "id": "AH-LOC-PLACEHOLDER-022",
       "mapRegion": {
         "cx": 1259,
         "cy": 237,
@@ -386,8 +362,7 @@
       }
     },
     {
-      "id": "restricted-obsidian-spire",
-      "mapMarker": "A",
+      "id": "AH-LOC-PLACEHOLDER-023",
       "mapRegion": {
         "cx": 1416,
         "cy": 124,
@@ -401,8 +376,7 @@
       }
     },
     {
-      "id": "restricted-shrouded-vaults",
-      "mapMarker": "B",
+      "id": "AH-LOC-PLACEHOLDER-024",
       "mapRegion": {
         "cx": 1309,
         "cy": 745,
@@ -416,8 +390,7 @@
       }
     },
     {
-      "id": "restricted-echoing-depths",
-      "mapMarker": "C",
+      "id": "AH-LOC-PLACEHOLDER-025",
       "mapRegion": {
         "cx": 1266,
         "cy": 877,
@@ -431,8 +404,7 @@
       }
     },
     {
-      "id": "restricted-silent-observatory",
-      "mapMarker": "D",
+      "id": "AH-LOC-PLACEHOLDER-026",
       "mapRegion": {
         "cx": 1416,
         "cy": 340,
@@ -446,8 +418,7 @@
       }
     },
     {
-      "id": "restricted-cauldron",
-      "mapMarker": "E",
+      "id": "AH-LOC-CAULDRON",
       "mapRegion": {
         "cx": 304,
         "cy": 887,
@@ -461,8 +432,7 @@
       }
     },
     {
-      "id": "restricted-null-zone",
-      "mapMarker": "F",
+      "id": "AH-LOC-PLACEHOLDER-027",
       "mapRegion": {
         "cx": 1298,
         "cy": 983,
@@ -478,7 +448,7 @@
   ],
   "curatorRoute": [
     {
-      "id": "location-aetherhaven",
+      "id": "AH-LOC-PLACEHOLDER-001",
       "kind": "record",
       "label": "Orientation record",
       "note": "Begin with the city as a whole before opening its individual cabinets."
@@ -492,37 +462,37 @@
       "note": "Set the records beside their numbered places, then choose whether to follow or wander."
     },
     {
-      "id": "location-clockwork-gardens",
+      "id": "AH-LOC-PLACEHOLDER-003",
       "kind": "record",
       "label": "Living systems",
       "note": "Enter by the public walks, where mechanisms grow as often as they are built."
     },
     {
-      "id": "location-gardens-airship-landing",
+      "id": "AH-LOC-AIRSHIP-LANDING",
       "kind": "record",
       "label": "Threshold record",
       "note": "Move from the Gardens to the landing where journeys begin and return."
     },
     {
-      "id": "vessel-wayfinder",
+      "id": "AH-VESSEL-WAYFINDER",
       "kind": "record",
       "label": "Explorer vessel",
       "note": "Meet the airship that carries the Hawthornes beyond Aetherhaven and home again."
     },
     {
-      "id": "location-aerial-docks",
+      "id": "AH-LOC-AERIAL-DOCKS",
       "kind": "record",
       "label": "Civic gateway",
       "note": "Compare one familiar berth with the city’s vast and crowded aerial port."
     },
     {
-      "id": "district-merchant",
+      "id": "AH-LOC-PLACEHOLDER-012",
       "kind": "record",
       "label": "City life",
       "note": "Follow the goods, arguments, and rumors that move between every quarter."
     },
     {
-      "id": "district-inventors",
+      "id": "AH-LOC-PLACEHOLDER-013",
       "kind": "record",
       "label": "Working knowledge",
       "note": "Finish among the workshops where Aetherhaven tests what it may become next."
