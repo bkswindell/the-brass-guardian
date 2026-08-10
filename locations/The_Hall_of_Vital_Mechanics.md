@@ -1,5 +1,5 @@
 ---
-location_id: AH-LOC-PLACEHOLDER-049
+location_id: AH-LOC-HALL-VITAL-MECHANICS
 name: The Hall of Vital Mechanics
 type: Unlisted civic hospital, medical institute, and emergency-coordination center
 aliases:
