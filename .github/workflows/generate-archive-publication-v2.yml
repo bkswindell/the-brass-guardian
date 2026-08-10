@@ -1,0 +1,42 @@
+name: Generate Archive Publication v2 Candidates
+
+on:
+  pull_request:
+    branches:
+      - main
+    types:
+      - opened
+      - synchronize
+      - reopened
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    if: github.head_ref == 'website/schema-v1-content-source'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out website realignment branch
+        uses: actions/checkout@v4
+        with:
+          ref: website/schema-v1-content-source
+          fetch-depth: 0
+
+      - name: Generate approval ledger and presentation candidates
+        run: ruby scripts/migrations/generate_archive_publication_v2.rb
+
+      - name: Commit generated candidate files
+        run: |
+          git config user.name 'Aetherhaven Publication Migration'
+          git config user.email 'actions@users.noreply.github.com'
+          git add \
+            website/content/public/manifest.v2.json \
+            website/content/public/archive-presentation.v2.json \
+            docs/development/AETHERHAVEN_ARCHIVE_PUBLICATION_V2_GENERATION.md
+          if git diff --cached --quiet; then
+            echo 'Publication v2 candidates are current.'
+            exit 0
+          fi
+          git commit -m 'migrate(website): generate Archive publication v2 candidates'
+          git push origin HEAD:website/schema-v1-content-source
