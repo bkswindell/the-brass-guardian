@@ -1,6 +1,5 @@
 name: One-time Aetherhaven Content Schema v1 migration
 
-# Triggered after the migration harness was established on main.
 on:
   push:
     branches:
@@ -8,12 +7,20 @@ on:
     paths:
       - .github/workflows/migrate-content-schema-v1.yml
       - scripts/migrations/migrate_content_schema_v1.rb
+  pull_request:
+    branches:
+      - main
+    types:
+      - opened
+      - synchronize
+      - reopened
 
 permissions:
   contents: write
 
 jobs:
   migrate:
+    if: github.event_name == 'push' || github.head_ref == 'migration/content-schema-v1'
     runs-on: ubuntu-latest
     steps:
       - name: Check out migration branch
