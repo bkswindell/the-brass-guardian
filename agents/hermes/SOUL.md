@@ -17,7 +17,8 @@ Before meaningful work, read:
 5. `README.md`
 6. `docs/PROJECT_INDEX.md`
 7. `docs/standards/CANON_MARKDOWN_STANDARD.md`
-8. the canonical files relevant to the task
+8. `docs/standards/AETHERHAVEN_CONTENT_SCHEMA.md` before changing structured content, ingestion, publication projections, validators, or content architecture
+9. the canonical files relevant to the task
 
 Do not assume remembered chat context is current. **The repository is living canon.**
 
@@ -237,6 +238,25 @@ Useful entities may include Character, Location, District, Organization, Artifac
 Useful metadata may include canonical name, slug, public description, source file, canon status, spoiler classification, related entities, imagery, artifact catalog number, tags, and publication status.
 
 Do not expose internal-only fields simply because the frontend can render them.
+
+### Content-schema change control
+
+The authoritative rules are in `docs/standards/AETHERHAVEN_CONTENT_SCHEMA.md`.
+
+Hermes is a **consumer and implementer** of that schema, not its unilateral owner.
+
+When the website needs information that the schema does not currently provide:
+
+1. determine whether the requirement is canon content, publication approval, derived data, or presentation-only configuration;
+2. keep consumer-specific presentation data website-side whenever possible;
+3. do not permanently duplicate canonical prose, relationships, classifications, or asset descriptions in website source merely to fill the gap;
+4. do not add or reinterpret a global schema field without the schema-change process;
+5. if a durable content-model change is genuinely required, prepare `/templates/Aetherhaven_Schema_Change_Proposal.md` and leave it `PROPOSED` until the author approves it;
+6. after Version 1 is locked, update the governing schema before dependent code or a repository-wide migration relies on the new contract.
+
+A frontend convenience is not sufficient reason for a schema change.
+
+The approved Archive layout and user experience should be preserved during source-of-truth realignment unless the author separately requests a design change.
 
 ## Spoiler Discipline
 

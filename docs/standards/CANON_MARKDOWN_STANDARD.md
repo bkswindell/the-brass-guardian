@@ -4,6 +4,22 @@
 
 This standard keeps *The Brass Guardian* repository interconnected, visually grounded, low in duplication, and easy for people and AI agents to navigate.
 
+## Structured Content Schema Governance
+
+Structured front matter and machine-readable canon are governed by [AETHERHAVEN_CONTENT_SCHEMA.md](AETHERHAVEN_CONTENT_SCHEMA.md).
+
+The content schema is currently in design phase. Its Version 1 field dictionary has **not** yet been frozen, but its schema-change governance is active.
+
+Until Version 1 is explicitly author-approved and marked **LOCKED**:
+
+- preserve the current valid front matter on existing canon files;
+- do not begin a repository-wide metadata rewrite;
+- do not invent new global metadata conventions merely to satisfy one website component;
+- do not duplicate canonical content into website code as a permanent source;
+- use adapters or presentation configuration for temporary consumer-specific needs;
+- record proposed schema changes using [Aetherhaven_Schema_Change_Proposal.md](../../templates/Aetherhaven_Schema_Change_Proposal.md) rather than silently changing the contract.
+
+Once Version 1 is locked, the schema document becomes the authoritative contract for structured metadata, while this standard continues to govern Markdown organization, visual evidence, cross-linking, duplication, and editorial practices.
 
 ## Historical-Event Records
 
@@ -55,6 +71,8 @@ Every canonical Markdown file should contain:
 - A **Continuity Notes** section defining what the file owns and what belongs in linked files.
 - A **TODO / Production Checklist** using Markdown checkboxes.
 - Open questions or intentionally unresolved canon where appropriate.
+
+These requirements describe the current repository baseline. The final Version 1 schema may normalize the exact front-matter shape after the required website/content audit and author approval.
 
 ## Visual Requirements by File Type
 
@@ -143,6 +161,8 @@ Use an artifact file as the authoritative source for an object or image. Use cha
 
 Summarize and link; do not copy full sections between files. A local file may contain the facts necessary to understand its own subject, but detailed history should live only in the profile that owns that history.
 
+The same principle applies to downstream consumers: website code, manifests, indexes, and generated data should not become permanent second owners of canonical prose or relationships when that information has an owning Markdown record.
+
 ## AI-Agent Optimization
 
 - Prefer explicit names over pronouns in summaries and relationship lists.
@@ -150,6 +170,7 @@ Summarize and link; do not copy full sections between files. A local file may co
 - Separate established canon, staged revelations, proposed concepts, and open questions.
 - Never allow a TODO, theory, or original slate recommendation to appear indistinguishable from confirmed canon.
 - Keep headings predictable across files.
+- Follow `AETHERHAVEN_CONTENT_SCHEMA.md` for structured metadata and schema-change governance.
 
 ## Repository Migration Checklist
 
@@ -159,6 +180,7 @@ Summarize and link; do not copy full sections between files. A local file may co
 - [x] Transcribe and fully describe every completed active artifact plate currently available.
 - [x] Create the historical-event template and `historical_events/` index.
 - [x] Separate objective historical events from story arcs that reveal or revisit them.
+- [ ] Complete and approve Aetherhaven Content Schema Version 1 before repository-wide metadata normalization.
 - [ ] Add visual-reference sections to every existing character profile.
 - [ ] Add map and location-art sections to every existing location profile.
 - [ ] Add crest, seal, or representative-art sections to every existing organization profile.
