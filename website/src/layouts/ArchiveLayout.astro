@@ -1,6 +1,6 @@
 ---
 import SiteLayout from "./SiteLayout.astro";
-import { getWorldEntrancePreview } from "../lib/archive-preview.mjs";
+import { getArchivePublication } from "../lib/archive-publication.mjs";
 
 interface Props {
   title: string;
@@ -13,10 +13,18 @@ const {
   description,
   section = "Public Cartography Division",
 } = Astro.props;
-const archive = getWorldEntrancePreview();
+const archive = await getArchivePublication();
+const canonical = archive.isPublic
+  ? new URL(Astro.url.pathname, "https://thebrassguardian.com").href
+  : undefined;
 ---
 
-<SiteLayout title={`${title} — The Brass Guardian`} description={description} noindex>
+<SiteLayout
+  title={`${title} — The Brass Guardian`}
+  description={description}
+  canonical={canonical}
+  noindex={archive.noindex}
+>
   <div class:list={["archive-shell", { "archive-shell-open": archive.enabled }]}>
     {
       archive.enabled && (
@@ -71,7 +79,11 @@ const archive = getWorldEntrancePreview();
 
     <footer class="archive-footer">
       <span>Aetherhaven Archives</span>
-      <span>Proposal preview • Not canonical publication</span>
+      <span>
+        {archive.isPublic
+          ? "Public archive • Approved projection"
+          : "Proposal preview • Not canonical publication"}
+      </span>
     </footer>
   </div>
 </SiteLayout>

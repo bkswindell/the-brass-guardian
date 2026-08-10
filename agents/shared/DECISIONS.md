@@ -226,6 +226,20 @@ On 2026-08-10, after reviewing the completed branch Preview, the author approved
 
 ---
 
+## 2026-08-10 — C1 Public Archive Release
+
+**Status:** AUTHOR APPROVED FOR PRODUCTION PUBLICATION / NOT A CANON DECLARATION
+
+After the verified C1 implementation was merged to `main`, the author explicitly directed the complete reviewed experience to be published to the live site, including the warned Hidden Archives index and all 28 closed teaser drawers. This supersedes C1's prior Preview-only production restriction for the exact approved projection.
+
+The production allowlist contains 95 dated, author-approved client projections: 67 ordinary public records and 28 Hidden Archive teasers. The public map retains 24 numbered destinations and six lettered restricted references. Hidden Archives continues to separate 12 mysterious or spoiler-sensitive figures, 10 concealed or sensitive organizations, and the six restricted map records from the ordinary catalog. Every disclosure remains closed by default.
+
+Approval covers the exact titles, public-safe summaries, relationships, public access labels, and nine reviewed web derivatives present in the C1 release. It does not authorize publishing deeper restricted source material, creator-only answers, unrevealed identities, or future-story solutions. `AA-2` and its web derivatives are approved for website publication but remain non-canonical artwork unless the author separately establishes visual canon.
+
+Production must render records only from `content/public/manifest.json` through the validated safe projection. The exact 30 map geometries and eight Curator Route annotations are separately recorded and validated in `content/public/archive-presentation.json`; this public interaction metadata may not be recovered from raw Preview objects during production builds. Raw proposal objects are dynamically loaded only inside `noindex` Preview mode, and `VERCEL_ENV=production` must continue to defeat a conflicting Preview flag. `content/public/archive-release.json` is the explicit version-controlled release switch: `published` enables this approved projection; `sealed` restores the production-pruning path. The sealed path must pass the real prebuild/build wrapper and remove both Archive routes and Archive images from output.
+
+---
+
 ## 2026-08-08 — Moon Garden Canon
 
 **Status:** APPROVED

@@ -1,12 +1,13 @@
 ---
 import ArchiveLayout from "../../layouts/ArchiveLayout.astro";
-import { getWorldEntrancePreview } from "../../lib/archive-preview.mjs";
+import { getArchivePublication } from "../../lib/archive-publication.mjs";
 
-const archive = getWorldEntrancePreview();
+const archive = await getArchivePublication();
 const entries = archive.entries;
 const curatorRoute = archive.curatorRoute;
-const description =
-  "Enter the proposal preview of the Aetherhaven Archives and explore the first cleared records through the city map.";
+const description = archive.isPublic
+  ? "Enter the Aetherhaven Archives and explore its public records through the city map."
+  : "Enter the proposal preview of the Aetherhaven Archives and explore the first cleared records through the city map.";
 
 const entryHref = (entry) =>
   `/archive/${entry.entityType}/${entry.slug}/`;
@@ -16,17 +17,21 @@ const entryHref = (entry) =>
   {
     archive.enabled ? (
       <>
-        <aside class="proposal-notice" aria-label="Proposal preview notice">
-          <span class="proposal-dot" aria-hidden="true"></span>
-          <span>
-            <strong>Proposal preview.</strong> This branch is a working exhibit. Its
-            copy, classifications, and presentation are not canonical publication.
-          </span>
-        </aside>
+        {archive.isPreview && (
+          <aside class="proposal-notice" aria-label="Proposal preview notice">
+            <span class="proposal-dot" aria-hidden="true"></span>
+            <span>
+              <strong>Proposal preview.</strong> This branch is a working exhibit. Its
+              copy, classifications, and presentation are not canonical publication.
+            </span>
+          </aside>
+        )}
 
         <section class="entrance-hero" aria-labelledby="archive-title">
           <div class="arrival-desk">
-            <p class="archive-kicker">Public access corridor • Preview 01</p>
+            <p class="archive-kicker">
+              {archive.isPublic ? "Public access corridor" : "Public access corridor • Preview 01"}
+            </p>
             <h1 id="archive-title" class="archive-title">Explore Aetherhaven</h1>
             <p class="archive-lede">
               A city of brass streets, living gardens, crowded workshops, and
@@ -49,7 +54,7 @@ const entryHref = (entry) =>
               />
               <img
                 src="/images/archive/map-of-aetherhaven-1152.webp"
-                alt="Preview of the illustrated Map of Aetherhaven."
+                alt="Illustrated Map of Aetherhaven."
                 width="1152"
                 height="862"
                 decoding="async"
@@ -125,7 +130,7 @@ const entryHref = (entry) =>
               <h2 id="catalog-title">Open Catalog</h2>
             </div>
             <p>
-              {entries.length} public records are indexed for this Preview: all
+              {entries.length} public records are indexed {archive.isPublic ? "in the Archive" : "for this Preview"}: all
               twenty-four mapped locations, public characters and organizations, the
               city overview, and the Wayfinder. Search by name or narrow the cabinets
               by record class.
@@ -165,7 +170,7 @@ const entryHref = (entry) =>
               >
                 <div class="record-code">
                   <span>{entry.mapMarker ? `Map ${entry.mapMarker}` : entry.entityType}</span>
-                  <span>{entry.spoilerClassification}</span>
+                  <span>{entry.publicAccessLabel ?? entry.spoilerClassification}</span>
                 </div>
                 <h3>{entry.publicTitle}</h3>
                 <p>{entry.publicSummary}</p>

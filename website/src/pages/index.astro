@@ -1,8 +1,8 @@
 ---
 import SiteLayout from "../layouts/SiteLayout.astro";
-import { getWorldEntrancePreview } from "../lib/archive-preview.mjs";
+import { getArchivePublication } from "../lib/archive-publication.mjs";
 
-const archive = getWorldEntrancePreview();
+const archive = await getArchivePublication();
 const pageTitle = archive.enabled
   ? "The Brass Guardian — Enter the Aetherhaven Archives"
   : "The Brass Guardian — Coming Soon";
@@ -15,7 +15,8 @@ const canonicalUrl = "https://thebrassguardian.com/";
 <SiteLayout
   title={pageTitle}
   description={pageDescription}
-  canonical={archive.enabled ? undefined : canonicalUrl}
+  canonical={archive.isPreview ? undefined : canonicalUrl}
+  noindex={!archive.isPublic}
 >
     <div class:list={["atmosphere", { "archive-atmosphere": archive.enabled }]} aria-hidden="true">
       {

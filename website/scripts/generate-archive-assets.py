@@ -7,7 +7,7 @@ SCRIPT_ROOT = Path(__file__).resolve().parent
 WEBSITE_ROOT = SCRIPT_ROOT.parent
 REPO_ROOT = WEBSITE_ROOT.parent
 DEFAULT_OUTPUT_ROOT = (
-    WEBSITE_ROOT / "content" / "preview" / "assets" / "archive"
+    WEBSITE_ROOT / "public" / "images" / "archive"
 )
 
 ASSET_GROUPS = (
@@ -44,7 +44,7 @@ ASSET_GROUPS = (
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(
-        description="Generate responsive WebP derivatives for the archive preview."
+        description="Generate responsive WebP derivatives for the published archive."
     )
     parser.add_argument(
         "--output-root",

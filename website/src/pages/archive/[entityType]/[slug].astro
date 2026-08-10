@@ -1,20 +1,21 @@
 ---
 import ArchiveLayout from "../../../layouts/ArchiveLayout.astro";
-import { getWorldEntrancePreview } from "../../../lib/archive-preview.mjs";
+import { getArchivePublication } from "../../../lib/archive-publication.mjs";
 
-export function getStaticPaths() {
-  const archive = getWorldEntrancePreview();
+export async function getStaticPaths() {
+  const archive = await getArchivePublication();
   return archive.entries.map((entry) => ({
     params: { entityType: entry.entityType, slug: entry.slug },
     props: {
       entry,
       entries: archive.entries,
       curatorRoute: archive.curatorRoute,
+      isPublic: archive.isPublic,
     },
   }));
 }
 
-const { entry, entries, curatorRoute } = Astro.props;
+const { entry, entries, curatorRoute, isPublic } = Astro.props;
 const relatedEntries = entry.relatedEntryIds
   .map((id) => entries.find((candidate) => candidate.id === id))
   .filter(Boolean);
@@ -38,14 +39,20 @@ const responsiveSources = {
 };
 ---
 
-<ArchiveLayout title={entry.publicTitle} description={description} section="Proposal Record Viewer">
-  <aside class="proposal-notice" aria-label="Proposal preview notice">
-    <span class="proposal-dot" aria-hidden="true"></span>
-    <span>
-      <strong>Proposal preview.</strong> This record has not been approved as
-      canonical public copy and is visible only for branch refinement.
-    </span>
-  </aside>
+<ArchiveLayout
+  title={entry.publicTitle}
+  description={description}
+  section={isPublic ? "Public Record Viewer" : "Proposal Record Viewer"}
+>
+  {!isPublic && (
+    <aside class="proposal-notice" aria-label="Proposal preview notice">
+      <span class="proposal-dot" aria-hidden="true"></span>
+      <span>
+        <strong>Proposal preview.</strong> This record has not been approved as
+        canonical public copy and is visible only for branch refinement.
+      </span>
+    </aside>
+  )}
 
   <nav class="record-breadcrumb" aria-label="Breadcrumb">
     <a href="/archive/">Archive entrance</a>
@@ -60,9 +67,11 @@ const responsiveSources = {
       <p class="record-accession">
         <span>{entry.entityType}</span>
         {entry.mapMarker && <span>Map {entry.mapMarker}</span>}
-        <span>{entry.spoilerClassification}</span>
+        <span>{entry.publicAccessLabel ?? entry.spoilerClassification}</span>
       </p>
-      <p class="archive-kicker">Aetherhaven Archives • Proposal record</p>
+      <p class="archive-kicker">
+        Aetherhaven Archives • {isPublic ? "Public record" : "Proposal record"}
+      </p>
       <h1 class="archive-title">{entry.publicTitle}</h1>
       <p class="canonical-name">Canonical subject: {entry.canonicalName}</p>
     </header>
@@ -86,24 +95,24 @@ const responsiveSources = {
               decoding="async"
             />
           </picture>
-          <figcaption>Candidate public image • Proposal preview</figcaption>
+          <figcaption>{isPublic ? "Public Archive image" : "Candidate public image • Proposal preview"}</figcaption>
         </figure>
       )
     }
 
     <section class="record-copy" aria-labelledby="summary-title">
-      <p class="archive-kicker">Public summary proposal</p>
+      <p class="archive-kicker">{isPublic ? "Public summary" : "Public summary proposal"}</p>
       <h2 id="summary-title">Record extract</h2>
       <p>{entry.publicSummary}</p>
 
       <dl class="record-tags">
         <div>
           <dt>Access</dt>
-          <dd>{entry.spoilerClassification}</dd>
+          <dd>{entry.publicAccessLabel ?? entry.spoilerClassification}</dd>
         </div>
         <div>
           <dt>Status</dt>
-          <dd>{entry.previewStatus}</dd>
+          <dd>{isPublic ? "published" : entry.previewStatus}</dd>
         </div>
         <div>
           <dt>Tags</dt>
@@ -166,7 +175,7 @@ const responsiveSources = {
     relatedEntries.length > 0 && (
       <section class="related-records" aria-labelledby="related-title">
         <p class="archive-kicker">Cross-references</p>
-        <h2 id="related-title">Related preview records</h2>
+        <h2 id="related-title">{isPublic ? "Related records" : "Related preview records"}</h2>
         <div>
           {relatedEntries.map((related) => (
             <a href={entryHref(related)}>

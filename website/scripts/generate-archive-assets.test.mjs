@@ -3,7 +3,7 @@ import { createHash } from "node:crypto";
 import { readFile } from "node:fs/promises";
 import test from "node:test";
 
-const assetRoot = new URL("../content/preview/assets/archive/", import.meta.url);
+const assetRoot = new URL("../public/images/archive/", import.meta.url);
 const acceptedArchiveSource = new URL(
   "../../art/locations/aetherhaven_archive/AA-2.png",
   import.meta.url,
@@ -61,7 +61,7 @@ const readWebpDimensions = (bytes) => {
   assert.fail(`Unsupported WebP chunk ${JSON.stringify(chunk)}`);
 };
 
-test("committed proposal archive assets are valid responsive WebP files", async () => {
+test("committed public Archive assets are valid responsive WebP files", async () => {
   for (const [filename, expectedWidth] of expectedOutputs) {
     const bytes = await readFile(new URL(filename, assetRoot));
     const dimensions = readWebpDimensions(bytes);

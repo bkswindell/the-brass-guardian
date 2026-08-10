@@ -112,6 +112,10 @@ export const pruneProductionArchiveArtifacts = async ({ outputRoot }) => {
   }
 
   await rm(join(outputRoot, "archive"), { recursive: true, force: true });
+  await rm(join(outputRoot, "images", "archive"), {
+    recursive: true,
+    force: true,
+  });
 
   const unreachableBuildArtifacts = files.filter(
     (file) =>

@@ -2,7 +2,7 @@
 
 This directory contains the Astro site for **The Brass Guardian**.
 
-Production currently renders a sealed public-safe landing exhibit with Vercel Web Analytics, Speed Insights, responsive derivatives of the approved cover artwork, and an accessible cover reader. An enabled World Entrance preview replaces the sealed message with an **Enter Archive** action while keeping proposal routes outside production.
+Production renders the author-approved C1 Aetherhaven Archives projection with Vercel Web Analytics, Speed Insights, an interactive city map, 67 public records, and a separately warned Hidden Archives index containing 28 closed teaser drawers. Vercel branch Previews retain proposal labels and `noindex`; production consumes only the approved manifest projection.
 
 ## Local Verification
 
@@ -26,18 +26,18 @@ Run the complete publication, test, build, metadata, and static-route acceptance
 npm run verify
 ```
 
-The verification command runs the publication-boundary contract tests, validates the explicit public manifest, builds the site, and checks the generated metadata, favicon links, social image, web manifest, and custom 404 route.
+The verification command runs the publication-boundary contract tests, validates the explicit public record and presentation manifests, exercises a real isolated sealed rollback build, builds the published site, and checks the generated Archive projection, metadata, favicon links, social image, web manifest, and custom 404 route.
 
-## World Entrance branch preview
+## Archive publication modes
 
-The World Entrance work keeps proposal content outside the approved public manifest. Proposal routes are enabled only for an explicit local preview or a Vercel branch Preview:
+The Archive has separate public and proposal modes. Production reads author-approved records from `content/public/manifest.json` and approved map/Curator Route metadata from `content/public/archive-presentation.json`; an explicit local preview or Vercel branch Preview dynamically loads the working proposal projection with `noindex`:
 
 ```bash
 PUBLICATION_PREVIEW=1 npm run dev -- --host 0.0.0.0
 npm run verify:archive-preview
 ```
 
-Vercel sets `VERCEL_ENV=preview` automatically for branch deployments. `VERCEL_ENV=production` takes precedence over every Preview flag, including a conflicting `PUBLICATION_PREVIEW=1`. Production builds do not load the proposal records. The dedicated preview branch may be committed and pushed iteratively, but merging to `main` and production publication remain explicit author approval gates.
+Vercel sets `VERCEL_ENV=preview` automatically for branch deployments. `VERCEL_ENV=production` takes precedence over every Preview flag, including a conflicting `PUBLICATION_PREVIEW=1`, and therefore cannot load raw proposal records. `content/public/archive-release.json` is the explicit version-controlled release switch. Its `published` state enables the approved projection; changing it to `sealed` removes Archive routes and assets from the generated production artifact.
 
 The landing threshold remains Astro-rendered and scene-first. Enabled Preview builds place a responsive, washed-back Aetherhaven Archive environment behind the existing editorial frame and expose one real `/archive/` invitation link. Hover and keyboard focus change **Invitation Waiting** to **Lock Released** with a restrained light-and-copy transition; no Canvas, WebGL, React, gears, gauges, or mechanical centerpiece is used. Reduced-motion users receive the same state without movement, and navigation works without JavaScript.
 
@@ -47,13 +47,13 @@ Responsive archive derivatives are reproducible from unchanged active artwork an
 npm run assets:archive
 ```
 
-Proposal derivatives—including the 768px and 1024px Archive threshold backdrop—are stored under `content/preview/assets/archive/`, outside Astro's unconditional `public/` tree. Its generated, non-canonical source and provenance are kept separately under `content/preview/sources/archive/`. After a successful Preview build, the output-aware build wrapper copies proposal assets directly into the selected output directory. CLI `--outDir` values take precedence; otherwise the wrapper honors `outDir` from Astro configuration before falling back to `dist`. After a successful production build, it removes the static Archive route tree and every build artifact unreachable from retained public HTML; if a remaining production page can reach a Preview-sensitive artifact, the build fails closed rather than deleting evidence of the leak. Production must contain neither `dist/archive/` nor `dist/images/archive/`.
+The nine author-approved web derivatives—including the 768px and 1024px Archive threshold backdrop—are stored under `public/images/archive/`. Their source artwork and provenance remain separately documented; approval for website publication does not declare generated `AA-2` art to be visual canon. The output-aware build wrapper still resolves CLI or Astro-configured output directories and preserves the fail-closed pruner: if `archive-release.json` returns to `sealed`, the production build removes both `dist/archive/` and `dist/images/archive/` plus unreachable Archive-only bundles.
 
 ## Curated Publication Boundary
 
-`content/public/manifest.json` is the website's explicit publication allowlist. It currently contains no entries. Internal canon, stories, proposals, and artwork are never imported into public routes merely because they exist in the repository.
+`content/public/manifest.json` is the website's explicit record allowlist. The approved C1 projection contains 95 entries: 67 ordinary public records and 28 Hidden Archive teasers. `content/public/archive-presentation.json` separately approves exactly 30 map geometries and eight Curator Route annotations. Production does not import the raw Preview catalog; internal canon, stories, proposals, and artwork are never imported into public routes merely because they exist in the repository.
 
-Every future public record must have an existing canonical source, a deliberately written public title and summary, an `approved` publication status, a `public` or author-selected `teaser` classification, and a dated author approval record. The prebuild validator rejects restricted classifications, missing sources or images, undeclared internal fields, duplicate identifiers, and cross-references to unpublished records.
+Every public record must have an existing canonical source, a deliberately written public title and summary, an `approved` publication status, a `public` or author-selected `teaser` classification, and a dated author approval record. The prebuild validator rejects restricted safety classifications, missing sources or images, undeclared internal fields, duplicate identifiers, and cross-references to unpublished records. Hidden Archive display labels are separately approved public labels; their validated safety classification remains `teaser`, and no deeper restricted source content enters client output.
 
 See [`docs/PUBLICATION_BOUNDARY.md`](docs/PUBLICATION_BOUNDARY.md) for the complete field contract and approval workflow.
 
@@ -103,7 +103,7 @@ Pillow is intentionally a local, generator-only dependency. It is not listed in 
 
 ## Sharing and Utility Routes
 
-`src/layouts/SiteLayout.astro` owns the shared HTML shell, Vercel instrumentation, and `SiteMeta` integration. `src/components/SiteMeta.astro` owns canonical, Open Graph, Twitter/X card, favicon, manifest, and indexing metadata. The landing page and all proposal routes remain deliberately `noindex, nofollow` until an indexing transition is approved. `src/pages/404.astro` provides a public-safe archive-themed error route with an obvious return to the archive entrance.
+`src/layouts/SiteLayout.astro` owns the shared HTML shell, Vercel instrumentation, and `SiteMeta` integration. `src/components/SiteMeta.astro` owns canonical, Open Graph, Twitter/X card, favicon, manifest, and indexing metadata. Published Archive routes declare canonical URLs and `index, follow`; proposal Preview routes remain `noindex, nofollow`. `src/pages/404.astro` provides a public-safe archive-themed error route with an obvious return to the archive entrance.
 
 ## Web Analytics
 

@@ -1,4 +1,2372 @@
 {
   "schemaVersion": 1,
-  "entries": []
+  "entries": [
+    {
+      "id": "location-aetherhaven",
+      "slug": "aetherhaven",
+      "entityType": "location",
+      "canonicalName": "Aetherhaven",
+      "publicTitle": "Aetherhaven",
+      "publicSummary": "Aetherhaven is the City of Gears, Dreams and Discovery: a mountain city of brass streets, glass conservatories, canal bridges, workshops, crowded markets, and airship towers. Its people build, repair, teach, trade, argue, and explore among mechanisms older than the city’s best records. Some machines are understood. Others are maintained because they have always worked.",
+      "sourcePaths": [
+        "locations/Aetherhaven.md"
+      ],
+      "publicationStatus": "approved",
+      "spoilerClassification": "teaser",
+      "publicAccessLabel": "teaser",
+      "approval": {
+        "approvedBy": "author",
+        "approvedOn": "2026-08-10"
+      },
+      "relatedEntryIds": [
+        "location-clockwork-gardens",
+        "location-gardens-airship-landing",
+        "district-merchant",
+        "district-inventors",
+        "location-aerial-docks",
+        "vessel-wayfinder"
+      ],
+      "tags": [
+        "city",
+        "map",
+        "public-cartography"
+      ],
+      "publicationDate": "2026-08-10",
+      "image": {
+        "src": "/images/archive/map-of-aetherhaven-1539.webp",
+        "alt": "Illustrated map of Aetherhaven showing a circular brass-and-canal city with twenty-four numbered points of interest, six lettered restricted areas, airship routes, rail lines, bridges, waterways, and surrounding mountains.",
+        "width": 1539,
+        "height": 1152
+      }
+    },
+    {
+      "id": "vessel-wayfinder",
+      "slug": "wayfinder",
+      "entityType": "vessel",
+      "canonicalName": "The Wayfinder",
+      "publicTitle": "The Wayfinder",
+      "publicSummary": "The Wayfinder is Elias and Amelia Hawthorne’s exploration airship: part vessel, part workshop, and part home above the clouds. She is frequently moored at the Gardens Airship Landing, where expedition equipment, repairs, and questions collect between journeys. Her hull shows the care of many voyages, and her systems combine practical engineering with older mechanisms that do not surrender their secrets easily. The Hawthornes trust her not merely as a machine, but as a companion.",
+      "sourcePaths": [
+        "artifacts/007_The_Wayfinder_Technical_Plate.md",
+        "locations/The_Gardens_Airship_Landing.md"
+      ],
+      "publicationStatus": "approved",
+      "spoilerClassification": "public",
+      "publicAccessLabel": "public",
+      "approval": {
+        "approvedBy": "author",
+        "approvedOn": "2026-08-10"
+      },
+      "relatedEntryIds": [
+        "location-aetherhaven",
+        "location-gardens-airship-landing"
+      ],
+      "tags": [
+        "airship",
+        "exploration",
+        "hawthorne"
+      ],
+      "publicationDate": "2026-08-10",
+      "image": {
+        "src": "/images/archive/wayfinder-above-clouds-1024.webp",
+        "alt": "The Wayfinder, a brass explorer airship with a silver envelope, sailing above sunlit clouds and mountain peaks.",
+        "width": 1024,
+        "height": 1536
+      }
+    },
+    {
+      "id": "location-aetherium",
+      "slug": "aetherium",
+      "entityType": "location",
+      "canonicalName": "The Aetherium",
+      "publicTitle": "The Aetherium",
+      "publicSummary": "The Aetherium is catalogued as map reference 1 on the illustrated city chart. This stub preserves the mapped public name while a fuller source-grounded extract is prepared.",
+      "sourcePaths": [
+        "locations/The_Aetherium.md"
+      ],
+      "publicationStatus": "approved",
+      "spoilerClassification": "public",
+      "publicAccessLabel": "public",
+      "approval": {
+        "approvedBy": "author",
+        "approvedOn": "2026-08-10"
+      },
+      "relatedEntryIds": [
+        "location-aetherhaven"
+      ],
+      "tags": [
+        "map-location",
+        "map-1"
+      ],
+      "publicationDate": "2026-08-10"
+    },
+    {
+      "id": "location-clockwork-gardens",
+      "slug": "clockwork-gardens",
+      "entityType": "location",
+      "canonicalName": "The Clockwork Gardens",
+      "publicTitle": "The Clockwork Gardens",
+      "publicSummary": "The Clockwork Gardens form a living and mechanical ring near Aetherhaven’s center. Brass vines climb glasshouses, clockwork pollinators move among luminous flowers, and waterways pass beneath paths that do not always remain where gardeners left them. The Gardens are tended through care, observation, and cooperation—not command. Visitors may follow the public walks, but hidden paths reveal themselves on terms no mapmaker has mastered.",
+      "sourcePaths": [
+        "locations/The_Clockwork_Gardens.md"
+      ],
+      "publicationStatus": "approved",
+      "spoilerClassification": "teaser",
+      "publicAccessLabel": "teaser",
+      "approval": {
+        "approvedBy": "author",
+        "approvedOn": "2026-08-10"
+      },
+      "relatedEntryIds": [
+        "location-aetherhaven",
+        "location-gardens-airship-landing"
+      ],
+      "tags": [
+        "gardens",
+        "living-mechanisms",
+        "map-location"
+      ],
+      "publicationDate": "2026-08-10",
+      "image": {
+        "src": "/images/archive/clockwork-gardens-at-night-767.webp",
+        "alt": "Night view of the Clockwork Gardens, with glass conservatories, brass walkways, luminous mechanical flowers, canals, clocks, and airships beneath a full moon.",
+        "width": 767,
+        "height": 1151
+      }
+    },
+    {
+      "id": "location-grand-atrium",
+      "slug": "grand-atrium",
+      "entityType": "location",
+      "canonicalName": "The Grand Atrium",
+      "publicTitle": "The Grand Atrium",
+      "publicSummary": "The Grand Atrium is catalogued as map reference 3 on the illustrated city chart. This stub preserves the mapped public name while a fuller source-grounded extract is prepared.",
+      "sourcePaths": [
+        "locations/The_Grand_Atrium.md"
+      ],
+      "publicationStatus": "approved",
+      "spoilerClassification": "public",
+      "publicAccessLabel": "public",
+      "approval": {
+        "approvedBy": "author",
+        "approvedOn": "2026-08-10"
+      },
+      "relatedEntryIds": [
+        "location-aetherhaven"
+      ],
+      "tags": [
+        "map-location",
+        "map-3"
+      ],
+      "publicationDate": "2026-08-10"
+    },
+    {
+      "id": "location-clocktower-spire",
+      "slug": "clocktower-spire",
+      "entityType": "location",
+      "canonicalName": "The Clocktower Spire",
+      "publicTitle": "The Clocktower Spire",
+      "publicSummary": "The Clocktower Spire is catalogued as map reference 4 on the illustrated city chart. This stub preserves the mapped public name while a fuller source-grounded extract is prepared.",
+      "sourcePaths": [
+        "locations/The_Clocktower_Spire.md"
+      ],
+      "publicationStatus": "approved",
+      "spoilerClassification": "public",
+      "publicAccessLabel": "public",
+      "approval": {
+        "approvedBy": "author",
+        "approvedOn": "2026-08-10"
+      },
+      "relatedEntryIds": [
+        "location-aetherhaven"
+      ],
+      "tags": [
+        "map-location",
+        "map-4"
+      ],
+      "publicationDate": "2026-08-10"
+    },
+    {
+      "id": "location-waterfall-cascades",
+      "slug": "waterfall-cascades",
+      "entityType": "location",
+      "canonicalName": "The Waterfall Cascades",
+      "publicTitle": "The Waterfall Cascades",
+      "publicSummary": "The Waterfall Cascades is catalogued as map reference 5 on the illustrated city chart. This stub preserves the mapped public name while a fuller source-grounded extract is prepared.",
+      "sourcePaths": [
+        "locations/The_Waterfall_Cascades.md"
+      ],
+      "publicationStatus": "approved",
+      "spoilerClassification": "public",
+      "publicAccessLabel": "public",
+      "approval": {
+        "approvedBy": "author",
+        "approvedOn": "2026-08-10"
+      },
+      "relatedEntryIds": [
+        "location-aetherhaven"
+      ],
+      "tags": [
+        "map-location",
+        "map-5"
+      ],
+      "publicationDate": "2026-08-10"
+    },
+    {
+      "id": "location-reflection-canals",
+      "slug": "reflection-canals",
+      "entityType": "location",
+      "canonicalName": "The Reflection Canals",
+      "publicTitle": "The Reflection Canals",
+      "publicSummary": "The Reflection Canals is catalogued as map reference 6 on the illustrated city chart. This stub preserves the mapped public name while a fuller source-grounded extract is prepared.",
+      "sourcePaths": [
+        "locations/The_Reflection_Canals.md"
+      ],
+      "publicationStatus": "approved",
+      "spoilerClassification": "public",
+      "publicAccessLabel": "public",
+      "approval": {
+        "approvedBy": "author",
+        "approvedOn": "2026-08-10"
+      },
+      "relatedEntryIds": [
+        "location-aetherhaven"
+      ],
+      "tags": [
+        "map-location",
+        "map-6"
+      ],
+      "publicationDate": "2026-08-10"
+    },
+    {
+      "id": "location-starlight-walkways",
+      "slug": "starlight-walkways",
+      "entityType": "location",
+      "canonicalName": "The Starlight Walkways",
+      "publicTitle": "The Starlight Walkways",
+      "publicSummary": "The Starlight Walkways is catalogued as map reference 7 on the illustrated city chart. This stub preserves the mapped public name while a fuller source-grounded extract is prepared.",
+      "sourcePaths": [
+        "locations/The_Starlight_Walkways.md"
+      ],
+      "publicationStatus": "approved",
+      "spoilerClassification": "public",
+      "publicAccessLabel": "public",
+      "approval": {
+        "approvedBy": "author",
+        "approvedOn": "2026-08-10"
+      },
+      "relatedEntryIds": [
+        "location-aetherhaven"
+      ],
+      "tags": [
+        "map-location",
+        "map-7"
+      ],
+      "publicationDate": "2026-08-10"
+    },
+    {
+      "id": "location-gardens-airship-landing",
+      "slug": "gardens-airship-landing",
+      "entityType": "location",
+      "canonicalName": "The Gardens Airship Landing",
+      "publicTitle": "The Gardens Airship Landing",
+      "publicSummary": "The Gardens Airship Landing is a quiet elevated platform for explorers, couriers, official visitors, and vessels needing urgent assistance. Brass walkways, flowering terraces, and luminous guide lamps overlook the Reflection Canals, while the Wayfinder rests at her familiar berth between expeditions. One polished berth remains reserved for a vessel called the Morningstar. No such ship appears in the current registry. The gardeners polish the nameplate anyway.",
+      "sourcePaths": [
+        "locations/The_Gardens_Airship_Landing.md"
+      ],
+      "publicationStatus": "approved",
+      "spoilerClassification": "teaser",
+      "publicAccessLabel": "teaser",
+      "approval": {
+        "approvedBy": "author",
+        "approvedOn": "2026-08-10"
+      },
+      "relatedEntryIds": [
+        "location-aetherhaven",
+        "location-clockwork-gardens",
+        "vessel-wayfinder"
+      ],
+      "tags": [
+        "airships",
+        "clockwork-gardens",
+        "map-location"
+      ],
+      "publicationDate": "2026-08-10"
+    },
+    {
+      "id": "location-southern-docks",
+      "slug": "southern-docks",
+      "entityType": "location",
+      "canonicalName": "The Southern Docks",
+      "publicTitle": "The Southern Docks",
+      "publicSummary": "The Southern Docks is catalogued as map reference 9 on the illustrated city chart. This stub preserves the mapped public name while a fuller source-grounded extract is prepared.",
+      "sourcePaths": [
+        "locations/The_Southern_Docks.md"
+      ],
+      "publicationStatus": "approved",
+      "spoilerClassification": "public",
+      "publicAccessLabel": "public",
+      "approval": {
+        "approvedBy": "author",
+        "approvedOn": "2026-08-10"
+      },
+      "relatedEntryIds": [
+        "location-aetherhaven"
+      ],
+      "tags": [
+        "map-location",
+        "map-9"
+      ],
+      "publicationDate": "2026-08-10"
+    },
+    {
+      "id": "location-brass-gate",
+      "slug": "brass-gate",
+      "entityType": "location",
+      "canonicalName": "The Brass Gate",
+      "publicTitle": "The Brass Gate",
+      "publicSummary": "The Brass Gate is catalogued as map reference 10 on the illustrated city chart. This stub preserves the mapped public name while a fuller source-grounded extract is prepared.",
+      "sourcePaths": [
+        "locations/The_Brass_Gate.md"
+      ],
+      "publicationStatus": "approved",
+      "spoilerClassification": "public",
+      "publicAccessLabel": "public",
+      "approval": {
+        "approvedBy": "author",
+        "approvedOn": "2026-08-10"
+      },
+      "relatedEntryIds": [
+        "location-aetherhaven"
+      ],
+      "tags": [
+        "map-location",
+        "map-10"
+      ],
+      "publicationDate": "2026-08-10"
+    },
+    {
+      "id": "district-government",
+      "slug": "government-district",
+      "entityType": "district",
+      "canonicalName": "The Government District",
+      "publicTitle": "The Government District",
+      "publicSummary": "The Government District is catalogued as map reference 11 on the illustrated city chart. This stub preserves the mapped public name while a fuller source-grounded extract is prepared.",
+      "sourcePaths": [
+        "locations/The_Government_District.md"
+      ],
+      "publicationStatus": "approved",
+      "spoilerClassification": "public",
+      "publicAccessLabel": "public",
+      "approval": {
+        "approvedBy": "author",
+        "approvedOn": "2026-08-10"
+      },
+      "relatedEntryIds": [
+        "location-aetherhaven"
+      ],
+      "tags": [
+        "map-location",
+        "map-11"
+      ],
+      "publicationDate": "2026-08-10"
+    },
+    {
+      "id": "district-merchant",
+      "slug": "merchant-district",
+      "entityType": "district",
+      "canonicalName": "The Merchant District",
+      "publicTitle": "The Merchant District",
+      "publicSummary": "The Merchant District is a busy quarter of exchanges, counting houses, shops, warehouses, guild offices, and markets serving citizens and visiting traders. Goods arrive by canal and airship, prices change with weather and rumor, and every street seems to specialize in something different. It is one of the easiest places to hear how large Aetherhaven really is: listen long enough, and nearly every district passes through its stalls.",
+      "sourcePaths": [
+        "locations/The_Merchant_District.md"
+      ],
+      "publicationStatus": "approved",
+      "spoilerClassification": "public",
+      "publicAccessLabel": "public",
+      "approval": {
+        "approvedBy": "author",
+        "approvedOn": "2026-08-10"
+      },
+      "relatedEntryIds": [
+        "location-aetherhaven"
+      ],
+      "tags": [
+        "commerce",
+        "markets",
+        "map-location"
+      ],
+      "publicationDate": "2026-08-10"
+    },
+    {
+      "id": "district-inventors",
+      "slug": "inventors-district",
+      "entityType": "district",
+      "canonicalName": "The Inventors' District",
+      "publicTitle": "The Inventors’ District",
+      "publicSummary": "The Inventors’ District gathers workshops, laboratories, lecture rooms, prototype halls, and rented attics around the Academy of Invention. Students hurry between demonstrations, mechanists test ideas in narrow courtyards, and shop windows display devices whose purposes are not always immediately obvious. The district values curiosity, practical skill, and the courage to admit when an invention needs one more revision—preferably before it reaches the street.",
+      "sourcePaths": [
+        "locations/The_Inventors_District.md"
+      ],
+      "publicationStatus": "approved",
+      "spoilerClassification": "public",
+      "publicAccessLabel": "public",
+      "approval": {
+        "approvedBy": "author",
+        "approvedOn": "2026-08-10"
+      },
+      "relatedEntryIds": [
+        "location-aetherhaven"
+      ],
+      "tags": [
+        "invention",
+        "workshops",
+        "map-location"
+      ],
+      "publicationDate": "2026-08-10"
+    },
+    {
+      "id": "district-industrial",
+      "slug": "industrial-district",
+      "entityType": "district",
+      "canonicalName": "The Industrial District",
+      "publicTitle": "The Industrial District",
+      "publicSummary": "The Industrial District is catalogued as map reference 14 on the illustrated city chart. This stub preserves the mapped public name while a fuller source-grounded extract is prepared.",
+      "sourcePaths": [
+        "locations/The_Industrial_District.md"
+      ],
+      "publicationStatus": "approved",
+      "spoilerClassification": "public",
+      "publicAccessLabel": "public",
+      "approval": {
+        "approvedBy": "author",
+        "approvedOn": "2026-08-10"
+      },
+      "relatedEntryIds": [
+        "location-aetherhaven"
+      ],
+      "tags": [
+        "map-location",
+        "map-14"
+      ],
+      "publicationDate": "2026-08-10"
+    },
+    {
+      "id": "location-old-city",
+      "slug": "old-city",
+      "entityType": "location",
+      "canonicalName": "The Old City",
+      "publicTitle": "The Old City",
+      "publicSummary": "The Old City is catalogued as map reference 15 on the illustrated city chart. This stub preserves the mapped public name while a fuller source-grounded extract is prepared.",
+      "sourcePaths": [
+        "locations/The_Old_City.md"
+      ],
+      "publicationStatus": "approved",
+      "spoilerClassification": "public",
+      "publicAccessLabel": "public",
+      "approval": {
+        "approvedBy": "author",
+        "approvedOn": "2026-08-10"
+      },
+      "relatedEntryIds": [
+        "location-aetherhaven"
+      ],
+      "tags": [
+        "map-location",
+        "map-15"
+      ],
+      "publicationDate": "2026-08-10"
+    },
+    {
+      "id": "district-canal",
+      "slug": "canal-district",
+      "entityType": "district",
+      "canonicalName": "The Canal District",
+      "publicTitle": "The Canal District",
+      "publicSummary": "The Canal District is catalogued as map reference 16 on the illustrated city chart. This stub preserves the mapped public name while a fuller source-grounded extract is prepared.",
+      "sourcePaths": [
+        "locations/The_Canal_District.md"
+      ],
+      "publicationStatus": "approved",
+      "spoilerClassification": "public",
+      "publicAccessLabel": "public",
+      "approval": {
+        "approvedBy": "author",
+        "approvedOn": "2026-08-10"
+      },
+      "relatedEntryIds": [
+        "location-aetherhaven"
+      ],
+      "tags": [
+        "map-location",
+        "map-16"
+      ],
+      "publicationDate": "2026-08-10"
+    },
+    {
+      "id": "district-entertainment",
+      "slug": "entertainment-district",
+      "entityType": "district",
+      "canonicalName": "The Entertainment District",
+      "publicTitle": "The Entertainment District",
+      "publicSummary": "The Entertainment District is catalogued as map reference 17 on the illustrated city chart. This stub preserves the mapped public name while a fuller source-grounded extract is prepared.",
+      "sourcePaths": [
+        "locations/The_Entertainment_District.md"
+      ],
+      "publicationStatus": "approved",
+      "spoilerClassification": "public",
+      "publicAccessLabel": "public",
+      "approval": {
+        "approvedBy": "author",
+        "approvedOn": "2026-08-10"
+      },
+      "relatedEntryIds": [
+        "location-aetherhaven"
+      ],
+      "tags": [
+        "map-location",
+        "map-17"
+      ],
+      "publicationDate": "2026-08-10"
+    },
+    {
+      "id": "location-workers-dormitories",
+      "slug": "workers-dormitories",
+      "entityType": "location",
+      "canonicalName": "The Workers’ Dormitories",
+      "publicTitle": "The Workers’ Dormitories",
+      "publicSummary": "The Workers’ Dormitories is catalogued as map reference 18 on the illustrated city chart. This stub preserves the mapped public name while a fuller source-grounded extract is prepared.",
+      "sourcePaths": [
+        "locations/The_Workers_Dormitories.md"
+      ],
+      "publicationStatus": "approved",
+      "spoilerClassification": "public",
+      "publicAccessLabel": "public",
+      "approval": {
+        "approvedBy": "author",
+        "approvedOn": "2026-08-10"
+      },
+      "relatedEntryIds": [
+        "location-aetherhaven"
+      ],
+      "tags": [
+        "map-location",
+        "map-18"
+      ],
+      "publicationDate": "2026-08-10"
+    },
+    {
+      "id": "location-aerial-docks",
+      "slug": "aerial-docks",
+      "entityType": "location",
+      "canonicalName": "The Aerial Docks",
+      "publicTitle": "The Aerial Docks",
+      "publicSummary": "The Aerial Docks are Aetherhaven’s great gateway to the skies. Mooring towers, cargo cranes, customs platforms, and immense dirigible hangars rise above a constant bustle of crews, merchants, couriers, and travelers. From the Mooring Crown, vessels depart for distant settlements and the Skyward Isles. At the far end of Hangar Row stands Dock Zero, a locked structure older than the port around it. On stormy nights, its lights sometimes wake to guide a ship no one can see.",
+      "sourcePaths": [
+        "locations/The_Aerial_Docks.md"
+      ],
+      "publicationStatus": "approved",
+      "spoilerClassification": "teaser",
+      "publicAccessLabel": "teaser",
+      "approval": {
+        "approvedBy": "author",
+        "approvedOn": "2026-08-10"
+      },
+      "relatedEntryIds": [
+        "location-aetherhaven"
+      ],
+      "tags": [
+        "airships",
+        "port",
+        "map-location"
+      ],
+      "publicationDate": "2026-08-10"
+    },
+    {
+      "id": "location-great-workshops",
+      "slug": "great-workshops",
+      "entityType": "location",
+      "canonicalName": "The Great Workshops",
+      "publicTitle": "The Great Workshops",
+      "publicSummary": "The Great Workshops is catalogued as map reference 20 on the illustrated city chart. This stub preserves the mapped public name while a fuller source-grounded extract is prepared.",
+      "sourcePaths": [
+        "locations/The_Great_Workshops.md"
+      ],
+      "publicationStatus": "approved",
+      "spoilerClassification": "public",
+      "publicAccessLabel": "public",
+      "approval": {
+        "approvedBy": "author",
+        "approvedOn": "2026-08-10"
+      },
+      "relatedEntryIds": [
+        "location-aetherhaven"
+      ],
+      "tags": [
+        "map-location",
+        "map-20"
+      ],
+      "publicationDate": "2026-08-10"
+    },
+    {
+      "id": "location-engine-complex",
+      "slug": "engine-complex",
+      "entityType": "location",
+      "canonicalName": "The Engine Complex",
+      "publicTitle": "The Engine Complex",
+      "publicSummary": "The Engine Complex is catalogued as map reference 21 on the illustrated city chart. This stub preserves the mapped public name while a fuller source-grounded extract is prepared.",
+      "sourcePaths": [
+        "locations/The_Engine_Complex.md"
+      ],
+      "publicationStatus": "approved",
+      "spoilerClassification": "public",
+      "publicAccessLabel": "public",
+      "approval": {
+        "approvedBy": "author",
+        "approvedOn": "2026-08-10"
+      },
+      "relatedEntryIds": [
+        "location-aetherhaven"
+      ],
+      "tags": [
+        "map-location",
+        "map-21"
+      ],
+      "publicationDate": "2026-08-10"
+    },
+    {
+      "id": "location-gearbreaker-mines",
+      "slug": "gearbreaker-mines",
+      "entityType": "location",
+      "canonicalName": "The Gearbreaker Mines",
+      "publicTitle": "The Gearbreaker Mines",
+      "publicSummary": "The Gearbreaker Mines is catalogued as map reference 22 on the illustrated city chart. This stub preserves the mapped public name while a fuller source-grounded extract is prepared.",
+      "sourcePaths": [
+        "locations/The_Gearbreaker_Mines.md"
+      ],
+      "publicationStatus": "approved",
+      "spoilerClassification": "public",
+      "publicAccessLabel": "public",
+      "approval": {
+        "approvedBy": "author",
+        "approvedOn": "2026-08-10"
+      },
+      "relatedEntryIds": [
+        "location-aetherhaven"
+      ],
+      "tags": [
+        "map-location",
+        "map-22"
+      ],
+      "publicationDate": "2026-08-10"
+    },
+    {
+      "id": "location-observatory",
+      "slug": "observatory",
+      "entityType": "location",
+      "canonicalName": "The Observatory",
+      "publicTitle": "The Observatory",
+      "publicSummary": "The Observatory is catalogued as map reference 23 on the illustrated city chart. This stub preserves the mapped public name while a fuller source-grounded extract is prepared.",
+      "sourcePaths": [
+        "locations/The_Observatory.md"
+      ],
+      "publicationStatus": "approved",
+      "spoilerClassification": "public",
+      "publicAccessLabel": "public",
+      "approval": {
+        "approvedBy": "author",
+        "approvedOn": "2026-08-10"
+      },
+      "relatedEntryIds": [
+        "location-aetherhaven"
+      ],
+      "tags": [
+        "map-location",
+        "map-23"
+      ],
+      "publicationDate": "2026-08-10"
+    },
+    {
+      "id": "location-academy-of-invention",
+      "slug": "academy-of-invention-campus",
+      "entityType": "location",
+      "canonicalName": "The Academy of Invention",
+      "publicTitle": "The Academy of Invention",
+      "publicSummary": "The Academy of Invention is catalogued as map reference 24 on the illustrated city chart. This stub preserves the mapped public name while a fuller source-grounded extract is prepared.",
+      "sourcePaths": [
+        "locations/The_Academy_of_Invention_Campus.md"
+      ],
+      "publicationStatus": "approved",
+      "spoilerClassification": "public",
+      "publicAccessLabel": "public",
+      "approval": {
+        "approvedBy": "author",
+        "approvedOn": "2026-08-10"
+      },
+      "relatedEntryIds": [
+        "location-aetherhaven"
+      ],
+      "tags": [
+        "map-location",
+        "map-24"
+      ],
+      "publicationDate": "2026-08-10"
+    },
+    {
+      "id": "character-amelia-hawthorne",
+      "slug": "amelia-hawthorne",
+      "entityType": "character",
+      "canonicalName": "Amelia Hawthorne",
+      "publicTitle": "Amelia Hawthorne",
+      "publicSummary": "Amelia Hawthorne is a young mechanic and apprentice explorer who lives and travels aboard the Wayfinder with her father, Professor Elias Hawthorne.",
+      "sourcePaths": [
+        "characters/Amelia_Hawthorne.md"
+      ],
+      "publicationStatus": "approved",
+      "spoilerClassification": "public",
+      "publicAccessLabel": "public",
+      "approval": {
+        "approvedBy": "author",
+        "approvedOn": "2026-08-10"
+      },
+      "relatedEntryIds": [],
+      "tags": [
+        "character",
+        "catalog-stub"
+      ],
+      "publicationDate": "2026-08-10"
+    },
+    {
+      "id": "character-barnaby-wren",
+      "slug": "barnaby-wren",
+      "entityType": "character",
+      "canonicalName": "Barnaby Wren",
+      "publicTitle": "Barnaby Wren",
+      "publicSummary": "Barnaby Wren is the proprietor of the Last Lantern, the oldest shop in Aetherhaven’s Merchant District.",
+      "sourcePaths": [
+        "characters/Barnaby_Wren.md"
+      ],
+      "publicationStatus": "approved",
+      "spoilerClassification": "public",
+      "publicAccessLabel": "public",
+      "approval": {
+        "approvedBy": "author",
+        "approvedOn": "2026-08-10"
+      },
+      "relatedEntryIds": [],
+      "tags": [
+        "character",
+        "catalog-stub"
+      ],
+      "publicationDate": "2026-08-10"
+    },
+    {
+      "id": "character-beatrice-pike",
+      "slug": "beatrice-pike",
+      "entityType": "character",
+      "canonicalName": "Beatrice Pike",
+      "publicTitle": "Beatrice Pike",
+      "publicSummary": "Beatrice Pike is a Pike family name preserved on the plate for Tamsin Pike’s brass key; no further biography is established.",
+      "sourcePaths": [
+        "characters/Beatrice_Pike.md"
+      ],
+      "publicationStatus": "approved",
+      "spoilerClassification": "public",
+      "publicAccessLabel": "public",
+      "approval": {
+        "approvedBy": "author",
+        "approvedOn": "2026-08-10"
+      },
+      "relatedEntryIds": [],
+      "tags": [
+        "character",
+        "catalog-stub"
+      ],
+      "publicationDate": "2026-08-10"
+    },
+    {
+      "id": "character-captain-mara-voss",
+      "slug": "captain-mara-voss",
+      "entityType": "character",
+      "canonicalName": "Captain Mara Voss",
+      "publicTitle": "Captain Mara Voss",
+      "publicSummary": "Captain Mara Voss is Aetherhaven’s Harbormaster, responsible for the city’s aerial traffic, docks, and emergency landing decisions.",
+      "sourcePaths": [
+        "characters/Captain_Mara_Voss.md"
+      ],
+      "publicationStatus": "approved",
+      "spoilerClassification": "public",
+      "publicAccessLabel": "public",
+      "approval": {
+        "approvedBy": "author",
+        "approvedOn": "2026-08-10"
+      },
+      "relatedEntryIds": [],
+      "tags": [
+        "character",
+        "catalog-stub"
+      ],
+      "publicationDate": "2026-08-10"
+    },
+    {
+      "id": "character-chancellor-octavia-vale",
+      "slug": "chancellor-octavia-vale",
+      "entityType": "character",
+      "canonicalName": "Chancellor Octavia Vale",
+      "publicTitle": "Chancellor Octavia Vale",
+      "publicSummary": "Chancellor Octavia Vale is the disciplined presiding officer of Aetherhaven’s High Council.",
+      "sourcePaths": [
+        "characters/Chancellor_Octavia_Vale.md"
+      ],
+      "publicationStatus": "approved",
+      "spoilerClassification": "public",
+      "publicAccessLabel": "public",
+      "approval": {
+        "approvedBy": "author",
+        "approvedOn": "2026-08-10"
+      },
+      "relatedEntryIds": [],
+      "tags": [
+        "character",
+        "catalog-stub"
+      ],
+      "publicationDate": "2026-08-10"
+    },
+    {
+      "id": "character-chief-inspector-beatrice-thorne",
+      "slug": "chief-inspector-beatrice-thorne",
+      "entityType": "character",
+      "canonicalName": "Chief Inspector Beatrice Thorne",
+      "publicTitle": "Chief Inspector Beatrice Thorne",
+      "publicSummary": "Chief Inspector Beatrice Thorne commands the Brass Watch and oversees Aetherhaven’s investigations, patrols, and emergency response.",
+      "sourcePaths": [
+        "characters/Chief_Inspector_Beatrice_Thorne.md"
+      ],
+      "publicationStatus": "approved",
+      "spoilerClassification": "public",
+      "publicAccessLabel": "public",
+      "approval": {
+        "approvedBy": "author",
+        "approvedOn": "2026-08-10"
+      },
+      "relatedEntryIds": [],
+      "tags": [
+        "character",
+        "catalog-stub"
+      ],
+      "publicationDate": "2026-08-10"
+    },
+    {
+      "id": "character-doctor-elara-quill",
+      "slug": "doctor-elara-quill",
+      "entityType": "character",
+      "canonicalName": "Doctor Elara Quill",
+      "publicTitle": "Doctor Elara Quill",
+      "publicSummary": "Doctor Elara Quill is Chancellor of the Academy of Invention and one of Aetherhaven’s leading scholars.",
+      "sourcePaths": [
+        "characters/Doctor_Elara_Quill.md"
+      ],
+      "publicationStatus": "approved",
+      "spoilerClassification": "public",
+      "publicAccessLabel": "public",
+      "approval": {
+        "approvedBy": "author",
+        "approvedOn": "2026-08-10"
+      },
+      "relatedEntryIds": [],
+      "tags": [
+        "character",
+        "catalog-stub"
+      ],
+      "publicationDate": "2026-08-10"
+    },
+    {
+      "id": "character-euphemia-pike",
+      "slug": "euphemia-pike",
+      "entityType": "character",
+      "canonicalName": "Euphemia Pike",
+      "publicTitle": "Euphemia Pike",
+      "publicSummary": "Euphemia Pike is a Pike family name preserved on the plate for Tamsin Pike’s brass key; no further biography is established.",
+      "sourcePaths": [
+        "characters/Euphemia_Pike.md"
+      ],
+      "publicationStatus": "approved",
+      "spoilerClassification": "public",
+      "publicAccessLabel": "public",
+      "approval": {
+        "approvedBy": "author",
+        "approvedOn": "2026-08-10"
+      },
+      "relatedEntryIds": [],
+      "tags": [
+        "character",
+        "catalog-stub"
+      ],
+      "publicationDate": "2026-08-10"
+    },
+    {
+      "id": "character-juniper-bell",
+      "slug": "juniper-bell",
+      "entityType": "character",
+      "canonicalName": "Juniper Bell",
+      "publicTitle": "Juniper Bell",
+      "publicSummary": "Juniper Bell is the gentle and eccentric public Keeper of the Clockwork Gardens.",
+      "sourcePaths": [
+        "characters/Juniper_Bell.md"
+      ],
+      "publicationStatus": "approved",
+      "spoilerClassification": "public",
+      "publicAccessLabel": "public",
+      "approval": {
+        "approvedBy": "author",
+        "approvedOn": "2026-08-10"
+      },
+      "relatedEntryIds": [],
+      "tags": [
+        "character",
+        "catalog-stub"
+      ],
+      "publicationDate": "2026-08-10"
+    },
+    {
+      "id": "character-lucian-wren",
+      "slug": "lucian-wren",
+      "entityType": "character",
+      "canonicalName": "Lucian Wren",
+      "publicTitle": "Lucian Wren",
+      "publicSummary": "Lucian Wren is a celebrated public inventor whose theatrical demonstrations attract crowds throughout Aetherhaven.",
+      "sourcePaths": [
+        "characters/Lucian_Wren.md"
+      ],
+      "publicationStatus": "approved",
+      "spoilerClassification": "public",
+      "publicAccessLabel": "public",
+      "approval": {
+        "approvedBy": "author",
+        "approvedOn": "2026-08-10"
+      },
+      "relatedEntryIds": [],
+      "tags": [
+        "character",
+        "catalog-stub"
+      ],
+      "publicationDate": "2026-08-10"
+    },
+    {
+      "id": "character-madame-celestine-mirrow",
+      "slug": "madame-celestine-mirrow",
+      "entityType": "character",
+      "canonicalName": "Madame Celestine Mirrow",
+      "publicTitle": "Madame Celestine Mirrow",
+      "publicSummary": "Madame Celestine Mirrow is the elegant mistress of the Theatre of Impossible Things.",
+      "sourcePaths": [
+        "characters/Madame_Celestine_Mirrow.md"
+      ],
+      "publicationStatus": "approved",
+      "spoilerClassification": "public",
+      "publicAccessLabel": "public",
+      "approval": {
+        "approvedBy": "author",
+        "approvedOn": "2026-08-10"
+      },
+      "relatedEntryIds": [],
+      "tags": [
+        "character",
+        "catalog-stub"
+      ],
+      "publicationDate": "2026-08-10"
+    },
+    {
+      "id": "character-master-gideon-brasswell",
+      "slug": "master-gideon-brasswell",
+      "entityType": "character",
+      "canonicalName": "Master Gideon Brasswell",
+      "publicTitle": "Master Gideon Brasswell",
+      "publicSummary": "Master Gideon Brasswell is the respected Keeper of the Engine Complex and a veteran engineer trusted by Aetherhaven’s workers.",
+      "sourcePaths": [
+        "characters/Master_Gideon_Brasswell.md"
+      ],
+      "publicationStatus": "approved",
+      "spoilerClassification": "public",
+      "publicAccessLabel": "public",
+      "approval": {
+        "approvedBy": "author",
+        "approvedOn": "2026-08-10"
+      },
+      "relatedEntryIds": [],
+      "tags": [
+        "character",
+        "catalog-stub"
+      ],
+      "publicationDate": "2026-08-10"
+    },
+    {
+      "id": "character-orin-flint",
+      "slug": "orin-flint",
+      "entityType": "character",
+      "canonicalName": "Orin Flint",
+      "publicTitle": "Orin Flint",
+      "publicSummary": "Orin Flint is the veteran foreman of the Gearbreaker Mines and a steadfast advocate for the safety of his crews.",
+      "sourcePaths": [
+        "characters/Orin_Flint.md"
+      ],
+      "publicationStatus": "approved",
+      "spoilerClassification": "public",
+      "publicAccessLabel": "public",
+      "approval": {
+        "approvedBy": "author",
+        "approvedOn": "2026-08-10"
+      },
+      "relatedEntryIds": [],
+      "tags": [
+        "character",
+        "catalog-stub"
+      ],
+      "publicationDate": "2026-08-10"
+    },
+    {
+      "id": "character-pip",
+      "slug": "pip",
+      "entityType": "character",
+      "canonicalName": "Pip",
+      "publicTitle": "Pip",
+      "publicSummary": "Pip is Amelia Hawthorne’s curious brass sparrow companion aboard the Wayfinder.",
+      "sourcePaths": [
+        "characters/Pip.md"
+      ],
+      "publicationStatus": "approved",
+      "spoilerClassification": "public",
+      "publicAccessLabel": "public",
+      "approval": {
+        "approvedBy": "author",
+        "approvedOn": "2026-08-10"
+      },
+      "relatedEntryIds": [],
+      "tags": [
+        "character",
+        "catalog-stub"
+      ],
+      "publicationDate": "2026-08-10"
+    },
+    {
+      "id": "character-professor-elias-hawthorne",
+      "slug": "professor-elias-hawthorne",
+      "entityType": "character",
+      "canonicalName": "Professor Elias Hawthorne",
+      "publicTitle": "Professor Elias Hawthorne",
+      "publicSummary": "Professor Elias Hawthorne is an engineer, archaeologist, explorer, father, and the figure publicly known as the Brass Guardian.",
+      "sourcePaths": [
+        "characters/Professor_Elias_Hawthorne.md"
+      ],
+      "publicationStatus": "approved",
+      "spoilerClassification": "public",
+      "publicAccessLabel": "public",
+      "approval": {
+        "approvedBy": "author",
+        "approvedOn": "2026-08-10"
+      },
+      "relatedEntryIds": [],
+      "tags": [
+        "character",
+        "catalog-stub"
+      ],
+      "publicationDate": "2026-08-10"
+    },
+    {
+      "id": "character-tamsin-pike",
+      "slug": "tamsin-pike",
+      "entityType": "character",
+      "canonicalName": "Tamsin Pike",
+      "publicTitle": "Tamsin Pike",
+      "publicSummary": "Tamsin Pike is a capable young canal guide and locksmith with practical knowledge of Aetherhaven’s waterways and maintenance passages.",
+      "sourcePaths": [
+        "characters/Tamsin_Pike.md"
+      ],
+      "publicationStatus": "approved",
+      "spoilerClassification": "public",
+      "publicAccessLabel": "public",
+      "approval": {
+        "approvedBy": "author",
+        "approvedOn": "2026-08-10"
+      },
+      "relatedEntryIds": [],
+      "tags": [
+        "character",
+        "catalog-stub"
+      ],
+      "publicationDate": "2026-08-10"
+    },
+    {
+      "id": "organization-academy-of-invention",
+      "slug": "academy-of-invention",
+      "entityType": "organization",
+      "canonicalName": "The Academy of Invention",
+      "publicTitle": "The Academy of Invention",
+      "publicSummary": "The Academy of Invention is Aetherhaven’s principal institution for engineering education, experimental research, and the preservation of unfinished ideas.",
+      "sourcePaths": [
+        "organizations/The_Academy_of_Invention.md"
+      ],
+      "publicationStatus": "approved",
+      "spoilerClassification": "public",
+      "publicAccessLabel": "public",
+      "approval": {
+        "approvedBy": "author",
+        "approvedOn": "2026-08-10"
+      },
+      "relatedEntryIds": [],
+      "tags": [
+        "organization",
+        "catalog-stub"
+      ],
+      "publicationDate": "2026-08-10"
+    },
+    {
+      "id": "organization-aerial-mariners-union",
+      "slug": "aerial-mariners-union",
+      "entityType": "organization",
+      "canonicalName": "The Aerial Mariners’ Union",
+      "publicTitle": "The Aerial Mariners’ Union",
+      "publicSummary": "The Aerial Mariners’ Union represents the crews and workers who keep Aetherhaven connected to the skies while providing certification, rescue, and mutual aid.",
+      "sourcePaths": [
+        "organizations/The_Aerial_Mariners_Union.md"
+      ],
+      "publicationStatus": "approved",
+      "spoilerClassification": "public",
+      "publicAccessLabel": "public",
+      "approval": {
+        "approvedBy": "author",
+        "approvedOn": "2026-08-10"
+      },
+      "relatedEntryIds": [],
+      "tags": [
+        "organization",
+        "catalog-stub"
+      ],
+      "publicationDate": "2026-08-10"
+    },
+    {
+      "id": "organization-aetherhaven-archives",
+      "slug": "aetherhaven-archives",
+      "entityType": "organization",
+      "canonicalName": "The Aetherhaven Archives",
+      "publicTitle": "The Aetherhaven Archives",
+      "publicSummary": "The Aetherhaven Archives is the civic institution responsible for official records, transit documents, historical materials, and artifact custody.",
+      "sourcePaths": [
+        "organizations/The_Aetherhaven_Archives.md"
+      ],
+      "publicationStatus": "approved",
+      "spoilerClassification": "public",
+      "publicAccessLabel": "public",
+      "approval": {
+        "approvedBy": "author",
+        "approvedOn": "2026-08-10"
+      },
+      "relatedEntryIds": [],
+      "tags": [
+        "organization",
+        "catalog-stub"
+      ],
+      "publicationDate": "2026-08-10"
+    },
+    {
+      "id": "organization-brass-watch",
+      "slug": "brass-watch",
+      "entityType": "organization",
+      "canonicalName": "The Brass Watch",
+      "publicTitle": "The Brass Watch",
+      "publicSummary": "The Brass Watch is Aetherhaven’s constabulary, emergency service, investigative authority, and canal patrol.",
+      "sourcePaths": [
+        "organizations/The_Brass_Watch.md"
+      ],
+      "publicationStatus": "approved",
+      "spoilerClassification": "public",
+      "publicAccessLabel": "public",
+      "approval": {
+        "approvedBy": "author",
+        "approvedOn": "2026-08-10"
+      },
+      "relatedEntryIds": [],
+      "tags": [
+        "organization",
+        "catalog-stub"
+      ],
+      "publicationDate": "2026-08-10"
+    },
+    {
+      "id": "organization-conclave-of-eight",
+      "slug": "conclave-of-eight",
+      "entityType": "organization",
+      "canonicalName": "The Conclave of Eight",
+      "publicTitle": "The Conclave of Eight",
+      "publicSummary": "The Conclave of Eight brings together the eight founding guildmasters to coordinate technical standards and advise Aetherhaven’s government.",
+      "sourcePaths": [
+        "organizations/The_Conclave_of_Eight.md"
+      ],
+      "publicationStatus": "approved",
+      "spoilerClassification": "public",
+      "publicAccessLabel": "public",
+      "approval": {
+        "approvedBy": "author",
+        "approvedOn": "2026-08-10"
+      },
+      "relatedEntryIds": [],
+      "tags": [
+        "organization",
+        "catalog-stub"
+      ],
+      "publicationDate": "2026-08-10"
+    },
+    {
+      "id": "organization-conservancy-of-living-mechanisms",
+      "slug": "conservancy-of-living-mechanisms",
+      "entityType": "organization",
+      "canonicalName": "The Conservancy of Living Mechanisms",
+      "publicTitle": "The Conservancy of Living Mechanisms",
+      "publicSummary": "The Conservancy is a pacifist fellowship of gardeners, healers, and mechanists who care for the Clockwork Gardens and their living machines.",
+      "sourcePaths": [
+        "organizations/The_Conservancy_of_Living_Mechanisms.md"
+      ],
+      "publicationStatus": "approved",
+      "spoilerClassification": "public",
+      "publicAccessLabel": "public",
+      "approval": {
+        "approvedBy": "author",
+        "approvedOn": "2026-08-10"
+      },
+      "relatedEntryIds": [],
+      "tags": [
+        "organization",
+        "catalog-stub"
+      ],
+      "publicationDate": "2026-08-10"
+    },
+    {
+      "id": "organization-eight-founding-engineering-guilds",
+      "slug": "eight-founding-engineering-guilds",
+      "entityType": "organization",
+      "canonicalName": "The Eight Founding Engineering Guilds",
+      "publicTitle": "The Eight Founding Engineering Guilds",
+      "publicSummary": "The Eight Founding Engineering Guilds are Aetherhaven’s original civic engineering orders, each responsible for an essential technical discipline.",
+      "sourcePaths": [
+        "organizations/The_Eight_Founding_Engineering_Guilds.md"
+      ],
+      "publicationStatus": "approved",
+      "spoilerClassification": "public",
+      "publicAccessLabel": "public",
+      "approval": {
+        "approvedBy": "author",
+        "approvedOn": "2026-08-10"
+      },
+      "relatedEntryIds": [],
+      "tags": [
+        "organization",
+        "catalog-stub"
+      ],
+      "publicationDate": "2026-08-10"
+    },
+    {
+      "id": "organization-free-spring-assembly",
+      "slug": "free-spring-assembly",
+      "entityType": "organization",
+      "canonicalName": "The Free Spring Assembly",
+      "publicTitle": "The Free Spring Assembly",
+      "publicSummary": "The Free Spring Assembly is a public reform wing of the Unwound associated with petitions, debate, transparency, and accountable infrastructure.",
+      "sourcePaths": [
+        "organizations/The_Free_Spring_Assembly.md"
+      ],
+      "publicationStatus": "approved",
+      "spoilerClassification": "public",
+      "publicAccessLabel": "public",
+      "approval": {
+        "approvedBy": "author",
+        "approvedOn": "2026-08-10"
+      },
+      "relatedEntryIds": [],
+      "tags": [
+        "organization",
+        "catalog-stub"
+      ],
+      "publicationDate": "2026-08-10"
+    },
+    {
+      "id": "organization-guild-of-aetherwrights",
+      "slug": "guild-of-aetherwrights",
+      "entityType": "organization",
+      "canonicalName": "The Guild of Aetherwrights",
+      "publicTitle": "The Guild of Aetherwrights",
+      "publicSummary": "The Guild of Aetherwrights oversees aetherstone, conduits, Golden Veins, and the controlled movement of aetheric power.",
+      "sourcePaths": [
+        "organizations/The_Guild_of_Aetherwrights.md"
+      ],
+      "publicationStatus": "approved",
+      "spoilerClassification": "public",
+      "publicAccessLabel": "public",
+      "approval": {
+        "approvedBy": "author",
+        "approvedOn": "2026-08-10"
+      },
+      "relatedEntryIds": [],
+      "tags": [
+        "organization",
+        "catalog-stub"
+      ],
+      "publicationDate": "2026-08-10"
+    },
+    {
+      "id": "organization-guild-of-artificers",
+      "slug": "guild-of-artificers",
+      "entityType": "organization",
+      "canonicalName": "The Guild of Artificers",
+      "publicTitle": "The Guild of Artificers",
+      "publicSummary": "The Guild of Artificers specializes in automata, prosthetics, optics, precision devices, and advanced mechanical craft.",
+      "sourcePaths": [
+        "organizations/The_Guild_of_Artificers.md"
+      ],
+      "publicationStatus": "approved",
+      "spoilerClassification": "public",
+      "publicAccessLabel": "public",
+      "approval": {
+        "approvedBy": "author",
+        "approvedOn": "2026-08-10"
+      },
+      "relatedEntryIds": [],
+      "tags": [
+        "organization",
+        "catalog-stub"
+      ],
+      "publicationDate": "2026-08-10"
+    },
+    {
+      "id": "organization-guild-of-canalwrights",
+      "slug": "guild-of-canalwrights",
+      "entityType": "organization",
+      "canonicalName": "The Guild of Canalwrights",
+      "publicTitle": "The Guild of Canalwrights",
+      "publicSummary": "The Guild of Canalwrights is responsible for Aetherhaven’s canals, locks, water systems, drainage, and sanitation.",
+      "sourcePaths": [
+        "organizations/The_Guild_of_Canalwrights.md"
+      ],
+      "publicationStatus": "approved",
+      "spoilerClassification": "public",
+      "publicAccessLabel": "public",
+      "approval": {
+        "approvedBy": "author",
+        "approvedOn": "2026-08-10"
+      },
+      "relatedEntryIds": [],
+      "tags": [
+        "organization",
+        "catalog-stub"
+      ],
+      "publicationDate": "2026-08-10"
+    },
+    {
+      "id": "organization-guild-of-clockwrights",
+      "slug": "guild-of-clockwrights",
+      "entityType": "organization",
+      "canonicalName": "The Guild of Clockwrights",
+      "publicTitle": "The Guild of Clockwrights",
+      "publicSummary": "The Guild of Clockwrights is responsible for clocks, synchronization, calendars, and the civic measurement of time.",
+      "sourcePaths": [
+        "organizations/The_Guild_of_Clockwrights.md"
+      ],
+      "publicationStatus": "approved",
+      "spoilerClassification": "public",
+      "publicAccessLabel": "public",
+      "approval": {
+        "approvedBy": "author",
+        "approvedOn": "2026-08-10"
+      },
+      "relatedEntryIds": [],
+      "tags": [
+        "organization",
+        "catalog-stub"
+      ],
+      "publicationDate": "2026-08-10"
+    },
+    {
+      "id": "organization-guild-of-enginewrights",
+      "slug": "guild-of-enginewrights",
+      "entityType": "organization",
+      "canonicalName": "The Guild of Enginewrights",
+      "publicTitle": "The Guild of Enginewrights",
+      "publicSummary": "The Guild of Enginewrights specializes in steam, pressure, turbines, heavy machinery, and engine systems.",
+      "sourcePaths": [
+        "organizations/The_Guild_of_Enginewrights.md"
+      ],
+      "publicationStatus": "approved",
+      "spoilerClassification": "public",
+      "publicAccessLabel": "public",
+      "approval": {
+        "approvedBy": "author",
+        "approvedOn": "2026-08-10"
+      },
+      "relatedEntryIds": [],
+      "tags": [
+        "organization",
+        "catalog-stub"
+      ],
+      "publicationDate": "2026-08-10"
+    },
+    {
+      "id": "organization-guild-of-framewrights",
+      "slug": "guild-of-framewrights",
+      "entityType": "organization",
+      "canonicalName": "The Guild of Framewrights",
+      "publicTitle": "The Guild of Framewrights",
+      "publicSummary": "The Guild of Framewrights oversees structures, architecture, foundations, and the physical frames supporting Aetherhaven.",
+      "sourcePaths": [
+        "organizations/The_Guild_of_Framewrights.md"
+      ],
+      "publicationStatus": "approved",
+      "spoilerClassification": "public",
+      "publicAccessLabel": "public",
+      "approval": {
+        "approvedBy": "author",
+        "approvedOn": "2026-08-10"
+      },
+      "relatedEntryIds": [],
+      "tags": [
+        "organization",
+        "catalog-stub"
+      ],
+      "publicationDate": "2026-08-10"
+    },
+    {
+      "id": "organization-guild-of-skywrights",
+      "slug": "guild-of-skywrights",
+      "entityType": "organization",
+      "canonicalName": "The Guild of Skywrights",
+      "publicTitle": "The Guild of Skywrights",
+      "publicSummary": "The Guild of Skywrights is responsible for airship design, lift systems, mooring towers, and aerial engineering.",
+      "sourcePaths": [
+        "organizations/The_Guild_of_Skywrights.md"
+      ],
+      "publicationStatus": "approved",
+      "spoilerClassification": "public",
+      "publicAccessLabel": "public",
+      "approval": {
+        "approvedBy": "author",
+        "approvedOn": "2026-08-10"
+      },
+      "relatedEntryIds": [],
+      "tags": [
+        "organization",
+        "catalog-stub"
+      ],
+      "publicationDate": "2026-08-10"
+    },
+    {
+      "id": "organization-guild-of-verdant-mechanists",
+      "slug": "guild-of-verdant-mechanists",
+      "entityType": "organization",
+      "canonicalName": "The Guild of Verdant Mechanists",
+      "publicTitle": "The Guild of Verdant Mechanists",
+      "publicSummary": "The Guild of Verdant Mechanists works with living machinery, botanical engineering, agricultural mechanisms, and systems joining growth with craft.",
+      "sourcePaths": [
+        "organizations/The_Guild_of_Verdant_Mechanists.md"
+      ],
+      "publicationStatus": "approved",
+      "spoilerClassification": "public",
+      "publicAccessLabel": "public",
+      "approval": {
+        "approvedBy": "author",
+        "approvedOn": "2026-08-10"
+      },
+      "relatedEntryIds": [],
+      "tags": [
+        "organization",
+        "catalog-stub"
+      ],
+      "publicationDate": "2026-08-10"
+    },
+    {
+      "id": "organization-handwright-circles",
+      "slug": "handwright-circles",
+      "entityType": "organization",
+      "canonicalName": "The Handwright Circles",
+      "publicTitle": "The Handwright Circles",
+      "publicSummary": "The Handwright Circles are local Unwound groups that preserve handcraft, repair knowledge, and manual alternatives to automated systems.",
+      "sourcePaths": [
+        "organizations/The_Handwright_Circles.md"
+      ],
+      "publicationStatus": "approved",
+      "spoilerClassification": "public",
+      "publicAccessLabel": "public",
+      "approval": {
+        "approvedBy": "author",
+        "approvedOn": "2026-08-10"
+      },
+      "relatedEntryIds": [],
+      "tags": [
+        "organization",
+        "catalog-stub"
+      ],
+      "publicationDate": "2026-08-10"
+    },
+    {
+      "id": "organization-high-council-of-aetherhaven",
+      "slug": "high-council-of-aetherhaven",
+      "entityType": "organization",
+      "canonicalName": "The High Council of Aetherhaven",
+      "publicTitle": "The High Council of Aetherhaven",
+      "publicSummary": "The High Council is Aetherhaven’s central governing body for law, trade, infrastructure, taxation, public safety, and civic relations.",
+      "sourcePaths": [
+        "organizations/The_High_Council_of_Aetherhaven.md"
+      ],
+      "publicationStatus": "approved",
+      "spoilerClassification": "public",
+      "publicAccessLabel": "public",
+      "approval": {
+        "approvedBy": "author",
+        "approvedOn": "2026-08-10"
+      },
+      "relatedEntryIds": [],
+      "tags": [
+        "organization",
+        "catalog-stub"
+      ],
+      "publicationDate": "2026-08-10"
+    },
+    {
+      "id": "organization-lamplighters-fellowship",
+      "slug": "lamplighters-fellowship",
+      "entityType": "organization",
+      "canonicalName": "The Lamplighters’ Fellowship",
+      "publicTitle": "The Lamplighters’ Fellowship",
+      "publicSummary": "The Lamplighters’ Fellowship maintains Aetherhaven’s streetlamps, bridge lights, canal markers, public stair lamps, and aerial beacons.",
+      "sourcePaths": [
+        "organizations/The_Lamplighters_Fellowship.md"
+      ],
+      "publicationStatus": "approved",
+      "spoilerClassification": "public",
+      "publicAccessLabel": "public",
+      "approval": {
+        "approvedBy": "author",
+        "approvedOn": "2026-08-10"
+      },
+      "relatedEntryIds": [],
+      "tags": [
+        "organization",
+        "catalog-stub"
+      ],
+      "publicationDate": "2026-08-10"
+    },
+    {
+      "id": "organization-mechanists-guild",
+      "slug": "mechanists-guild",
+      "entityType": "organization",
+      "canonicalName": "The Mechanists’ Guild",
+      "publicTitle": "The Mechanists’ Guild",
+      "publicSummary": "The Mechanists’ Guild is Aetherhaven’s professional engineering federation, certification authority, and civic machinery safety order.",
+      "sourcePaths": [
+        "organizations/The_Mechanists_Guild.md"
+      ],
+      "publicationStatus": "approved",
+      "spoilerClassification": "public",
+      "publicAccessLabel": "public",
+      "approval": {
+        "approvedBy": "author",
+        "approvedOn": "2026-08-10"
+      },
+      "relatedEntryIds": [],
+      "tags": [
+        "organization",
+        "catalog-stub"
+      ],
+      "publicationDate": "2026-08-10"
+    },
+    {
+      "id": "organization-miners-guild",
+      "slug": "miners-guild",
+      "entityType": "organization",
+      "canonicalName": "The Miners’ Guild",
+      "publicTitle": "The Miners’ Guild",
+      "publicSummary": "The Miners’ Guild represents the workers associated with the Gearbreaker Mines, tunnel safety, extraction, and knowledge of the mountain.",
+      "sourcePaths": [
+        "organizations/The_Miners_Guild.md"
+      ],
+      "publicationStatus": "approved",
+      "spoilerClassification": "public",
+      "publicAccessLabel": "public",
+      "approval": {
+        "approvedBy": "author",
+        "approvedOn": "2026-08-10"
+      },
+      "relatedEntryIds": [],
+      "tags": [
+        "organization",
+        "catalog-stub"
+      ],
+      "publicationDate": "2026-08-10"
+    },
+    {
+      "id": "organization-order-of-the-mended-hand",
+      "slug": "order-of-the-mended-hand",
+      "entityType": "organization",
+      "canonicalName": "The Order of the Mended Hand",
+      "publicTitle": "The Order of the Mended Hand",
+      "publicSummary": "The Mended Hand is Aetherhaven’s principal institution for severe medicine, surgery, trauma care, rehabilitation, prosthetics, and field response.",
+      "sourcePaths": [
+        "organizations/The_Order_of_the_Mended_Hand.md"
+      ],
+      "publicationStatus": "approved",
+      "spoilerClassification": "public",
+      "publicAccessLabel": "public",
+      "approval": {
+        "approvedBy": "author",
+        "approvedOn": "2026-08-10"
+      },
+      "relatedEntryIds": [],
+      "tags": [
+        "organization",
+        "catalog-stub"
+      ],
+      "publicationDate": "2026-08-10"
+    },
+    {
+      "id": "organization-severed-coil",
+      "slug": "severed-coil",
+      "entityType": "organization",
+      "canonicalName": "The Severed Coil",
+      "publicTitle": "The Severed Coil",
+      "publicSummary": "The Severed Coil is a violent extremist splinter of the Unwound known publicly for attacking civic infrastructure and endangering bystanders.",
+      "sourcePaths": [
+        "organizations/The_Severed_Coil.md"
+      ],
+      "publicationStatus": "approved",
+      "spoilerClassification": "public",
+      "publicAccessLabel": "public",
+      "approval": {
+        "approvedBy": "author",
+        "approvedOn": "2026-08-10"
+      },
+      "relatedEntryIds": [],
+      "tags": [
+        "organization",
+        "catalog-stub"
+      ],
+      "publicationDate": "2026-08-10"
+    },
+    {
+      "id": "organization-society-of-explorers",
+      "slug": "society-of-explorers",
+      "entityType": "organization",
+      "canonicalName": "The Society of Explorers",
+      "publicTitle": "The Society of Explorers",
+      "publicSummary": "The Society of Explorers is a chartered institution associated with expedition credentials, maps, field reports, and the Hawthornes.",
+      "sourcePaths": [
+        "organizations/The_Society_of_Explorers.md"
+      ],
+      "publicationStatus": "approved",
+      "spoilerClassification": "public",
+      "publicAccessLabel": "public",
+      "approval": {
+        "approvedBy": "author",
+        "approvedOn": "2026-08-10"
+      },
+      "relatedEntryIds": [],
+      "tags": [
+        "organization",
+        "catalog-stub"
+      ],
+      "publicationDate": "2026-08-10"
+    },
+    {
+      "id": "organization-unwound",
+      "slug": "unwound",
+      "entityType": "organization",
+      "canonicalName": "The Unwound",
+      "publicTitle": "The Unwound",
+      "publicSummary": "The Unwound is a broad reform movement seeking infrastructure that citizens can understand, repair, interrupt, and hold accountable.",
+      "sourcePaths": [
+        "organizations/The_Unwound.md"
+      ],
+      "publicationStatus": "approved",
+      "spoilerClassification": "public",
+      "publicAccessLabel": "public",
+      "approval": {
+        "approvedBy": "author",
+        "approvedOn": "2026-08-10"
+      },
+      "relatedEntryIds": [],
+      "tags": [
+        "organization",
+        "catalog-stub"
+      ],
+      "publicationDate": "2026-08-10"
+    },
+    {
+      "id": "restricted-obsidian-spire",
+      "slug": "obsidian-spire",
+      "entityType": "archive-record",
+      "canonicalName": "The Obsidian Spire",
+      "publicTitle": "The Obsidian Spire",
+      "publicSummary": "Map annotation: “Off limits.” Further record sealed.",
+      "sourcePaths": [
+        "locations/The_Obsidian_Spire.md"
+      ],
+      "publicationStatus": "approved",
+      "spoilerClassification": "teaser",
+      "publicAccessLabel": "restricted",
+      "approval": {
+        "approvedBy": "author",
+        "approvedOn": "2026-08-10"
+      },
+      "relatedEntryIds": [],
+      "tags": [
+        "restricted-location",
+        "hidden-archive"
+      ],
+      "publicationDate": "2026-08-10"
+    },
+    {
+      "id": "restricted-shrouded-vaults",
+      "slug": "shrouded-vaults",
+      "entityType": "archive-record",
+      "canonicalName": "The Shrouded Vaults",
+      "publicTitle": "The Shrouded Vaults",
+      "publicSummary": "Map annotation: “Access denied.” Further record sealed.",
+      "sourcePaths": [
+        "locations/The_Shrouded_Vaults.md"
+      ],
+      "publicationStatus": "approved",
+      "spoilerClassification": "teaser",
+      "publicAccessLabel": "restricted",
+      "approval": {
+        "approvedBy": "author",
+        "approvedOn": "2026-08-10"
+      },
+      "relatedEntryIds": [],
+      "tags": [
+        "restricted-location",
+        "hidden-archive"
+      ],
+      "publicationDate": "2026-08-10"
+    },
+    {
+      "id": "restricted-echoing-depths",
+      "slug": "echoing-depths",
+      "entityType": "archive-record",
+      "canonicalName": "The Echoing Depths",
+      "publicTitle": "The Echoing Depths",
+      "publicSummary": "Map annotation: “No one returns.” Further record sealed.",
+      "sourcePaths": [
+        "locations/The_Echoing_Depths.md"
+      ],
+      "publicationStatus": "approved",
+      "spoilerClassification": "teaser",
+      "publicAccessLabel": "restricted",
+      "approval": {
+        "approvedBy": "author",
+        "approvedOn": "2026-08-10"
+      },
+      "relatedEntryIds": [],
+      "tags": [
+        "restricted-location",
+        "hidden-archive"
+      ],
+      "publicationDate": "2026-08-10"
+    },
+    {
+      "id": "restricted-silent-observatory",
+      "slug": "silent-observatory",
+      "entityType": "archive-record",
+      "canonicalName": "The Silent Observatory",
+      "publicTitle": "The Silent Observatory",
+      "publicSummary": "Map annotation asks why the observatory is silent. Further record sealed.",
+      "sourcePaths": [
+        "locations/The_Silent_Observatory.md"
+      ],
+      "publicationStatus": "approved",
+      "spoilerClassification": "teaser",
+      "publicAccessLabel": "restricted",
+      "approval": {
+        "approvedBy": "author",
+        "approvedOn": "2026-08-10"
+      },
+      "relatedEntryIds": [],
+      "tags": [
+        "restricted-location",
+        "hidden-archive"
+      ],
+      "publicationDate": "2026-08-10"
+    },
+    {
+      "id": "restricted-cauldron",
+      "slug": "cauldron",
+      "entityType": "archive-record",
+      "canonicalName": "The Cauldron",
+      "publicTitle": "The Cauldron",
+      "publicSummary": "Map annotation records songs and screams. Further record sealed.",
+      "sourcePaths": [
+        "locations/The_Cauldron.md"
+      ],
+      "publicationStatus": "approved",
+      "spoilerClassification": "teaser",
+      "publicAccessLabel": "restricted",
+      "approval": {
+        "approvedBy": "author",
+        "approvedOn": "2026-08-10"
+      },
+      "relatedEntryIds": [],
+      "tags": [
+        "restricted-location",
+        "hidden-archive"
+      ],
+      "publicationDate": "2026-08-10"
+    },
+    {
+      "id": "restricted-null-zone",
+      "slug": "null-zone",
+      "entityType": "archive-record",
+      "canonicalName": "The Null Zone",
+      "publicTitle": "The Null Zone",
+      "publicSummary": "Map annotation: “Machines fail here.” Further record sealed.",
+      "sourcePaths": [
+        "locations/The_Null_Zone.md"
+      ],
+      "publicationStatus": "approved",
+      "spoilerClassification": "teaser",
+      "publicAccessLabel": "restricted",
+      "approval": {
+        "approvedBy": "author",
+        "approvedOn": "2026-08-10"
+      },
+      "relatedEntryIds": [],
+      "tags": [
+        "restricted-location",
+        "hidden-archive"
+      ],
+      "publicationDate": "2026-08-10"
+    },
+    {
+      "id": "hidden-character-keeper-thirteen",
+      "slug": "keeper-thirteen",
+      "entityType": "character",
+      "canonicalName": "Keeper Thirteen",
+      "publicTitle": "Keeper Thirteen",
+      "publicSummary": "Keeper Thirteen is indexed as a restricted figure. Identity and fuller context remain sealed or withheld from the public catalog.",
+      "sourcePaths": [
+        "characters/Keeper_Thirteen.md"
+      ],
+      "publicationStatus": "approved",
+      "spoilerClassification": "teaser",
+      "publicAccessLabel": "restricted",
+      "approval": {
+        "approvedBy": "author",
+        "approvedOn": "2026-08-10"
+      },
+      "relatedEntryIds": [],
+      "tags": [
+        "character",
+        "hidden-archive"
+      ],
+      "publicationDate": "2026-08-10"
+    },
+    {
+      "id": "hidden-character-silas-rook",
+      "slug": "silas-rook",
+      "entityType": "character",
+      "canonicalName": "Silas Rook",
+      "publicTitle": "Silas Rook",
+      "publicSummary": "Silas Rook is indexed as a major spoiler figure. Identity and fuller context remain sealed or withheld from the public catalog.",
+      "sourcePaths": [
+        "characters/Silas_Rook_The_Stillmaker.md"
+      ],
+      "publicationStatus": "approved",
+      "spoilerClassification": "teaser",
+      "publicAccessLabel": "major spoiler",
+      "approval": {
+        "approvedBy": "author",
+        "approvedOn": "2026-08-10"
+      },
+      "relatedEntryIds": [],
+      "tags": [
+        "character",
+        "hidden-archive"
+      ],
+      "publicationDate": "2026-08-10"
+    },
+    {
+      "id": "hidden-character-ashen-cartographer",
+      "slug": "ashen-cartographer",
+      "entityType": "character",
+      "canonicalName": "The Ashen Cartographer",
+      "publicTitle": "The Ashen Cartographer",
+      "publicSummary": "The Ashen Cartographer is indexed as a mysterious figure. Identity and fuller context remain sealed or withheld from the public catalog.",
+      "sourcePaths": [
+        "characters/The_Ashen_Cartographer.md"
+      ],
+      "publicationStatus": "approved",
+      "spoilerClassification": "teaser",
+      "publicAccessLabel": "mysterious",
+      "approval": {
+        "approvedBy": "author",
+        "approvedOn": "2026-08-10"
+      },
+      "relatedEntryIds": [],
+      "tags": [
+        "character",
+        "hidden-archive"
+      ],
+      "publicationDate": "2026-08-10"
+    },
+    {
+      "id": "hidden-character-bellmaker",
+      "slug": "bellmaker",
+      "entityType": "character",
+      "canonicalName": "The Bellmaker",
+      "publicTitle": "The Bellmaker",
+      "publicSummary": "The Bellmaker is indexed as a mysterious figure. Identity and fuller context remain sealed or withheld from the public catalog.",
+      "sourcePaths": [
+        "characters/The_Bellmaker.md"
+      ],
+      "publicationStatus": "approved",
+      "spoilerClassification": "teaser",
+      "publicAccessLabel": "mysterious",
+      "approval": {
+        "approvedBy": "author",
+        "approvedOn": "2026-08-10"
+      },
+      "relatedEntryIds": [],
+      "tags": [
+        "character",
+        "hidden-archive"
+      ],
+      "publicationDate": "2026-08-10"
+    },
+    {
+      "id": "hidden-character-cinder-regent",
+      "slug": "cinder-regent",
+      "entityType": "character",
+      "canonicalName": "The Cinder Regent",
+      "publicTitle": "The Cinder Regent",
+      "publicSummary": "The Cinder Regent is indexed as a restricted figure. Identity and fuller context remain sealed or withheld from the public catalog.",
+      "sourcePaths": [
+        "characters/The_Cinder_Regent.md"
+      ],
+      "publicationStatus": "approved",
+      "spoilerClassification": "teaser",
+      "publicAccessLabel": "restricted",
+      "approval": {
+        "approvedBy": "author",
+        "approvedOn": "2026-08-10"
+      },
+      "relatedEntryIds": [],
+      "tags": [
+        "character",
+        "hidden-archive"
+      ],
+      "publicationDate": "2026-08-10"
+    },
+    {
+      "id": "hidden-character-curator",
+      "slug": "curator",
+      "entityType": "character",
+      "canonicalName": "The Curator",
+      "publicTitle": "The Curator",
+      "publicSummary": "The Curator is indexed as a restricted figure. Identity and fuller context remain sealed or withheld from the public catalog.",
+      "sourcePaths": [
+        "characters/The_Curator.md"
+      ],
+      "publicationStatus": "approved",
+      "spoilerClassification": "teaser",
+      "publicAccessLabel": "restricted",
+      "approval": {
+        "approvedBy": "author",
+        "approvedOn": "2026-08-10"
+      },
+      "relatedEntryIds": [],
+      "tags": [
+        "character",
+        "hidden-archive"
+      ],
+      "publicationDate": "2026-08-10"
+    },
+    {
+      "id": "hidden-character-first-mechanist",
+      "slug": "first-mechanist",
+      "entityType": "character",
+      "canonicalName": "The First Mechanist",
+      "publicTitle": "The First Mechanist",
+      "publicSummary": "The First Mechanist is indexed as a mysterious figure. Identity and fuller context remain sealed or withheld from the public catalog.",
+      "sourcePaths": [
+        "characters/The_First_Mechanist.md"
+      ],
+      "publicationStatus": "approved",
+      "spoilerClassification": "teaser",
+      "publicAccessLabel": "mysterious",
+      "approval": {
+        "approvedBy": "author",
+        "approvedOn": "2026-08-10"
+      },
+      "relatedEntryIds": [],
+      "tags": [
+        "character",
+        "hidden-archive"
+      ],
+      "publicationDate": "2026-08-10"
+    },
+    {
+      "id": "hidden-character-first-tender",
+      "slug": "first-tender",
+      "entityType": "character",
+      "canonicalName": "The First Tender",
+      "publicTitle": "The First Tender",
+      "publicSummary": "The First Tender is indexed as a restricted figure. Identity and fuller context remain sealed or withheld from the public catalog.",
+      "sourcePaths": [
+        "characters/The_First_Tender.md"
+      ],
+      "publicationStatus": "approved",
+      "spoilerClassification": "teaser",
+      "publicAccessLabel": "restricted",
+      "approval": {
+        "approvedBy": "author",
+        "approvedOn": "2026-08-10"
+      },
+      "relatedEntryIds": [],
+      "tags": [
+        "character",
+        "hidden-archive"
+      ],
+      "publicationDate": "2026-08-10"
+    },
+    {
+      "id": "hidden-character-hidden-architect",
+      "slug": "hidden-architect",
+      "entityType": "character",
+      "canonicalName": "The Hidden Architect",
+      "publicTitle": "The Hidden Architect",
+      "publicSummary": "A concealed future role recorded only as a restricted designation. The identity remains sealed, withheld, and deliberately unassigned.",
+      "sourcePaths": [
+        "characters/The_Hidden_Architect_Unassigned.md"
+      ],
+      "publicationStatus": "approved",
+      "spoilerClassification": "teaser",
+      "publicAccessLabel": "ultimate spoiler",
+      "approval": {
+        "approvedBy": "author",
+        "approvedOn": "2026-08-10"
+      },
+      "relatedEntryIds": [],
+      "tags": [
+        "character",
+        "hidden-archive"
+      ],
+      "publicationDate": "2026-08-10"
+    },
+    {
+      "id": "hidden-character-lady-in-the-water",
+      "slug": "lady-in-the-water",
+      "entityType": "character",
+      "canonicalName": "The Lady in the Water",
+      "publicTitle": "The Lady in the Water",
+      "publicSummary": "The Lady in the Water is indexed as a mysterious figure. Identity and fuller context remain sealed or withheld from the public catalog.",
+      "sourcePaths": [
+        "characters/The_Lady_in_the_Water.md"
+      ],
+      "publicationStatus": "approved",
+      "spoilerClassification": "teaser",
+      "publicAccessLabel": "mysterious",
+      "approval": {
+        "approvedBy": "author",
+        "approvedOn": "2026-08-10"
+      },
+      "relatedEntryIds": [],
+      "tags": [
+        "character",
+        "hidden-archive"
+      ],
+      "publicationDate": "2026-08-10"
+    },
+    {
+      "id": "hidden-character-null-shepherd",
+      "slug": "null-shepherd",
+      "entityType": "character",
+      "canonicalName": "The Null Shepherd",
+      "publicTitle": "The Null Shepherd",
+      "publicSummary": "The Null Shepherd is indexed as a mysterious figure. Identity and fuller context remain sealed or withheld from the public catalog.",
+      "sourcePaths": [
+        "characters/The_Null_Shepherd.md"
+      ],
+      "publicationStatus": "approved",
+      "spoilerClassification": "teaser",
+      "publicAccessLabel": "mysterious",
+      "approval": {
+        "approvedBy": "author",
+        "approvedOn": "2026-08-10"
+      },
+      "relatedEntryIds": [],
+      "tags": [
+        "character",
+        "hidden-archive"
+      ],
+      "publicationDate": "2026-08-10"
+    },
+    {
+      "id": "hidden-character-passenger-of-dock-zero",
+      "slug": "passenger-of-dock-zero",
+      "entityType": "character",
+      "canonicalName": "The Passenger of Dock Zero",
+      "publicTitle": "The Passenger of Dock Zero",
+      "publicSummary": "The Passenger of Dock Zero is indexed as a mysterious figure. Identity and fuller context remain sealed or withheld from the public catalog.",
+      "sourcePaths": [
+        "characters/The_Passenger_of_Dock_Zero.md"
+      ],
+      "publicationStatus": "approved",
+      "spoilerClassification": "teaser",
+      "publicAccessLabel": "mysterious",
+      "approval": {
+        "approvedBy": "author",
+        "approvedOn": "2026-08-10"
+      },
+      "relatedEntryIds": [],
+      "tags": [
+        "character",
+        "hidden-archive"
+      ],
+      "publicationDate": "2026-08-10"
+    },
+    {
+      "id": "hidden-organization-ash-detail",
+      "slug": "ash-detail",
+      "entityType": "organization",
+      "canonicalName": "The Ash Detail",
+      "publicTitle": "The Ash Detail",
+      "publicSummary": "The Ash Detail has a restricted Archive reference. Identity, purpose, and fuller context remain sealed or withheld.",
+      "sourcePaths": [
+        "organizations/The_Ash_Detail.md"
+      ],
+      "publicationStatus": "approved",
+      "spoilerClassification": "teaser",
+      "publicAccessLabel": "restricted",
+      "approval": {
+        "approvedBy": "author",
+        "approvedOn": "2026-08-10"
+      },
+      "relatedEntryIds": [],
+      "tags": [
+        "organization",
+        "hidden-archive"
+      ],
+      "publicationDate": "2026-08-10"
+    },
+    {
+      "id": "hidden-organization-cinder-wardens",
+      "slug": "cinder-wardens",
+      "entityType": "organization",
+      "canonicalName": "The Cinder Wardens",
+      "publicTitle": "The Cinder Wardens",
+      "publicSummary": "The Cinder Wardens has a restricted Archive reference. Identity, purpose, and fuller context remain sealed or withheld.",
+      "sourcePaths": [
+        "organizations/The_Cinder_Wardens.md"
+      ],
+      "publicationStatus": "approved",
+      "spoilerClassification": "teaser",
+      "publicAccessLabel": "restricted",
+      "approval": {
+        "approvedBy": "author",
+        "approvedOn": "2026-08-10"
+      },
+      "relatedEntryIds": [],
+      "tags": [
+        "organization",
+        "hidden-archive"
+      ],
+      "publicationDate": "2026-08-10"
+    },
+    {
+      "id": "hidden-organization-clockkeepers-without-hours",
+      "slug": "clockkeepers-without-hours",
+      "entityType": "organization",
+      "canonicalName": "The Clockkeepers Without Hours",
+      "publicTitle": "The Clockkeepers Without Hours",
+      "publicSummary": "The Clockkeepers Without Hours has a restricted Archive reference. Identity, purpose, and fuller context remain sealed or withheld.",
+      "sourcePaths": [
+        "organizations/The_Clockkeepers_Without_Hours.md"
+      ],
+      "publicationStatus": "approved",
+      "spoilerClassification": "teaser",
+      "publicAccessLabel": "restricted",
+      "approval": {
+        "approvedBy": "author",
+        "approvedOn": "2026-08-10"
+      },
+      "relatedEntryIds": [],
+      "tags": [
+        "organization",
+        "hidden-archive"
+      ],
+      "publicationDate": "2026-08-10"
+    },
+    {
+      "id": "hidden-organization-furnace-court",
+      "slug": "furnace-court",
+      "entityType": "organization",
+      "canonicalName": "The Furnace Court",
+      "publicTitle": "The Furnace Court",
+      "publicSummary": "The Furnace Court has a restricted Archive reference. Identity, purpose, and fuller context remain sealed or withheld.",
+      "sourcePaths": [
+        "organizations/The_Furnace_Court.md"
+      ],
+      "publicationStatus": "approved",
+      "spoilerClassification": "teaser",
+      "publicAccessLabel": "restricted",
+      "approval": {
+        "approvedBy": "author",
+        "approvedOn": "2026-08-10"
+      },
+      "relatedEntryIds": [],
+      "tags": [
+        "organization",
+        "hidden-archive"
+      ],
+      "publicationDate": "2026-08-10"
+    },
+    {
+      "id": "hidden-organization-inner-compass",
+      "slug": "inner-compass",
+      "entityType": "organization",
+      "canonicalName": "The Inner Compass",
+      "publicTitle": "The Inner Compass",
+      "publicSummary": "The Inner Compass has a restricted Archive reference. Identity, purpose, and fuller context remain sealed or withheld.",
+      "sourcePaths": [
+        "organizations/The_Inner_Compass.md"
+      ],
+      "publicationStatus": "approved",
+      "spoilerClassification": "teaser",
+      "publicAccessLabel": "restricted",
+      "approval": {
+        "approvedBy": "author",
+        "approvedOn": "2026-08-10"
+      },
+      "relatedEntryIds": [],
+      "tags": [
+        "organization",
+        "hidden-archive"
+      ],
+      "publicationDate": "2026-08-10"
+    },
+    {
+      "id": "hidden-organization-keepers-of-time",
+      "slug": "keepers-of-time",
+      "entityType": "organization",
+      "canonicalName": "The Keepers of Time",
+      "publicTitle": "The Keepers of Time",
+      "publicSummary": "The Keepers of Time has a restricted Archive reference. Identity, purpose, and fuller context remain sealed or withheld.",
+      "sourcePaths": [
+        "organizations/The_Keepers_of_Time.md"
+      ],
+      "publicationStatus": "approved",
+      "spoilerClassification": "teaser",
+      "publicAccessLabel": "restricted",
+      "approval": {
+        "approvedBy": "author",
+        "approvedOn": "2026-08-10"
+      },
+      "relatedEntryIds": [],
+      "tags": [
+        "organization",
+        "hidden-archive"
+      ],
+      "publicationDate": "2026-08-10"
+    },
+    {
+      "id": "hidden-organization-ninth-guild",
+      "slug": "ninth-guild",
+      "entityType": "organization",
+      "canonicalName": "The Ninth Guild",
+      "publicTitle": "The Ninth Guild",
+      "publicSummary": "The Ninth Guild has a restricted Archive reference. Identity, purpose, and fuller context remain sealed or withheld.",
+      "sourcePaths": [
+        "organizations/The_Ninth_Guild.md"
+      ],
+      "publicationStatus": "approved",
+      "spoilerClassification": "teaser",
+      "publicAccessLabel": "restricted",
+      "approval": {
+        "approvedBy": "author",
+        "approvedOn": "2026-08-10"
+      },
+      "relatedEntryIds": [],
+      "tags": [
+        "organization",
+        "hidden-archive"
+      ],
+      "publicationDate": "2026-08-10"
+    },
+    {
+      "id": "hidden-organization-order-of-the-closed-eye",
+      "slug": "order-of-the-closed-eye",
+      "entityType": "organization",
+      "canonicalName": "The Order of the Closed Eye",
+      "publicTitle": "The Order of the Closed Eye",
+      "publicSummary": "The Order of the Closed Eye has a restricted Archive reference. Identity, purpose, and fuller context remain sealed or withheld.",
+      "sourcePaths": [
+        "organizations/The_Order_of_the_Closed_Eye.md"
+      ],
+      "publicationStatus": "approved",
+      "spoilerClassification": "teaser",
+      "publicAccessLabel": "restricted",
+      "approval": {
+        "approvedBy": "author",
+        "approvedOn": "2026-08-10"
+      },
+      "relatedEntryIds": [],
+      "tags": [
+        "organization",
+        "hidden-archive"
+      ],
+      "publicationDate": "2026-08-10"
+    },
+    {
+      "id": "hidden-organization-quiet-choir",
+      "slug": "quiet-choir",
+      "entityType": "organization",
+      "canonicalName": "The Quiet Choir",
+      "publicTitle": "The Quiet Choir",
+      "publicSummary": "The Quiet Choir has a restricted Archive reference. Identity, purpose, and fuller context remain sealed or withheld.",
+      "sourcePaths": [
+        "organizations/The_Quiet_Choir.md"
+      ],
+      "publicationStatus": "approved",
+      "spoilerClassification": "teaser",
+      "publicAccessLabel": "restricted",
+      "approval": {
+        "approvedBy": "author",
+        "approvedOn": "2026-08-10"
+      },
+      "relatedEntryIds": [],
+      "tags": [
+        "organization",
+        "hidden-archive"
+      ],
+      "publicationDate": "2026-08-10"
+    },
+    {
+      "id": "hidden-organization-underclock",
+      "slug": "underclock",
+      "entityType": "organization",
+      "canonicalName": "The Underclock",
+      "publicTitle": "The Underclock",
+      "publicSummary": "The Underclock has a restricted Archive reference. Identity, purpose, and fuller context remain sealed or withheld.",
+      "sourcePaths": [
+        "organizations/The_Underclock.md"
+      ],
+      "publicationStatus": "approved",
+      "spoilerClassification": "teaser",
+      "publicAccessLabel": "restricted",
+      "approval": {
+        "approvedBy": "author",
+        "approvedOn": "2026-08-10"
+      },
+      "relatedEntryIds": [],
+      "tags": [
+        "organization",
+        "hidden-archive"
+      ],
+      "publicationDate": "2026-08-10"
+    }
+  ]
 }

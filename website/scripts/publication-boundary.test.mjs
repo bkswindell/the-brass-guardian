@@ -237,6 +237,7 @@ test("removes approval and source provenance from client-facing records", () => 
     "entityType",
     "id",
     "image",
+    "publicAccessLabel",
     "publicSummary",
     "publicTitle",
     "relatedEntryIds",

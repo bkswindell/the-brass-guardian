@@ -5,10 +5,10 @@ import test from "node:test";
 const layoutUrl = new URL("../src/layouts/ArchiveLayout.astro", import.meta.url);
 const entranceUrl = new URL("../src/pages/archive/index.astro", import.meta.url);
 
-test("Archive routes share a Preview-gated responsive interior scene", async () => {
+test("Archive routes share a publication-gated responsive interior scene", async () => {
   const source = await readFile(layoutUrl, "utf8");
 
-  assert.match(source, /getWorldEntrancePreview/);
+  assert.match(source, /getArchivePublication/);
   assert.match(source, /archive\.enabled\s*&&/);
   assert.match(source, /class="archive-interior-scene"/);
   assert.match(

@@ -12,6 +12,7 @@ const allowedEntryFields = new Set([
   "sourcePaths",
   "publicationStatus",
   "spoilerClassification",
+  "publicAccessLabel",
   "approval",
   "image",
   "relatedEntryIds",
@@ -70,6 +71,7 @@ export const toPublicArchiveEntry = (entry) => ({
   publicTitle: entry.publicTitle,
   publicSummary: entry.publicSummary,
   spoilerClassification: entry.spoilerClassification,
+  publicAccessLabel: entry.publicAccessLabel ?? entry.spoilerClassification,
   relatedEntryIds: [...entry.relatedEntryIds],
   tags: [...entry.tags],
   ...(entry.image
@@ -112,6 +114,15 @@ export const validatePublicationManifest = async (
     for (const field of ["canonicalName", "publicTitle", "publicSummary"]) {
       if (typeof entry[field] !== "string" || !entry[field].trim()) {
         throw invalidField(entry.id, field);
+      }
+    }
+    if (entry.publicAccessLabel !== undefined) {
+      if (
+        typeof entry.publicAccessLabel !== "string" ||
+        !entry.publicAccessLabel.trim() ||
+        entry.publicAccessLabel.length > 40
+      ) {
+        throw invalidField(entry.id, "publicAccessLabel");
       }
     }
     if (!Array.isArray(entry.sourcePaths) || entry.sourcePaths.length === 0) {

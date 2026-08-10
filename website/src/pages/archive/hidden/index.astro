@@ -1,8 +1,8 @@
 ---
 import ArchiveLayout from "../../../layouts/ArchiveLayout.astro";
-import { getWorldEntrancePreview } from "../../../lib/archive-preview.mjs";
+import { getArchivePublication } from "../../../lib/archive-publication.mjs";
 
-const archive = getWorldEntrancePreview();
+const archive = await getArchivePublication();
 const restrictedLocations = archive.hiddenMapEntries;
 const hiddenFigures = archive.hiddenEntries.filter(
   (entry) => entry.entityType === "character",
@@ -38,7 +38,9 @@ const description =
         </nav>
 
         <header class="hidden-heading">
-          <p class="archive-kicker">Restricted Records Division • Preview only</p>
+          <p class="archive-kicker">
+            {archive.isPublic ? "Restricted Records Division" : "Restricted Records Division • Preview only"}
+          </p>
           <h1 class="archive-title">Hidden Archives</h1>
           <p class="archive-lede">
             These drawers are separated from public records on purpose. Titles remain
@@ -59,7 +61,7 @@ const description =
                 <summary>
                   <span>Restricted {entry.mapMarker}</span>
                   <strong>{entry.publicTitle}</strong>
-                  <em>{entry.spoilerClassification}</em>
+                  <em>{entry.publicAccessLabel ?? entry.spoilerClassification}</em>
                   <span class="drawer-state" aria-hidden="true">+</span>
                 </summary>
                 <div>
@@ -82,7 +84,7 @@ const description =
                 <summary>
                   <span>Figure</span>
                   <strong>{entry.publicTitle}</strong>
-                  <em>{entry.spoilerClassification}</em>
+                  <em>{entry.publicAccessLabel ?? entry.spoilerClassification}</em>
                   <span class="drawer-state" aria-hidden="true">+</span>
                 </summary>
                 <div>
@@ -108,7 +110,7 @@ const description =
                 <summary>
                   <span>Organization</span>
                   <strong>{entry.publicTitle}</strong>
-                  <em>{entry.spoilerClassification}</em>
+                  <em>{entry.publicAccessLabel ?? entry.spoilerClassification}</em>
                   <span class="drawer-state" aria-hidden="true">+</span>
                 </summary>
                 <div>
@@ -133,7 +135,7 @@ const description =
         <p class="archive-kicker">Restricted division sealed</p>
         <h1 class="archive-title">Hidden Archives unavailable</h1>
         <p class="archive-lede">
-          Restricted records are enabled only in an authorized branch preview.
+          Restricted records are enabled only in an authorized Preview or published release.
         </p>
         <a class="archive-button" href="/">Return to the main exhibit</a>
       </section>

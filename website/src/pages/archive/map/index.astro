@@ -1,15 +1,16 @@
 ---
 import ArchiveLayout from "../../../layouts/ArchiveLayout.astro";
-import { getWorldEntrancePreview } from "../../../lib/archive-preview.mjs";
+import { getArchivePublication } from "../../../lib/archive-publication.mjs";
 
-const archive = getWorldEntrancePreview();
+const archive = await getArchivePublication();
 const mapEntries = archive.mapEntries;
 const hiddenMapEntries = archive.hiddenMapEntries;
 const routeIndex = archive.curatorRoute.findIndex((step) => step.id === "map-room");
 const previousStep = archive.curatorRoute[routeIndex - 1];
 const nextStep = archive.curatorRoute[routeIndex + 1];
-const description =
-  "Explore the proposal preview of the illustrated Map of Aetherhaven and its first cleared archive records.";
+const description = archive.isPublic
+  ? "Explore the illustrated Map of Aetherhaven and its public archive records."
+  : "Explore the proposal preview of the illustrated Map of Aetherhaven and its first cleared archive records.";
 const entryHref = (entry) =>
   `/archive/${entry.entityType}/${entry.slug}/`;
 const mapEntryHref = (entry) =>
@@ -22,14 +23,16 @@ const mapEntryHref = (entry) =>
   {
     archive.enabled ? (
       <>
-        <aside class="proposal-notice" aria-label="Proposal preview notice">
-          <span class="proposal-dot" aria-hidden="true"></span>
-          <span>
-            <strong>Proposal preview.</strong> All twenty-four public map references
-            now open catalog stubs. Lettered restricted sites lead to the separately
-            warned Hidden Archives.
-          </span>
-        </aside>
+        {archive.isPreview && (
+          <aside class="proposal-notice" aria-label="Proposal preview notice">
+            <span class="proposal-dot" aria-hidden="true"></span>
+            <span>
+              <strong>Proposal preview.</strong> All twenty-four public map references
+              now open catalog stubs. Lettered restricted sites lead to the separately
+              warned Hidden Archives.
+            </span>
+          </aside>
+        )}
 
         <header class="map-heading">
           <div>
@@ -265,7 +268,7 @@ const mapEntryHref = (entry) =>
       <section class="sealed-state">
         <p class="archive-kicker">Cartographic plate sealed</p>
         <h1 class="archive-title">Map unavailable</h1>
-        <p class="archive-lede">This map is enabled only in an authorized branch preview.</p>
+        <p class="archive-lede">This map is enabled only in an authorized Preview or published release.</p>
         <a class="archive-button" href="/">Return to the main exhibit</a>
       </section>
     )

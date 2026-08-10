@@ -20,6 +20,7 @@ const withOutput = async (run) => {
 test("removes production Archive routes and unreachable Archive CSS only", async () => {
   await withOutput(async (outputRoot) => {
     await mkdir(join(outputRoot, "archive", "map"), { recursive: true });
+    await mkdir(join(outputRoot, "images", "archive"), { recursive: true });
     await mkdir(join(outputRoot, "_astro"), { recursive: true });
     await writeFile(
       join(outputRoot, "archive", "index.html"),
@@ -40,10 +41,12 @@ test("removes production Archive routes and unreachable Archive CSS only", async
       ".arrival-desk{display:grid}.curator-card{background:paper}",
     );
     await writeFile(join(outputRoot, "_astro", "unused.css"), ".unused{display:none}");
+    await writeFile(join(outputRoot, "images", "archive", "map.webp"), "approved-map");
 
     await pruneProductionArchiveArtifacts({ outputRoot });
 
     assert.equal(await exists(join(outputRoot, "archive")), false);
+    assert.equal(await exists(join(outputRoot, "images", "archive")), false);
     assert.equal(
       await exists(join(outputRoot, "_astro", "ArchiveLayout.preview.css")),
       false,

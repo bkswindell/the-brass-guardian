@@ -1,7 +1,5 @@
 import { readFile, readdir, stat } from "node:fs/promises";
 
-import { archivePreviewMarkers } from "./lib/prune-production-archive.mjs";
-
 const root = new URL("../dist/", import.meta.url);
 const failures = [];
 const canonicalUrl = "https://thebrassguardian.com/";
@@ -130,11 +128,16 @@ expect(
   "Home page must link the web manifest.",
 );
 expect(
-  indexHtml.includes("Coming Soon") &&
-    !indexHtml.includes('href="/archive/"') &&
+  indexHtml.includes("Enter Archive") &&
+    indexHtml.includes('href="/archive/"') &&
+    !indexHtml.includes("Coming Soon") &&
     !indexHtml.includes('data-renderer="react-three-fiber"') &&
-    !indexHtml.includes("aetherhaven-archive-threshold"),
-  "Production-safe builds must keep the archive entrance sealed until publication approval.",
+    indexHtml.includes("aetherhaven-archive-threshold"),
+  "Published production builds must open the approved Archive entrance without the rejected 3D implementation.",
+);
+expect(
+  indexHtml.includes('<meta name="robots" content="index, follow">'),
+  "Published home page must allow indexing.",
 );
 
 expect(await exists("favicon.svg"), "The SVG favicon must be emitted.");
@@ -149,12 +152,12 @@ expect(
 expect(await exists("robots.txt"), "robots.txt must be emitted.");
 expect(await exists("site.webmanifest"), "The web manifest must be emitted.");
 expect(
-  !(await pathExists("images/archive")),
-  "Production builds must not emit proposal-only archive artwork.",
+  await pathExists("images/archive"),
+  "Published production builds must emit approved Archive artwork.",
 );
 expect(
-  !(await pathExists("archive")),
-  "Production builds must not emit Archive entrance or map routes.",
+  await pathExists("archive"),
+  "Published production builds must emit Archive routes.",
 );
 
 const emittedTextFiles = (await readdir(root, { recursive: true })).filter((path) =>
@@ -164,13 +167,14 @@ const emittedText = (
   await Promise.all(emittedTextFiles.map((path) => readText(path)))
 ).join("\n");
 expect(
-  !archivePreviewMarkers.some((marker) => emittedText.includes(marker)) &&
-    !emittedText.includes("archive-lock-experience") &&
+  !emittedText.includes("archive-lock-experience") &&
     !emittedText.includes("react-three-fiber") &&
     !emittedText.includes("Archive opening") &&
-    !emittedTextFiles.some((path) => path.includes("ArchiveLockExperience")) &&
-    !emittedTextFiles.some((path) => /(?:^|\/)ArchiveLayout\..+\.(?:css|js)$/u.test(path)),
-  "Production output must not retain Preview Archive artwork or rejected island implementation artifacts.",
+    !emittedText.includes("Proposal preview.") &&
+    !emittedText.includes("Preview only") &&
+    !emittedText.includes("Not canonical publication") &&
+    !emittedTextFiles.some((path) => path.includes("ArchiveLockExperience")),
+  "Production output must not retain Preview labels or rejected island implementation artifacts.",
 );
 
 expect(
