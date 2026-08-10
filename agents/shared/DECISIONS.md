@@ -196,6 +196,20 @@ The author's supplied archive images are visual references only and do not estab
 
 ---
 
+## 2026-08-09 — Accepted Aetherhaven Archive Environment
+
+**Status:** APPROVED ACTIVE ART / SELECTED FOR FEATURE PREVIEW
+
+The author accepted `art/locations/aetherhaven_archive/AA-2.png` as the permanent active environment image for the Aetherhaven Archives and directed the website Preview to replace its generic threshold with this image.
+
+`AA-2.png` is a source-preserving correction of `AA-1.png`. Its accepted correction removes malformed foreground pseudo-lettering, redundant clocks, and the largest nonfunctional gallery wheels while preserving the central aisle, glazed roof, catalog architecture, reading desks, and warm/cool lighting balance.
+
+The remaining `AA-*` variants and the superseded generic threshold source belong under `unused/aetherhaven_archive/`. They are outside canon and must not be consulted or reused unless the author explicitly restores a named file.
+
+The active master may generate responsive derivatives for the author-approved `feat/world-entrance-map` Preview. This visual approval does not authorize merging to `main` or publishing the Archive routes and artwork to production; those remain separate approval gates.
+
+---
+
 ## 2026-08-08 — Moon Garden Canon
 
 **Status:** APPROVED

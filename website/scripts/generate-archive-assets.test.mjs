@@ -1,8 +1,15 @@
 import assert from "node:assert/strict";
+import { createHash } from "node:crypto";
 import { readFile } from "node:fs/promises";
 import test from "node:test";
 
 const assetRoot = new URL("../content/preview/assets/archive/", import.meta.url);
+const acceptedArchiveSource = new URL(
+  "../../art/locations/aetherhaven_archive/AA-2.png",
+  import.meta.url,
+);
+const acceptedArchiveSourceSha256 =
+  "1b40b14d384c5580ab6249d790ec9df16293398125b0469210029a615c5bc91c";
 
 const expectedOutputs = new Map([
   ["map-of-aetherhaven-768.webp", 768],
@@ -61,4 +68,10 @@ test("committed proposal archive assets are valid responsive WebP files", async 
     assert.equal(dimensions.width, expectedWidth, filename);
     assert.ok(dimensions.height > 0, filename);
   }
+});
+
+test("archive threshold derivatives use the creator-approved AA-2 master", async () => {
+  const bytes = await readFile(acceptedArchiveSource);
+  const hash = createHash("sha256").update(bytes).digest("hex");
+  assert.equal(hash, acceptedArchiveSourceSha256);
 });
